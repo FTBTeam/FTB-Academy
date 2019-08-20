@@ -1,0 +1,22 @@
+[
+	{
+		"id": "glossary",
+		"title": "Glossary",
+		"icon": "item:minecraft:book"
+	},	
+	{
+		"id": "graves",
+		"title": "Gravestones",
+		"icon": "item:minecraft:skull"
+	},
+	{
+		"id": "commands",
+		"title": "Commands",
+		"icon": "item:minecraft:command_block"
+	},
+	{
+		"id": "font",
+		"title": "Text Font",
+		"icon": "item:minecraft:sign"
+	}
+]

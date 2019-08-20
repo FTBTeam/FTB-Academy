@@ -1,0 +1,18 @@
+[
+	{
+		"id": "cables",
+		"title": "Cables and Management",
+		"icon": "item:refinedstorage:cable"
+	},
+	{
+		"id": "autocrafting",
+		"title": "Autocrafting",
+		"icon": "item:refinedstorage:crafter"
+	},
+	{
+		"id": "misc",
+		"title": "Other",
+		"icon": "item:refinedstorage:detector"
+	}
+
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"id": "viaducts",
+		"title": "Viaducts",
+		"icon": "item:thermaldynamics:duct_64"
+	},
+	{
+		"id": "structuralducts",
+		"title": "Structuralducts",
+		"icon": "item:thermaldynamics:duct_48"
+	},
+	{
+		"id": "if_conveyors",
+		"title": "Conveyor Belts",
+		"icon": "item:industrialforegoing:conveyor"
+	}
+]

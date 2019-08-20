@@ -1,0 +1,17 @@
+[
+	{
+		"id": "fluiducts",
+		"title": "Fluiducts",
+		"icon": "item:thermaldynamics:duct_16"
+	},
+	{
+		"id": "aa",
+		"title": "Fluid Laser Relays",
+		"icon": "item:actuallyadditions:block_laser_relay_fluids"
+	},
+	{
+		"id": "tesslocators",
+		"title": "Fluid Tesslocators",
+		"icon": "item:tesslocator:basic_fluid_tesslocator"
+	}
+]

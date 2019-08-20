@@ -1,0 +1,17 @@
+[
+	{
+		"id": "complex",
+		"title": "Fluid Crafting",
+		"icon": "item:thermalfoundation:material 1 167"
+	},
+	{
+		"id": "atomic_reconstructor",
+		"title": "Atomic Reconstructor",
+		"icon": "item:actuallyadditions:block_atomic_reconstructor"
+	},
+	{
+		"id": "empowerer",
+		"title": "Empowerer",
+		"icon": "item:actuallyadditions:block_empowerer"
+	}
+]

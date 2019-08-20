@@ -1,0 +1,17 @@
+[
+	{
+		"id": "actually_additions",
+		"title": "Actually Additions",
+		"icon": "item:actuallyadditions:block_farmer"
+	},
+	{
+		"id": "industrial_foregoing",
+		"title": "Industrial Foregoing",
+		"icon": "item:industrialforegoing:crop_sower"
+	},
+	{
+		"id": "thermal_expansion",
+		"title": "Thermal Expansion",
+		"icon": "item:thermalexpansion:machine 1 4"
+	}
+]

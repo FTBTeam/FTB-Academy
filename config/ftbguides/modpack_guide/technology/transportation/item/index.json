@@ -1,0 +1,17 @@
+[
+	{
+		"id": "itemducts",
+		"title": "Itemducts",
+		"icon": "item:thermaldynamics:duct_32"
+	},
+	{
+		"id": "aa",
+		"title": "Item Laser Relays",
+		"icon": "item:actuallyadditions:block_laser_relay_item"
+	},
+	{
+		"id": "tesslocators",
+		"title": "Item Tesslocators",
+		"icon": "item:tesslocator:basic_item_tesslocator"
+	}
+]

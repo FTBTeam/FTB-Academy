@@ -1,0 +1,27 @@
+[
+	{
+		"id": "starter",
+		"title": "Forest bosses",
+		"icon": "item:twilightforest:trophy 1 0"
+	},
+	{
+		"id": "swamp",
+		"title": "Swamp bosses",
+		"icon": "item:twilightforest:trophy 1 2"
+	},
+	{
+		"id": "ice",
+		"title": "Ice bosses",
+		"icon": "item:twilightforest:trophy 1 5"
+	},
+	{
+		"id": "forest",
+		"title": "Dark Forest bosses",
+		"icon": "item:twilightforest:trophy 1 3"
+	},
+	{
+		"id": "end",
+		"title": "Highland bosses",
+		"icon": "item:twilightforest:castle_door"
+	}
+]

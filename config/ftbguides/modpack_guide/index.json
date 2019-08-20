@@ -1,0 +1,42 @@
+[
+	{
+		"id": "quests",
+		"title": "Quests",
+		"icon": "item:ftbquests:book"
+	},
+	{
+		"id": "the_world",
+		"title": "The World",
+		"icon": "item:minecraft:grass"
+	},
+	{
+		"id": "your_interface",
+		"title": "Your Interface",
+		"icon": "item:minecraft:skull 1 3 {SkullOwner:\"Steve\"}"
+	},
+	{
+		"id": "gear",
+		"title": "Gear, Weapons, and Tools",
+		"icon": "item:minecraft:iron_pickaxe"
+	},
+	{
+		"id": "storage",
+		"title": "Storage",
+		"icon": "item:minecraft:chest"
+	},
+	{
+		"id": "technology",
+		"title": "Technology",
+		"icon": "item:thermalexpansion:machine"
+	},
+	{
+		"id": "magic",
+		"title": "Magic",
+		"icon": "item:astralsorcery:itemshiftingstar 1 0 {astralsorcery: {starAttunement: \"astralsorcery.constellation.vicio\"}}"
+	},
+	{
+		"id": "misc",
+		"title": "Other information",
+		"icon": "item:minecraft:bookshelf"
+	}
+]

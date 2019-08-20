@@ -1,0 +1,22 @@
+[
+	{
+		"id": "tinkers_construct",
+		"title": "Tinkers' Construct 2",
+		"icon": "item:tconstruct:toolforge"
+	},
+	{
+		"id": "building_gadgets",
+		"title": "Building Gadgets",
+		"icon": "item:buildinggadgets:buildingtool"
+	},
+	{
+		"id": "chisel",
+		"title": "Chisel",
+		"icon": "item:chisel:chisel_iron"
+	},
+	{
+		"id": "better_builders_wands",
+		"title": "Better Builder's Wands",
+		"icon": "item:betterbuilderswands:wandunbreakable"
+	}
+]

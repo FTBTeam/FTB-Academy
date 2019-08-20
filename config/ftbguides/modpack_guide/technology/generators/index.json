@@ -1,0 +1,18 @@
+[
+	{
+		"id": "thermal_expansion",
+		"title": "Thermal Expansion",
+		"icon": "item:thermalexpansion:dynamo"
+	},
+	{
+		"id": "actually_additions",
+		"title": "Actually Additions",
+		"icon": "item:actuallyadditions:block_oil_generator"
+	},
+	{
+		"id": "industrial_foregoing",
+		"title": "Industrial Foregoing",
+		"icon": "item:industrialforegoing:petrified_fuel_generator"
+	}
+
+]
