@@ -1,107 +1,107 @@
 # Chapters
 
-academy.gettingstarted.title=Getting Started
-academy.building.title=Building
+academy.gettingstarted.title=Começando
+academy.building.title=Construção
 
-academy.basics.title=Basics
+academy.basics.title=Básico
 
-academy.mainmagic.title=Magic
+academy.mainmagic.title=Magica
 academy.botania.title=Botania
 academy.twilightforest.title=Twilight Forest
 
-academy.mainstorage.title=Storage
-academy.storage1.title=Basic Storage
-academy.refinedstorage1.title=Refined Storage - Beginner
-academy.refinedstorage2.title=Refined Storage - Advanced
-academy.refinedstorage3.title=Refined Storage - Expert
+academy.mainstorage.title=Armazenamento
+academy.storage1.title=Armazenamento Básico
+academy.refinedstorage1.title=Refined Storage - Principiante
+academy.refinedstorage2.title=Refined Storage - Avançado
+academy.refinedstorage3.title=Refined Storage - Especialista
 
-academy.maintechnology.title=Technology
-academy.technology1.title=Technology - Beginner
-academy.technology2.title=Technology - Advanced
-academy.technology3.title=Technology - Expert
+academy.maintechnology.title=Tecnologia
+academy.technology1.title=Tecnologia - Principiante
+academy.technology2.title=Tecnologia - Avançado
+academy.technology3.title=Tecnologia - Especialista
 
-academy.misc.title=Miscellaneous Quests
+academy.misc.title=Missões Diversas
 
-academy.clickthis.task=Click this
+academy.clickthis.task=Clique aqui
 
 
 #Reward Tables
-academy.ticonmodifiers.rewards=TiCon Modifiers
-academy.ticonmodifiers.lapisreward=Fortune modifier
-academy.ticonmodifiers.redstonereward=Speed modifier
+academy.ticonmodifiers.rewards=Modificador de TiCon
+academy.ticonmodifiers.lapisreward=Modificador de fortuna
+academy.ticonmodifiers.redstonereward=Modificador de velocidade
 
-academy.ores.rewards=Ores
-academy.mysticalpetals.rewards=Mystical Petals
-academy.mobmasher.rewards=Mob Masher Modifiers
-academy.manamats.rewards=Mana Materials
-academy.elfmats.rewards=Elven Materials
+academy.ores.rewards=Minérios
+academy.mysticalpetals.rewards=Pétalas Místicas
+academy.mobmasher.rewards=Modificador de Triturador de Criaturas
+academy.manamats.rewards=Materiais de mana
+academy.elfmats.rewards=Materiais Élficos
 academy.ingots.rewards=Ingots
 academy.scepters.rewards=Scepters
 academy.TFfirethings.rewards=Fire Thingies
 academy.fluiducts.rewards=Fluiducts
 academy.itemducts.rewards=Itemducts
-academy.iflenses.rewards=Laser Lenses
-academy.passivemobs.rewards=Passive Mobs
-academy.impulseitemducts.rewards=Impulse Itemducts
-academy.signalumitemducts.rewards=Signalum-Plated Itemducts
-academy.signalumimpulse.rewards=Signalum-Plated Impulse Itemducts
-academy.hardenedfluiducts.rewards=Hardened Fluiducts
-academy.signalumfluiducts.rewards=Signalum-Plated Fluiducts
-academy.laminarfluiducts.rewards=Super-Laminar Fluiducts
-academy.elevators.rewards=Elevators
-academy.meats.rewards=Meats
-academy.rangeaddons.rewards=Range Addons
+academy.iflenses.rewards=Lentes para Laser
+academy.passivemobs.rewards=Criaturas Passivas
+academy.impulseitemducts.rewards=Itemducts de Impulso
+academy.signalumitemducts.rewards=Itemducts banhados Signalum
+academy.signalumimpulse.rewards=Itemducts de Impulso banhado de Signalum
+academy.hardenedfluiducts.rewards=Fluiducts Endurecido
+academy.signalumfluiducts.rewards=Fluiducts banhado de Signalum
+academy.laminarfluiducts.rewards=Fluiducts super-laminaires
+academy.elevators.rewards=Elevadores
+academy.meats.rewards=Carnes
+academy.rangeaddons.rewards=Modificador de alcance
 
-academy.swordenchants1.rewards=Sword Enchants 1
-academy.looting1.reward=Looting II
-academy.sharpness1.reward=Sharpness III
+academy.swordenchants1.rewards=Encantamento de Espada 1
+academy.looting1.reward=Pilhagem II
+academy.sharpness1.reward=Afiação III
 
-academy.swordenchants2.rewards=Sword Enchants 2
-academy.looting2.reward=Looting IV
-academy.sharpness2.reward=Sharpness VI
+academy.swordenchants2.rewards=Encantamento de Espada 1
+academy.looting2.reward=Pilhagem IV
+academy.sharpness2.reward=Afiação VI
 
-academy.bowenchants1.rewards=Bow Enchants 1
-academy.power1.reward=Power III
+academy.bowenchants1.rewards=Encantamento do Arco 1
+academy.power1.reward=Poder III
 academy.punch1.reward=Punch I
 
-academy.bowenchants2.rewards=Bow Enchants 2
-academy.power2.reward=Power VI
+academy.bowenchants2.rewards=Encantamento do Arco 2
+academy.power2.reward=Poder VI
 academy.punch2.reward=Punch III
 
-academy.prot1.reward=Protection II
-academy.fireprot1.reward=Fire Protection III
-academy.blastprot1.reward=Blast Protection III
-academy.projprot1.reward=Projectile Protection III
-academy.thorns1.reward=Thorns II
+academy.prot1.reward=Proteção II
+academy.fireprot1.reward=Proteção contra Fogo III
+academy.blastprot1.reward=Proteção contra Explosões III
+academy.projprot1.reward=Proteção contra Projéteis III
+academy.thorns1.reward=Espinhos II
 
-academy.helmenchants1.rewards=Helmet Enchants 1
-academy.aquaaffin1.reward=Aqua Affinity
-academy.resp1.reward=Respiration II
+academy.helmenchants1.rewards=Encantamento de Capacete 1
+academy.aquaaffin1.reward=Afinidade com a Água
+academy.resp1.reward=Respiração II
 
-academy.chestenchants1.rewards=Chestplate Enchants 1
+academy.chestenchants1.rewards=Encantamento de Peitoral 1
 
-academy.legenchants1.rewards=Legging Enchants 1
+academy.legenchants1.rewards=Encantamento de Calça 1
 
-academy.bootenchants1.rewards=Boot Enchants 1
-academy.depthstr1.reward=Depth Strider II
-academy.feathfall1.reward=Feather Falling IV
-academy.frostwalk1.reward=Frost Walker
+academy.bootenchants1.rewards=Encantamento de Bota 1
+academy.depthstr1.reward=Passos Profundos II
+academy.feathfall1.reward=Peso Pena IV
+academy.frostwalk1.reward=Passos Gelados
 
-academy.prot2.reward=Protection IV
-academy.fireprot2.reward=Fire Protection V
-academy.blastprot2.reward=Blast Protection V
-academy.projprot2.reward=Projectile Protection V
-academy.thorns2.reward=Thorns IV
+academy.prot2.reward=Proteção IV
+academy.fireprot2.reward=Proteção contra Fogo V
+academy.blastprot2.reward=Proteção contra Explosões V
+academy.projprot2.reward=Proteção contra Projéteis V
+academy.thorns2.reward=Espinhos IV
 
-academy.helmenchants2.rewards=Helmet Enchants 2
+academy.helmenchants2.rewards=Encantamento de Capacete 2
 
-academy.chestenchants2.rewards=Chestplate Enchants 2
+academy.chestenchants2.rewards=Encantamento de Peitoral 2
 
-academy.legenchants2.rewards=Legging Enchants 2
+academy.legenchants2.rewards=Encantamento de Calça 2
 
-academy.bootenchants2.rewards=Boot Enchants 2
-academy.depthstr2.reward=Depth Strider IV
-academy.frostwalk2.reward=Frost Walker III
+academy.bootenchants2.rewards=Encantamento de Bota 2
+academy.depthstr2.reward=Passos Profundos IV
+academy.frostwalk2.reward=Passos Gelados III
 
 academy.brightconstellations.rewards=Bright Constellations
 academy.discidia.reward=Discidia
@@ -125,175 +125,175 @@ academy.gelu.reward=Gelu
 academy.ulteria.reward=Ulteria
 academy.vorux.reward=Vorux
 
-academy.coloredlenses.rewards=Colored Lenses
-academy.orangelens.reward=Ignition
-academy.yellowlens.reward=Break
-academy.greenlens.reward=Growth
-academy.redlens.reward=Damage
-academy.pinklens.reward=Regeneration
-academy.bluelens.reward=Push
-academy.purplelens.reward=Spectral
+academy.coloredlenses.rewards=Lentes coloridas
+academy.orangelens.reward=Ignição
+academy.yellowlens.reward=Quebrar
+academy.greenlens.reward=Crescimento
+academy.redlens.reward=Dano
+academy.pinklens.reward=Regeneração
+academy.bluelens.reward=Empurrar
+academy.purplelens.reward=Espectral
 
 #Advancements
 
-academy.advancements.root.title=Welcome to FTB Academy!
-academy.advancements.root.description=Begin playing the modpack.
+academy.advancements.root.title=Bem vindo ao FTB Academy!
+academy.advancements.root.description=Comece a jogar o modpack.
 
-academy.advancements.storage.title=Certificate in Storage
-academy.advancements.storage.description=Learn about the different methods of modded storage.
+academy.advancements.storage.title=Certificado em Armazenamento
+academy.advancements.storage.description=Aprenda sobre os diferentes métodos de armazenamento modificado.
 
-academy.advancements.automation.title=Certificate in Automation
-academy.advancements.automation.description=Learn how automation works.
+academy.advancements.automation.title=Certificado em Automação
+academy.advancements.automation.description=Aprenda como a automação funciona.
 
-academy.advancements.tech.title=Certificate in Technology
-academy.advancements.tech.description=Learn how technology mods work.
+academy.advancements.tech.title=Certificado em Tecnologia
+academy.advancements.tech.description=Saiba como os mods de tecnologia funcionam.
 
-academy.advancements.as.title=Certificate in Astral Sorcery
-academy.advancements.as.description=Learn how to use Astral Sorcery.
+academy.advancements.as.title=Certificado em Astral Sorcery
+academy.advancements.as.description=Aprenda como usar a feitiçaria astral.
 
-academy.advancements.botania.title=Certificate in Botania
-academy.advancements.botania.description=Learn how to use Botania.
+academy.advancements.botania.title=Certificado em Botania
+academy.advancements.botania.description=Aprenda a usar o Botania.
 
-academy.advancements.graduated.title=PhD
-academy.advancements.graduated.description=Complete the school and continue on to the Overworld.
+academy.advancements.graduated.title=PhD em FTB Academy.
+academy.advancements.graduated.description=Complete a escola e continue para o Overworld.
 
 
 #Basics
 
-academy.welcome.title=Welcome to FTB Academy!
-academy.welcome.desc=Learn how quests work
-academy.welcome.text1=Welcome to FTB Academy!
-academy.welcome.text2=This modpack is dedicated to teaching new players how to play modded Minecraft.
-academy.welcome.text3=These quests will guide you step by step on how to progress through the most common mods. It works best with the Guide, which will have more in depth descriptions on how mods work.
-academy.welcome.reward=Read School tutorial
+academy.welcome.title=Bem vindo ao FTB Academy!
+academy.welcome.desc=Aprenda como as missões funcionam!
+academy.welcome.text1=Bem vindo ao FTB Academy!
+academy.welcome.text2=Este modpack é dedicado a ensinar novos jogadores a jogar Minecraft modificado.
+academy.welcome.text3=Estas quests irão guiá-lo passo a passo sobre como progredir através dos mods mais comuns. Funciona melhor com o Guia, que terá descrições mais detalhadas sobre como os mods funcionam.
+academy.welcome.reward=Leia o tutorial da escola.
 
-academy.introJEI.title=Item and Recipe Searching
-academy.introJEI.desc=Learn to use JEI
-academy.introJEI.text1=Modded Minecraft has a lot of new blocks and items, so it's hard to remember all the crafting recipes. Luckily, the mod "Just Enough Items" will help make that easier!
-academy.introJEI.text2=On the right side of the inventory is a list of every block and item in the modpack. Hovering over one and hitting R will show you its recipe, and hitting U will show what recipes use it.
-academy.introJEI.text3=At the bottom of the inventory is a search bar, where you can type in the name of an item to filter the item list.
-academy.introJEI.text4=You can double click the search bar to search for that item in your inventory.
-academy.introJEI.reward=Read JEI tutorial
+academy.introJEI.title=Pesquisa de itens e receitas.
+academy.introJEI.desc=Aprenda a usar o JEI.
+academy.introJEI.text1=O Minecraft Modificado tem muitos novos blocos e itens, por isso é difícil lembrar de todas as receitas de artesanato. Felizmente, o mod "Just Enough Items" ajudará a tornar isso mais fácil!
+academy.introJEI.text2=No lado direito do inventário, há uma lista de todos os blocos e itens no modpack. Passar o mouse sobre um deles e pressionar a tecla em R mostrará sua receita e ao pressionar a tecla U, você verá quais receitas o usam.
+academy.introJEI.text3=Na parte inferior do inventário, há uma barra de pesquisa na qual você poderá digitar o nome de um item ou @nomedomod para filtrar a lista de itens.
+academy.introJEI.text4=Você também pode clicar duas vezes nessa barra de pesquisa para pesquisar o item específico em seu inventário.
+academy.introJEI.reward=Leia o tutorial do JEI.
 
-academy.introstorage.title=Introduction to Storage
-academy.introstorage.desc=Learn about storage
-academy.introstorage.text=There's a lot of mods that allow you to store items easily.
-academy.introstorage.task=Enter the storage room
+academy.introstorage.title=Introdução ao armazenamento!
+academy.introstorage.desc=Saiba mais sobre armazenamento.
+academy.introstorage.text=Há muitos mods que permitem armazenar itens facilmente.
+academy.introstorage.task=Entre na sala de armazenamento.
 
-academy.introgenstorage.title=General Storage
-academy.introgenstorage.desc=Open Chests and Storage Crates
-academy.introgenstorage.text1=Iron Chests and Storage Crates are good for storing a large amount of items. They work just like regular chests, but they store a lot more.
-academy.introgenstorage.text2=They both come in tiers, with more expensive tiers storing more.
-academy.introgenstorage.task1=Open Iron Chest
-academy.introgenstorage.task2=Open Diamond Chest
-academy.introgenstorage.task3=Open Small Storage Chest
-academy.introgenstorage.task4=Open Large Storage Crate
+academy.introgenstorage.title=Armazenamento Geral
+academy.introgenstorage.desc=Abra baús e baús de armazenamento.
+academy.introgenstorage.text1=Baús de ferro e baús de armazenamento, armazenam grandes quantidades de itens. Elas funcionam como baús comuns, mas sua capacidade é muito maior.
+academy.introgenstorage.text2=Cada um deles possui vários níveis, o mais alto, oferecendo maior capacidade de armazenamento.
+academy.introgenstorage.task1=Abra Baú de Ferro
+academy.introgenstorage.task2=Abra Baú de Diamante
+academy.introgenstorage.task3=Abra Baú de Armazenamento Pequeno
+academy.introgenstorage.task4=Abra Baú de Armazenamento Grande
 
-academy.introbulkstorage.title=Bulk Storage
-academy.introbulkstorage.desc=Look at Storage Drawers
-academy.introbulkstorage.text1=Storage Drawers are great for storing a large amount of a single item.
-academy.introbulkstorage.text2=Right click a Drawer to store the item you are holding, and hold right click to store all of that item in your inventory.
-academy.introbulkstorage.text3=Left click a Drawer to take out one of the item it has, and sneak left click to take out a stack.
-academy.introbulkstorage.task1=Observe Compacting Drawer
-academy.introbulkstorage.task2=Observe Basic Drawer 1x2
-academy.introbulkstorage.task3=Observe Basic Drawer
+academy.introbulkstorage.title=Armazenamento em massa
+academy.introbulkstorage.desc=Olhe para as Gavetas de Armazenamento
+academy.introbulkstorage.text1=As gavetas de armazenamento são ótimas para armazenar uma grande quantidade de um único item.
+academy.introbulkstorage.text2=Clique com o botão direito do mouse em uma gaveta para armazenar o item que você está segurando, e mantenha pressionado o botão direito do mouse para armazenar todo esse item que está em seu inventário.
+academy.introbulkstorage.text3=Clique com o botão esquerdo do mouse na Gaveta de Armazenamento para pegar um único item, e pressionando a tecla de "agachar" e clicando com o botão esquerdo do mouse na Gaveta de Armazenamento para pegar uma pilha de item.
+academy.introbulkstorage.task1=Olhe para a Gaveta de Armazenamento Compacta
+academy.introbulkstorage.task2=Olhe para a Gaveta de Armazenamento 1x2
+academy.introbulkstorage.task3=Olhe para a Gaveta de Armazenamento Básica
 
-academy.introdigitalstorage.title=Digital Storage
-academy.introdigitalstorage.desc=Look at Refined Storage
-academy.introdigitalstorage.text1=Refined Storage allows you to store a massive amount of a variety of items.
-academy.introdigitalstorage.text2=Items are stored in Disks, which themselves are stored in Disk Drives. You can access items in Disks by opening the Grid.
+academy.introdigitalstorage.title=Armazenamento Digital
+academy.introdigitalstorage.desc=Olhe para a Refined Storage
+academy.introdigitalstorage.text1=Refined Storage permite que você armazene uma quantidade enorme de objetos.
+academy.introdigitalstorage.text2=Os objetos são armazenados em discos, que são armazenados em compartimentos de disco. Você pode acessar os objetos contidos nos discos por meio de uma grade.
 academy.introdigitalstorage.text3=Instead of being limited by the amount of slots an inventory has, digitally stored items only depend on the size of the Disk used.
-academy.introdigitalstorage.text4=The last quest gave you a Storage Disk. Open the Disk Drive and insert the Storage Disk, and then open the Grid and take out the Water Bucket inside.
-academy.introdigitalstorage.task1=Open Disk Drive
-academy.introdigitalstorage.task2=Open Crafting Grid
+academy.introdigitalstorage.text4=A última missão lhe fornece um disco de armazenamento. Abra a Unidade de Disco e insira o Disco de Armazenamento, e em seguida, abra a grade e retire o Balde de Água que está armazenado interior da grade.
+academy.introdigitalstorage.task1=Abra a Unidade de Disco
+academy.introdigitalstorage.task2=Abra a Grade de Craft
 
-academy.introfluidstorage.title=Fluid Storage
-academy.introfluidstorage.desc=Empty a Bucket of Water
-academy.introfluidstorage.text1=Like there are mods that add ways to store items, there are also mods that add ways to store fluids.
-academy.introfluidstorage.text2=Blocks that store fluids usually have the word Tank in the name, so you can just search for "Tank" in JEI to find them all.
-academy.introfluidstorage.text3=The Portable Tank has multiple tiers which allow them to store more fluid.
-academy.introfluidstorage.text4=You can move fluids from a Bucket to a Tank and vice versa just by right clicking the Bucket on the Tank.
+academy.introfluidstorage.title=Armazenamento de Fluidos
+academy.introfluidstorage.desc=Esvaziar um balde de água
+academy.introfluidstorage.text1=Como existem mods que adicionam maneiras para armazenar itens, há também mods que adicionam maneiras de armazenar líquidos.
+academy.introfluidstorage.text2=Os blocos que armazenam fluidos geralmente têm a palavra "Tank ou Tanque" no nome, então você pode simplesmente procurar por "Tank ou Tanque" no JEI para encontrar todos eles.
+academy.introfluidstorage.text3=O tanque portátil possui vários níveis que permitem armazenar uma quantidade maior de fluidos.
+academy.introfluidstorage.text4=Você pode transferir fluidos de um balde para um reservatório e vice-versa clicando com o botão direito do mouse com o balde na mão.
 
-academy.introautomation.title=Introduction to Automation
-academy.introautomation.desc=Learn about Automation
-academy.introautomation.text1=Simply storing items and fluids is not enough, to properly automate you have to move them around automatically.
-academy.introautomation.text2=The simplest way to move things around is Ducts. Items are moved through Itemducts and fluids are moved through Fluiducts.
-academy.introautomation.text3=Servos are used to pull from blocks, and items/fluids will automatically go into the nearest block that can store them.
-academy.introautomation.task=Enter the automation room
+academy.introautomation.title=Introdução à automação
+academy.introautomation.desc=Aprenda sobre automação
+academy.introautomation.text1=Apenas armazenar objetos e fluidos não é suficiente, para automatizar corretamente, você precisa movê-los automaticamente.
+academy.introautomation.text2=A maneira mais simples para mover as coisas ao redor é dutos. Os itens são movidos através Itemducts e fluidos são movidos através Fluiducts.
+academy.introautomation.text3=Servos são usados para puxar de blocos os itens/fluidos, que entrarão automaticamente no bloco mais próximo que poderá armazená-los.
+academy.introautomation.task=Entre na sala de automação
 
-academy.introfilters.title=Filtering
-academy.introfilters.desc=Set some Filters
-academy.introfilters.text1=Filters can be used to specify what is allowed to enter a block through the Duct. You can open it up to set its Whitelist or Blacklist.
-academy.introfilters.text2=Items on a whitelist are the only items allowed to enter, and items on a blacklist are the only items not allowed to enter.
-academy.introfilters.text3=• Set the right filter to be a whitelist of ores.
-academy.introfilters.text4=• Set the middle Filter to be a whitelist of dirt.
-academy.introfilters.text5=• Set the left Filter to be a blacklist of ores and dirt.
-academy.introfilters.text6=Flip the lever to turn on the Servo, and items be pulled out of the Crate on the left and go into the Crates on the right depending on how the Filters were set.
-academy.introfilters.task1=Set the General Filter
-academy.introfilters.task2=Set the Dirt Filter
-academy.introfilters.task3=Set the Ore Filter
+academy.introfilters.title=Filtragem
+academy.introfilters.desc=Configure alguns filtros
+academy.introfilters.text1=Os filtros podem ser usados para especificar o que é permitido entrar em um bloco através do duto. Você pode abri-lo para definir sua lista de branca ou lista negra.
+academy.introfilters.text2=Os itens em uma lista branca são os únicos itens permitidos a entrar, e os itens em uma lista negra são os itens que não podem entrar.
+academy.introfilters.text3=• Defina o filtro certo para ser uma lista branca de minérios.
+academy.introfilters.text4=• Defina o segundo filtro, o do meio para ser uma lista branca de terra.
+academy.introfilters.text5=• Defina o primeiro filtro, o da esquerdo como uma lista negra de minérios e terra.
+academy.introfilters.text6=Gire a alavanca para ligar o Servo, e os itens serão puxados para fora do Baú de Armazenamento à esquerda e entre nos Baús de Armazenamentos à direita, dependendo de como os filtros foram configurados.
+academy.introfilters.task1=Defina o filtro Geral
+academy.introfilters.task2=Defina o filtro de Terra
+academy.introfilters.task3=Defina o filtro de Minérios
 
-academy.introfluidtransfer.title=Fluid Transfer
-academy.introfluidtransfer.desc=Move some Water
-academy.introfluidtransfer.text1=Like Itemducts move items, Fluiducts move fluids.
-academy.introfluidtransfer.text2=Portable Tanks can be set to automatically output to the block underneath. Use the Crescent Hammer on the top Portable Tank to make it move the Water to the Tank beneath it.
-academy.introfluidtransfer.text3=You can set Servos to function when they don't have a Redstone signal by opening it and pressing the Redstone Dust button on the right. Do this here and set the Servo to either Ignore Redstone or Low (which means no signal).
+academy.introfluidtransfer.title=Transferência de Fluidos
+academy.introfluidtransfer.desc=Mova um pouco de água
+academy.introfluidtransfer.text1=Assim como os Itemducts move os items, os Fluiducts move fluidos.
+academy.introfluidtransfer.text2=Os Tanques Portáteis podem ser configurados para extrair automaticamente para o bloco abaixo deles. Use a ferramenta que você adquiriu na parte superior do Tanque Portátil para mover a água para o tanque abaixo.
+academy.introfluidtransfer.text3=Você pode configurar os Servos para funcionarem quando eles não recebem sinal de Redstone, abrindo-o e clicando no ícone Redstone à direita. Faça isso, e defina o Servo para ignorar o sinal ou um sinal fraco (que é equivalente a nenhum sinal).
 
-academy.introtech.title=Introduction to Technology
-academy.introtech.desc=Learn about technology
-academy.introtech.text1=Technology mods play a large part in FTB modpacks. These quests are dedicated to teaching you the basics.
-academy.introtech.task=Enter the technology room
+academy.introtech.title=Introdução à Tecnologia
+academy.introtech.desc=Aprenda sobre tecnologia
+academy.introtech.text1=Os mods de tecnologia desempenham um papel importante nos modpacks do FTB. Essas missões são dedicadas a ensinar o básico.
+academy.introtech.task=Entre na sala de tecnologia
 
-academy.introgen.title=Making Energy
-academy.introgen.desc=Use a Coal Generator
-academy.introgen.text1=Most technology mods use RF, which is essentially just electricity.
-academy.introgen.text2=Generators are machines that make RF. The Coal Generator uses furnace fuel, such as Coal, to generate RF.
-academy.introgen.text3=Place the Coal Generator down on the Block of Iron and give it some Coal to allow it make it generate RF.
-academy.introgen.task=Place generator on the iron block
+academy.introgen.title=Produção de energia
+academy.introgen.desc=Use um gerador de carvão
+academy.introgen.text1=A maioria dos mods de tecnologia usa RF, que é essencialmente apenas eletricidade.
+academy.introgen.text2=Geradores são máquinas que produzem RF. O Gerador de Carvão usa o combustível da fornalha, como o carvão, para gerar RF.
+academy.introgen.text3=Coloque o Gerador de Carvão no bloco de ferro e coloque um pouco de carvão para permitir que ele gere RF.
+academy.introgen.task=Coloque o gerador no bloco de ferro
 
-academy.intropowertransfer.title=Moving Energy
-academy.intropowertransfer.desc=Place Fluxducts
-academy.intropowertransfer.text1=While you can technically get away with having generators directly next to your machines, it's not the best idea.
-academy.intropowertransfer.text2=Fluxducts and other power cables allow you to connect generators to machines at a distance.
-academy.intropowertransfer.text3=Place the Fluxducts down on the Wool.
-academy.intropowertransfer.task=Place the Fluxducts on the Magenta Wool
+academy.intropowertransfer.title=Movendo Energia
+academy.intropowertransfer.desc=Coloque os Fluxducts
+academy.intropowertransfer.text1=Embora você possa tecnicamente se safar de ter geradores diretamente ao lado de suas máquinas, não é a melhor ideia.
+academy.intropowertransfer.text2=Fluxducts e outros cabos de energia permitem conectar geradores a máquinas, independentemente da distância.
+academy.intropowertransfer.text3=Coloque os Fluxductos sobre a lã.
+academy.intropowertransfer.task=Coloque os Fluxducts sobre a lã Magenta
 
-academy.intromachines.title=Using Energy
-academy.intromachines.desc=Use a Redstone Furnace
-academy.intromachines.text1=Generators make energy, but you also have to use it. There are plenty of machines that use RF to perform a variety of functions.
-academy.intromachines.text2=The Redstone Furnace in particular uses RF to smelt items. It functions almost exactly like a regular Furnace, except it runs on RF instead of Coal.
-academy.intromachines.text3=Place the Redstone Furnace on the Block of Lapis Lazuli and use it to smelt some Pulverized Iron.
-academy.intromachines.task=Place the Redstone Furnace on the Block of Lapis Lazuli
+academy.intromachines.title=Usando energia
+academy.intromachines.desc=Use a Fornalha de Redstone
+academy.intromachines.text1=Os geradores produzem energia, mas você também precisa usá-la. Há uma abundância de máquinas que usam RF para executar uma variedade de funções.
+academy.intromachines.text2=A Fornalha de Redstone, em particular, usa RF para fundir itens. Funciona quase exatamente como um forno comum, exceto que é executado em RF em vez de carvão.
+academy.intromachines.text3=Coloque a Fornalha de Redstone sobre o Bloco de lápis-lazúli e use para fundir alguns Ferros Pulverizados.
+academy.intromachines.task=Coloque a Fornalha de Redstone sobre o Bloco de Lapis-Lazuli
 
-academy.introenergystorage.title=Storing Energy
-academy.introenergystorage.desc=Place and configure an Energy Cell
-academy.introenergystorage.text1=Energy Cells store RF. It is best to have them between your generators and machines so the machines have a buffer of energy they can use.
-academy.introenergystorage.text2=Sneak right click the Crescent Hammer on the middle Fluxduct block to break it, and then place the Energy Cell down instead.
-academy.introenergystorage.text3=Open the Energy Cell and click the blue gear button on the right to configure it. There, you can choose which sides are input and which sides are output.
-academy.introenergystorage.text4=Click on the face to toggle between input (blue), output (red), and neither (yellow). You can hold sneak and left click on the front face to set them all to off. Set this one so that it inputs from the generator and ouputs towards the Redstone Furnace.
-academy.introenergystorage.task=Replace the middle Fluxduct with an Energy Cell and configure it
+academy.introenergystorage.title=Armazenamento de Energia
+academy.introenergystorage.desc=Coloque e configure uma célula de energia
+academy.introenergystorage.text1=As células de energia armazenam RF. É melhor tê-los entre seus geradores e máquinas para que eles tenham um buffer de energia que possam usar.
+academy.introenergystorage.text2=Agache e clique com o botão direito do mouse com a Ferramenta no Cabo de Fluxduct do meio para retira-lo sem quebrar e coloque a Célula de Energia no meio.
+academy.introenergystorage.text3=Abra a célula de energia e clique no botão de engrenagem azul à direita para configurá-lo. Lá, você pode escolher quais os lados são os de entrada e o lado que será de saída.
+academy.introenergystorage.text4=Clique na face para alternar entre entrada (azul), saída (vermelho) e nenhuma (amarelo). Você pode segurar o agachar e clicar com o botão esquerdo na face frontal para desativá-los. Defina este para que ele insira o gerador e saia para o forno Redstone.
+academy.introenergystorage.task=Substitua o Fluxduct do meio por uma célula de energia e configure-a
 
-academy.introaugments.title=Upgrading Machines
-academy.introaugments.desc=Upgrade the Redstone Furnace
-academy.introaugments.text1=Most technology mods allow you to upgrade their machines. Thermal Expansion does this through machine tiers and Augments.
-academy.introaugments.text2=Upgrade Thermal Expansion machines by right clicking them with Upgrade or Conversion Kits, upgrading their tier. This allows them to use more energy, which makes them work faster.
-academy.introaugments.text3=You can further enhance them by installing Augments. The higher the tier, the more Augments can be installed. Open the machine's GUI and press the button at the top right, and you can insert Augments into those slots.
-academy.introaugments.task=Upgrade the Redstone Furnace and install the Augments
+academy.introaugments.title=Aprimorando as Máquinas
+academy.introaugments.desc=Aprimore a Fornalha de Redstone
+academy.introaugments.text1=A maioria dos mods tecnológicos permite que você melhore suas máquinas. A Thermal Expansion, faz isso através de Níveis e Augments da máquina.
+academy.introaugments.text2=Aprimorando as máquinas da Thermal Expansion, clicando com o botão direito do mouse com um Kit de atualização ou conversão em mãos, o que aumentará seu nível. Isso permitirá que eles usem mais energia e, portanto, irão trabalhar mais rapidamente.
+academy.introaugments.text3=Você poderá aprimorá-los ainda mais instalando Augments. Quanto maior o nível, mais Augments podem ser instalados. Abra a GUI da máquina e pressione o botão no canto superior direito e você poderá inserir Augments nesses slots.
+academy.introaugments.task=Aprimore a Fornalha de Redstone e instale os Augments
 
-academy.introtechlast.title=Using Upgraded Machines
-academy.introtechlast.desc=Use the upgraded Redstone Furnace
-academy.introtechlast.text=Once the Redstone Furnace is fully upgraded, smelt the Pulverized Iron again and watch how much faster it is.
+academy.introtechlast.title=Usando as máquinas aprimoradas
+academy.introtechlast.desc=Use a Fornalha de Redstone aprimorada
+academy.introtechlast.text=Depois que a Fornalha de Redstone estiver totalmente aprimorada, derreta o ferro pulverizado novamente e observe o quanto ele é mais rápido.
 
-academy.introastralsorcery.title=Introduction to Astral Sorcery
-academy.introastralsorcery.desc=Learn about Astral Sorcery
-academy.introastralsorcery.text=Astral Sorcery is a magic mod focused around harnessing the powers of starlight and the constellations.
-academy.introastralsorcery.task=Enter the Astral Sorcery area
+academy.introastralsorcery.title=Introdução à Astral Sorcery
+academy.introastralsorcery.desc=Aprenda sobre Astral Sorcery
+academy.introastralsorcery.text=Astral Sorcery é um mod mágico focado em aproveitar os poderes da luz das estrelas e das constelações.
+academy.introastralsorcery.task=Entre na área Astral Sorcery
 
-academy.introstarlight.title=Using Starlight
-academy.introstarlight.desc=Make a Resonating Wand
-academy.introstarlight.text1=A lot of recipes in this mod require Starlight in addition to items. When you're just getting started, the only way to use Starlight is to place a regular Crafting Table near a Floating Crystal.
-academy.introstarlight.text2=The Resonating Wand is used to activate Astral Sorcery blocks. While holding it and running around the Overworld, you can also see the location of Rock Crystal Ore that spawns underground.
-academy.introstarlight.text3=Place the Crafting Table on the Wool block near the Floating Crystal and craft the Resonating Wand in it. You can see the Resonating Wand's recipe by searching for it in JEI, or by clicking the Resonating Wand in the Tasks section of this menu.
+academy.introstarlight.title=Utilizando a Starlight
+academy.introstarlight.desc=Faça uma Varinha Ressonante
+academy.introstarlight.text1=Muitas receitas neste mod requerem Starlight além de itens. Quando você está apenas começando, a única maneira de usar o Starlight é colocar uma mesa de artesanato regular perto de um cristal flutuante.
+academy.introstarlight.text2=A Varinha Ressonante é usada para ativar os blocos de Astral Sorcery. Mantendo-o em mãos e movendo-se pelo Mundo, você também pode ver a localização do minério de Rock Crystal que aparece no subsolo.
+academy.introstarlight.text3=Coloque a Mesa de Artesanato no bloco de Lã perto do Cristal Flutuante e crie a Varinha Ressonante. Você pode ver a receita da Varinha Ressonante pesquisando-a na JEI ou clicando na Varinha Ressonante na seção Tarefas deste menu.
 
 academy.introlct.title=Collecting Starlight
 academy.introlct.desc=Make a Luminous Crafting Table
