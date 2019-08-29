@@ -5,7 +5,7 @@ academy.building.title=Construção
 
 academy.basics.title=Básico
 
-academy.mainmagic.title=Magia
+academy.mainmagic.title=Magica
 academy.botania.title=Botania
 academy.twilightforest.title=Twilight Forest
 
@@ -295,37 +295,37 @@ academy.introstarlight.text1=Muitas receitas neste mod requerem Starlight além 
 academy.introstarlight.text2=A Varinha Ressonante é usada para ativar os blocos de Astral Sorcery. Mantendo-o em mãos e movendo-se pelo Mundo, você também pode ver a localização do minério de Rock Crystal que aparece no subsolo.
 academy.introstarlight.text3=Coloque a Mesa de Artesanato no bloco de Lã perto do Cristal Flutuante e crie a Varinha Ressonante. Você pode ver a receita da Varinha Ressonante pesquisando-a na JEI ou clicando na Varinha Ressonante na seção Tarefas deste menu.
 
-academy.introlct.title=Collecting Starlight
-academy.introlct.desc=Make a Luminous Crafting Table
-academy.introlct.text1=The Luminous Crafting Table allows you to get Starlight just from being able to see the night sky, though it will also be powered by a Floating Crystal if one is available.
-academy.introlct.text2=To craft items with the Luminous Crafting Table, you have to give it the items as usual and it must have access to an amount of Starlight depending on the recipe.
-academy.introlct.text3=If the Luminous Crafting Table has the items and Starlight required, right click it with a Resonating Wand to craft the item.
+academy.introlct.title=Coletando Starlight
+academy.introlct.desc=Faça uma Mesa de Trabalho Luminosa
+academy.introlct.text1=A Mesa de Trabalho Luminosa permite recuperar a Luz das Estrelas apenas com a exibição do Starlight, embora também possa ser alimentado por um Cristal Flutuante nas proximidades, se possível.
+academy.introlct.text2=Para criar itens com a Mesa de Trabalho Luminosa, você deve fornecer os itens normalmente e deve ter acesso a uma quantidade de Starlight, dependendo da receita.
+academy.introlct.text3=Se a Mesa de Trabalho Luminosa tiver os itens e Starlight necessários, clique com o botão direito do mouse com a Varinha Ressonante na mão para criar o item.
 
-academy.introilumpowder.title=Crafting Items with Starlight
-academy.introilumpowder.desc=Make Illumination Powder
-academy.introilumpowder.text1=Illumination Powder is just one of the many items you can make with Starlight. You can place it down anywhere and it will act as a light source, and it doesn't take up a block space.
-academy.introilumpowder.text2=Place the Luminous Crafting Table on the Quartz block and craft Illumination Powder according to its crafting recipe.
-academy.introilumpowder.text3=As a reminder, you have to right click the Luminous Crafting Table with the Resonating Wand to craft with it.
+academy.introilumpowder.title=Criando itens com Starlight
+academy.introilumpowder.desc=Criando Pó de iluminação
+academy.introilumpowder.text1=Pó de iluminação é apenas um dos muitos itens que você pode criar com o Starlight. Você pode colocá-lo em qualquer lugar e ele funcionará como uma fonte de luz e não ocupará um espaço de bloco.
+academy.introilumpowder.text2=Coloque a Mesa de Trabalho Luminosa no bloco de quartzo e faça o Pó de iluminação de acordo com a receita de artesanato.
+academy.introilumpowder.text3=Como lembrete, você deve clicar com o botão direito do mouse na Mesa de Trabalho Luminosa com a Varinha Ressonante para criar com ela.
 
-academy.introbotania.title=Introduction to Botania
-academy.introbotania.desc=Learn about Botania
-academy.introbotania.text1=Botania is a tech mod disguised as a magic mod.
-academy.introbotania.text2=With it, you will use flowers to generate and manipulate mana, which can be used to do various things.
-academy.introbotania.task=Enter the Botania area
+academy.introbotania.title=Introdução à Botânia
+academy.introbotania.desc=Aprenda sobre Botania
+academy.introbotania.text1=Botania é um mod de tecnologia disfarçado de mod mágico.
+academy.introbotania.text2=Com ele, você usará flores para gerar e manipular mana, que pode ser usada para fazer várias coisas.
+academy.introbotania.task=Entre na área de Botania
 
-academy.intromanagen.title=Generating Mana
-academy.intromanagen.desc=Make an Endoflame
-academy.intromanagen.text1=Magical flowers are created in the Petal Apothecary. Fill it with Water using a Water Bucket, make and then throw in the petals according to the Endoflame's crafting recipe, and then throw in a seed to craft the flower.
-academy.intromanagen.text2=You can either throw items at the Petal Apothecary or right click with the Petal in hand to place it inside. You can hold sneak and then right click with an empty hand to take the last item back out.
-academy.intromanagen.text3=The Endoflame generates Mana when a burnable item is thrown on the ground next to it. If it is placed near a Mana Spreader, the Mana will move to it.
-academy.intromanagen.text4=Once you've made the Endoflame, place it on the lightest Grass Block. Throw some Coal nearby and it will begin to generate Mana.
+academy.intromanagen.title=Gerando Mana
+academy.intromanagen.desc=Faça um Endoflame
+academy.intromanagen.text1=As flores mágicas são criadas no Petal Apothecary. Encha-o com um balde de água e crie sementes com as pétalas antes de jogá-las de acordo com a receita do Endoflame para fazer a flor.
+academy.intromanagen.text2=Você pode jogar itens no Petal Apothecary ou clicar com o botão direito do mouse com a semente na mão para colocá-lo dentro. Você pode segurar agachar e clicar com o botão direito do mouse com a mão vazia para retirar o item.
+academy.intromanagen.text3=Endoflame gera mana quando um objeto consumível é jogado no chão próximo a ele. Se colocado perto de um Espalhador de Mana, a mana se moverá em direção a ele.
+academy.intromanagen.text4=Depois de criar o Endoflame, coloque-o no bloco de grama. Jogue um pouco de carvão por perto e ele começará a gerar Mana.
 
-academy.intromanatransfer.title=Moving and Storing Mana
-academy.intromanatransfer.desc=Store the Mana in the Mana Pool
-academy.intromanatransfer.text1=Mana Spreaders are used to transfer Mana, and Mana Pools are used to store Mana.
-academy.intromanatransfer.text2=Sneak right click a Wand of the Forest on the Mana Spreader, then do the same on a Mana Pool to point the Spreader at the Pool.
-academy.intromanatransfer.text3=Any Mana inside the Mana Spreader will be sent to the Mana Pool.
-academy.intromanatransfer.task=Fill the Mana Pool
+academy.intromanatransfer.title=Movimentação e armazenagem de Mana
+academy.intromanatransfer.desc=Armazene a Mana na Mana Pool
+academy.intromanatransfer.text1=Mana Spreaders são usados para transferir Mana, e Mana Pools são usados para armazenar Mana.
+academy.intromanatransfer.text2=Agache-se e clique com o botão direito do mouse com a Varinha da Floresta no Mana Spreader e faça o mesmo no Mana Pool para apontar o Mana Spreader para o Mana Pool.
+academy.intromanatransfer.text3=Qualquer Mana dentro do Mana Spreader será enviada para o Mana Pool.
+academy.intromanatransfer.task=Encha a piscina de mana
 
 academy.intromanasteel.title=Crafting with Mana
 academy.intromanasteel.desc=Make some Manasteel
