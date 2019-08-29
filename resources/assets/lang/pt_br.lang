@@ -321,26 +321,26 @@ academy.intromanagen.text3=Endoflame gera mana quando um objeto consumível é j
 academy.intromanagen.text4=Depois de criar o Endoflame, coloque-o no bloco de grama. Jogue um pouco de carvão por perto e ele começará a gerar Mana.
 
 academy.intromanatransfer.title=Movimentação e armazenagem de Mana
-academy.intromanatransfer.desc=Armazene a Mana na Mana Pool
-academy.intromanatransfer.text1=Mana Spreaders são usados para transferir Mana, e Mana Pools são usados para armazenar Mana.
-academy.intromanatransfer.text2=Agache-se e clique com o botão direito do mouse com a Varinha da Floresta no Mana Spreader e faça o mesmo no Mana Pool para apontar o Mana Spreader para o Mana Pool.
-academy.intromanatransfer.text3=Qualquer Mana dentro do Mana Spreader será enviada para o Mana Pool.
-academy.intromanatransfer.task=Encha a piscina de mana
+academy.intromanatransfer.desc=Armazene a Mana no Poço de Mana
+academy.intromanatransfer.text1=Espalhador de Mana são usados para transferir Mana, e Poço de Mana são usados para armazenar Mana.
+academy.intromanatransfer.text2=Agache-se e clique com o botão direito do mouse com a Varinha da Floresta no Espalhador de Mana e faça o mesmo no Poço de Mana para apontar o Espalhador de Mana para o Poço de Mana.
+academy.intromanatransfer.text3=Qualquer Mana dentro do Espalhador de Mana será enviada para o Poço de Mana.
+academy.intromanatransfer.task=Encha o Poço de Mana
 
-academy.intromanasteel.title=Crafting with Mana
-academy.intromanasteel.desc=Make some Manasteel
-academy.intromanasteel.text1=Some items can be crafted by throwing them into a Mana Pool that has Mana in it. This uses up some of the Mana.
-academy.intromanasteel.text2=Throw an Iron Ingot into some Mana and it will be turned into a Manasteel Ingot.
+academy.intromanasteel.title=Criando com Mana
+academy.intromanasteel.desc=Faça alguns Manasteel
+academy.intromanasteel.text1=Alguns itens podem ser criados jogando-os em um Poço de Mana. Isso consome um pouco de Mana.
+academy.intromanasteel.text2=Jogue um Barra de Ferro no Poço de Mana e ele será transformado em uma Barra de Manasteel.
 
 academy.introelementium.title=Elven Trading
-academy.introelementium.desc=Get some Elementium
-academy.introelementium.text1=Later on in the progression, you will eventually make a Portal to Alfheim. This essentially works the same as crafting with the Mana Pool.
-academy.introelementium.text2=You can throw certain items into the Portal and you will get other items out. Any item you throw in that is not part of a recipe will be lost.
+academy.introelementium.desc=Consiga Elementium
+academy.introelementium.text1=Mais tarde, na progressão, você acabará fazendo um Portal para Alfheim. Isso basicamente funciona da mesma maneira que criar com o Poço de Mana.
+academy.introelementium.text2=Você poderá jogar alguns itens para o Portal e você receberá outros itens em troca. Qualquer item que você jogue em que não faça parte de uma receita será perdido.
 
-academy.introfinish.title=School's Out!
-academy.introfinish.desc=Go to the Overworld
-academy.introfinish.text=Now that you've completed all of the tutorials, you can head over to the Overworld and start playing for real!
-academy.introfinish.reward=Teleport to the Overworld
+academy.introfinish.title=A escola acabou!
+academy.introfinish.desc=Vá para o Overworld
+academy.introfinish.text=Agora que você concluiu todos os tutoriais, pode ir para o Overworld e começar a jogar de verdade!
+academy.introfinish.reward=Teleporte para o Overworld
 
 #Getting Started
 
