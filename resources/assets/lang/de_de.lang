@@ -473,206 +473,206 @@ academy.endertank.text2=Du kannst Endertanks auch personalisieren, indem du eine
 academy.endertank.text3=Rechtsklicke das Ventil mit der leeren Hand, um einzustellen, ob er Flüssigkeiten an den Block unterhalb abgeben soll, oder nicht.
 academy.endertank.text4=Funktioniert logischerweise ab Besten in paarweiser Nutzung.
 
-academy.enderchest.title=Extradimensional
-academy.enderchest.desc=Make an Ender Chest
-academy.enderchest.text1=Ender Chests will share their contents with all other Ender Chests with the same color combination. Use a dye on one of the white spots on top to set the color.
-academy.enderchest.text2=You can also use a Diamond on the latch to make it a personal Ender Chest. Personal Ender Chests will only connect to other personal Ender Chests placed by the same person.
-academy.enderchest.text3=Obviously works best in pairs.
+academy.enderchest.title=Hyperdimensional
+academy.enderchest.desc=Stelle eine Endertruhe von "EnderStorage" her
+academy.enderchest.text1=Enderkisten synchronisieren immer ihren Inhalt mit allen anderen Endertruhen mit der selben Farbeinstellung. Nutze einen Farbstoff auf einer der drei weißen Boxen auf der Oberseite der Kiste.
+academy.enderchest.text2=Du kannst Endertruhen auch personalisieren, indem du einen Diamant auf sie anwendest. Persönliche Endertruhen verbinden sich NUR mit den persönlichen Endertruhen der SELBEN Person.
+academy.enderchest.text3=Funktioniert logischerweise ab Besten in paarweiser Nutzung.
 
-academy.enderpouch.title=Bag of Holding
-academy.enderpouch.desc=Make an Ender Pouch
-academy.enderpouch.text1=The Ender Pouch will access the same inventory as the Ender Chest color combination it is linked to. Sneak right click the Ender Pouch on an Ender Chest to set the color combination.
-academy.enderpouch.text2=You can have an Ender Chest at your base with the contents automatically going into storage, and carry around an Ender Pouch linked to it to be able to store all your items without having to go back to your base.
+academy.enderpouch.title=Bodenloser Beutel
+academy.enderpouch.desc=Stelle einen Enderbeutel her
+academy.enderpouch.text1=Der Enderbeutel greift auf das Inventar der Endertruhe mit der selben Farbkombination zu. SHIFT + Rechtsklicke (ggf. Schleichen + Rechtsklicke) auf eine Endertruhe von "EnderStorage", um die Farbkombination zu setzen.
+academy.enderpouch.text2=Du kannst eine Endertruhe in deinem Zuhause nutzen, um z.B. Items mit dem Enderbeutel direkt in dein Lagersystem zu lagern.
 
-academy.blackholeunit.title=Supermassive Black Hole
-academy.blackholeunit.desc=Make a Black Hole Unit
-academy.blackholeunit.text=A Black Hole Unit can hold over 2 billion of a single item.
+academy.blackholeunit.title=Schwarzes Loch
+academy.blackholeunit.desc=Stelle eine "Black Hole Unit" her
+academy.blackholeunit.text=Eine "Black Hole Unit" kann 2³¹-1 (ungefähr 2 Milliarden) Items eines einzelnen Typs speichern.
 
-academy.blackholtank.title=Black Hole Sun
-academy.blackholtank.desc=Make a Black Hole Tank
-academy.blackholtank.text=A Black Hole Tank can hold over 2 million buckets of a single fluid.
+academy.blackholtank.title=2147483647 Liter
+academy.blackholtank.desc=Stelle einen "Black Hole Tank" her
+academy.blackholtank.text=Ein "Black Hole Tank" kann 2³¹-1 (ungefähr 2 Milliarden) "Buckets" (Eimer) eines einzelnen Flüssigkeitstyps speichern.
 
 academy.blackholecontroller.title=Messier 87
-academy.blackholecontroller.desc=Make a Black Hole Controller v2.0
-academy.blackholecontroller.text1=The Black Hole Controller v2.0 can hold 12 Black Hole Units/Tanks which can be accessed with Hoppers or pipes.
-academy.blackholecontroller.text2=Very useful to use in tandem with the External Storage from Refined Storage.
+academy.blackholecontroller.desc=Stelle einen "Black Hole Controller v2.0" her
+academy.blackholecontroller.text1=Der "Black Hole Controller v2.0" kann bis zu 12 "Black Hole Units/Tanks" lagern, welche aber mit Trichtern, Itemdukten, oder Ähnlichem angesteuert werden können.
+academy.blackholecontroller.text2=Sehr gut mit dem "Externer Speicher"-Block von Refined Storage kompinierbar.
 
-academy.blackholelabel.title=Black Hole Drawer
-academy.blackholelabel.desc=Make a Black Hole Label
-academy.blackholelabel.text=You can place a Black Hole Label to make it funciton similar to a Storage Drawer.
+academy.blackholelabel.title="Black Hole Label"
+academy.blackholelabel.desc=Stelle ein "Black Hole Label" her
+academy.blackholelabel.text=Du kannst ein "Black Hole Label" auf eine(n) "Black Hole Unit/Tank" anwenden, um ihm/ihr eine Funktion ähnlich der eines Standart-Schubfaches zu geben.
 
-academy.storagecrate1.title=""Small""
-academy.storagecrate1.desc=Make a Small Storage Crate
-academy.storagecrate1.text1=A Small Storage Crate has 117 storage slots.
-academy.storagecrate1.text2=If it contains a Storage Crate Keeper, the Crate will hold its contents when destroyed. The Keeper is lost in this process.
+academy.storagecrate1.title='klein'
+academy.storagecrate1.desc=Stelle eine "Small Storage Crate" her
+academy.storagecrate1.text1=Eine "Small Storage Crate" ('kleine' Lagerbox) hat 117 Lagerplätze.
+academy.storagecrate1.text2=Wenn sich in ihrem Inventar ein "Storage Crate Keeper" befindet, kannst du sie abbauen, ohne dass sie ihren Inhalt verliert. Der "Storage Crate Keeper" wird bei diesem Vorgang zerstört.
 
-academy.storagecrate2.title=Double Trouble
-academy.storagecrate2.desc=Make a Medium Storage Crate
-academy.storagecrate2.text1=A Medium Storage Crate has 2 pages of 117 slots, for a total of 234 slots.
-academy.storagecrate2.text2=Click on the arrows on either side of the GUI to swap between the pages.
+academy.storagecrate2.title=Doppelt hält besser
+academy.storagecrate2.desc=Stelle eine "Medium Storage Crate" her
+academy.storagecrate2.text1=Eine "Medium Storage Crate" hat 2 Seiten mit je 117 Lagerplätzen, also insgesamt 234 Lagerplätze.
+academy.storagecrate2.text2=Klicke auf die Pfeile auf beiden Seiten des Inventars, um die Seite zu wechseln.
 
-academy.storagecrate3.title=The Ultimate Clutter Storage
-academy.storagecrate3.desc=Make a Large Storage Crate
-academy.storagecrate3.text=A Medium Storage Crate has 3 pages of 117 slots, for a total of 351 slots.
+academy.storagecrate3.title=Das Ultimative Chaoslager
+academy.storagecrate3.desc=Stelle eine "Large Storage Crate" her.
+academy.storagecrate3.text=Eine "Large Storage Crate" hat 3 Seiten mit je 117 Lagerplätzen, also insgesamt 351 Lagerplätze.
 
 # Going to leave this here just in case we eventually re-add /dank/null/
 # academy.dank.title=/dank/null/
-# academy.dank.desc=Make a /dank/null/
-# academy.dank.text1=The /dank/null/ allows you to hold a large amount of items in a single slot. It will automatically place specific items you pick up into itself, and you can place blocks from it. If a slot is full, it will delete items that try to go into it.
-# academy.dank.text2=Sneak right click to open its GUI and insert items you want to store.
-# academy.dank.text3=While holding in your hand, sneak and scroll to change what item you want to place.
-# academy.dank.text4=Higher tier /dank/null/s have more slots and store more per slot.
-# academy.dank.task=Any /dank/null/
+# academy.dank.desc=Stelle ein /dank/null/ her
+# academy.dank.text1=Das /dank/null/ erlaubt dir, viele Items auf einem Lagerplatz zu speichern. Es kann automatisch Items, die du aufsammelst in sein Inventar aufnehmen, und du kannst Blöcke aus ihm heraus platzieren. Wenn ein Platz voll ist, werden alle Items, die auf diesen Platz kommen sollten, automatisch gelöscht.
+# academy.dank.text2=SHIFT + Rechtsklicke (ggf. Schleichen + Rechtsklicke) mit dem Item, um sein Inventar zu öffnen.
+# academy.dank.text3=Während du es in deiner Hand hältst, schleichst und mit dem Mausrad scrollst, kannst du einstellen, was du platzieren willst.
+# academy.dank.text4=Bessere /dank/null/s können mehr speichern.
+# academy.dank.task=Irgendein /dank/null/
 
-academy.dracchest.title=Dragon Hoard
-academy.dracchest.desc=Make a Draconium Chest
-academy.dracchest.text=The Draconium Chest has 260 slots, 5 upgradable furnace slots, a 3x3 crafting grid, and you can set specific slots to be able to come in and out of specific sides.
+academy.dracchest.title=Drchenhort
+academy.dracchest.desc=Stelle eine "Draconium Chest" (Drakoniumtruhe) her
+academy.dracchest.text=Die "Draconium Chest" hat 260 Lagerplätze, 5 verbesserbare Ofenplätze und ein 3x3 Craftingfeld und du kannst einstellen, an welchen Seiten der Truhe mit welchen Lagerplätzen interagiert werden kann.
 
 # Transportation
 
-academy.hopper.title=Simple, Elegant, Beautiful
-academy.hopper.desc=Make a Hopper
-academy.hopper.text1=Ah, the Hopper. It takes things out of blocks above it, and inserts them into inventories it's pointing towards. Could there be anything better than this?
+academy.hopper.title=Simpel, Elegant, Schön
+academy.hopper.desc=Stelle einen Trichter her
+academy.hopper.text1=Der Trichter... Nimmt Items aus Blöcken über ihm und gibt sie an Inventare in der Richtung, in die er zeigt, ab. Könnte es je etwas besseres geben?
 
-academy.basicitemtess.title=Better Than Hoppers
-academy.basicitemtess.desc=Make a Basic Item Tesslocator
-academy.basicitemtess.text1=Item Tesslocators allow you to quickly move items over a distance of one block. Place Tesslocators in the same block space on all inventories you want to interact with and open its GUI to change the settings.
-academy.basicitemtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging items or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more than one stack at a time.
+academy.basicitemtess.title=Besser als Trichter
+academy.basicitemtess.desc=Stelle einen "Basic Item Tesslocator" her
+academy.basicitemtess.text1="Item Tesslocators" erlauben dir, Items schnell über eine distanz von einem Block zu bewegen. Platziere auf einem Block einen "Tesslocator" an jeden Block, mit dem du interagieren möchtest und öffne sein GUI um Einstellungen zu ändern. 
+academy.basicitemtess.text2=Beim mittleren Knopf kannst du zwischen Eingangs- und Ausgangsmodus wechseln. Bei den linken Plätzen kannst du Ein- und Ausgangsfilter einstellen und rechts kannst du mit Glowstone die Arbeitsgeschwindigkeit und mit einem Diamant die Übertragungsmenge erhöhen.
 
-academy.basicfluidtess.title=Fluid Hopper
-academy.basicfluidtess.desc=Make a Basic Fluid Tesslocator
-academy.basicfluidtess.text1=Fluid Tesslocators allow you to quickly move fluids over a distance of one block. Place Tesslocators in the same block space on all blocks you want to interact with and open its GUI to change the settings.
-academy.basicfluidtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging filled Buckets or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more at a time.
+academy.basicfluidtess.title=Flüssig-Trichter
+academy.basicfluidtess.desc=Stelle einen "Basic Fluid Tesslocator"
+academy.basicfluidtess.text1="Fluid Tesslocators" erlauben dir, Flüssigkeiten schnell über eine distanz von einem Block zu bewegen. Platziere auf einem Block einen "Tesslocator" an jeden Block, mit dem du interagieren möchtest und öffne sein GUI um Einstellungen zu ändern.
+academy.basicfluidtess.text2=Beim mittleren Knopf kannst du zwischen Eingangs- und Ausgangsmodus wechseln. Bei den linken Plätzen kannst du Ein- und Ausgangsfilter einstellen und rechts kannst du mit Glowstone die Arbeitsgeschwindigkeit und mit einem Diamant die Übertragungsmenge erhöhen.
 
-academy.itemducts.title=Latest Innovation in Moving Items
-academy.itemducts.desc=Make Itemducts
-academy.itemducts.text1=Itemducts move items along their path, in all directions. Items move through them at 1 block per second.
-academy.itemducts.text2=Opaque Itemducts work exactly the same, except you can't see items flow through them. This can help prevent lag.
-academy.itemducts.task=Itemduct
+academy.itemducts.title=Neueste Itembewegungstechnik
+academy.itemducts.desc=Stelle Itemdukte her
+academy.itemducts.text1=Itemdukte bewegen Items ihren Weg entlang. In alle Richtungen. Geschwindigkeit? 1 Block pro Sekunde. Schnell, oder?
+academy.itemducts.text2=Undurchsichtige Itemdukte funktionieren genau gleich, außer, dass du die coole Item-Animation nicht sehen kannst. Dies kann aber helfen, die Computerleistung (FPS) zu verbessern.
+academy.itemducts.task=Itemdukt
 
-academy.basicfluiducts.title=Aqueduct
-academy.basicfluiducts.desc=Make Basic Fluiducts
-academy.basicfluiducts.text1=Fluiducts are used to transfer fluids. Basic Fluiducts can only transfer fluids that aren't extremely temperate, like Lava or Gelid Cryotheum.
-academy.basicfluiducts.text2=Opaque Fluiducts work exactly the same, except you can't see Fluids flow through them. This can help prevent lag.
-academy.basicfluiducts.task=Fluiduct
+academy.basicfluiducts.title=Aquedukt
+academy.basicfluiducts.desc=Stelle Temperierte Fluidukte her
+academy.basicfluiducts.text1=Fluidukte werden benutzt, um Flüssigkeiten zu transportieren. Temperierte Fluidukte können keine Flüssigkeiten transportieren, die extreme Temperaturen aufweisen (wie z.B. Lava, Kryotheum, usw.).
+academy.basicfluiducts.text2=Undurchsichtige Fluidukte funktionieren genau gleich, außer, dass du die coole Flüssigkeits-Animation nicht sehen kannst. Dies kann aber helfen, die Computerleistung (FPS) zu verbessern.
+academy.basicfluiducts.task=Fluidukt
 
-academy.hardenedfluiducts.title=Lavaduct
-academy.hardenedfluiducts.desc=Make Hardened Fluiducts
-academy.hardenedfluiducts.text=Hardened Fluiducts can transfer any fluid.
-academy.hardenedfluiducts.task=Hardened Fluiduct
+academy.hardenedfluiducts.title=Lavadukt
+academy.hardenedfluiducts.desc=Stelle Gehärtete Fluidukte her
+academy.hardenedfluiducts.text=Gehärtete Fluidukte können jede Flüssigkeit transportieren.
+academy.hardenedfluiducts.task=Gehörteter Fluidukt
 
-academy.servo.title=Make it Work
-academy.servo.desc=Make a Servo
-academy.servo.text1=A Servo is used to extract items or fluids from an inventory or tank and move them to Itemducts or Fluiducts. Place the Servo on the connection and provide it with a Redstone signal (or set it to not need Redstone) and it will begin to extract items/fluids.
-academy.servo.text2=Items only extract if there is somewhere for them to go, but fluids will be extracted regardless.
-academy.servo.text3=Items will try to go to the nearest inventory it can enter, while fluids will just fill anything it can.
-academy.servo.task=Any Servo
+academy.servo.title=Mach, dass es arbeitet!
+academy.servo.desc=Stelle einen Servo her
+academy.servo.text1=Ein Servo wird benutzt, um Flüssigkeiten oder Items aus einem Speicher zu extrahieren und sie über Flui- oder Itemdukte zu transportieren. Du hast in der Schule bereits gelernt, wie du sie benutzen kannst.
+academy.servo.text2=Items werden nur extrahiert, wenn ein Zielort zur Verfügung steht, Flüssigkeiten ignorieren diese Regel.
+academy.servo.text3=Items werden immer zum nächsten freien Inventar bewegt, während Flüssigkeiten einfach irgendwohin gefüllt werden.
+academy.servo.task=Irgendein Servo
 
-academy.signalumfluiduct.title=Electrolyte Rich
-academy.signalumfluiduct.desc=Make a Signalum-Plated Fluiduct
-academy.signalumfluiduct.text=Signalum-Plated Fluiducts work just like Hardened Fluiducts, except they can also transfer 4,000 RF/t per connection.
-academy.signalumfluiduct.task=Signalum-Plated Fluiduct
+academy.signalumfluiduct.title=Elektrolythaltig
+academy.signalumfluiduct.desc=Stelle Energie-Plattierte Fluidukte her
+academy.signalumfluiduct.text=Energie-Plattierte Fluidukte funktionieren genau so, wie Gehärtete Fluidukte, nur dass sie zusätzlich auch noch 4.000 RF/t pro Verbindung übertragen können.
+academy.signalumfluiduct.task=Energie-Plattierter Fluidukt
 
-academy.laminar.title=Under Pressure
-academy.laminar.desc=Make a Super-Laminar Fluiduct
-academy.laminar.text1=Super-Laminar Fluiducts can transfer at hundreds of buckets per second when fully pressurized.
-academy.laminar.text2=It takes a couple seconds to pressureize, during which the transfer rate speeds up.
-academy.laminar.text3=They work best when fluid is being pushed into it by the source rather than being pulled out with a Servo.
-academy.laminar.task=Super-Laminar Fluiduct
+academy.laminar.title=Unter Druck
+academy.laminar.desc=Stelle Super-laminare Fluidukte her
+academy.laminar.text1=Super-laminare Fluidukte können hunderte Eimer pro Sekunde transportieren, wenn sie unter Maximaldruck stehen.
+academy.laminar.text2=Es benötigt ein paar Sekunden, bis der Maximaldruck erreicht ist. Währenddessen steigt die Transportationsgeschwindigkeit stetig.
+academy.laminar.text3=Sie funktionieren am besten, wenn die Flüssigkeit von der Quelle an das Dukt abgegeben wird und kein Servo verwendet wird.
+academy.laminar.task=Super-laminarer Fluidukt
 
-academy.signalumitemduct.title=Item Energyducts
-academy.signalumitemduct.desc=Make Signalum-Plated Itemducts
-academy.signalumitemduct.text=Signalum-Plated Itemducts work just like regular Itmeducts, except they can also transfer 4,000 RF/t per connection.
-academy.signalumitemduct.task=Signalum-Plated Itemduct
+academy.signalumitemduct.title=Strom + Items
+academy.signalumitemduct.desc=Stelle Energiegeladene Itemdukte her
+academy.signalumitemduct.text=Energiegeladene Itemdukte funktionieren genau so, wie normale Itemdukte, nur dass sie zusätzlich auch noch 4.000 RF/t pro Verbindung übertragen können.
+academy.signalumitemduct.task=Energiegeladenes Itemdukt
 
-academy.impulseitemduct.title=Impulsive
-academy.impulseitemduct.desc=Make Impulsive Itemducts
-academy.impulseitemduct.text=Impulsive Itemducts move items much faster at 2 blocks per second.
-academy.impulseitemduct.task=Impulse Itemduct
+academy.impulseitemduct.title=Impulsiv
+academy.impulseitemduct.desc=Stelle Impuls-Itemdukte her
+academy.impulseitemduct.text=Impuls-Itemdukte haben die doppelte Transportationsgeschwindigkeit.
+academy.impulseitemduct.task=Impuls-Itemdukt
 
-academy.signalumimpulseitemduct.title=This is the Longest Item Name, So It Has the Longest Quest Name
-academy.signalumimpulseitemduct.desc=Make Signalum-Plated Impulse Itemducts
-academy.signalumimpulseitemduct.text=Signalum-Plated Impulse Itemducts work just like regular Impulse Itemducts, except they can also transfer 4,000 RF/t per connection.
+academy.signalumimpulseitemduct.title=Was den längsten Itemnamen besitzt, dem wird auch der längste Questname zuteil.
+academy.signalumimpulseitemduct.desc=Stelle "Signalum-Plated Impulse Itemduct" her
+academy.signalumimpulseitemduct.text=Ein "Signalum-Plated Impulse Itemduct" funktioniert genau so, wie normale Impuls-Itemducte, nur dass sie zusätzlich auch noch 4.000 RF/t pro Verbindung übertragen können.
 academy.signalumimpulseitemduct.task=Signalum-Plated Impulse Itemduct
 
-academy.fluidlaser.title=Fast Fluid Ferrying
-academy.fluidlaser.desc=Make Fluid Laser Relays
-academy.fluidlaser.text1=Fluid Laser Relays can wirelesssly transfer an infinite amount of fluid instantly.
-academy.fluidlaser.text2=Place a Fluid Laser Relay on the block you want to pull from and on the block you want to push into, as well as anywhere along the way for you to connect them.
-academy.fluidlaser.text3=To connect Laser Relays, right click on one with a Laser Wrench and then the other.
-academy.fluidlaser.text4=To toggle between input and output, right click on it with a Compass.
+academy.fluidlaser.title=Schnelle Flüssigkeitstransportation
+academy.fluidlaser.desc=Stelle ein "Fluid Laser Relay" her
+academy.fluidlaser.text1=Ein "Fluid Laser Relay" kann unendlich viel Flüssigkeit sofort transferieren.
+academy.fluidlaser.text2=Platziere ein "Fluid Laser Relay" auf einen Block, von dem du die Flüssigkeit wegtransportieren willst, eines auf den Block, zu dem du sie transportieren willst. Du musst auch eines in die Mitte des Transportationsweges platzieren, um sie verbinden zu können.
+academy.fluidlaser.text3=Um "Laser Relays" zu verbinden, umsst du erst ein, dann das andere "Relay" mit einer "Laser Wrench" rechtsklicken.
+academy.fluidlaser.text4=Um zwischen Ein- und Ausganz zu wechseln, muss du es mit einem Kompass rechtsklicken.
 
-academy.itemlaser.title=Matter to Energy to Matter
-academy.itemlaser.desc=Make Item Laser Relays
-academy.itemlaser.text1=Item Laser Relays can wirelessly transfer items.
-academy.itemlaser.text2=Place Item Laser Relays on all inventories you wish to be part of the system.
-academy.itemlaser.text3=Place an Item Interface on the point where you want to insert or extract items from storage, and place an Item Laser Relay on it too. Connect all the Item Laser Relays with a Laser Wrench.
-academy.itemlaser.text4=Items that are inserted into or extracted from the Item Interface will be moved to/from the connected storage blocks. Inventories with the highest priority are used first. You can use a Compass to raise/lower the Relay's priorty.
+academy.itemlaser.title=Masse -> Energie -> Masse
+academy.itemlaser.desc=Stelle ein "Item Laser Relay" her
+academy.itemlaser.text1=Ein "Item Laser Relay" kann Items kabellos transportieren.
+academy.itemlaser.text2=Platziere ein "Item Laser Relay" an alle Blöcke, die du ans System anschließen willst.
+academy.itemlaser.text3=Platziere ein "Item Interface" dahin, wo du items aus- oder einlagern willst und baue auch daran ein "Item Laser Relay". Verbinde die "Item Laser Relays" mit einer "Laser Wrench".
+academy.itemlaser.text4=Items, die vom "Item Interface" ein- oder ausgelagert werden, werden von oder zu dem angrenzenden Lagerblock bewegt. Inventare mit der höchsten Priorität werden zuerst benutzt. Du kannst einen Kompass nutzen, um die Priorität zu ändern.
 
-academy.advanceditemlaser.title=Sorting Lasers
-academy.advanceditemlaser.desc=Make Advanced Item Laser Relays
-academy.advanceditemlaser.text1=Advanced Item Laser Relays work similar to regular Item Laser Relays, except with a bit of added functionality.
-academy.advanceditemlaser.text2=In its GUI you can set a whitelist/blacklist for what is allowed to enter or exist that inventory. You can click the S button to set the list to whatever is currently in the inventory it is placed on.
+academy.advanceditemlaser.title=Sortierlaser
+academy.advanceditemlaser.desc=Stelle ein "Advanced Item Laser Relay" her
+academy.advanceditemlaser.text1=Ein "Advanced Item Laser Relay" funktionieren fast, wie normale "Item Laser Relays", nur dass sie ein paar mehr Funktionen besitzen.
+academy.advanceditemlaser.text2=In seinem GUI kannst du eine White- oder Blacklist einstellen. Du kannst den "S" Knopf drücken, um alles, das sich im angrenzenden Block befindet, auf die Liste zu setzen.
 
-academy.ifconveyorbelts.title=Production Line
-academy.ifconveyorbelts.desc=Make Conveyor Belts
-academy.ifconveyorbelts.text1=Conveyor Belts can move items, entities, and fluids.
-academy.ifconveyorbelts.text2=By default, it can only push entities mobs, players, and dropped items. You can use Extraction and Insertion Conveyor Upgrades to make it push and pull from blocks.
-academy.ifconveyorbelts.text3=There are also several other Conveyor Upgrades that change their functionality. If you right click Plastic on a Conveyor Belt items won't be able to be picked up by players, and if you right click it with Glowstone Dust items will move much quicker.
-academy.ifconveyorbelts.task2=Insertion/Extraction Conveyor Upgrade
+academy.ifconveyorbelts.title=Produktionsstraße
+academy.ifconveyorbelts.desc=Stelle "Conveyor Belts" (Förderbänder) her
+academy.ifconveyorbelts.text1="Conveyor Belts" können Items, Entities und Flüssigkeiten bewegen.
+academy.ifconveyorbelts.text2=Standartmäßig kann es nur Entities, Spieler und weggeworfene Items bewegen. Du kanst "Extraction Conveyor Belts" oder "Insertion Conveyor Belts" nutzen, um mit Blöcken zu interagieren.
+academy.ifconveyorbelts.text3=Es gibt auch einige "Conveyor Upgrades", die verschiedene Funktionalitäten hinzufügen. Wenn du mit "Plastic" (Plastik) auf einen "Conveyor Belt" rechtsklickst können Items auf ihm nicht mehr vom Spieler aufgesammelt werden und wenn du Glowstonestaub nutzt, wird er deutlich schneller arbeiten.
+academy.ifconveyorbelts.task2="Insertion/Extraction Conveyor Upgrade"
 
-academy.viaducts.title=New New York
-academy.viaducts.desc=Make Viaducts
-academy.viaducts.text1=Like other Ducts allow you to transfer items, energy, and fluids, Viaducts allow you to transfer yourself! Players move through Viaducts at 10 blocks per second.
-academy.viaducts.text2=Place Viaducts along the route players will move through, and right click on Viaducts you want to be destinations with a Crescent Hammer. Click on the opening to change its details, or select a destination to travel to it through the Viaducts.
+academy.viaducts.title=Via Dukt
+academy.viaducts.desc=Stelle Viadukte her
+academy.viaducts.text1=Viadukte können Spieler mit einer Geschwindigkeit von 10 Blöcken pro Sekunde transportieren.
+academy.viaducts.text2=Der Spieler wird über die Route aus Platzierten Viadukten transportiert. Rechtsklicke Viadukte, die du als Start-/Zielpunkte nutzen willst mit einem Rollgabenschlüssel. Klicke auf die Öffnung, um die Details zu bearbeiten oder einen Zielort auszuwählen.
 
-academy.longrange.title=Each and Every Highway
-academy.longrange.desc=Make Long Range Viaducts
-academy.longrange.text1=Long Range Viaducts are twice as fast as regular Viaducts, which make them very good for movement over long distances.
-academy.longrange.text2=Place a single path of Long Range Viaducts between two Long Range Linking Viaducts, and then connect regular Viaducts to them. Viaducts can connect from across the Long Range Viaducts.
+academy.longrange.title=Autobahn aus Kabeln
+academy.longrange.desc=Stelle Langstreckenviadukte her
+academy.longrange.text1=Langstreckenviadukte sind doppelt so schnell und viel billiger, als normale Viadukte, was sie für lange Strecken sehr nützlich macht.
+academy.longrange.text2=Platziere eine Strecke aus Langstreckenviadukten, baue an deren Enden jeweils ein Verbindendes Langstreckenviadukt. Daran kannst du dann normale Viadukte platzieren. Diese können sich über das Langstreckenviadukt verbinden.
 
-academy.dislocator.title=Transportalponder
-academy.dislocator.desc=Make a Dislocator
-academy.dislocator.text1=The Dislocator allows you to teleport from anywhere to a bound location.
-academy.dislocator.text2=Sneak right click to bind your current location to the Dislocator. Right click to teleport to that location from anywhere.
-academy.dislocator.text3=The Dislocator has only 20 uses, and you take a small amount of damage each time you use it.
+academy.dislocator.title=Der Transporter
+academy.dislocator.desc=Stelle einen Dislocator her
+academy.dislocator.text1=Der Dislocator erlaubt dir, dich, egal, wo du dich befindest, zu einer festgelegten Position zu teleportieren.
+academy.dislocator.text2=SHIFT + Rechtsklicke (ggf. Schleichen + Rechtsklicke), um deine derzeitige Position zu speichern.
+academy.dislocator.text3=Der Dislocator kann nur 20 mal genutzt werden, und du nimmst bei jeder Nutzung ein klein wenig schaden.
 
-academy.disrep.title=Better Portals
-academy.disrep.desc=Make a Dislocator Receptacle
-academy.disrep.text1=You can make a frame made out of Infused Obsidian in any shape and size (so long as it's flat) and place a Dislocator Receptacle in its frame and insert a bound Dislocator, and it will act as a portal to the location the Dislocator was bound to.
-academy.disrep.text2=The Dislocator will not take damage when used like this.
+academy.disrep.title=Portal v2
+academy.disrep.desc=Stelle einen "Dislocator Receptacle" her
+academy.disrep.text1=Du kannst einen Rahmen aus "Infused Obsidian" von jeglicher Form und Größe, solange er flach ist, bauen und irgendwo im Rahmen einen "Dislocator Receptacle" einbauen, in den du dann einen schon ortsgebundenen Dislocator einsetzt, um das Portal zu öffnen.
+academy.disrep.text2=Der Dislocator und du werdet bei dieser Methode an keinen Schäden leiden müssen.
 
-academy.disped.title=Portal Pedestal
-academy.disped.desc=Make a Dislocator Pedestal
-academy.disped.text1=If you right click on a Dislocator Pedestal with a bound Dislocator in it, you will be teleported to the bound location.
-academy.disped.text2=The Dislocator will not take damage when used like this.
-academy.disped.text3=If you have a pair of Bound Dislocators (Point to Point), using one will teleport you to the other. This is ideal for Dislocator Pedestals as they will act as a two-way teleporter.
+academy.disped.title=Portalständer
+academy.disped.desc=Stelle ein "Dislocator Pedestal" her
+academy.disped.text1=Wenn du ein "Dislocator Pedestal", mit einem bereits eingesetzten, ortsgebundenen Dislocator rechtsklickst, wirst du zum Zielort teleportiert.
+academy.disped.text2=Der Dislocator wird keinen Schaden nehmen.
+academy.disped.text3=Wenn du ein Paar an ortsgebundenen Dislocatoren (Point to Point) besitzt, wird dich der einen zum Ursprungsort des anderen teleportieren. Dies ist ideal für "Dislocator Pedestals", da diese dann als 2-Weg-Teleporter agieren.
 
 academy.advdislocator.title=Portation
-academy.advdislocator.desc=Make an Advanced Dislocator
-academy.advdislocator.text1=The Advanced Dislocator can have up to 100 bound location and uses Ender Pearls as fuel instead of taking durability damage.
-academy.advdislocator.text2=Sneak right click to open its GUI. Here you can add fuel and set and name locations.
-academy.advdislocator.text3=You can hold sneak and scroll while holding the Advanced Dislocator in your hand to change destinations, and then right click while not sneaking to teleport to it.
+academy.advdislocator.desc=Stelle einen "Advanced Dislocator" her
+academy.advdislocator.text1=Der "Advanced Dislocator" kann bis zu 100 Orte speichern und nutzt Enderperlen als Treibstoff, anstatt sich selbst zu beschödigen.
+academy.advdislocator.text2=SHIFT + Rechtsklicke (ggf. Schleichen + Rechtsklicke), um sein GUI zu öffnen, in dem du Treibstoff hinzufügen kannst und Orte festlegen kannst.
+academy.advdislocator.text3=Du kannst Schleichen und mit dem Mausrad scrollen, während du den "Advanced Dislocator" in der Hand hältst, um den Zielort zu ändern. Wenn du nun rechtsklickst, wirst du an den ausgewählten Ort teleportiert.
 
-academy.phantomface.title=Warp Pipe
-academy.phantomface.desc=Make a Phantomface
-academy.phantomface.text1=Phantomfaces simulate the inventory it is linked to, so you can insert items in and out of the inventory through the Phantomface.
-academy.phantomface.text2=Place the Phantomface within 16 blocks of the inventory you wish to link to. Right click the block you wish to connect to with the Phantom Connector, then right click the Phantomface.
+academy.phantomface.title=Telekabel
+academy.phantomface.desc=Stelle ein "Phantomface" her
+academy.phantomface.text1="Phantomfaces" simulieren das Inventar, mit dem sie verbunden sind, sodass du über sie damit interagieren kannst.
+academy.phantomface.text2=Platziere das "Phantomface" in einem 16-Block-Radius von dem Zielblock. Rechtsklicke den Block, den du verbinden willst mit einem "Phantom Connector" und rechtsklicke danach das "Phantomface" mit ihm.
 
-academy.phantombooster.title=BOOster
-academy.phantombooster.desc=Make Phantom Boosters
-academy.phantombooster.text=You can place up to 3 Phantom Boosters on top of Phantomfaces to increase their range.
+academy.phantombooster.title=Weiter, besser!
+academy.phantombooster.desc=Stelle "Phantom Booster" her
+academy.phantombooster.text=Du kannst bis zu 3 "Phantom Booster" auf ein "Phantomface" platzieren, um dessen Reichweite zu erhöhen.
 
-academy.phantomblocks.title=Ghostly Energy
-academy.phantomblocks.desc=Make an advanced Phantomface block
-academy.phantomblocks.text1=Phantom Energyfaces and Liquidfaces work exactly like regular Phantomfaces, but with energy and fluids instead.
-academy.phantomblocks.text2=Phantom Redstonefaces only work in one direction. That is, if the connected block has a Redstone signal, it will power the Phantom Redstoneface.
-academy.phantomblocks.task=Advanced Phantomface blocks
+academy.phantomblocks.title=Geistergie
+academy.phantomblocks.desc=Stelle einen verbesserten "Phantomface"-Block her
+academy.phantomblocks.text1="Phantom Energyfaces" und "Phantom Liquidfaces" funktionieren genau gleich, wie normale "Phantomfaces", nur dass sie Energie und Flüssigkeiten transportieren können.
+academy.phantomblocks.text2="Phantom Redstonefaces" funktionieren nur in eine Richtung. Das heißt, dass, wenn der verbundene Block ein Redstonesignal ausgibt/weiterleitet, es durch das "Phantom Redstoneface" abgegeben werden kann.
+academy.phantomblocks.task=Verbesserte "Phantomface"-Blöcke
 
-academy.xpteleporter.desc=Make an XPTeleporter
-academy.xpteleporter.text1=Place down two XPTeleporters and link them with an XPT Link Card by right clicking it on both of them. Sneaking on one will teleport you to the other.
-academy.xpteleporter.text2=The further away the two XPTeleporters are, the more XP it costs.
-academy.xpteleporter.text3=Teleporters will display the coordinates of the linked teleporter above them. If you rename the XPTeleporter in an Anvil, it will display that instead.
+academy.xpteleporter.desc=Stelle einen "XPTeleporter" her
+academy.xpteleporter.text1=Platziere 2 XPTeleporter und verbinde sie mit einer "XPT Link Card", indem du sie beide damit rechtsklickst. Wenn du auf einem Schleichst, wirst du zum anderen teleportiert.
+academy.xpteleporter.text2=Je weiter du teleportiert wirst, umso mehr XP kostet dich der Teleport.
+academy.xpteleporter.text3=Teleporter werden die Koordinaten des verbundenen Teleporters über ihnen anzeigen. Wenn du einen XPTeleporter in einem Amboss umbenennst, wird stattdessen sein Name angezeigt.
 
 
 # Refined Storage - Beginner
