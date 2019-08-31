@@ -344,52 +344,52 @@ academy.introfinish.reward=Teleporte para o Overworld
 
 #Introdução
 
-academy.overworld.title=Let The Games Begin!
-academy.overworld.desc=Start the pack for real
-academy.overworld.text=Now that you've completed the school, you can start playing the pack in earnest.
-academy.overworld.reward=Read JourneyMap tutorial
+academy.overworld.title=Que os jogos comecem!
+academy.overworld.desc=Comece o modpack de verdade
+academy.overworld.text=Agora que você terminou a escola, você pode começar a jogar o pack a sério.
+academy.overworld.reward=Leia o tutorial do JourneyMap
 
-academy.timber.title=Timberrrr!
-academy.timber.desc=Get some wood
-academy.timber.text1=Go chop down a tree. Any tree will do, this quest will accept 4 of any wooden log.
-academy.timber.text2=You've probably noticed that trees look a lot different. Read "The World" in the Guide book to see everything about what's different about the world with mods.
-academy.timber.task=4x any Log
+academy.timber.title=Madeiraaa!
+academy.timber.desc=Pegue um pouco de madeira das árvores
+academy.timber.text1=Vá cortar uma árvore. Qualquer árvore é boa, esta missão vai irá precisar de 4 de qualquer tronco de madeira.
+academy.timber.text2=Você provavelmente já percebeu que as árvores parecem muito diferente. Leia "The World" no Livro de Guia para ver tudo sobre o que é diferente sobre o mundo com mods.
+academy.timber.task=4 Troncos de qualquer árvore
 
-academy.tinkering.title=Tinkering
-academy.tinkering.desc=Make the required Tinkers' Construct blocks
-academy.tinkering.text=These blocks are required to make fancy tools from Tinkers' Construct!
-academy.tinkering.text2=Read the "Making Tools" section of the Tinkers' Construct page in the Guide for information on how they work.
+academy.tinkering.title=Vamos construir Tinker!
+academy.tinkering.desc=Faça os blocos necessários do Tinker's Construct
+academy.tinkering.text=Esses blocos são necessários para criar ferramentas sofisticadas do Tinker's Construct!
+academy.tinkering.text2=Leia a seção "Making Tools" da página Tinker's Construct no Guia para obter informações sobre como eles funcionam.
 
-academy.smeltery.title=Hot Stuff
-academy.smeltery.desc=Construct a Smeltery
-academy.smeltery.text1=The Smeltery allows you to melt metals in order to make metal tool parts, blocks, ingots, and other items.
-academy.smeltery.text2=These blocks are required to make a Smeltery that has 9 internal blocks.
+academy.smeltery.title=Assunto Quente!
+academy.smeltery.desc=Construa uma Smeltery
+academy.smeltery.text1=O Smeltery permite derreter metais, a fim de fazer ferramentas de metal, blocos, lingotes e outros itens.
+academy.smeltery.text2=Esses blocos são necessários para fazer uma Smeltery que possui 9 blocos internos.
 
-academy.pickaxe.title=Time to Mine
-academy.pickaxe.desc=Make a Tinkers' Construct Pickaxe
-academy.pickaxe.text1=Pickaxes from Tinkers' Construct are best made early on, because as you use them they gain experience which can be used for more modifiers down the line.
-academy.pickaxe.text2=This quest can accept a Pickaxe using any combination of parts.
-academy.pickaxe.task=Any Tinkers' Pickaxe
+academy.pickaxe.title=Está na hora de Minerar!
+academy.pickaxe.desc=Construa uma Picareta na Tinker's Construct
+academy.pickaxe.text1=Picaretas do Tinker's Construct! são as melhores ferramentas feitas no início, porque, conforme você as utiliza, elas ganham experiência, para que você possa melhorá-las.
+academy.pickaxe.text2=Essa missão necessita de uma Picareta usando qualquer combinação de peças do Tinker's Construct.
+academy.pickaxe.task=Qualquer picareta do Tinker's Construct
 
-academy.toolforge.title=Forging Onward
-academy.toolforge.desc=Make a Tool Forge
-academy.toolforge.text1=The Tool Forge can make every Tinkers' Construct tool.
-academy.toolforge.text2=This quest will accept a Tool Forge made of any material.
-academy.toolforge.task=Any Tool Forge
+academy.toolforge.title=Continuando o forjamento
+academy.toolforge.desc=Construa uma Forja de Ferramenta
+academy.toolforge.text1=A Forja de Ferramenta pode fazer todas as ferramentas do Tinker's Construct.
+academy.toolforge.text2=Essa missão necessita uma Forja de Ferramentas feita de qualquer material.
+academy.toolforge.task=Qualquer Forja de Ferramenta do Tinker's Construct
 
-academy.bonsai.title=Happy Little Trees
-academy.bonsai.desc=Make a Bonsai Pot
-academy.bonsai.text1=The Bonsai Pot will grow whatever sapling you put into it over time, granted it has the correct soil under it. Harvest it by right clicking it with an Axe.
-academy.bonsai.text2=You can craft it into a Hopping Bonsai Pot, and it will automatically chop itself and put the drops into the inventory directly beneath it.
+academy.bonsai.title=Pequenas Árvores Felizes
+academy.bonsai.desc=Faça um Vaso de Bonsai
+academy.bonsai.text1=O Vaso de Bonsai vai crescer qualquer broto que você colocar nele ao longo do tempo, desde que você tenha colocado o solo correto. Colha-o clicando com o botão direito do mouse com o machado na mão.
+academy.bonsai.text2=Você pode transformá-lo em um Vaso de Bonsai Colhedor, para colher a árvore automaticamente e colocará os blocos no Baú de armazenamento abaixo dela.
 
-academy.ores.title=Diggy Diggy Hole
-academy.ores.desc=Mine for Ores
-academy.ores.text1=Get 16 ore from Vanilla and Thermal Foundation each.
-academy.ores.text2=You can hold the Excavate key (` by default, to the left of the 1 key) and then mine a block to mine all the surrounding blocks of the same type. This uses durability from the tool as if you'd mined it all one by one and also takes a lot of hunger when you use it.
-academy.ores.text3=The item task will scroll through all items that it accepts, and you need a combined 16 of any of them for the task to complete. You can also click the Task to see what items it accepts.
-academy.ores.text4=Once you've gotten a good amount of materials, you should look towards the Technology quests and guide.
-academy.ores.vanillatask=16x Vanilla ores
-academy.ores.thermaltask=16x Thermal Foundation ores
+academy.ores.title=Pequenos buracos, sempre pequenos buracos
+academy.ores.desc=Mina para Minérios
+academy.ores.text1=Colete 16 minérios da Vanilla e da Thermal Foundation de cada.
+academy.ores.text2=Você pode segurar a tecla (` por padrão, à esquerda da tecla 1) do mod Excavate e, em seguida, depois minere um bloco com uma Picareta para minerar todos os blocos em torno do de você do mesmo tipo. Este mod usa a durabilidade da ferramenta como se você tivesse extraído tudo um por um e também muita fome, quando você usá-lo.
+academy.ores.text3=A incumbência da ação percorrerá todos os itens aceitos, e combinará 16 de qualquer objeto para concluir a Tarefa. Você também pode clicar no serviço para ver os itens que ele aceita.
+academy.ores.text4=Uma vez que você tenha obtido uma boa quantidade de materiais, você deve observar as Missões e guia de Tecnologia.
+academy.ores.vanillatask=16x Minérios de Vanilla
+academy.ores.thermaltask=16x Minérios do Thermal Foundation
 
 academy.seedyplace.title=Agricultural Revolution
 academy.seedyplace.desc=Harvest crops
