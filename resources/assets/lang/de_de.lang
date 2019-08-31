@@ -466,7 +466,7 @@ academy.chestupgrade.title=Tiefere Taschen
 academy.chestupgrade.desc=Stelle ein Eisen-zu-Goldtruhen-Upgrade her
 academy.chestupgrade.text=Kisten-Upgrades (Verbesserungen) erlauben dir, die Kiste zu verbessern, ohne sie abbauen zu müssen. Du musst einfach mit dem "Upgrade" auf die entsprechende Kiste rechtsklicken.
 
-academy.endertank.title=Wasserdicht
+academy.endertank.title=Wassertresor
 academy.endertank.desc=Stelle einen Endertank her
 academy.endertank.text1=Endertanks synchronisieren immer ihren Inhalt mit allen anderen Endertanks mit der selben Farbeinstellung. Nutze einen Farbstoff auf einer der drei weißen Boxen auf der Oberseite des Tanks.
 academy.endertank.text2=Du kannst Endertanks auch personalisieren, indem du einen Diamant auf sein Ventil anwendest. Persönliche Endertanks verbinden sich NUR mit den persönlichen Endertanks der SELBEN Person.
@@ -677,52 +677,52 @@ academy.xpteleporter.text3=Teleporter werden die Koordinaten des verbundenen Tel
 
 # Refined Storage - Beginner
 
-academy.controller.title=Think Tank
-academy.controller.desc=Make a Controller
-academy.controller.text1=The Controller is the heart and brain of a Refined Storage system.
-academy.controller.text2=Every block in the system must be connected to the Controller in some way, either with Cables or just touching it directly.
-academy.controller.text3=The Refined Storage system is powered using RF by piping it into the Controller.
-academy.controller.text4=You can only have one Controller per system.
+academy.controller.title=Der KERN
+academy.controller.desc=Stelle einen Kontrollblock her
+academy.controller.text1=Der Kontrollblock ist Kopf und Herz eines jeden "Refined Storage" Systems.
+academy.controller.text2=Jeder Block, der dem System angehören soll, muss an den Kontrollblock angrenzen, sei es über Kabel, direkt oder andere Blöcke.
+academy.controller.text3=Der Kontrollblock muss an eine RF Stromversorgung angeschlossen sein.
+academy.controller.text4=Und wer hätt's gedacht: Es darf nur einen Chef im System geben.
 
-academy.diskdrive.desc=Make a Disk Drive
-academy.diskdrive.text=Disk Drives store Storage Disks, which store items. You can have up to 10 Storage Disks in the Disk Drive.
+academy.diskdrive.desc=Stelle ein Laufwerk her
+academy.diskdrive.text=Laufwerke können bis zu 10 Speicherzellen beinhalten.
 
-academy.storagedisk.title=Don't Copy That Floppy
-academy.storagedisk.desc=Make a Storage Disk
-academy.storagedisk.text1=Storage Disks digitally store more items. Higher tiers store more items.
-academy.storagedisk.text2=The 1k Storage Disk can hold 1,000 items, the 4K Storage Disk can hold 4,000 items, and so on.
-academy.storagedisk.task=Any Storage Disk
+academy.storagedisk.title=Kopierverbot!
+academy.storagedisk.desc=Stelle eine Speicherzelle her
+academy.storagedisk.text1=Speicherzellen speichern je nach Stufe mehr oder weniger Items.
+academy.storagedisk.text2=Die 1k Speicherzelle kann bis zu 1000, die 4k Zelle bis zu 400, usw. Items speichern.
+academy.storagedisk.task=Irgendeine Speicherzelle
 
-academy.fluiddisk.title=Waterproof
-academy.fluiddisk.desc=Make a Fluid Storage Disk
-academy.fluiddisk.text1=Fluid Storage Disks work like regular Storage Disks, but they store fluids instead of items.
-academy.fluiddisk.text2=A 64k Fluid Storage Disk can store 64,000mB of fluid, a 256k Fluid Storage Disk can store 256,000mB of fluid, and so on.
-academy.fluiddisk.task=Any Fluid Storage Disk
+academy.fluiddisk.title=Wasserdicht
+academy.fluiddisk.desc=Stelle eine Flüssigspeicherzelle her
+academy.fluiddisk.text1=Flüssigspeicherzellen funktionieren, wie normale Speicherzellen, nur dass sie Flüssigkeiten speichern können.
+academy.fluiddisk.text2=Eine 64k Zelle kann 64000mB (milliBuckets) speichern, eine 256k Zelle 256000mB speichern, usw.
+academy.fluiddisk.task=Irgendeine Flüssigspeicherzelle
 
-academy.grid.title=Enter the Grid
-academy.grid.desc=Make a Grid
-academy.grid.text=The Grid is where you can manually interact with your storage system. Connect it to the system and give it power, and you can use it like you would any other chest.
+academy.grid.title=In die Matrix
+academy.grid.desc=Stelle eine Konsole her
+academy.grid.text=Die Konsole ist der Zugriffspunkt auf deine Items. Schalte das System ein, und du kannst sie, wie eine normale Kiste benutzen.
 
-academy.craftinggrid.desc=Make a Crafting Grid
-academy.craftinggrid.text=The Crafting Grid is an upgraded version of the Grid. It works exactly the same, except it has a 3x3 crafting table built in to it.
+academy.craftinggrid.desc=Stelle eine Fertigungskonsole her
+academy.craftinggrid.text=Die Fertigungskonsole ist wie eine normale Konsole mit eingebauter Werkbank.
 
-academy.fluidgrid.desc=Make a Fluid Grid
-academy.fluidgrid.text1=The Fluid Grid works like a normal Grid, except it shows fluids instead of items.
-academy.fluidgrid.text2=Drag and drop a full fluid container (like a Bucket) into the menu to empty it into the system. You can also click it while holding sneak.
-academy.fluidgrid.text3=Click a fluid in the system while you have an empty Bucket in your inventory or the system to fill it with that fluid.
+academy.fluidgrid.desc=Stelle eine Flüssigkeitskonsole her
+academy.fluidgrid.text1=Die Flüssigkeitskonsole ist eine Konsole, die Flüssigkeiten statt Items anzeigt.
+academy.fluidgrid.text2=Du kannst damit Flüssigkeitenbehälter in dein System leeren, oder sie aus deinem System füllen.
+academy.fluidgrid.text3=
 
-academy.cable.desc=Make Cables
-academy.cable.text=Cables are used to connect devices to the Controller.
+academy.cable.desc=Stelle Kable her
+academy.cable.text=Kabel werden benutzt, um Geräte an den Kontrollblock anzuschließen.
 
 academy.io.title=I/O
-academy.io.desc=Make an Importer and an Exporter
-academy.io.text1=An Importer will pull items from the inventory it is placed on and insert them into the RS system.
-academy.io.text2=An Exporter will push specified items into the inventory it is placed on from the RS system.
+academy.io.desc=Stelle einen Importierer und einen Exportierer her
+academy.io.text1=Ein Importierer importiert Items in dein RS (Refined Storage) System.
+academy.io.text2=Ein Exportierer exportiert Items aus deinem RS System.
 
-academy.extstorage.title=Backwards Compatible
-academy.extstorage.desc=Make an External Storage
-academy.extstorage.text1=Place the External Storage on an inventory and its contents will appear in the system.
-academy.extstorage.text2=If the External Storage has a higher priority than other storage blocks, like the Disk Drive, items will try to go into that inventory first.
+academy.extstorage.title=Rückwärtskompatiblität
+academy.extstorage.desc=Stelle einen Externen Speicher her
+academy.extstorage.text1=Platziere einen Externen Speicher an einen Block, und sein Inhalt wird in seinem System angezeigt.
+academy.extstorage.text2=Wenn ein Externer Speicher einere höhere Priorität als ein Laufwerk hat, werden Items priorisiert ausgelagert.
 
 # Refined Storage - Advanced
 
