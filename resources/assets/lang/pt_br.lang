@@ -1,6 +1,6 @@
-# Chapters
+# Capítulos
 
-academy.gettingstarted.title=Iniciando
+academy.gettingstarted.title=Introdução
 academy.building.title=Construção
 
 academy.basics.title=Básico
@@ -25,7 +25,7 @@ academy.misc.title=Missões Diversas
 academy.clickthis.task=Clique aqui
 
 
-#Reward Tables
+#Tabelas de recompensa
 academy.ticonmodifiers.rewards=Modificador de TiCon
 academy.ticonmodifiers.lapisreward=Modificador de fortuna
 academy.ticonmodifiers.redstonereward=Modificador de velocidade
@@ -134,7 +134,7 @@ academy.pinklens.reward=Regeneração
 academy.bluelens.reward=Empurrar
 academy.purplelens.reward=Espectral
 
-#Advancements
+#Avanços
 
 academy.advancements.root.title=Bem vindo ao FTB Academy!
 academy.advancements.root.description=Comece a jogar o modpack.
@@ -158,7 +158,7 @@ academy.advancements.graduated.title=PhD em FTB Academy.
 academy.advancements.graduated.description=Complete a escola e continue para o Overworld.
 
 
-#Basics
+#Noções básicas
 
 academy.welcome.title=Bem vindo ao FTB Academy!
 academy.welcome.desc=Aprenda como as missões funcionam!
@@ -342,7 +342,7 @@ academy.introfinish.desc=Vá para o Overworld
 academy.introfinish.text=Agora que você concluiu todos os tutoriais, pode ir para o Overworld e começar a jogar de verdade!
 academy.introfinish.reward=Teleporte para o Overworld
 
-#Getting Started
+#Introdução
 
 academy.overworld.title=Let The Games Begin!
 academy.overworld.desc=Start the pack for real
