@@ -726,46 +726,46 @@ academy.extstorage.text2=Wenn ein Externer Speicher einere höhere Priorität al
 
 # Refined Storage - Advanced
 
-academy.patterngrid.desc=Make a Pattern Grid
-academy.patterngrid.text1=The first step to automatic crafting is the Pattern Grid.
-academy.patterngrid.text2=Place one down and give it a Pattern, and input the recipe you want to be able to autocraft.
-academy.patterngrid.text3=If it isn't a regular crafting recipe (that is, if it isn't done in a 3x3 crafting grid, like smelting), check the Processing box.
-academy.patterngrid.text4=If you want it to use the Ore Dictionary (like being able to use any Planks to make a Chest), check the OreDic box.
+academy.patterngrid.desc=Stelle eine Vorlagenkonsole her
+academy.patterngrid.text1=Der erste Schritt in Richtung 'Autocrafting' ist die Vorlagenkonsole.
+academy.patterngrid.text2=Du kannst mit ihr Craftingrezepte auf Vorlagen speichern.
+academy.patterngrid.text3=Wenn es kein reguläres 3x3 Rezept ist, musst du die 'Verarbeitungs'-Box anklicken.
+academy.patterngrid.text4=Wenn du OreDictionary aktivieren willst (dass du z.B. irgendwelche Holzplanken für eine Kiste benutzen kannst), klicke die entsprechende Box an.
 
-academy.crafter.desc=Make a Crafter
-academy.crafter.text1=Place Patterns into a Crafter and you will be able to craft those recipes from your Grid.
-academy.crafter.text2=You can point the Crafter at a machine (like a Furnace) and processing recipes will try to use the machine. For processing recipes, you likely will have to use an Importer to take the finished product out of the machine.
+academy.crafter.desc=Fertige einen Fertiger
+academy.crafter.text1=Platziere Vorlagen in einem Fertiger, und er wird die entsprechenden Items herstellen können.
+academy.crafter.text2=Du kannst einen Fertiger auch auf eine Maschine ausrichten (wie z.B. einen Ofen), um Verarbeitungsrezepte von der Maschine herstellen zu lasssen. Meistens wird auch noch ein Importierer benötigt, um das Hergestellte Item ins System zu importieren.
 
-academy.craftmanager.desc=Make a Crafter Manager
-academy.craftmanager.text1=The Crafter Manager lists all Crafters in the system and what they're attached to, as well as showing the patterns inside them.
-academy.craftmanager.text2=You can rename Crafters to change what they show up as in the Crafter Manager.
+academy.craftmanager.desc=Stelle einen Fertigungsmanager her
+academy.craftmanager.text1=Der Fertigugnsmanager zeigt alle ans System angeschlossenen Fertiger und deren inhalt (Vorlagen) an.
+academy.craftmanager.text2=Du kannst Fertiger umbenennen, um den Anzeigenamen im Fertigungsmanager zu ändern.
 
-academy.craftmonitor.desc=Make a Crafting Monitor
-academy.craftmonitor.text=The Crafting Monitor will show a list of all crafting operations currently in progress in the system.
+academy.craftmonitor.desc=Stelle einen Fertigungsmonitor her
+academy.craftmonitor.text=Der Fertigungsmonitor zeigt alle laufenden Craftingoperationen an.
 
-academy.portablegrid.desc=Make a Portable Grid
-academy.portablegrid.text1=The Portable Grid acts like its own tiny RS system.
-academy.portablegrid.text2=Open it up and place a Storage Disk (fluid or item) in the top right slot, and you can use it is a kind of digital backpack.
+academy.portablegrid.desc=Stelle eine Mobile Konsole her
+academy.portablegrid.text1=Die Mobile Konsole funktioniert wie ein eigenes, kleines RS System.
+academy.portablegrid.text2=Öffne sie und platziere eine Speicherzelle im Platz oben-rechts. Nun kannst du sie als eine Art digitalen Rucksack nutzen.
 
 # Refined Storage - Expert
 
-academy.network.title=Long Distance Relationship
-academy.network.desc=Make a Network Transmitter, Receiver, and Card
-academy.network.text1=You can use the Network Transmitter, Receiver, and Card to wirelessly connect to your RS system with blocks over long distances.
-academy.network.text2=Place the Wireless Transmitter at your main system, a Wireless Receiver at the location you want to access it, and then sneak click a Network Card on the Receiver to link it. Insert the linked Network Card into the Transmitter to connect them.
-academy.network.text3=All components must be chunk loaded to work.
+academy.network.title=Fernbeziehung
+academy.network.desc=Stelle Netzwerksender, -empfänger und -karte her
+academy.network.text1=Du kannst diese Blöcke nutzen, um zwei Teile eines RS Systems über lange Distanzen zu verbinden.
+academy.network.text2=Platziere den Netzwerksender an deinem Hauptsystem, einen Netzwerkempfänger, wo du darauf zugreifen willst. Um die beiden Blöcke zu verbinden, musst du den Empfänger mit einer Netzwerkkarte SHIFT (ggf. Schleichen) + Rechtsklicken und diese dann in den Netzwerksender legen.
+academy.network.text3=Alle Blöcke müssen sich in geladenen Chunks befinden!
 
-academy.wirelesstransmitter.desc=Make a Wireless Transmitter
-academy.wirelesstransmitter.text1=Place a Wireless Transmitter on a Cable, and you'll be able to access it from Wireless Grids within 16 blocks.
-academy.wirelesstransmitter.text2=If you want to wirelessly access the system from farther away, place more Wireless Transmitters where you want to access it from or use Range Upgrades.
+academy.wirelesstransmitter.desc=Stelle einen Funksender her
+academy.wirelesstransmitter.text1=Platziere einen Funksender auf ein Kabel, und du wirst mit einer Mobilen Konsole auf dein System in einem 16 Block Radius zugreifen zu können.
+academy.wirelesstransmitter.text2=Wenn due den Radius erhöhen willst, kannst du Reichweitenupgrades einsetzen.
 
-academy.wirelesscraftinggrid.desc=Make a Wireless Crafting Grid
-academy.wirelesscraftinggrid.text1=The Wireless Crafting Grid works exactly like a Crafting Grid, except wireless.
-academy.wirelesscraftinggrid.text2=To bind it to the system, sneak right click it on the Controller.
+academy.wirelesscraftinggrid.desc=Stelle ein "Wireless Crafting Grid" (Kabellose Fertigungskonsole) her
+academy.wirelesscraftinggrid.text1=Das "Wireless Crafting Grid" ist eben eine Kabellose Fertigungskonsole.
+academy.wirelesscraftinggrid.text2=Um es mit deinem System zu verbinden, musst du mit ihm auf den Kontrollblock deines Systems SHIFT (ggf. Schleichen) + Rechtsklicken.
 
-academy.wirelessfluidgrid.desc=Make a Wireless Fluid Grid
-academy.wirelessfluidgrid.text1=The Wireless Crafting Grid works exactly like a Fluid Grid, except wireless.
-academy.wirelessfluidgrid.text2=To bind it to the system, sneak right click it on the Controller.
+academy.wirelessfluidgrid.desc=Stelle eine Mobile Flüssigkeitskonsole her
+academy.wirelessfluidgrid.text1=Die Mobile Flüssigkeitskonsole ist einfach eine Mobile Flüssigkeitskonsole.
+academy.wirelessfluidgrid.text2=Um es mit deinem System zu verbinden, musst du mit ihm auf den Kontrollblock deines Systems SHIFT (ggf. Schleichen) + Rechtsklicken.
 
 
 # Technology - Beginner
