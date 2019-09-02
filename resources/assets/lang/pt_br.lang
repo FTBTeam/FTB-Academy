@@ -391,56 +391,56 @@ academy.ores.text4=Uma vez que você tenha obtido uma boa quantidade de materiai
 academy.ores.vanillatask=16x Minérios de Vanilla
 academy.ores.thermaltask=16x Minérios do Thermal Foundation
 
-academy.seedyplace.title=Agricultural Revolution
-academy.seedyplace.desc=Harvest crops
-academy.seedyplace.task=Advancement: A Seedy Place
-academy.seedyplace.text1=One of the most important parts of a base is a steady source of food. The easiest way to get food is just by growing it!
-academy.seedyplace.text2=You can right click a fully grown crop to harvest it, automatically replanting the seed.
+academy.seedyplace.title=Revolução agrícola
+academy.seedyplace.desc=Coletar plantas
+academy.seedyplace.task=Progresso: Um Lugar Fértil
+academy.seedyplace.text1=Uma das partes mais importantes de uma base é uma constante fonte de alimentos. A maneira mais fácil de obter comida é apenas cultivá-la!
+academy.seedyplace.text2=Você pode clicar com o botão direito para colher, replantando automaticamente a semente.
 
-academy.beesandbats.title=When a Mommy Mob and a Daddy Mob Love Each Other Very Much
-academy.beesandbats.desc=Breed some mobs
-academy.beesandbats.task=Advancement: The Parrots and the Bats
-academy.beesandbats.text1=Mobs can be a great source of food and other materials.
-academy.beesandbats.text2=There are a lot of ways to automatically breed animals. Mobs will automatically eat food that's been dropped on the ground, so you can automatically breed animals using only a Dispenser.
-academy.beesandbats.text3=You could also make the Automatic Feeder, which will automatically feed mobs in an area around itself using food in its inventory.
+academy.beesandbats.title=Quando dois animais se amam
+academy.beesandbats.desc=Procrie alguns casais de animais
+academy.beesandbats.task=Progresso: Os papagaios e os morcegos
+academy.beesandbats.text1=Os animais podem ser uma ótima fonte de comida e outros materiais.
+academy.beesandbats.text2=Há uma série de maneiras para se reproduzir automaticamente os animais. Os animais vão comer automaticamente um alimento que está caído no chão, para que você possa reproduzir os animais automaticamente utilizando apenas uma Ejetor.
+academy.beesandbats.text3=Você também pode criar um "Alimentador Automático" que alimenta automaticamente os animais com os itens em seu inventário.
 
-academy.chisel.title=Lookin' Good
-academy.chisel.desc=Make a Chisel
-academy.chisel.text1=The Chisel mod adds a ton of decorative versions of blocks.
-academy.chisel.text2=Craft a Chisel, open its menu, and insert a block (like Cobblestone or Dirt) into it to see all the different versions you can make.
-academy.chisel.text3=There are three versions of the Chisel. The Chisel and Diamond Chisel are essentially the same except for the durability. The iChisel is a lot more advanced and has a lot more features.
-academy.chisel.text4=Chisel also adds a bunch of new blocks to decorate your base with. Search JEI for "@Chisel" for a list of them all.
-academy.chisel.task=Any Chisel
+academy.chisel.title=Muitos blocos de decoração
+academy.chisel.desc=Faça uma talhadeira (Chisel) na mesa de criação
+academy.chisel.text1=O Mod de talhadeira (Chisel) adiciona uma tonelada de versões decorativas de blocos.
+academy.chisel.text2=Crie uma talhadeira (Chisel), abra seu menu e insira um bloco (como Pedregulho ou Terra) para ver todas as versões diferentes que você pode fazer desse item.
+academy.chisel.text3=Existem três versões da Talhadeira (Chisel). A Talhadeira (Chisel) e a Talhadeira (Chisel) de Diamante são essencialmente os mesmos, exceto pela durabilidade. A iTalhadeira (iChisel) é muito mais avançado e possui muito mais recursos.
+academy.chisel.text4=A Talhadeira também adiciona um monte de novos blocos para decorar a sua base. Pesquise na JEI "@Chisel" para obter uma lista de todos os blocos que existem ao usar a Talhadeira (Chisel).
+academy.chisel.task=Uma Talhadeira (Chisel)
 
-academy.builderswands.title=Better Building
-academy.builderswands.desc=Make a Builder's Wand
-academy.builderswands.text1=Builder's Wands allow you to place multiple blocks at the same time quickly. 
-academy.builderswands.text2=Hold one in your hand, look at a block and you can right click to place that block on connected surfaces wherever you see a white outline.
-academy.builderswands.text3=Each tier can place more blocks at a time. The Stone and Iron Wands can only place blocks horizontally, but Diamond and above can place on the top and bottom of blocks too.
-academy.builderswands.task=Any Builder's Wand
+academy.builderswands.title=Melhor construção
+academy.builderswands.desc=Faça a Varinha do Construtor
+academy.builderswands.text1=As Varinhas do Construtor permitem que você coloque vários blocos ao mesmo tempo rapidamente.
+academy.builderswands.text2=Mantenha uma Varinha na sua mão e olhe para um bloco; Clique com o botão direito do mouse agora para colocar os blocos do mesmo tipo nas superfícies adjacentes dos blocos (e, é claro, o próprio bloco). Para ajudar é fornecida marcações brancas ao lado.
+academy.builderswands.text3=Cada nível da Varinha pode colocar mais blocos que o nível anterior ao mesmo tempo. As varinhas de Pedra e Ferro só podem colocar blocos horizontalmente, mas a Varinha de Diamante, pode colocar na parte superior e inferior dos blocos.
+academy.builderswands.task=Uma Varinha qualquer
 
-academy.naturescompass.title=Location, Location, Location
-academy.naturescompass.desc=Make a Nature's Compass
-academy.naturescompass.text1=Finding a nice spot to settle down is one of the most important parts of building a nice base. The Nature's Compass will help you find a specific biome to live in.
-academy.naturescompass.text2=To select a biome, right click the Nature's Compass and then find and click the biome out of the list. You can click Search to find the nearest instance of that biome or click Info to see information about that biome.
+academy.naturescompass.title=X, Y, Z
+academy.naturescompass.desc=Faça uma Bússola da Natureza
+academy.naturescompass.text1=Encontrar um local agradável para se estabelecer é uma das partes mais importantes da construção de uma base legal. A Bússola da Natureza quer ajudá-lo a encontrar um bioma específico para se viver.
+academy.naturescompass.text2=Para selecionar um bioma, clique com o botão direito do mouse na Bússola da Natureza e, em seguida, localize e clique no bioma fora da lista. Você pode clicar em Pesquisar para localizar a instância mais próxima desse bioma ou clicar em Informações para ver informações sobre esse bioma.
 
-academy.slimesling.title=Like an Eagle Piloting a Blimp
-academy.slimesling.desc=Make a Slime Sling and Slime Boots
-academy.slimesling.text1=When you charge the Slimesling and release while looking at the ground, you will be flung violently in the opposite direction.
-academy.slimesling.text2=You will bounce when landing while wearing Slime Boots, negating all fall damage. This makes them very useful to use in tandem with the Slimesling.
-academy.slimesling.text3=You can sneak to prevent yourself from bouncing, although you will get fall damage as normal.
-academy.slimesling.task1=Any Slimesling
-academy.slimesling.task2=Any Slime Boots
+academy.slimesling.title=Como uma águia pilotando um dirigível
+academy.slimesling.desc=Faça um Estilingue de Gosma e uma Bota de Gosma
+academy.slimesling.text1=Ao carregar o Estilingue de Gosma e soltar enquanto olha para o chão, você será atirado violentamente na direção oposta.
+academy.slimesling.text2=Você será jogado de volta ao ar no pouso, como uma bola de borracha quando estiver utilizando as Botas de Gosma. Você também não receberá nenhum dano de queda. Portanto, faz sentido usar as Botas de gosma ao utilizar o Estilingue de Gosma.
+academy.slimesling.text3=Você pode manter o agachar pressionado para permanecer no chão após o pouso, mas você receberá dano de queda.
+academy.slimesling.task1=Um Estilingue de Gosma qualquer
+academy.slimesling.task2=Botas de Gosma qualquer
 
-academy.simplybackpacks.title=Packback
-academy.simplybackpacks.desc=Make a Common Backpack
-academy.simplybackpacks.text1=Backpacks store items in their inventories, each tier holding more than the last.
-academy.simplybackpacks.text2=There's an optional keybind you can set that allows you to open the Backpack from anywhere in your inventory, including the Bauble slot (which you access from the ring button at the top right of your player portrait in your inventory).
-academy.simplybackpacks.text3=There's another optional keybind that you can set that allows you to toggle item auto-pickup; when enabled, items will go straight to the backpack when picked up. You can hold sneak and right click the Backpack to set a whitelist or a blacklist.
-academy.simplybackpacks.task=Any Backpack
+academy.simplybackpacks.title=Puxa Saco
+academy.simplybackpacks.desc=Faça uma mochila comum
+academy.simplybackpacks.text1=Mochilas armazenam itens em seu inventário, com níveis mais altos, eles armazenam mais coisas.
+academy.simplybackpacks.text2=Você pode definir um atalho de teclado opcional que permite abrir a mochila de qualquer lugar do seu inventário. O inventário de Bugiganga (Bauble), que você pode acessar através do pequeno anel no canto superior direito dos retratos de seus jogadores, também é válido.
+academy.simplybackpacks.text3=Há uma outra tecla de atalho opcional que você pode definir, que permite alternar a coleta automática de itens; Quando ativado, os itens vão direto para a mochila quando pegados. Você pode segurar o agachar e clicar com o botão direito do mouse na mochila para definir uma Lista Branca ou uma Lista Negra dos itens.
+academy.simplybackpacks.task=Uma Mochila qualquer
 
 
-# Basic Storage
+# Armazenamento básico
 
 academy.storagedrawers.title=Compact Storage
 academy.storagedrawers.desc=Make any Drawer
