@@ -1,6 +1,6 @@
 # Chapters
 
-academy.gettingstarted.title=Bien débuter
+academy.gettingstarted.title=Bien dÃ©buter
 academy.building.title=Construction
 
 academy.basics.title=Basiques
@@ -11,16 +11,16 @@ academy.twilightforest.title=Twilight Forest
 
 academy.mainstorage.title=Stockage
 academy.storage1.title=Stockage basique
-academy.refinedstorage1.title=Refined Storage - Débutant
-academy.refinedstorage2.title=Refined Storage - Confirmé
+academy.refinedstorage1.title=Refined Storage - DÃ©butant
+academy.refinedstorage2.title=Refined Storage - ConfirmÃ©
 academy.refinedstorage3.title=Refined Storage - Expert
 
 academy.maintechnology.title=Technologie
-academy.technology1.title=Technology - Débutant
-academy.technology2.title=Technology - Confirmé
+academy.technology1.title=Technology - DÃ©butant
+academy.technology2.title=Technology - ConfirmÃ©
 academy.technology3.title=Technology - Expert
 
-academy.misc.title=Quêtes diverses
+academy.misc.title=QuÃªtes diverses
 
 academy.clickthis.task=Cliquez-moi
 
@@ -31,32 +31,32 @@ academy.ticonmodifiers.lapisreward=Modificateur de chance
 academy.ticonmodifiers.redstonereward=Modificateur de vitesse
 
 academy.ores.rewards=Minerais
-academy.mysticalpetals.rewards=Pétales mystiques
-academy.mobmasher.rewards=Modificateurs de Broyeur à Créatures
-academy.manamats.rewards=Matériaux Mana
-academy.elfmats.rewards=Matériaux Elfiques
+academy.mysticalpetals.rewards=PÃ©tales mystiques
+academy.mobmasher.rewards=Modificateurs de Broyeur Ã  CrÃ©atures
+academy.manamats.rewards=MatÃ©riaux Mana
+academy.elfmats.rewards=MatÃ©riaux Elfiques
 academy.ingots.rewards=Lingots
 academy.scepters.rewards=Sceptres
 academy.TFfirethings.rewards=Trucs en feux
 academy.fluiducts.rewards=Fluiducts
 academy.itemducts.rewards=Itemducts
 academy.iflenses.rewards=Lentilles pour Laser
-academy.passivemobs.rewards=Créatures Passives
-academy.impulseitemducts.rewards=Itemducts à Impulsion
-academy.signalumitemducts.rewards=Itemducts plaqués Signalum
-academy.signalumimpulse.rewards=Itemducts à Impulsion plaqués Signalum
-academy.hardenedfluiducts.rewards=Fluiducts renforcés
-academy.signalumfluiducts.rewards=Fluiducts plaqués Signalum
+academy.passivemobs.rewards=CrÃ©atures Passives
+academy.impulseitemducts.rewards=Itemducts Ã  Impulsion
+academy.signalumitemducts.rewards=Itemducts plaquÃ©s Signalum
+academy.signalumimpulse.rewards=Itemducts Ã  Impulsion plaquÃ©s Signalum
+academy.hardenedfluiducts.rewards=Fluiducts renforcÃ©s
+academy.signalumfluiducts.rewards=Fluiducts plaquÃ©s Signalum
 academy.laminarfluiducts.rewards=Fluiducts super-laminaires
 academy.elevators.rewards=Ascenseur
 academy.meats.rewards=Viandes
-academy.rangeaddons.rewards=Modificateur de portée
+academy.rangeaddons.rewards=Modificateur de portÃ©e
 
-academy.swordenchants1.rewards=Enchantements d'épée 1
+academy.swordenchants1.rewards=Enchantements d'Ã©pÃ©e 1
 academy.looting1.reward=Pillage II
 academy.sharpness1.reward=Tranchant III
 
-academy.swordenchants2.rewards=Enchantements d'épée 2
+academy.swordenchants2.rewards=Enchantements d'Ã©pÃ©e 2
 academy.looting2.reward=Pillage IV
 academy.sharpness2.reward=Tranchant VI
 
@@ -72,15 +72,15 @@ academy.prot1.reward=Protection II
 academy.fireprot1.reward=Protection contre le Feu III
 academy.blastprot1.reward=Protection contre les Explosions III
 academy.projprot1.reward=Protection contre les Projectiles III
-academy.thorns1.reward=Épines II
+academy.thorns1.reward=Ã‰pines II
 
 academy.helmenchants1.rewards=Enchantements de Casque 1
-academy.aquaaffin1.reward=Affinité Aquatique
+academy.aquaaffin1.reward=AffinitÃ© Aquatique
 academy.resp1.reward=Respiration II
 
 academy.chestenchants1.rewards=Enchantements de Plastron
 
-academy.legenchants1.rewards=Enchantements de Jambières
+academy.legenchants1.rewards=Enchantements de JambiÃ¨res
 
 academy.bootenchants1.rewards=Enchantements de Bottes 1
 academy.depthstr1.reward=Marcheur des Profondeurs II
@@ -91,13 +91,13 @@ academy.prot2.reward=Protection IV
 academy.fireprot2.reward=Protection contre le Feu V
 academy.blastprot2.reward=Protection contre les Explosions V
 academy.projprot2.reward=Protection contre les Projectiles V
-academy.thorns2.reward=Épines IV
+academy.thorns2.reward=Ã‰pines IV
 
 academy.helmenchants2.rewards=Enchantements de Casque 2
 
 academy.chestenchants2.rewards=Enchantements de Plastron 2
 
-academy.legenchants2.rewards=Enchantement de Jambières 2
+academy.legenchants2.rewards=Enchantement de JambiÃ¨res 2
 
 academy.bootenchants2.rewards=Enchantements de Bottes 2
 academy.depthstr2.reward=Marcheur des Profondeurs IV
@@ -125,22 +125,22 @@ academy.gelu.reward=Gelu
 academy.ulteria.reward=Ulteria
 academy.vorux.reward=Vorux
 
-academy.coloredlenses.rewards=Lentilles Colorées
+academy.coloredlenses.rewards=Lentilles ColorÃ©es
 academy.orangelens.reward=Allumage
 academy.yellowlens.reward=Brisage
 academy.greenlens.reward=Croissance
-academy.redlens.reward=Dégâts
-academy.pinklens.reward=Régénération
+academy.redlens.reward=DÃ©gÃ¢ts
+academy.pinklens.reward=RÃ©gÃ©nÃ©ration
 academy.bluelens.reward=Pousser
 academy.purplelens.reward=Spectral
 
 #Advancements
 
-academy.advancements.root.title=Bienvenue dans l'Académie FTB !
-academy.advancements.root.description=Commencer à jouer au pack de mods.
+academy.advancements.root.title=Bienvenue dans l'AcadÃ©mie FTB !
+academy.advancements.root.description=Commencer Ã  jouer au pack de mods.
 
 academy.advancements.storage.title=Certificat en Stockage
-academy.advancements.storage.description=Apprendre les différentes méthodes de stockage des mods.
+academy.advancements.storage.description=Apprendre les diffÃ©rentes mÃ©thodes de stockage des mods.
 
 academy.advancements.automation.title=Certificat en Automatisation
 academy.advancements.automation.description=Apprendre comment l'automatisation fonctionne.
@@ -155,35 +155,35 @@ academy.advancements.botania.title=Certificat en Botanique
 academy.advancements.botania.description=Apprendre comment utiliser Botania.
 
 academy.advancements.graduated.title=Doctorat
-academy.advancements.graduated.description=Terminer l'école et continuer dans l'Overworld.
+academy.advancements.graduated.description=Terminer l'Ã©cole et continuer dans l'Overworld.
 
 
 #Basics
 
-academy.welcome.title=Bienvenue dans l'Académie FTB !
-academy.welcome.desc=Apprendre comment les quêtes fonctionnent
-academy.welcome.text1=Bienvenue dans l'Académie FTB !
-academy.welcome.text2=Ce pack de mods a pour but d'apprendre aux nouveaux joueurs comment jouer à Minecraft moddé.
-academy.welcome.text3=Ces quêtes vous guideront pas-à-pas sur la façon de progresser dans les mods les plus communs. Cela fonctionne mieux avec le Guide, qui contiendra davantage d'informations sur le fonctionnement des mods.
-academy.welcome.reward=Lire le tutoriel de l'École
+academy.welcome.title=Bienvenue dans l'AcadÃ©mie FTB !
+academy.welcome.desc=Apprendre comment les quÃªtes fonctionnent
+academy.welcome.text1=Bienvenue dans l'AcadÃ©mie FTB !
+academy.welcome.text2=Ce pack de mods a pour but d'apprendre aux nouveaux joueurs comment jouer Ã  Minecraft moddÃ©.
+academy.welcome.text3=Ces quÃªtes vous guideront pas-Ã -pas sur la faÃ§on de progresser dans les mods les plus communs. Cela fonctionne mieux avec le Guide, qui contiendra davantage d'informations sur le fonctionnement des mods.
+academy.welcome.reward=Lire le tutoriel de l'Ã‰cole
 
 academy.introJEI.title=Recherche d'Objets et de Recettes
-academy.introJEI.desc=Apprendre à utiliser JEI
-academy.introJEI.text1=Minecraft moddé propose beaucoup de nouveaux blocs et d'objets, ainsi il est difficile de se souvenir de toutes les recettes de craft. Heureusement, le mod "Just Enough Items" simplifie tout ça !
-academy.introJEI.text2=Sur le côté droit de l'inventaire se trouve une liste de tous les blocs et objets du pack de mods. Passer son curseur sur l'un d'eux et appuyer sur R affichera sa recette, et appuyer sur U affichera quelles recettes l'utilisent.
-academy.introJEI.text3=En bas de l'inventaire se trouve une barre de recherche, où vous pouvez entrer le nom d'un objet pour filtrer la liste d'objets.
+academy.introJEI.desc=Apprendre Ã  utiliser JEI
+academy.introJEI.text1=Minecraft moddÃ© propose beaucoup de nouveaux blocs et d'objets, ainsi il est difficile de se souvenir de toutes les recettes de craft. Heureusement, le mod "Just Enough Items" simplifie tout Ã§a !
+academy.introJEI.text2=Sur le cÃ´tÃ© droit de l'inventaire se trouve une liste de tous les blocs et objets du pack de mods. Passer son curseur sur l'un d'eux et appuyer sur R affichera sa recette, et appuyer sur U affichera quelles recettes l'utilisent.
+academy.introJEI.text3=En bas de l'inventaire se trouve une barre de recherche, oÃ¹ vous pouvez entrer le nom d'un objet pour filtrer la liste d'objets.
 academy.introJEI.text4=Vous pouvez double-cliquer sur la barre de recherche pour rechercher l'objet en question dans les inventaires.
 academy.introJEI.reward=Lire le tutoriel de JEI
 
 academy.introstorage.title=Introduction au Stockage
 academy.introstorage.desc=Apprendre le Stockage
-academy.introstorage.text=Il existe une pléthore de mods vous permettant de stocker des objets facilement.
+academy.introstorage.text=Il existe une plÃ©thore de mods vous permettant de stocker des objets facilement.
 academy.introstorage.task=Entrer dans la salle de stockage.
 
-academy.introgenstorage.title=Stockage Général
+academy.introgenstorage.title=Stockage GÃ©nÃ©ral
 academy.introgenstorage.desc=Ouvrir des Coffres et des Caisses de Stockage
-academy.introgenstorage.text1=Les coffres d'Iron Chests et les Caisses de Stockage permettent de stocker une grande quantité d'objets. Ils fonctionnent comme des coffres standards, mais leur contenance est bien supérieure.
-academy.introgenstorage.text2=Ils possèdent chacun plusieurs niveaux, les plus élevés offrant une plus grande capacité de stockage.
+academy.introgenstorage.text1=Les coffres d'Iron Chests et les Caisses de Stockage permettent de stocker une grande quantitÃ© d'objets. Ils fonctionnent comme des coffres standards, mais leur contenance est bien supÃ©rieure.
+academy.introgenstorage.text2=Ils possÃ¨dent chacun plusieurs niveaux, les plus Ã©levÃ©s offrant une plus grande capacitÃ© de stockage.
 academy.introgenstorage.task1=Ouvrir un Coffre en Fer
 academy.introgenstorage.task2=Ouvrir un Coffre en Diamant
 academy.introgenstorage.task3=Ouvrir un Petit Coffre de Stockage
@@ -191,208 +191,208 @@ academy.introgenstorage.task4=Ouvrir une Grande Caisse de Stockage
 
 academy.introbulkstorage.title=Stockage de Masse
 academy.introbulkstorage.desc=Regarder des Casiers de Stockage
-academy.introbulkstorage.text1=Les Casiers de Stockages sont excellents pour stocker une grande quantité d'un seul objet.
-academy.introbulkstorage.text2=Effectuer un clic droit sur un Casier pour stocker l'item que vous tenez et maintenir le clic droit pour stocker l'intégralité du nombre de cet item présent dans votre inventaire.
-academy.introbulkstorage.text3=Effectuer un clic gauche sur le Casier pour récupérer un seul objet contenu et MAJ clic gauche pour récupérer un stack de cet objet.
+academy.introbulkstorage.text1=Les Casiers de Stockages sont excellents pour stocker une grande quantitÃ© d'un seul objet.
+academy.introbulkstorage.text2=Effectuer un clic droit sur un Casier pour stocker l'item que vous tenez et maintenir le clic droit pour stocker l'intÃ©gralitÃ© du nombre de cet item prÃ©sent dans votre inventaire.
+academy.introbulkstorage.text3=Effectuer un clic gauche sur le Casier pour rÃ©cupÃ©rer un seul objet contenu et MAJ clic gauche pour rÃ©cupÃ©rer un stack de cet objet.
 academy.introbulkstorage.task1=Regarder un Casier Compacteur
 academy.introbulkstorage.task2=Regarder un Casier Basique 1x2
 academy.introbulkstorage.task3=Regarder un Casier Basique
 
 academy.introdigitalstorage.title=Stockage Digital
-academy.introdigitalstorage.desc=Regarder le système Refined Storage
-academy.introdigitalstorage.text1=Refined Storage vous permet de stocker une quantité astronomique d'objets.
-academy.introdigitalstorage.text2=Les objets sont stockés dans des Disques, qui sont eux-mêmes stockés dans des Baies de Disques. Vous pouvez accéder aux objets contenus dans les disques par le biais d'une Grille.
-academy.introdigitalstorage.text3=Au lieu d'être limité par le nombre d'emplacements qu'un inventaire comporte, les objets stockés influent sur la capacité utilisée d'un Disque.
-academy.introdigitalstorage.text4=La dernière quête vous a donné un Disque de Stockage. Ouvrez la Baie à Disques et insérez le Disque de Stockage puis ouvrez la Grille et récupérez le seau d'eau à l'intérieur.
-academy.introdigitalstorage.task1=Ouvrez la Baie à Disques
+academy.introdigitalstorage.desc=Regarder le systÃ¨me Refined Storage
+academy.introdigitalstorage.text1=Refined Storage vous permet de stocker une quantitÃ© astronomique d'objets.
+academy.introdigitalstorage.text2=Les objets sont stockÃ©s dans des Disques, qui sont eux-mÃªmes stockÃ©s dans des Baies de Disques. Vous pouvez accÃ©der aux objets contenus dans les disques par le biais d'une Grille.
+academy.introdigitalstorage.text3=Au lieu d'Ãªtre limitÃ© par le nombre d'emplacements qu'un inventaire comporte, les objets stockÃ©s influent sur la capacitÃ© utilisÃ©e d'un Disque.
+academy.introdigitalstorage.text4=La derniÃ¨re quÃªte vous a donnÃ© un Disque de Stockage. Ouvrez la Baie Ã  Disques et insÃ©rez le Disque de Stockage puis ouvrez la Grille et rÃ©cupÃ©rez le seau d'eau Ã  l'intÃ©rieur.
+academy.introdigitalstorage.task1=Ouvrez la Baie Ã  Disques
 academy.introdigitalstorage.task2=Ouvrez la Grille d'Artisanat
 
 academy.introfluidstorage.title=Stockage de Fluides
 academy.introfluidstorage.desc=Videz un Seau d'Eau
-academy.introfluidstorage.text1=Comme il existe des mods pour ajouter de nouveaux moyens de stockage, il existe également des mods qui ajoute des moyens de stocker des fluides.
-academy.introfluidstorage.text2=Les blocs qui peuvent stocker des fluides ont souvent le mot "Réservoir" dans leur nom, pour que vous puissiez rentrer le mot "Réservoir" pour tous les trouver.
-academy.introfluidstorage.text3=Le Réservoir Portable possède plusieurs niveaux vous permettant de stocker plus de fluide.
-academy.introfluidstorage.text4=Vous pouvez transvaser des fluides d'un Seau jusqu'à un Réservoir et vice-versa en effectuant un clic droit avec le Seau en main sur le Réservoir.
+academy.introfluidstorage.text1=Comme il existe des mods pour ajouter de nouveaux moyens de stockage, il existe Ã©galement des mods qui ajoute des moyens de stocker des fluides.
+academy.introfluidstorage.text2=Les blocs qui peuvent stocker des fluides ont souvent le mot "RÃ©servoir" dans leur nom, pour que vous puissiez rentrer le mot "RÃ©servoir" pour tous les trouver.
+academy.introfluidstorage.text3=Le RÃ©servoir Portable possÃ¨de plusieurs niveaux vous permettant de stocker plus de fluide.
+academy.introfluidstorage.text4=Vous pouvez transvaser des fluides d'un Seau jusqu'Ã  un RÃ©servoir et vice-versa en effectuant un clic droit avec le Seau en main sur le RÃ©servoir.
 
-academy.introautomation.title=Introduction à l'Automatisation
+academy.introautomation.title=Introduction Ã  l'Automatisation
 academy.introautomation.desc=Apprendre l'Automatisation
-academy.introautomation.text1=Juste stocker les objets et les fluides n'est pas suffisant, pour automatiser convenablement vous devez les déplacer automatiquement.
-academy.introautomation.text2=La méthode la plus simple pour déplacer des choses est les Ducts. Les objets sont déplacés via des Itemducts et les fluides par des Fluiducts.
-academy.introautomation.text3=Les Servos sont utilisés pour extraire depuis des blocs, et les objets/fluides iront automatiquement dans le bloc pouvant les contenir le plus proche.
+academy.introautomation.text1=Juste stocker les objets et les fluides n'est pas suffisant, pour automatiser convenablement vous devez les dÃ©placer automatiquement.
+academy.introautomation.text2=La mÃ©thode la plus simple pour dÃ©placer des choses est les Ducts. Les objets sont dÃ©placÃ©s via des Itemducts et les fluides par des Fluiducts.
+academy.introautomation.text3=Les Servos sont utilisÃ©s pour extraire depuis des blocs, et les objets/fluides iront automatiquement dans le bloc pouvant les contenir le plus proche.
 academy.introautomation.task=Entrer dans la salle d'Automatisation
 
 academy.introfilters.title=Filtrage
 academy.introfilters.desc=Mettre en place quelques Filtres
-academy.introfilters.text1=Les Filtres peuvent être utilisés pour spécifier ce qui est autorisé à entrer dans un bloc via le Duct. Vous pouvez l'ouvrir pour régler sa Liste Blanche ou Noire.
-academy.introfilters.text2=Les objets sur une Liste Blanche sont les seuls objets autorisés à entrer et les seuls à ne pas être autorisés dans une Liste Noire.
-academy.introfilters.text3=• Réglez le Filtre de droite pour autoriser les minerais dans la Liste Blanche.
-academy.introfilters.text4=• Réglez le Filtre central pour autoriser les blocs de terre dans la Liste Blanche.
-academy.introfilters.text5=• Régler le Filtre de gauche pour intégrer les minerais et les blocs de terre dans la Liste Noire.
+academy.introfilters.text1=Les Filtres peuvent Ãªtre utilisÃ©s pour spÃ©cifier ce qui est autorisÃ© Ã  entrer dans un bloc via le Duct. Vous pouvez l'ouvrir pour rÃ©gler sa Liste Blanche ou Noire.
+academy.introfilters.text2=Les objets sur une Liste Blanche sont les seuls objets autorisÃ©s Ã  entrer et les seuls Ã  ne pas Ãªtre autorisÃ©s dans une Liste Noire.
+academy.introfilters.text3=â€¢ RÃ©glez le Filtre de droite pour autoriser les minerais dans la Liste Blanche.
+academy.introfilters.text4=â€¢ RÃ©glez le Filtre central pour autoriser les blocs de terre dans la Liste Blanche.
+academy.introfilters.text5=â€¢ RÃ©gler le Filtre de gauche pour intÃ©grer les minerais et les blocs de terre dans la Liste Noire.
 academy.introfilters.text6=Utilisez le levier pour activer le Servo et des objets seront extraits de la Caisse sur la gauche pour rentrer dans les Caisses adjacentes en fonction de la configuration des Filtres.
-academy.introfilters.task1=Régler le filtre Général
-academy.introfilters.task2=Régler le filtre Terre
-academy.introfilters.task3=Régler le filtre Minerai
+academy.introfilters.task1=RÃ©gler le filtre GÃ©nÃ©ral
+academy.introfilters.task2=RÃ©gler le filtre Terre
+academy.introfilters.task3=RÃ©gler le filtre Minerai
 
 academy.introfluidtransfer.title=Transferts de Fluides
 academy.introfluidtransfer.desc=Transvaser de l'Eau
-academy.introfluidtransfer.text1=Les Itemducts déplacent des objets tandis que les Fluiducts déplacent des fluides.
-academy.introfluidtransfer.text2=Les Réservoirs Portables peuvent être configurés pour extraire automatiquement vers le bloc en-dessous d'eux. Utilisez le Marteau sur le dessus sur du Réservoir Portable afin de lui faire déplacer l'Eau dans le Réservoir en-dessous.
-academy.introfluidtransfer.text3=Vous pouvez régler les Servos pour fonctionner quand ils ne reçoivent aucun signal de redstone en l'ouvrant et en cliquant sur l'icône de Poudre de Redstone sur la droite. Faites donc ça ici et réglez le Servo pour qu'il ignore ou le signal ou un signal faible (ce qui équivaut à aucun signal).
+academy.introfluidtransfer.text1=Les Itemducts dÃ©placent des objets tandis que les Fluiducts dÃ©placent des fluides.
+academy.introfluidtransfer.text2=Les RÃ©servoirs Portables peuvent Ãªtre configurÃ©s pour extraire automatiquement vers le bloc en-dessous d'eux. Utilisez le Marteau sur le dessus sur du RÃ©servoir Portable afin de lui faire dÃ©placer l'Eau dans le RÃ©servoir en-dessous.
+academy.introfluidtransfer.text3=Vous pouvez rÃ©gler les Servos pour fonctionner quand ils ne reÃ§oivent aucun signal de redstone en l'ouvrant et en cliquant sur l'icÃ´ne de Poudre de Redstone sur la droite. Faites donc Ã§a ici et rÃ©glez le Servo pour qu'il ignore ou le signal ou un signal faible (ce qui Ã©quivaut Ã  aucun signal).
 
-academy.introtech.title=Introduction à la Technologie
+academy.introtech.title=Introduction Ã  la Technologie
 academy.introtech.desc=Apprendre la Technologie
-academy.introtech.text1=Les mods technologiques jouent un rôle majeur dans les pack de mods FTB. Ces quêtes sont là pour vous apprendre les bases.
+academy.introtech.text1=Les mods technologiques jouent un rÃ´le majeur dans les pack de mods FTB. Ces quÃªtes sont lÃ  pour vous apprendre les bases.
 academy.introtech.task=Entrez dans la salle technologique
 
-academy.introgen.title=Produire de l'Énergie
-academy.introgen.desc=Utiliser un Générateur à Charbon
-academy.introgen.text1=La plupart des mods technologiques utilisent des RF, ce qui basiquement de l'électricité.
-academy.introgen.text2=Les Générateurs sont des machines qui produisent des RF. Le Générateur à Charbon utilisent du combustible classique, comme le charbon, pour produire des RF.
-academy.introgen.text3=Placez le Générateur à Charbon sur le Bloc de Fer et alimentez-le avec du charbon pour lui permettre de produire des RF.
-academy.introgen.task=Placez le Générateur sur le Bloc de Fer
+academy.introgen.title=Produire de l'Ã‰nergie
+academy.introgen.desc=Utiliser un GÃ©nÃ©rateur Ã  Charbon
+academy.introgen.text1=La plupart des mods technologiques utilisent des RF, ce qui basiquement de l'Ã©lectricitÃ©.
+academy.introgen.text2=Les GÃ©nÃ©rateurs sont des machines qui produisent des RF. Le GÃ©nÃ©rateur Ã  Charbon utilisent du combustible classique, comme le charbon, pour produire des RF.
+academy.introgen.text3=Placez le GÃ©nÃ©rateur Ã  Charbon sur le Bloc de Fer et alimentez-le avec du charbon pour lui permettre de produire des RF.
+academy.introgen.task=Placez le GÃ©nÃ©rateur sur le Bloc de Fer
 
-academy.intropowertransfer.title=Acheminer de l'Énergie
+academy.intropowertransfer.title=Acheminer de l'Ã‰nergie
 academy.intropowertransfer.desc=Placez des fluxducts
-academy.intropowertransfer.text1=Alors que vous pouvez techniquement vous en sortir avec des Générateurs connectés directement à vos machines, ce n'est pas la meilleure solution.
-academy.intropowertransfer.text2=Les Fluxducts et autres câbles d'alimentation vous permettent de connecter des générateurs à des machines quelque soit la distance.
+academy.intropowertransfer.text1=Alors que vous pouvez techniquement vous en sortir avec des GÃ©nÃ©rateurs connectÃ©s directement Ã  vos machines, ce n'est pas la meilleure solution.
+academy.intropowertransfer.text2=Les Fluxducts et autres cÃ¢bles d'alimentation vous permettent de connecter des gÃ©nÃ©rateurs Ã  des machines quelque soit la distance.
 academy.intropowertransfer.text3=Placez les Fluxducts sur la Laine.
 academy.intropowertransfer.task=Placez les Fluxducts sur la Laine Magenta
 
-academy.intromachines.title=Utiliser l'Énergie
-academy.intromachines.desc=Utilisez un Four à Redstone
-academy.intromachines.text1=Les générateurs produisent de l'énergie, mais vous devez aussi l'utiliser. Beaucoup de machines utilisent des RF pour réaliser des actions variées.
-academy.intromachines.text2=Le Four à Redstone en particulier utilise des RF pour faire cuire ou fondre des objets. Il fonctionne quasiment de la même façon qu'un four classique, excepté qu'il consomme des RF au lieu de charbon.
-academy.intromachines.text3=Placez le Four à Redstone sur le Bloc de Lapis Lazuli et utilisez-le pour faire cuire du Fer Pulvérisé.
-academy.intromachines.task=Placez le Four à Redstone sur le Bloc de Lapis Lazuli
+academy.intromachines.title=Utiliser l'Ã‰nergie
+academy.intromachines.desc=Utilisez un Four Ã  Redstone
+academy.intromachines.text1=Les gÃ©nÃ©rateurs produisent de l'Ã©nergie, mais vous devez aussi l'utiliser. Beaucoup de machines utilisent des RF pour rÃ©aliser des actions variÃ©es.
+academy.intromachines.text2=Le Four Ã  Redstone en particulier utilise des RF pour faire cuire ou fondre des objets. Il fonctionne quasiment de la mÃªme faÃ§on qu'un four classique, exceptÃ© qu'il consomme des RF au lieu de charbon.
+academy.intromachines.text3=Placez le Four Ã  Redstone sur le Bloc de Lapis Lazuli et utilisez-le pour faire cuire du Fer PulvÃ©risÃ©.
+academy.intromachines.task=Placez le Four Ã  Redstone sur le Bloc de Lapis Lazuli
 
-academy.introenergystorage.title=Stockage d'Énergie
-academy.introenergystorage.desc=Placez et configurer une Cellule d'Énergie.
-academy.introenergystorage.text1=Les Cellules d'Énergie stockent des RF. Le mieux est de les placer entre vos générateurs et vos machines pour que ces dernières puissent avoir un réservoir d'énergie utilisable.
-academy.introenergystorage.text2=MAJ et clic droit avec le Marteau sur le Fluxduct central pour le casser, puis placez la Cellule d'Énergie à la place.
-academy.introenergystorage.text3=Ouvrez la Cellule d'Énergie and cliquez sur l'engrenage bleu sur la droite pour la configurer. Maintenant, vous pouvez sélectionner quels côtés sont en mode Entrée et quels côtés sont en mode Sortie.
-academy.introenergystorage.text4=Cliquez sur la face pour la passer en mode Entrée (Bleu), Sortie (Rouge) ou Aucun (Jaune). Vous pouvez maintenir MAJ et faire un clic gauche sur la face avant pour les passer en Jaune. Réglez celui-ci pour qu'ils reçoivent l'énergie du générateur et en envoie vers le Four à Redstone.
-academy.introenergystorage.task=Remplacez le Fluxduct central par une Cellule d'Énergie and configurez-la
+academy.introenergystorage.title=Stockage d'Ã‰nergie
+academy.introenergystorage.desc=Placez et configurer une Cellule d'Ã‰nergie.
+academy.introenergystorage.text1=Les Cellules d'Ã‰nergie stockent des RF. Le mieux est de les placer entre vos gÃ©nÃ©rateurs et vos machines pour que ces derniÃ¨res puissent avoir un rÃ©servoir d'Ã©nergie utilisable.
+academy.introenergystorage.text2=MAJ et clic droit avec le Marteau sur le Fluxduct central pour le casser, puis placez la Cellule d'Ã‰nergie Ã  la place.
+academy.introenergystorage.text3=Ouvrez la Cellule d'Ã‰nergie and cliquez sur l'engrenage bleu sur la droite pour la configurer. Maintenant, vous pouvez sÃ©lectionner quels cÃ´tÃ©s sont en mode EntrÃ©e et quels cÃ´tÃ©s sont en mode Sortie.
+academy.introenergystorage.text4=Cliquez sur la face pour la passer en mode EntrÃ©e (Bleu), Sortie (Rouge) ou Aucun (Jaune). Vous pouvez maintenir MAJ et faire un clic gauche sur la face avant pour les passer en Jaune. RÃ©glez celui-ci pour qu'ils reÃ§oivent l'Ã©nergie du gÃ©nÃ©rateur et en envoie vers le Four Ã  Redstone.
+academy.introenergystorage.task=Remplacez le Fluxduct central par une Cellule d'Ã‰nergie and configurez-la
 
-academy.introaugments.title=Amélioration des Machines
-academy.introaugments.desc=Améliorer le Four à Redstone
-academy.introaugments.text1=La plupart des mods technologiques vous permettent d'améliorer leurs marchines. Thermal Expansion fait cela par le biais de Niveaux de Machine et d'Augmentations.
-academy.introaugments.text2=Améliorez les machines de Thermal Expansion en effectuant un clic droit avec une Amélioration ou un Kit de Conversion en main, ce qui améliorera son niveau. Cela leur permettra d'utiliser plus d'énergie et ainsi de fonctionner plus rapidement.
-academy.introaugments.text3=Vous pouvez encore les améliorer en installant des Augmentations. Plus le niveau de la machine est élevé et plus vous pouvez installer d'Augmentations. Ouvrez l'interface de la Machine et cliquez sur le bouton en haut à droite, vous pouvez insérer des Augmentations dans ces emplacements.
-academy.introaugments.task=Améliorez le Four à Redstone et installez les Augmentations
+academy.introaugments.title=AmÃ©lioration des Machines
+academy.introaugments.desc=AmÃ©liorer le Four Ã  Redstone
+academy.introaugments.text1=La plupart des mods technologiques vous permettent d'amÃ©liorer leurs marchines. Thermal Expansion fait cela par le biais de Niveaux de Machine et d'Augmentations.
+academy.introaugments.text2=AmÃ©liorez les machines de Thermal Expansion en effectuant un clic droit avec une AmÃ©lioration ou un Kit de Conversion en main, ce qui amÃ©liorera son niveau. Cela leur permettra d'utiliser plus d'Ã©nergie et ainsi de fonctionner plus rapidement.
+academy.introaugments.text3=Vous pouvez encore les amÃ©liorer en installant des Augmentations. Plus le niveau de la machine est Ã©levÃ© et plus vous pouvez installer d'Augmentations. Ouvrez l'interface de la Machine et cliquez sur le bouton en haut Ã  droite, vous pouvez insÃ©rer des Augmentations dans ces emplacements.
+academy.introaugments.task=AmÃ©liorez le Four Ã  Redstone et installez les Augmentations
 
-academy.introtechlast.title=Utiliser les Machines Améliorées
-academy.introtechlast.desc=Utiliser le Four à Redstone amélioré
-academy.introtechlast.text=Une fois que le Four à Redstone est complètement amélioré, faites cuire les Fer Pulvérisés et regardez à quel point ils sont plus rapides.
+academy.introtechlast.title=Utiliser les Machines AmÃ©liorÃ©es
+academy.introtechlast.desc=Utiliser le Four Ã  Redstone amÃ©liorÃ©
+academy.introtechlast.text=Une fois que le Four Ã  Redstone est complÃ¨tement amÃ©liorÃ©, faites cuire les Fer PulvÃ©risÃ©s et regardez Ã  quel point ils sont plus rapides.
 
-academy.introastralsorcery.title=Introduction à Astral Sorcery
+academy.introastralsorcery.title=Introduction Ã  Astral Sorcery
 academy.introastralsorcery.desc=Apprendre Astral Sorcery
-academy.introastralsorcery.text=Astral Sorcery est un mod qui se concentre sur la maîtrise des pouvoirs de la lumière des étoiles et des constellations.
+academy.introastralsorcery.text=Astral Sorcery est un mod qui se concentre sur la maÃ®trise des pouvoirs de la lumiÃ¨re des Ã©toiles et des constellations.
 academy.introastralsorcery.task=Entrez dans la zone d'Astral Sorcery
 
-academy.introstarlight.title=Utiliser la Lumière d'Étoile
-academy.introstarlight.desc=Fabriquez une Baguette Résonante
-academy.introstarlight.text1=Beaucoup de recettes de ce mod nécessitent de la Lumière d'Étoile en plus d'objets. Lorsque vous débutez, le seul moyen d'en utiliser est de placer une Table de Fabrication classique près d'un Crystal Flottant.
-academy.introstarlight.text2=La Baguette Résonante est utilisée pour activer les blocs d'Astral Sorcery. En la gardant en main et en se déplaçant dans l'Overworld, vous pouvez trouver l'emplacement de minerais de Cristal de Roche sous terre.
-academy.introstarlight.text3=Placez l'atelier de fabrication sur le bloc de Laine près du Cristal Flottant et fabriquez la Baguette Résonante à l'intérieur. Vous pouvez trouver la recette en cherchant son nom dans JEI.
+academy.introstarlight.title=Utiliser la LumiÃ¨re d'Ã‰toile
+academy.introstarlight.desc=Fabriquez une Baguette RÃ©sonante
+academy.introstarlight.text1=Beaucoup de recettes de ce mod nÃ©cessitent de la LumiÃ¨re d'Ã‰toile en plus d'objets. Lorsque vous dÃ©butez, le seul moyen d'en utiliser est de placer une Table de Fabrication classique prÃ¨s d'un Crystal Flottant.
+academy.introstarlight.text2=La Baguette RÃ©sonante est utilisÃ©e pour activer les blocs d'Astral Sorcery. En la gardant en main et en se dÃ©plaÃ§ant dans l'Overworld, vous pouvez trouver l'emplacement de minerais de Cristal de Roche sous terre.
+academy.introstarlight.text3=Placez l'atelier de fabrication sur le bloc de Laine prÃ¨s du Cristal Flottant et fabriquez la Baguette RÃ©sonante Ã  l'intÃ©rieur. Vous pouvez trouver la recette en cherchant son nom dans JEI.
 
-academy.introlct.title=Collecter de la Lumière d'Étoile
+academy.introlct.title=Collecter de la LumiÃ¨re d'Ã‰toile
 academy.introlct.desc=Fabriquez un Atelier de Fabrication Lumineux
-academy.introlct.text1=L'Atelier de Fabrication Lumineux vous permet de récupérer de la Lumière d'Étoile juste en ayant en visuel le cier étoilé, bien qu'elle puisse aussi être alimenté par un Cristal Flottant à proximité si possible.
-academy.introlct.text2=Pour fabriquer des objets avec l'Atelier de Fabrication Lumineux, vous devez avoir les objets mais aussi une certaine quantité de Lumière d'Étoile en fonction de la recette.
-academy.introlct.text3=Si l'Atelier de Fabrication contient les objets et la Lumière d'Étoile requis, effectuez un clic droit avec la Baguette Résonante pour fabriquer l'objet.
+academy.introlct.text1=L'Atelier de Fabrication Lumineux vous permet de rÃ©cupÃ©rer de la LumiÃ¨re d'Ã‰toile juste en ayant en visuel le cier Ã©toilÃ©, bien qu'elle puisse aussi Ãªtre alimentÃ© par un Cristal Flottant Ã  proximitÃ© si possible.
+academy.introlct.text2=Pour fabriquer des objets avec l'Atelier de Fabrication Lumineux, vous devez avoir les objets mais aussi une certaine quantitÃ© de LumiÃ¨re d'Ã‰toile en fonction de la recette.
+academy.introlct.text3=Si l'Atelier de Fabrication contient les objets et la LumiÃ¨re d'Ã‰toile requis, effectuez un clic droit avec la Baguette RÃ©sonante pour fabriquer l'objet.
 
-academy.introilumpowder.title=Fabriquer des objets avec la Lumière d'Étoile
-academy.introilumpowder.desc=Créer de la Poudre d'Éclairage
-academy.introilumpowder.text1=La Poudre d'Illumination est l'un de nombreux objets fabricables avec de la Lumière d'Étoile. Vous pouvez la placer n'importe où et elle agira comme une source lumineuse mais ne prend pas l'espace d'un bloc.
-academy.introilumpowder.text2=Placez l'Atelier de Fabrication Lumineux sur le bloc de Quartz et fabriquez de la Poudre d'Éclairage selon sa recette.
-academy.introilumpowder.text3=Pour rappel, vous devez effectuer un clic droit avec la Baguette Résonante sur l'Atelier de Fabrication pour fabriquer l'objet.
+academy.introilumpowder.title=Fabriquer des objets avec la LumiÃ¨re d'Ã‰toile
+academy.introilumpowder.desc=CrÃ©er de la Poudre d'Ã‰clairage
+academy.introilumpowder.text1=La Poudre d'Illumination est l'un de nombreux objets fabricables avec de la LumiÃ¨re d'Ã‰toile. Vous pouvez la placer n'importe oÃ¹ et elle agira comme une source lumineuse mais ne prend pas l'espace d'un bloc.
+academy.introilumpowder.text2=Placez l'Atelier de Fabrication Lumineux sur le bloc de Quartz et fabriquez de la Poudre d'Ã‰clairage selon sa recette.
+academy.introilumpowder.text3=Pour rappel, vous devez effectuer un clic droit avec la Baguette RÃ©sonante sur l'Atelier de Fabrication pour fabriquer l'objet.
 
-academy.introbotania.title=Introduction à Botania
+academy.introbotania.title=Introduction Ã  Botania
 academy.introbotania.desc=Apprendre Botania
-academy.introbotania.text1=Botania est un mod technologique déguisé en mod magique.
-academy.introbotania.text2=Avec lui, vous pourrez utiliser des fleurs pour générer et manipuler de la mana, qui peut être utilisée pour diverses choses.
+academy.introbotania.text1=Botania est un mod technologique dÃ©guisÃ© en mod magique.
+academy.introbotania.text2=Avec lui, vous pourrez utiliser des fleurs pour gÃ©nÃ©rer et manipuler de la mana, qui peut Ãªtre utilisÃ©e pour diverses choses.
 academy.introbotania.task=Entrer dans la zone de Botania
 
-academy.intromanagen.title=Générer de la mana
+academy.intromanagen.title=GÃ©nÃ©rer de la mana
 academy.intromanagen.desc=Fabriquer de l'Endoflame
-academy.intromanagen.text1=Les fleurs magiques sont créées dans l'Apothicaire à Pétales. Remplissez-le avec un seau d'eau puis créez des pétales avant de les jeter dedans selon la recette de l'Endoflame pour ensuite jeter une graine pour fabriquer la fleur.
-academy.intromanagen.text2=Vous pouvez soit les jeter sur l'Apothicaire à Pétales soit faire un clic droit avec l'objet pour les insérer. Maintenez MAJ et faites un clic droit pour récupérer le dernier objet inséré.
-academy.intromanagen.text3=L'Endoflame génère de la mana quand un objet consumable est jeté au sol à proximité. S'il est placé près d'un épandeur de mana, la mana se déplacera vers ce dernier.
-academy.intromanagen.text4=Une fois que vous avez fabriqué l'Endoflame, placez-la sur le bloc d'herbe le plus éclairé. Jetez du charbon à proximité et elle commencera à générer de la mana.
+academy.intromanagen.text1=Les fleurs magiques sont crÃ©Ã©es dans l'Apothicaire Ã  PÃ©tales. Remplissez-le avec un seau d'eau puis crÃ©ez des pÃ©tales avant de les jeter dedans selon la recette de l'Endoflame pour ensuite jeter une graine pour fabriquer la fleur.
+academy.intromanagen.text2=Vous pouvez soit les jeter sur l'Apothicaire Ã  PÃ©tales soit faire un clic droit avec l'objet pour les insÃ©rer. Maintenez MAJ et faites un clic droit pour rÃ©cupÃ©rer le dernier objet insÃ©rÃ©.
+academy.intromanagen.text3=L'Endoflame gÃ©nÃ¨re de la mana quand un objet consumable est jetÃ© au sol Ã  proximitÃ©. S'il est placÃ© prÃ¨s d'un Ã©pandeur de mana, la mana se dÃ©placera vers ce dernier.
+academy.intromanagen.text4=Une fois que vous avez fabriquÃ© l'Endoflame, placez-la sur le bloc d'herbe le plus Ã©clairÃ©. Jetez du charbon Ã  proximitÃ© et elle commencera Ã  gÃ©nÃ©rer de la mana.
 
-academy.intromanatransfer.title=Moving and Storing Mana Déplacement et Stockage de Mana
+academy.intromanatransfer.title=Moving and Storing Mana DÃ©placement et Stockage de Mana
 academy.intromanatransfer.desc=Stockez de la Mana dans la Piscine de Mana
-academy.intromanatransfer.text1=Les épandeurs de Mana sont utilisés pour transférer de la Mana et les Piscines de Mana pour la stocker.
-academy.intromanatransfer.text2=Accroupissez-vous et effectuez un clic droit avec la Baguette de la Forêt sur l'épandeur de Mana, puis faites pareil sur un épandeur de Mana pour faire pointer l'épandeur vers la Piscine.
-academy.intromanatransfer.text3=Any Mana inside the Mana Spreader will be sent to the Mana Pool. Toute mana stockée dans l'épandeur sera redirigée vers la Piscine de Mana.
+academy.intromanatransfer.text1=Les Ã©pandeurs de Mana sont utilisÃ©s pour transfÃ©rer de la Mana et les Piscines de Mana pour la stocker.
+academy.intromanatransfer.text2=Accroupissez-vous et effectuez un clic droit avec la Baguette de la ForÃªt sur l'Ã©pandeur de Mana, puis faites pareil sur un Ã©pandeur de Mana pour faire pointer l'Ã©pandeur vers la Piscine.
+academy.intromanatransfer.text3=Any Mana inside the Mana Spreader will be sent to the Mana Pool. Toute mana stockÃ©e dans l'Ã©pandeur sera redirigÃ©e vers la Piscine de Mana.
 academy.intromanatransfer.task=Remplissez la Piscine de Mana
 
 academy.intromanasteel.title=Fabriquer avec de la Mana
 academy.intromanasteel.desc=Fabriquez de l'Acier de Mana
-academy.intromanasteel.text1=Certains objets peuvent être fabriqués en les jetant dans une Piscine de Mana qui contient de la Mana. Cela consommera de la Mana.
+academy.intromanasteel.text1=Certains objets peuvent Ãªtre fabriquÃ©s en les jetant dans une Piscine de Mana qui contient de la Mana. Cela consommera de la Mana.
 academy.intromanasteel.text2=Jetez un Lingot de Fer dans de la Mana pour le transformer en Lingot d'Acier de Mana.
 
-academy.introelementium.title=Échange Elfique
-academy.introelementium.desc=Acquérez de l'Elementium
-academy.introelementium.text1=En progressant, vous pourrez créer un portail vers Alfheim. Cela fonctionnera de la même façon que la fabrication avec la Piscine de Mana.
+academy.introelementium.title=Ã‰change Elfique
+academy.introelementium.desc=AcquÃ©rez de l'Elementium
+academy.introelementium.text1=En progressant, vous pourrez crÃ©er un portail vers Alfheim. Cela fonctionnera de la mÃªme faÃ§on que la fabrication avec la Piscine de Mana.
 academy.introelementium.text2=Vous pouvez jeter des objets dans le Portail pour en recevoir d'autres. Les items ne faisant pas partie d'une recette seront perdus.
 
-academy.introfinish.title=L'École est finie !
+academy.introfinish.title=L'Ã‰cole est finie !
 academy.introfinish.desc=Allez dans l'Overworld
-academy.introfinish.text=Maintenant que vous avez complété les tutoriels, vous pouvez vous rendre dans l'Overworld et commencez à jouer normalement !
-academy.introfinish.reward=Se téléporter dans l'Overworld
+academy.introfinish.text=Maintenant que vous avez complÃ©tÃ© les tutoriels, vous pouvez vous rendre dans l'Overworld et commencez Ã  jouer normalement !
+academy.introfinish.reward=Se tÃ©lÃ©porter dans l'Overworld
 
-#Bien débuter
+#Bien dÃ©buter
 
 academy.overworld.title=Que Les Jeux Commencent !
 academy.overworld.desc=Commencer le pack de mods
-academy.overworld.text=Maintenant que vous avez terminé l'École, vous pouvez commencer à jouer au pack de mods sérieusement.
+academy.overworld.text=Maintenant que vous avez terminÃ© l'Ã‰cole, vous pouvez commencer Ã  jouer au pack de mods sÃ©rieusement.
 academy.overworld.reward=Lire le tutoriel de Journey Map
 
-academy.timber.title=Bûcheronnage !
+academy.timber.title=BÃ»cheronnage !
 academy.timber.desc=Ramasser du bois
-academy.timber.text1=Abattez un arbre. N'importe quel arbre fera l'affaire, cette quête accepte 4 bûches d'arbre.
-academy.timber.text2=Vous avez probablement remarqué que les arbres semblent très différents. Lisez "Le Monde" dans le Guide pour connaître toutes les différences apportées par les mods au monde.
-academy.timber.task=4x bûches
+academy.timber.text1=Abattez un arbre. N'importe quel arbre fera l'affaire, cette quÃªte accepte 4 bÃ»ches d'arbre.
+academy.timber.text2=Vous avez probablement remarquÃ© que les arbres semblent trÃ¨s diffÃ©rents. Lisez "Le Monde" dans le Guide pour connaÃ®tre toutes les diffÃ©rences apportÃ©es par les mods au monde.
+academy.timber.task=4x bÃ»ches
 
 academy.tinkering.title=Faisons du Tinker
 academy.tinkering.desc=Fabriquez les blocs requis de Tinker's Construct
-academy.tinkering.text=Ces blocs sont requis pour fabriquer des outils sophistiqués de Tinker's Construct !
+academy.tinkering.text=Ces blocs sont requis pour fabriquer des outils sophistiquÃ©s de Tinker's Construct !
 academy.tinkering.text2=Lisez la section "Fabriquer des outils" sur la page de Tinker's Construct dans le Guide pour avoir des informations sur leur fonctionnement.
 
-academy.smeltery.title=Sujet brûlant
+academy.smeltery.title=Sujet brÃ»lant
 academy.smeltery.desc=Fabriquez une Fonderie
-academy.smeltery.text1=Les Fonderies vous permettent de faire fondre des métaux pour créer des parties d'outils métalliques, des blocs, lingots et d'autres encore.
-academy.smeltery.text2=Ces blocs sont requis pour créer une Fonderie pouvant contenir 9 blocs dans son stockage.
+academy.smeltery.text1=Les Fonderies vous permettent de faire fondre des mÃ©taux pour crÃ©er des parties d'outils mÃ©talliques, des blocs, lingots et d'autres encore.
+academy.smeltery.text2=Ces blocs sont requis pour crÃ©er une Fonderie pouvant contenir 9 blocs dans son stockage.
 
 academy.pickaxe.title=Il est temps de Miner
 academy.pickaxe.desc=Fabriquez une Pioche de Tinker's Construct
-academy.pickaxe.text1=Les Pioches de Tinker's Construct gagnent à être fabriquées en début de jeu, parce qu'à mesure que vous les utilisez, elles gagnent en expérience, ce qui vous permettra ainsi de les améliorer.
-academy.pickaxe.text2=This quest can accept a Pickaxe using any combination of parts. Cette quête accepte une Pioche utilisant n'importe quelle combinaison de partie d'outils.
+academy.pickaxe.text1=Les Pioches de Tinker's Construct gagnent Ã  Ãªtre fabriquÃ©es en dÃ©but de jeu, parce qu'Ã  mesure que vous les utilisez, elles gagnent en expÃ©rience, ce qui vous permettra ainsi de les amÃ©liorer.
+academy.pickaxe.text2=This quest can accept a Pickaxe using any combination of parts. Cette quÃªte accepte une Pioche utilisant n'importe quelle combinaison de partie d'outils.
 academy.pickaxe.task=N'importe quelle Pioche
 
 academy.toolforge.title=Poursuivons le Forgeage
-academy.toolforge.desc=Construisez une Forge à Outils
-academy.toolforge.text1=La Forge à Outils peut réaliser n'importe quel outil de Tinker's Construct.
-academy.toolforge.text2=Cette quête accepte une Forge à Outils fabriquée avec n'importe quel matériau.
-academy.toolforge.task=N'importe quelle Forge à Outil
+academy.toolforge.desc=Construisez une Forge Ã  Outils
+academy.toolforge.text1=La Forge Ã  Outils peut rÃ©aliser n'importe quel outil de Tinker's Construct.
+academy.toolforge.text2=Cette quÃªte accepte une Forge Ã  Outils fabriquÃ©e avec n'importe quel matÃ©riau.
+academy.toolforge.task=N'importe quelle Forge Ã  Outil
 
 academy.bonsai.title=Heureux sont les Petits Arbres
-academy.bonsai.desc=Fabriquez un Pot à Bonsaï
-academy.bonsai.text1=Le Pot à Bonsaï fera grandir n'importe quelle pousse d'arbre que vous placerez à l'intérieur, à condition que le sol en-dessous soit correct. Récoltez-le en faisant un clic droit avec une hache.
-academy.bonsai.text2=Vous pouvez le transformer en Pot à Bonsaï Sautillant pour qu'il récolte l'arbre automatiquement et placent les blocs dans l'inventaire en-dessous de lui.
+academy.bonsai.desc=Fabriquez un Pot Ã  BonsaÃ¯
+academy.bonsai.text1=Le Pot Ã  BonsaÃ¯ fera grandir n'importe quelle pousse d'arbre que vous placerez Ã  l'intÃ©rieur, Ã  condition que le sol en-dessous soit correct. RÃ©coltez-le en faisant un clic droit avec une hache.
+academy.bonsai.text2=Vous pouvez le transformer en Pot Ã  BonsaÃ¯ Sautillant pour qu'il rÃ©colte l'arbre automatiquement et placent les blocs dans l'inventaire en-dessous de lui.
 
 academy.ores.title=Des p'tits trous, toujours des p'tits trous
 academy.ores.desc=Minez des Minerais
-academy.ores.text1=Récupérez 16 minerais du Vanilla et de Thermal Foundation.
-academy.ores.text2=Maintenez la touche d'Excavation (` par défaut) et minez un bloc pour miner les blocs adjacents du même type. La durabilité est consommée comme si vous aviez miné tous les blocs un par un.
-academy.ores.text3=Vous pouvez dérouler l'Objet de la Tâche pour voir tous les objets acceptés et vous combinez 16 de n'importe quel objet pour compléter la Tâche. Vous pouvez aussi cliquer sur la tâche pour voir les objets acceptés.
-academy.ores.text4=Une fois que vous avez un certain nombre de matériaux, vous pourrez commencer à regarder les quêtes Technologiques et le reste du Guide.
+academy.ores.text1=RÃ©cupÃ©rez 16 minerais du Vanilla et de Thermal Foundation.
+academy.ores.text2=Maintenez la touche d'Excavation (` par dÃ©faut) et minez un bloc pour miner les blocs adjacents du mÃªme type. La durabilitÃ© est consommÃ©e comme si vous aviez minÃ© tous les blocs un par un.
+academy.ores.text3=Vous pouvez dÃ©rouler l'Objet de la TÃ¢che pour voir tous les objets acceptÃ©s et vous combinez 16 de n'importe quel objet pour complÃ©ter la TÃ¢che. Vous pouvez aussi cliquer sur la tÃ¢che pour voir les objets acceptÃ©s.
+academy.ores.text4=Une fois que vous avez un certain nombre de matÃ©riaux, vous pourrez commencer Ã  regarder les quÃªtes Technologiques et le reste du Guide.
 academy.ores.vanillatask=16x minerais Vanilla
 academy.ores.thermaltask=16x minerais Thermal Foundation
 
-academy.seedyplace.title=Révolution Agricole
-academy.seedyplace.desc=Récoltez des plants
+academy.seedyplace.title=RÃ©volution Agricole
+academy.seedyplace.desc=RÃ©coltez des plants
 academy.seedyplace.task=Avancement: Un Lieu Fertile
 academy.seedyplace.text1=One of the most important parts of a base is a steady source of food. The easiest way to get food is just by growing it!
 academy.seedyplace.text2=You can right click a fully grown crop to harvest it, automatically replanting the seed.
@@ -1124,11 +1124,11 @@ academy.upgradekeys.task=Any Upgrade Key
 academy.hardenedupgrade.desc=Make a Hardened Upgrade Kit
 academy.hardenedupgrade.text1=Upgrade Kits are used to increase the tier of a Thermal Expansion machine or dynamo. Simply right click the block with the Upgrade Kit to set it to that tier, as long as the machine is already the previous tier.
 academy.hardenedupgrade.text2=The order of tiers is:
-academy.hardenedupgrade.text3=•Basic
-academy.hardenedupgrade.text4=•Hardened
-academy.hardenedupgrade.text5=•Reinforced
-academy.hardenedupgrade.text6=•Signalum
-academy.hardenedupgrade.text7=•Resonant
+academy.hardenedupgrade.text3=â€¢Basic
+academy.hardenedupgrade.text4=â€¢Hardened
+academy.hardenedupgrade.text5=â€¢Reinforced
+academy.hardenedupgrade.text6=â€¢Signalum
+academy.hardenedupgrade.text7=â€¢Resonant
 
 academy.reinforcedupgrade.desc=Make a Reinforced Upgrade Kit
 academy.reinforcedupgrade.text1=Reinforced machines are the second tier, and have room for 2 Augments.
@@ -1324,10 +1324,10 @@ academy.laputa.text1=The Shard of Laputa will take blocks on the ground and move
 academy.laputa.text2=The higher tiers create bigger islands.
 
 academy.flugel.title=It's Called an Umlaut
-academy.flugel.desc=Make a Flügal Tiara
-academy.flugel.text=The Flügel Tiara allows you to fly for a period of time. When you're wearing one, you can see the time remaining above your hunger bar.
+academy.flugel.desc=Make a FlÃ¼gal Tiara
+academy.flugel.text=The FlÃ¼gel Tiara allows you to fly for a period of time. When you're wearing one, you can see the time remaining above your hunger bar.
 academy.flugel.text2=You can also sprint in the air to dart forward. This has a cooldown.
-academy.flugel.text3=There are several different kinds of Flügal Tiara that you can make that allow you to change the way it looks.
+academy.flugel.text3=There are several different kinds of FlÃ¼gal Tiara that you can make that allow you to change the way it looks.
 
 academy.lexica2.title=It's Lucky They Understand English
 academy.lexica2.desc=Get the elven Lexica Botania
@@ -1771,73 +1771,73 @@ academy.tutorial.jei.26=Inventory Searching
 academy.tutorial.jei.27=You can double click the search bar to highlight that item in your inventory.
 
 
-academy.tutorial.quests.title = Quêtes
-academy.tutorial.quests.1 = Ouvrir le menu de quête
-academy.tutorial.quests.2 = Ce pack de mods contient de nombreuses quêtes pour vous apprendre à jouer.
-academy.tutorial.quests.3 = Pour les ouvrir, cliquez sur le bouton en haut à gauche de l'inventaire ou utilisez le livre de quête.
-academy.tutorial.quests.4 = Objet du livre de quêtes
-academy.tutorial.quests.5 = Bouton de quête
-academy.tutorial.quests.6 = Le menu de quête
-academy.tutorial.quests.7 = La plupart des quêtes sont invisibles jusqu'à ce qu'elles soient déverrouillées.
-academy.tutorial.quests.8 = Faites un clic gauche sur une quête pour l'ouvrir.
-academy.tutorial.quests.9 = Informations sur la quête
-academy.tutorial.quests.10 = Vous pouvez survoler une quête pour voir son nom et une courte description de celle-ci.
-academy.tutorial.quests.11 = Texte de la quête
-academy.tutorial.quests.12 = Lorsque la quête est ouverte, vous pouvez lire le texte de la quête qui contient souvent davantage d'informations.
-academy.tutorial.quests.13 = Certaines quêtes peuvent également comporter un lien vers le Guide, qui explique comment les choses fonctionnent, en sus des objectifs pour terminer la quête.
-academy.tutorial.quests.14 = Tâches
-academy.tutorial.quests.15 = Vous devez terminer chaque tâche pour que la quête soit terminée.
+academy.tutorial.quests.title = QuÃªtes
+academy.tutorial.quests.1 = Ouvrir le menu de quÃªte
+academy.tutorial.quests.2 = Ce pack de mods contient de nombreuses quÃªtes pour vous apprendre Ã  jouer.
+academy.tutorial.quests.3 = Pour les ouvrir, cliquez sur le bouton en haut Ã  gauche de l'inventaire ou utilisez le livre de quÃªte.
+academy.tutorial.quests.4 = Objet du livre de quÃªtes
+academy.tutorial.quests.5 = Bouton de quÃªte
+academy.tutorial.quests.6 = Le menu de quÃªte
+academy.tutorial.quests.7 = La plupart des quÃªtes sont invisibles jusqu'Ã  ce qu'elles soient dÃ©verrouillÃ©es.
+academy.tutorial.quests.8 = Faites un clic gauche sur une quÃªte pour l'ouvrir.
+academy.tutorial.quests.9 = Informations sur la quÃªte
+academy.tutorial.quests.10 = Vous pouvez survoler une quÃªte pour voir son nom et une courte description de celle-ci.
+academy.tutorial.quests.11 = Texte de la quÃªte
+academy.tutorial.quests.12 = Lorsque la quÃªte est ouverte, vous pouvez lire le texte de la quÃªte qui contient souvent davantage d'informations.
+academy.tutorial.quests.13 = Certaines quÃªtes peuvent Ã©galement comporter un lien vers le Guide, qui explique comment les choses fonctionnent, en sus des objectifs pour terminer la quÃªte.
+academy.tutorial.quests.14 = TÃ¢ches
+academy.tutorial.quests.15 = Vous devez terminer chaque tÃ¢che pour que la quÃªte soit terminÃ©e.
 academy.tutorial.quests.16 = Survolez la tache pour voir ce que vous devez faire.
-academy.tutorial.quests.17 = Certaines quêtes peuvent vous récompenser une fois terminées. Vous pouvez récupérer les récompenses en cliquant dessus.
-academy.tutorial.quests.18 = Progression de la quête
-academy.tutorial.quests.19 = Quand une quête est terminée, la prochaine quête sera débloquée et une ligne les reliera.
+academy.tutorial.quests.17 = Certaines quÃªtes peuvent vous rÃ©compenser une fois terminÃ©es. Vous pouvez rÃ©cupÃ©rer les rÃ©compenses en cliquant dessus.
+academy.tutorial.quests.18 = Progression de la quÃªte
+academy.tutorial.quests.19 = Quand une quÃªte est terminÃ©e, la prochaine quÃªte sera dÃ©bloquÃ©e et une ligne les reliera.
 academy.tutorial.quests.20 = Chapitres
-academy.tutorial.quests.21 = Une fois que vous aurez terminé l'école, plusieurs autres chapitres seront déverrouillés.
-academy.tutorial.quests.22 = Vous pouvez les ouvrir en cliquant dessus depuis la liste des chapitres à gauche du menu de la quête.
+academy.tutorial.quests.21 = Une fois que vous aurez terminÃ© l'Ã©cole, plusieurs autres chapitres seront dÃ©verrouillÃ©s.
+academy.tutorial.quests.22 = Vous pouvez les ouvrir en cliquant dessus depuis la liste des chapitres Ã  gauche du menu de la quÃªte.
 academy.tutorial.quests.23 = Sous-chapitres
-academy.tutorial.quests.24 = Certains chapitres peuvent avoir des sous-chapitres que vous pouvez ouvrir en survolant le chapitre principal, puis en cliquant sur le sous-chapitre dans la liste déroulante.
+academy.tutorial.quests.24 = Certains chapitres peuvent avoir des sous-chapitres que vous pouvez ouvrir en survolant le chapitre principal, puis en cliquant sur le sous-chapitre dans la liste dÃ©roulante.
 academy.tutorial.quests.25 = Tous les chapitres n'ont pas de sous-chapitres.
-academy.tutorial.quests.26 = Quêtes épinglées
-academy.tutorial.quests.27 = Vous pouvez épingler des quêtes pour les garder sur le côté de l'écran lors de la lecture.
-academy.tutorial.quests.28 = Vous pouvez cliquer sur ce bouton pour épingler toutes les quêtes disponibles.
-academy.tutorial.quests.29 = Les quêtes épinglées s'afficheront sur le côté de l'écran, ainsi que leurs tâches et leur progression.
+academy.tutorial.quests.26 = QuÃªtes Ã©pinglÃ©es
+academy.tutorial.quests.27 = Vous pouvez Ã©pingler des quÃªtes pour les garder sur le cÃ´tÃ© de l'Ã©cran lors de la lecture.
+academy.tutorial.quests.28 = Vous pouvez cliquer sur ce bouton pour Ã©pingler toutes les quÃªtes disponibles.
+academy.tutorial.quests.29 = Les quÃªtes Ã©pinglÃ©es s'afficheront sur le cÃ´tÃ© de l'Ã©cran, ainsi que leurs tÃ¢ches et leur progression.
 
 academy.tutorial.school.title = Ecole
-academy.tutorial.school.1 = Réinitialisation de l'école
-academy.tutorial.school.2 = Si vous êtes bloqué, vous pouvez utiliser le bouton Réinitialiser l’école pour créer une nouvelle école et relancer les quêtes.
-academy.tutorial.school.3 = Sauter l’école
-academy.tutorial.school.4 = Si vous ne voulez pas suivre le tutoriel, vous pouvez cliquer sur le bouton Quitter l'école pour aller directement dans l'Overworld et commencer à jouer normalement.
+academy.tutorial.school.1 = RÃ©initialisation de l'Ã©cole
+academy.tutorial.school.2 = Si vous Ãªtes bloquÃ©, vous pouvez utiliser le bouton RÃ©initialiser lâ€™Ã©cole pour crÃ©er une nouvelle Ã©cole et relancer les quÃªtes.
+academy.tutorial.school.3 = Sauter lâ€™Ã©cole
+academy.tutorial.school.4 = Si vous ne voulez pas suivre le tutoriel, vous pouvez cliquer sur le bouton Quitter l'Ã©cole pour aller directement dans l'Overworld et commencer Ã  jouer normalement.
 
 academy.tutorial.top.title = The One Probe
 academy.tutorial.top.1 = Blocs
-academy.tutorial.top.2 = Le mod "The One Probe" ajoute la boîte bleue en haut de l'écran.
-academy.tutorial.top.3 = Il montrera des détails sur le bloc que vous regardez, tel que son nom, son mod, et le type d’outil dont vous avez besoin pour le casser.
+academy.tutorial.top.2 = Le mod "The One Probe" ajoute la boÃ®te bleue en haut de l'Ã©cran.
+academy.tutorial.top.3 = Il montrera des dÃ©tails sur le bloc que vous regardez, tel que son nom, son mod, et le type dâ€™outil dont vous avez besoin pour le casser.
 academy.tutorial.top.4 = Affichage des inventaires
-academy.tutorial.top.5 = Vous pouvez vous accroupir pour voir des informations supplémentaires sur le bloc, telles que le contenu des inventaires.
-academy.tutorial.top.6 = Réservoirs
-academy.tutorial.top.7 = S'accroupir vous permettra également de voir la quantité de liquide dans un récipient, ainsi que la quantité maximale.
-academy.tutorial.top.8 = Générateurs
-academy.tutorial.top.9 = Les générateurs et les machines montreront la quantité de RF stockée à l'intérieur.
+academy.tutorial.top.5 = Vous pouvez vous accroupir pour voir des informations supplÃ©mentaires sur le bloc, telles que le contenu des inventaires.
+academy.tutorial.top.6 = RÃ©servoirs
+academy.tutorial.top.7 = S'accroupir vous permettra Ã©galement de voir la quantitÃ© de liquide dans un rÃ©cipient, ainsi que la quantitÃ© maximale.
+academy.tutorial.top.8 = GÃ©nÃ©rateurs
+academy.tutorial.top.9 = Les gÃ©nÃ©rateurs et les machines montreront la quantitÃ© de RF stockÃ©e Ã  l'intÃ©rieur.
 academy.tutorial.top.10 = Machines
-academy.tutorial.top.11 = Certains blocs, comme les fours et certaines machines, vous montreront également leur progression dans leur tâche.
+academy.tutorial.top.11 = Certains blocs, comme les fours et certaines machines, vous montreront Ã©galement leur progression dans leur tÃ¢che.
 
 academy.tutorial.journeymap.title = JourneyMap
 academy.tutorial.journeymap.1 = La mini-carte
-academy.tutorial.journeymap.2 = Le mod "JourneyMap" ajoute une mini-carte en haut à droite du menu.
-academy.tutorial.journeymap.3 = En dessous, vous pouvez voir vos coordonnées actuelles et le biome dans lequel vous vous trouvez.
+academy.tutorial.journeymap.2 = Le mod "JourneyMap" ajoute une mini-carte en haut Ã  droite du menu.
+academy.tutorial.journeymap.3 = En dessous, vous pouvez voir vos coordonnÃ©es actuelles et le biome dans lequel vous vous trouvez.
 academy.tutorial.journeymap.4 = Points de passage
-academy.tutorial.journeymap.5 = Vous pouvez appuyer sur le bouton Créer un marqueur (B par défaut) pour ouvrir le menu Nouveau marqueur.
-academy.tutorial.journeymap.6 = Ici, vous pouvez choisir son nom, son emplacement (par défaut, votre position actuelle), sa couleur, ainsi que les dimensions dans lesquelles il apparaîtra.
-academy.tutorial.journeymap.7 = Comme la dimension Nether est une dimension Overworld divisée par 8, les points de cheminement qui se trouvent dans les deux s'ajusteront automatiquement. Cela signifie que vous pouvez placer un point de cheminement à un endroit et créer un portail à un autre endroit, et ils seront liés!
-academy.tutorial.journeymap.8 = Les points de route apparaîtront dans le monde sous forme de faisceaux. Si vous les regardez directement, vous pouvez voir leur nom et à quelle distance ils se trouvent.
-academy.tutorial.journeymap.9 = Si vous vous en approchez, ils disparaîtront.
-academy.tutorial.journeymap.10 = Carte plein écran
-academy.tutorial.journeymap.11 = Vous pouvez appuyer sur le bouton Carte en plein écran (J par défaut) pour ouvrir la carte en plein écran.
-academy.tutorial.journeymap.12 = Vous pouvez voir les zones explorées. Vous pouvez également voir tous les points de passage que vous avez placés, ainsi que tous les monstres et joueurs à proximité.
-academy.tutorial.journeymap.13 = Les boutons en haut vous permettent de modifier l’aspect de la carte et de faire basculer la visibilité de certains éléments.
-academy.tutorial.journeymap.14 = Avec les boutons en bas, vous pouvez voir le menu des points de passage, modifier les paramètres du mod et d’autres choses similaires.
-academy.tutorial.journeymap.15 = En mode solo, vous pouvez utiliser le bouton Carte automatique pour remplir la carte à des endroits où vous n’avez pas été auparavant. 
+academy.tutorial.journeymap.5 = Vous pouvez appuyer sur le bouton CrÃ©er un marqueur (B par dÃ©faut) pour ouvrir le menu Nouveau marqueur.
+academy.tutorial.journeymap.6 = Ici, vous pouvez choisir son nom, son emplacement (par dÃ©faut, votre position actuelle), sa couleur, ainsi que les dimensions dans lesquelles il apparaÃ®tra.
+academy.tutorial.journeymap.7 = Comme la dimension Nether est une dimension Overworld divisÃ©e par 8, les points de cheminement qui se trouvent dans les deux s'ajusteront automatiquement. Cela signifie que vous pouvez placer un point de cheminement Ã  un endroit et crÃ©er un portail Ã  un autre endroit, et ils seront liÃ©s!
+academy.tutorial.journeymap.8 = Les points de route apparaÃ®tront dans le monde sous forme de faisceaux. Si vous les regardez directement, vous pouvez voir leur nom et Ã  quelle distance ils se trouvent.
+academy.tutorial.journeymap.9 = Si vous vous en approchez, ils disparaÃ®tront.
+academy.tutorial.journeymap.10 = Carte plein Ã©cran
+academy.tutorial.journeymap.11 = Vous pouvez appuyer sur le bouton Carte en plein Ã©cran (J par dÃ©faut) pour ouvrir la carte en plein Ã©cran.
+academy.tutorial.journeymap.12 = Vous pouvez voir les zones explorÃ©es. Vous pouvez Ã©galement voir tous les points de passage que vous avez placÃ©s, ainsi que tous les monstres et joueurs Ã  proximitÃ©.
+academy.tutorial.journeymap.13 = Les boutons en haut vous permettent de modifier lâ€™aspect de la carte et de faire basculer la visibilitÃ© de certains Ã©lÃ©ments.
+academy.tutorial.journeymap.14 = Avec les boutons en bas, vous pouvez voir le menu des points de passage, modifier les paramÃ¨tres du mod et dâ€™autres choses similaires.
+academy.tutorial.journeymap.15 = En mode solo, vous pouvez utiliser le bouton Carte automatique pour remplir la carte Ã  des endroits oÃ¹ vous nâ€™avez pas Ã©tÃ© auparavant. 
 academy.tutorial.journeymap.16 = Cartographie des grottes
-academy.tutorial.journeymap.17 = JourneyMap dresse également une carte des grottes que vous explorez.
-academy.tutorial.journeymap.18 = Chacun des 15 blocs verticaux a son propre calque pour le mappage. Vous pouvez vous déplacer entre eux avec le bouton Cave Layers en haut.
+academy.tutorial.journeymap.17 = JourneyMap dresse Ã©galement une carte des grottes que vous explorez.
+academy.tutorial.journeymap.18 = Chacun des 15 blocs verticaux a son propre calque pour le mappage. Vous pouvez vous dÃ©placer entre eux avec le bouton Cave Layers en haut.
 academy.tutorial.journeymap.19 = Bouton Calque de couches
