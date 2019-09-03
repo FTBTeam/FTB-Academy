@@ -433,7 +433,7 @@ academy.slimesling.task1=Um Estilingue de Gosma qualquer
 academy.slimesling.task2=Botas de Gosma qualquer
 
 academy.simplybackpacks.title=Puxa Saco
-academy.simplybackpacks.desc=Faça uma mochila comum
+academy.simplybackpacks.desc=Faça uma Mochila Comum
 academy.simplybackpacks.text1=Mochilas armazenam itens em seu inventário, com níveis mais altos, eles armazenam mais coisas.
 academy.simplybackpacks.text2=Você pode definir um atalho de teclado opcional que permite abrir a mochila de qualquer lugar do seu inventário. O inventário de Bugiganga (Bauble), que você pode acessar através do pequeno anel no canto superior direito dos retratos de seus jogadores, também é válido.
 academy.simplybackpacks.text3=Há uma outra tecla de atalho opcional que você pode definir, que permite alternar a coleta automática de itens; Quando ativado, os itens vão direto para a mochila quando pegados. Você pode segurar o agachar e clicar com o botão direito do mouse na mochila para definir uma Lista Branca ou uma Lista Negra dos itens.
@@ -442,97 +442,97 @@ academy.simplybackpacks.task=Uma Mochila qualquer
 
 # Armazenamento básico
 
-academy.storagedrawers.title=Compact Storage
-academy.storagedrawers.desc=Make any Drawer
-academy.storagedrawers.text1=A Basic Drawer can store 32 stacks of a single item. A 1x2 Drawer stores 16 stacks of two items, and a 2x2 Drawer holds 8 stacks of 4 items. You can add upgrades to them to store more.
-academy.storagedrawers.text2=Read the Guide for more information on Storage Drawers.
-academy.storagedrawers.task=Any Drawer
+academy.storagedrawers.title=Armazenamento compacto de itens
+academy.storagedrawers.desc=Faça Gaveta de Armazenado de itens
+academy.storagedrawers.text1=Uma gaveta básica pode armazenar 32 pilhas de um único item. Uma gaveta 1x2 armazena 16 pilhas de dois itens únicos e uma gaveta 2x2 armazena 8 pilhas de quatro itens únicos. Você pode adicionar atualizações para armazenar mais itens.
+academy.storagedrawers.text2=Leia o Guia para obter mais informações sobre as Gavetas de Armazenamento.
+academy.storagedrawers.task=Uma Gaveta Qualquer
 
-academy.drawercontroller.title=Remote Access
-academy.drawercontroller.desc=Make a Drawer Controller
-academy.drawercontroller.text1=The Drawer Controller allows you to access all connected Drawers with Hoppers, pipes, or any other form of automation.
-academy.drawercontroller.text2=Drawers are connected when they are touching the Drawer Controller, even if there are other Drawers between them.
+academy.drawercontroller.title=Acesso Remoto
+academy.drawercontroller.desc=Faça um Controlador de Armazenamento da Gaveta
+academy.drawercontroller.text1=O Controlador de Armazenamento da Gaveta permite acessar todas as gavetas conectadas com funis, tubos ou qualquer outra forma de automação.
+academy.drawercontroller.text2=As Gavetas de Armazenamento são conectadas quando tocam no Controlador de Armazenamento da Gaveta, mesmo se houver outras gavetas entre elas.
 
-academy.compactingdrawer.title=Nuggets and Ingots and Blocks, Oh My!
-academy.compactingdrawer.desc=Make a Compacting Drawer
-academy.compactingdrawer.text1=A Compacting Drawer will show items in its ingot, nugget, and block forms.
-academy.compactingdrawer.text2=The maximum storage depends on the block version, so this is really good for storing metals and gems.
+academy.compactingdrawer.title=Pepitas, Barras e Blocos, UHUL!
+academy.compactingdrawer.desc=Faça uma Gaveta de Compactação
+academy.compactingdrawer.text1=A Gaveta de Compactação irá mostrar itens em suas formas de barra, pepita e de bloco.
+academy.compactingdrawer.text2=O armazenamento máximo depende da versão do bloco, portanto, isso é realmente bom para armazenar metais e pedras preciosas.
 
-academy.ironchests.title=Storage Solution
-academy.ironchests.desc=Make an Iron Chest
-academy.ironchests.text=The mod Iron Chests adds a bunch of new chests that have expanded storage, each tier holding more items.
+academy.ironchests.title=Solução de armazenamento
+academy.ironchests.desc=Faça um baú de ferro
+academy.ironchests.text=O mod Baús de Ferro (Iron Chests) adiciona um monte de novos baús que expandiram o armazenamento, cada nível contendo mais itens para armazenar.
 
-academy.chestupgrade.title=Deeper Pockets
-academy.chestupgrade.desc=Make an Iron to Gold Chest Upgrade
-academy.chestupgrade.text=Chest Upgrades allow you to upgrade the tier of the Chest without having to break it. Simply right click the Chest Upgrade on the appropriate tier Chest.
+academy.chestupgrade.title=Bolsos mais profundos
+academy.chestupgrade.desc=Faça um Aprimoramento do Baú de Ferro para Ouro
+academy.chestupgrade.text=Os aprimoramentos do baú permitem que você aprimore o nível do baú sem precisar quebrá-lo. Com o aprimoramento adequado na mão, basta clicar com o botão direito do mouse no Baú de nível apropriado.
 
-academy.endertank.title=Water-Safe
-academy.endertank.desc=Make an Ender Tank
-academy.endertank.text1=Ender Tanks will share their contents with all other Ender Tanks with the same color combination. Use a dye on one of the white spots on top to set the color.
-academy.endertank.text2=You can also use a Diamond on the valve to make it a personal Ender Tank. Personal Ender Tanks will only connect to other personal Ender Tanks placed by the same person.
-academy.endertank.text3=Right click the valve with an empty hand to toggle if it will automatically output to the block underneath.
-academy.endertank.text4=Obviously works best in pairs.
+academy.endertank.title=Água Potável
+academy.endertank.desc=Faça um Tanque de Ender
+academy.endertank.text1=Os Ender Tanks compartilharão seu conteúdo com todos os outros Ender Tanks com a mesma combinação de cores. Use um corante em uma das manchas brancas na parte superior para definir uma sequencia de cor. (Você poderá escolher como quiser, só uma cor, duas cores, colorido... Você decide.)
+academy.endertank.text2=Você também pode personalizar o Tanque de Ender aplicando um diamante neles para torná-lo um Tanque de Ender Pessoal. Os Tanques de Ender Pessoais se conectam apenas a outros Tanques de Ender Pessoais colocados pela mesma pessoa.
+academy.endertank.text3=Clique com o botão direito na válvula com a mão vazia para definir se deve ou não fornecer líquidos para o bloco abaixo.
+academy.endertank.text4=Obviamente que funcionam melhor em pares.
 
-academy.enderchest.title=Extradimensional
-academy.enderchest.desc=Make an Ender Chest
-academy.enderchest.text1=Ender Chests will share their contents with all other Ender Chests with the same color combination. Use a dye on one of the white spots on top to set the color.
-academy.enderchest.text2=You can also use a Diamond on the latch to make it a personal Ender Chest. Personal Ender Chests will only connect to other personal Ender Chests placed by the same person.
-academy.enderchest.text3=Obviously works best in pairs.
+academy.enderchest.title=Hyperdimensional
+academy.enderchest.desc=Faça um Baú Ender
+academy.enderchest.text1=Os Baús de Ender compartilharão seu conteúdo com todos os outros Baús Ender com a mesma combinação de cores. Use um corante em uma das manchas brancas na parte superior para definir uma sequencia de cor. (Você poderá escolher como quiser, só uma cor, duas cores, colorido... Você decide.)
+academy.enderchest.text2=Você também pode personalizar os Baús de Ender aplicando um diamante neles para torná-lo um Baú de Ender Pessoal. Os Baús de Ender Pessoais se conectam apenas a outros Baús de Ender Pessoais colocados pela mesma pessoa.
+academy.enderchest.text3=Obviamente que funcionam melhor em pares.
 
-academy.enderpouch.title=Bag of Holding
-academy.enderpouch.desc=Make an Ender Pouch
-academy.enderpouch.text1=The Ender Pouch will access the same inventory as the Ender Chest color combination it is linked to. Sneak right click the Ender Pouch on an Ender Chest to set the color combination.
-academy.enderpouch.text2=You can have an Ender Chest at your base with the contents automatically going into storage, and carry around an Ender Pouch linked to it to be able to store all your items without having to go back to your base.
+academy.enderpouch.title=Bolsa sem fundo
+academy.enderpouch.desc=Faça uma Bolsa de Ender
+academy.enderpouch.text1=A Bolsa de Ender acessará o mesmo inventário que a combinação de cores do Baús de Ender à qual está vinculada. Agache e clique com o botão direito do mouse com a Bolsa de Ender na mão em um Baú de Ender para definir a combinação de cores.
+academy.enderpouch.text2=Você pode ter um Baú de Ender em sua base com os deus itens completamente armazenados e carregar uma Bolsa de Ender vinculado a ele para poder armazenar todos os seus itens sem precisar voltar à sua base.
 
-academy.blackholeunit.title=Supermassive Black Hole
-academy.blackholeunit.desc=Make a Black Hole Unit
-academy.blackholeunit.text=A Black Hole Unit can hold over 2 billion of a single item.
+academy.blackholeunit.title=Buraco Negro
+academy.blackholeunit.desc=Faça uma Unidade de Buraco Negro (Black Hole Unit)
+academy.blackholeunit.text=Uma Unidade de Buraco Negro pode conter mais de 2 bilhões de um único item.
 
-academy.blackholtank.title=Black Hole Sun
-academy.blackholtank.desc=Make a Black Hole Tank
-academy.blackholtank.text=A Black Hole Tank can hold over 2 million buckets of a single fluid.
+academy.blackholtank.title=2147483647 Litros
+academy.blackholtank.desc=Faça um Tanque de Buraco Negro"(Black Hole Tank)
+academy.blackholtank.text=Um Tanque de Buraco Negro (Black Hole Tank) pode conter mais de 2 milhões de baldes de um único tipo de fluido.
 
 academy.blackholecontroller.title=Messier 87
-academy.blackholecontroller.desc=Make a Black Hole Controller v2.0
-academy.blackholecontroller.text1=The Black Hole Controller v2.0 can hold 12 Black Hole Units/Tanks which can be accessed with Hoppers or pipes.
-academy.blackholecontroller.text2=Very useful to use in tandem with the External Storage from Refined Storage.
+academy.blackholecontroller.desc=Faça um Controlador de Buraco Negro v2.0 (Black Hole Controller v2.0)
+academy.blackholecontroller.text1=O Controlador de Buraco Negro v2.0 (Black Hole Controller v2.0) pode conter 12 Unidades/Tanques de Buraco Negro (Black Hole Units/Tanks), que podem ser acessados com tremonhas ou tubos.
+academy.blackholecontroller.text2=Muito útil para usar em conjunto com o Armazenamento Externo (External Storage) do Armazenamento Refinado (Refined Storage).
 
-academy.blackholelabel.title=Black Hole Drawer
-academy.blackholelabel.desc=Make a Black Hole Label
-academy.blackholelabel.text=You can place a Black Hole Label to make it funciton similar to a Storage Drawer.
+academy.blackholelabel.title=Rótulo de Buraco Negro
+academy.blackholelabel.desc=Faça um Rótulo de Buraco Negro (Black Hole Label)
+academy.blackholelabel.text=Você pode aplicar um Rótulo de buraco negro (Black Hole Label) a uma Unidade/Tanque de Buraco Negro (Black Hole Unit/Tank) para obter uma função semelhante a uma Gaveta de Armazenamento.
 
-academy.storagecrate1.title=""Small""
-academy.storagecrate1.desc=Make a Small Storage Crate
-academy.storagecrate1.text1=A Small Storage Crate has 117 storage slots.
-academy.storagecrate1.text2=If it contains a Storage Crate Keeper, the Crate will hold its contents when destroyed. The Keeper is lost in this process.
+academy.storagecrate1.title=""Pequena""
+academy.storagecrate1.desc=Faça uma Pequena Caixa de Armazenamento (Small Storage Crate)
+academy.storagecrate1.text1=Uma Pequena Caixa de Armazenamento (Small Storage Crate) possui 117 slots de armazenamento.
+academy.storagecrate1.text2=Se ele contiver um Guardador de Caixa de Armazenamento (Storage Crate Keeper), a Caixa manterá seu conteúdo quando destruído. O Guardador de Caixa de Armazenamento (Storage Crate Keeper) será perdido neste processo.
 
-academy.storagecrate2.title=Double Trouble
-academy.storagecrate2.desc=Make a Medium Storage Crate
-academy.storagecrate2.text1=A Medium Storage Crate has 2 pages of 117 slots, for a total of 234 slots.
-academy.storagecrate2.text2=Click on the arrows on either side of the GUI to swap between the pages.
+academy.storagecrate2.title=Problema em dobro
+academy.storagecrate2.desc=Faça um Caixa de Armazenamento Médio (Medium Storage Crate)
+academy.storagecrate2.text1=Uma Caixa de Armazenamento Médio (Medium Storage Crate) possui 2 páginas de 117 slots, para um total de 234 slots.
+academy.storagecrate2.text2=Clique nas setas nos dois lados da GUI para alternar entre as páginas.
 
-academy.storagecrate3.title=The Ultimate Clutter Storage
-academy.storagecrate3.desc=Make a Large Storage Crate
-academy.storagecrate3.text=A Medium Storage Crate has 3 pages of 117 slots, for a total of 351 slots.
+academy.storagecrate3.title=O Caos do armazenamento final
+academy.storagecrate3.desc=Faça um Caixa de Armazenamento Grande (Large Storage Crate)
+academy.storagecrate3.text=Uma Caixa de Armazenamento Grande (Large Storage Crate) possui 3 páginas de 117 slots, para um total de 351 slots.
 
-# Going to leave this here just in case we eventually re-add /dank/null/
+# Vamos deixar isso aqui, caso voltemos a adicionar /dank/null/
 # academy.dank.title=/dank/null/
-# academy.dank.desc=Make a /dank/null/
-# academy.dank.text1=The /dank/null/ allows you to hold a large amount of items in a single slot. It will automatically place specific items you pick up into itself, and you can place blocks from it. If a slot is full, it will delete items that try to go into it.
-# academy.dank.text2=Sneak right click to open its GUI and insert items you want to store.
-# academy.dank.text3=While holding in your hand, sneak and scroll to change what item you want to place.
-# academy.dank.text4=Higher tier /dank/null/s have more slots and store more per slot.
-# academy.dank.task=Any /dank/null/
+# academy.dank.desc=Faça uma /dank/null/
+# academy.dank.text1=A /dank/null/ permite armazenar uma grande quantidade de itens em um único slot. Ele colocará automaticamente itens específicos que você seleciona e poderá colocar blocos a partir dele. Se um slot está cheio, ele excluirá itens que tentam entrar nele.
+# academy.dank.text2=Agache e clique com o botão direito do mouse para abrir sua GUI e inserir itens que deseja armazenar.
+# academy.dank.text3=Enquanto segura ele em sua mão, agache e role o scroll do mouse, você pode definir o que deseja ser colocado.
+# academy.dank.text4=Melhorar o /dank/null/s pode economizar mais.
+# academy.dank.task=Um /dank/null/ Qualquer
 
-academy.dracchest.title=Dragon Hoard
-academy.dracchest.desc=Make a Draconium Chest
-academy.dracchest.text=The Draconium Chest has 260 slots, 5 upgradable furnace slots, a 3x3 crafting grid, and you can set specific slots to be able to come in and out of specific sides.
+academy.dracchest.title=Fortaleza do Dragão
+academy.dracchest.desc=Faça um Baú Dracônico (Draconic Chest)
+academy.dracchest.text=O Baú Dracônico (Draconic Chest) possui 260 slots, 5 slots de Fornalha que pode ser aprimorada, uma grade de fabricação 3x3 e você pode definir slots específicos para poder entrar e sair de lados específicos.
 
-# Transportation
+# Transporte
 
-academy.hopper.title=Simple, Elegant, Beautiful
-academy.hopper.desc=Make a Hopper
-academy.hopper.text1=Ah, the Hopper. It takes things out of blocks above it, and inserts them into inventories it's pointing towards. Could there be anything better than this?
+academy.hopper.title=Simples, elegante, bonito
+academy.hopper.desc=Faça um Funil
+academy.hopper.text1=Ah, o funil. Ele tira as coisas dos Baús acima e as insere nos Baús para os quais está apontando. Poderia haver algo melhor do que isso?
 
 academy.basicitemtess.title=Better Than Hoppers
 academy.basicitemtess.desc=Make a Basic Item Tesslocator
