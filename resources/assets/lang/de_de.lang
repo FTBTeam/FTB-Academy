@@ -617,7 +617,7 @@ academy.advanceditemlaser.text2=In seinem GUI kannst du eine White- oder Blackli
 academy.ifconveyorbelts.title=Produktionsstraße
 academy.ifconveyorbelts.desc=Stelle "Conveyor Belts" (Förderbänder) her
 academy.ifconveyorbelts.text1="Conveyor Belts" können Items, Entities und Flüssigkeiten bewegen.
-academy.ifconveyorbelts.text2=Standartmäßig kann es nur Entities, Spieler und weggeworfene Items bewegen. Du kanst "Extraction Conveyor Belts" oder "Insertion Conveyor Belts" nutzen, um mit Blöcken zu interagieren.
+academy.ifconveyorbelts.text2=Standartmäßig kann es nur Entities, Spieler und weggeworfene Items bewegen. Du kannst "Extraction Conveyor Belts" oder "Insertion Conveyor Belts" nutzen, um mit Blöcken zu interagieren.
 academy.ifconveyorbelts.text3=Es gibt auch einige "Conveyor Upgrades", die verschiedene Funktionalitäten hinzufügen. Wenn du mit "Plastic" (Plastik) auf einen "Conveyor Belt" rechtsklickst können Items auf ihm nicht mehr vom Spieler aufgesammelt werden und wenn du Glowstonestaub nutzt, wird er deutlich schneller arbeiten.
 academy.ifconveyorbelts.task2="Insertion/Extraction Conveyor Upgrade"
 
