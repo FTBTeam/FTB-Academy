@@ -1,10 +1,5 @@
 [
 	{
-		"id": "trees",
-		"title": "Trees",
-		"icon": "item:minecraft:sapling"
-	},
-	{
 		"id": "biomes",
 		"title": "Biomes",
 		"icon": "item:naturescompass:naturescompass"

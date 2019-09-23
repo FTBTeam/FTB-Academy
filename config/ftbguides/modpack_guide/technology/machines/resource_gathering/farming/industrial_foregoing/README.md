@@ -8,7 +8,7 @@ Place the Crop Sower underneath the center of the growing area. It has a default
 Insert seeds into the slots. Seeds will only be planted in the field in the corresponding slots in the Sower. That is, if there are only seeds in the top three slots, only the Northern third of the working area will have seeds.
 ![](gatherer.png)
 Face the Plant Gatherer at the field. Again, it needs a Range +4 Addon to work in a 9x9 area. It will scan the working area (you can click the Snowball to show it in the world) for fully grown crops and break them, inserting its drops into its internal inventory. It will also produce a small amount of Sludge.
+
 In the example above, an Itemstack Transfer Addon is used to automatically move the Seeds and Wheat into an adjacent Storage Drawer. Itemducts move the Seeds back to the Plant Sower. A Fluid Transfer Addon is also used to automatically move the Sludge into the Black Hole Tank above.
 
 ![](if_trees.png)
-You can do tree farms exactly the same. You shouldn't use Dynamic Trees saplings however, they get harvested instantly.

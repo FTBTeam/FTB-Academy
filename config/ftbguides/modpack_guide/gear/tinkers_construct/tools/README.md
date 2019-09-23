@@ -34,7 +34,7 @@ The Excavator digs soft blocks in a 3x3 area without modifiers.
 
 ## Lumberaxe
 ![Lumberaxe](item:tconstruct:lumberaxe 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt", "manyullyn"]}})
-The Lumberaxe chops down an entire tree at once, though this isn't as useful with Dynamic Trees.
+The Lumberaxe chops down an entire tree at once.
 
 ## Broadsword
 ![Broadsword](item:tconstruct:broadsword 1 0 {TinkerData: {Materials: ["wood", "iron", "cobalt"]}})
