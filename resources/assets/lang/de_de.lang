@@ -8,9 +8,11 @@ academy.basics.title=Basis
 academy.mainmagic.title=Magie
 academy.botania.title=Botania
 academy.twilightforest.title=Twilight Forest
+academy.astralsorcery.title=Astral Sorcery
 
 academy.mainstorage.title=Lagersysteme
 academy.storage1.title=Einfaches Lager
+academy.transportation.title=Item- und andere Transportmöglichkeiten
 academy.refinedstorage1.title=Refined Storage - Anfänger
 academy.refinedstorage2.title=Refined Storage - Fortgeschritten
 academy.refinedstorage3.title=Refined Storage - Experte
@@ -51,14 +53,17 @@ academy.laminarfluiducts.rewards=Super-Laminare Fluidukte
 academy.elevators.rewards=Aufzüge
 academy.meats.rewards=Fleisch
 academy.rangeaddons.rewards=Reichweitenverbesserungen
+academy.drillaugments.rewards=Bohrerverbesserungen
 
 academy.swordenchants1.rewards=Schwertverzauberungen 1
 academy.looting1.reward=Plünderung II
 academy.sharpness1.reward=Schärfe III
+academy.reaper1.reward=Reaper II
 
 academy.swordenchants2.rewards=Schwertverzauberungen 2
 academy.looting2.reward=Plünderung IV
 academy.sharpness2.reward=Schärfe VI
+academy.reaper2.reward=Reaper 
 
 academy.bowenchants1.rewards=Bogenverzauberungen 1
 academy.power1.reward=Stärke III
@@ -68,24 +73,23 @@ academy.bowenchants2.rewards=Bogenverzauberungen 2
 academy.power2.reward=Stärke VI
 academy.punch2.reward=Schlag III
 
+academy.helmenchants.rewards=Helmverzauberungen
+academy.chestenchants.rewards=Harnischverzauberungen
+academy.legenchants.rewards=Beinschutzverzauberungen
+academy.bootenchants.rewards=Stiefelverzauberungen
+
+academy.depthstr1.reward=Wasserläufer II
+academy.feathfall1.reward=Federfall IV
+academy.frostwalk1.reward=Eisläufer
+
+academy.aquaaffin1.reward=Wasseraffinität
+academy.resp1.reward=Atmung II
+
 academy.prot1.reward=Schutz II
 academy.fireprot1.reward=Feuerschutz III
 academy.blastprot1.reward=Explosionsschutz III
 academy.projprot1.reward=Schussicher III
 academy.thorns1.reward=Dornen II
-
-academy.helmenchants1.rewards=Helmverzauberungen 1
-academy.aquaaffin1.reward=Wasseraffinität
-academy.resp1.reward=Atmung II
-
-academy.chestenchants1.rewards=Harnischverzauberungen 1
-
-academy.legenchants1.rewards=Beinschutzverzauberungen 1
-
-academy.bootenchants1.rewards=Stiefelverzauberungen 1
-academy.depthstr1.reward=Wasserläufer II
-academy.feathfall1.reward=Federfall IV
-academy.frostwalk1.reward=Eisläufer
 
 academy.prot2.reward=Schutz IV
 academy.fireprot2.reward=Feuerschutz V
@@ -93,13 +97,6 @@ academy.blastprot2.reward=Explosionsschutz V
 academy.projprot2.reward=Schussicher V
 academy.thorns2.reward=Dornen IV
 
-academy.helmenchants2.rewards=Helmverzauberungen 2
-
-academy.chestenchants2.rewards=Harnischverzauberungen 2
-
-academy.legenchants2.rewards=Beinschutzverzauberungen 2
-
-academy.bootenchants2.rewards=Stiefelverzauberungen 2
 academy.depthstr2.reward=Wasserläufer IV
 academy.frostwalk2.reward=Eisläufer III
 
@@ -134,29 +131,7 @@ academy.pinklens.reward=Heilung
 academy.bluelens.reward=Schub
 academy.purplelens.reward=Spektral
 
-#Advancements
-
-academy.advancements.root.title=Willkommen zu FTB Academy!
-academy.advancements.root.description=Fange an, das Modpack zu spielen.
-
-academy.advancements.storage.title=Abschluss in "Lagersysteme"
-academy.advancements.storage.description=Lerne von den verschieden Itemlagerungsmethoden.
-
-academy.advancements.automation.title=Abschluss in "Automatisierung"
-academy.advancements.automation.description=Lerne die Grundprinzipien der Maschinenautomatisierung.
-
-academy.advancements.tech.title=Abschluss in "Technik"
-academy.advancements.tech.description=Lerne die Grundlagen der Technikmods.
-
-academy.advancements.as.title=Abschluss in "Astrologie"
-academy.advancements.as.description=Lerne über die Astral Sorcery-Modifikation.
-
-academy.advancements.botania.title=Abschluss in "Botanik"
-academy.advancements.botania.description=Lerne, wie du die Botania-Modifikation meistern kannst.
-
-academy.advancements.graduated.title=Bestanden!
-academy.advancements.graduated.description=Schließe die Schule ab und begine deine Reise in die Oberwelt.
-
+#Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
 
 #Basics
 
@@ -189,14 +164,19 @@ academy.introgenstorage.task2=Öffne eine Diamantkiste
 academy.introgenstorage.task3=Öffne eine Kleine Lagerbox
 academy.introgenstorage.task4=Öffne eine Große Lagerbox
 
+academy.introupgradechest.title=Kistenverbesserungen
+academy.introupgradechest.desc=Verbessere die Kiste zu einer Eisenkiste
+academy.introupgradechest.text=Nimm das Holz-zu-Eisentruhen-Upgrade aus der Kiste und rechtsklicke damit die Kiste, um sie zu verbessern.
+
 academy.introbulkstorage.title=Massenspeicher
 academy.introbulkstorage.desc=Inspiziere Schubfächer
 academy.introbulkstorage.text1=Schubfächer sind prefekt, um eine große Anzahl eines einzelen Itemtyps zu speichern.
 academy.introbulkstorage.text2=Rechtsklick auf ein Schubfach speichert das Item in deiner Hand, und wenn du Rechtsklick gedrückt hältst, lagerst du alle Items des selben Typs ein.
 academy.introbulkstorage.text3=Linksklick auf ein Schubfach nimmt ein Item aus einem Schubfach heraus und SHIFT + Linksklick (oder ggf. Schleichen + Linksklick) leert das Schubfach um einen ganzen Stack (64 Items).
-academy.introbulkstorage.task1=Inspiziere Verdichtendes Schubfach
-academy.introbulkstorage.task2=Inspiziere Standart-Schubfächer 1x2
-academy.introbulkstorage.task3=Inspiziere Standart-Schubfach
+academy.introbulkstorage.task1=Nimm etwas Bruchstein aus dem Standart-Schubfach auf der rechten Seite.
+academy.introbulkstorage.task2=Nimm etwas Holz aus dem Standart-Schubfach in der Mitte.
+academy.introbulkstorage.task3=Lege Eisenklumpen in das verdichtende Schubfach und nimm einen Eisenblock heraus.
+academy.introbulkstorage.text4=Fahre mit der Maus über die obenstehenden Aufgaben, um genaueres zu erfahren.
 
 academy.introdigitalstorage.title=Digitales Lager
 academy.introdigitalstorage.desc=Lerne "Refined Storage" kennen
@@ -273,18 +253,11 @@ academy.introenergystorage.text3=Öffne die Energiezelle und Stelle im blauen Ta
 academy.introenergystorage.text4=Klicke auf die entsprechende Seite im Konfigurations-Tab, um zwischen Eingang (blau), Ausgang (orange/rot) und keines davon (gelb) zu wechseln. SHIFT + Rechtsklick (oder ggf. Sneak + Rechtsklick) auf die Vorderseite stellt alle Seiten auf "aus". Stelle die Energiezelle so ein, dass ein Eingang in Richtung Generator und ein Ausgang in Richtung Redstone-Ofen zeigt. 
 academy.introenergystorage.task=Ersetze das mittlere Fluxdukt mit einer Energiezelle und kofiguriere sie
 
-academy.introaugments.title=Maschinen verbessern
-academy.introaugments.desc=Verbessere den Redsone-Ofen
-academy.introaugments.text1=Die meisten Technikmods erlauben dir, die Maschinen zu verbessern. Thermal Expansion macht das über Maschinenverbesserungsstufen und spezifische Verbesserungsitems (JEI: "Verbesserung").
-academy.introaugments.text2=Verbessere Thermal Expansion Maschinen indem du sie mit einem Upgrade- oder Konversionsbausätzen rechtsklickst und damit ihre Stufe erhöhst. Dies erlaub ihnen, mehr Strom zu verbrauchen und somit schneller zu arbeiten.
-academy.introaugments.text3=Du kannst die Maschinen noch zusätzlich verbessern, indem du "Verbesserungen" installierst. Je höher die Maschinenstufe ist, desto mehr Verbesserungen kannst du hinzufügen. Öffne das GUI der Maschine, öffne den Erweiterungs-Tab (oben-rechts), in dem du die Verbesserungen einfügen kannst.
-academy.introaugments.task=Verbessere den Redstone-Ofen
+academy.introtechlast.title=Schmelzen mit Energie
+academy.introtechlast.desc=Schmelze etwas Eisenerz
+academy.introtechlast.text=Nimm etwas Eisenerz aus der Erzkiste und schmelze es im Redstone-Ofen.
 
-academy.introtechlast.title=Nutze verbesserte Maschinen
-academy.introtechlast.desc=Nutze den verbesserten Redstone-Ofen
-academy.introtechlast.text=Sobald der Restone-Ofen komplett verbessert ist, schmelze wieder etwas pulverisiertes Eisen und schau, wie viel schneller er jetzt ist.
-
-academy.introastralsorcery.title=Einführung zu Astral Sorcery
+academy.introastralsorcery.title=Einführung in Astral Sorcery
 academy.introastralsorcery.desc=Lerne Astral Sorcery
 academy.introastralsorcery.text=Astral Sorcery ist eine Magiemodifikation, die auf die Nutzung der Kraft des Sternenlicht und die Sternkonstellationen fokussiert ist.
 academy.introastralsorcery.task=Betrete den Astral Sorcery-Bereich
@@ -352,23 +325,24 @@ academy.overworld.reward=JourneyMap-Anleitung lesen
 academy.timber.title=Baum fällt!
 academy.timber.desc=Sammle etwas Holz
 academy.timber.text1=Los! Worauf wartest du noch? Jetzt hau schon einen Baum zu Kleinholz! Welcher? Egal! Es sollen einfach nur 4 Holzstämme dabei übrigbleiben!
-academy.timber.text2=Du hast vielleicht bemerkt, dass die Bäume in dieser Welt etwas anders als sonst aussehen. Du kannst in der Extraanleitung (Guide) im Bereich "Die Welt" mehr darüber lesen.
 academy.timber.task=4x Holzstamm
 
 academy.tinkering.title=Basteln nach Schablonen
 academy.tinkering.desc=Stelle die benötigten Blöcke von Tinkers' Construct her
-academy.tinkering.text=Diese Blöcke werden benötigt, um sich tolle Werkzeuge basteln zu können.
-academy.tinkering.text2=Du kannst in der Extraanleitung (Guide) im Bereich "Ausrüstung: Waffen und Werkzeuge" mehr darüber lesen.
+academy.tinkering.text=Mit Werkzeugen von Tinkers' Construct kann man viel anstellen. Sie werden niemals komplett zerstört sein, außer, sie fallen in Lava, oder so, sie können mit Verzauberungsähnlichen Modifikatoren verbessert werden und du kannst die Bauteile der Werkzeugs nach belieben austauschen.
+academy.tinkering.text2=Du kannst in der Extraanleitung (Guide) im Bereich "Ausrüstung: Waffen und Werkzeuge" oder im Buch "Materialien und du" mehr darüber lesen.
 
 academy.smeltery.title=Heiße Angelegenheit
 academy.smeltery.desc=Baue eine Schmelzerei
 academy.smeltery.text1=Die Schmelzerei erlaubt dir, Metalle zu schmelzen, damit du daraus Werkzeugteile, Blöcke, Barren und andere Items herzustellen.
-academy.smeltery.text2=Diese Blöcke werden benötigt, um eine Schmelzerei mit einem internen Speicher von 9 Blöcken zu bauen.
+academy.smeltery.text2=Diese Blöcke werden benötigt, um eine Schmelzerei mit einem internen Speicher von 9 Blöcken zu bauen. Du musst alle 18 versengten Ziegel zugleich im Inventar haben!
 
 academy.pickaxe.title=Ab in die Mine!
 academy.pickaxe.desc=Stelle eine Tinkers' Construct-Spitzhacke her
 academy.pickaxe.text1=Spitzhacken von Tinkers' Construct sind gut, wenn man sie so früh, wie möglich herstellt, da sie Erfahrung sammeln, welche dir erlaubt, sie später zu verbessern/modifizieren.
 academy.pickaxe.text2=Diese Quest akzeptiert jede Spitzhacke von Tinkers' Construct, egal, aus welchen Teilen sie besteht.
+academy.pickaxe.text2=Um eine Tinkers' Spitzhacke herzustellen benötigst du Spitzhackenkopf, Bindung und Werkzeuggriff (Mehr Infos im Guide). Diese Teile musst du in der Werkzeugstation kombinieren. 
+academy.pickaxe.text3=Diese Quest akzeptiert eine Spitzhacke unabhängig von ihren Bauteil-Materialien.
 academy.pickaxe.task=Irgendeine Tinkers' Spitzhacke
 
 academy.toolforge.title=Zukunftsschmiede
@@ -438,6 +412,13 @@ academy.simplybackpacks.text1=Rucksäcke speichern Items in deren Inventar, wobe
 academy.simplybackpacks.text2=Es gibt eine optionale Taste, mit der du den Rucksack öffnen kannst, wenn er nur in deinem Inventar ist. Das "Bauble"-Inventar, auf welches du über den kleinen Ring in der rechts-oberen Ecke deines Spielerportaraits zugreifen kannst, ist dabei auch gültig.
 academy.simplybackpacks.text3=Es gibt eine weitere optionale Taste, mit der du einstellen kannst, ob aufgesammelte Items direkt im Rucksack gespeichert werden sollen. Du kannst mit dem Rucksack SHIFT + Rechtsklicken (oder ggf. Sneak + Rechtsklicken), um eine "Whitelist" oder eine "Blacklist" dafür einzustellen.
 academy.simplybackpacks.task=Any Backpack
+
+academy.claimchunk.title=Runter von meinem Rasen!
+academy.claimchunk.desc=Beanspruche einen Chunk (16x16 Blöcke) für dich
+academy.claimchunk.text1=Klicke die Karte links-oben in deinem Inventar an.
+academy.claimchunk.text2=Du kannst einen Chunk mit einem Linksklick beanspruchen, damit in ihm Niemand aus einem fremden Team Blöcke abbauen/platzieren kann. Ein Rechtsklick auf den Chunk hebt die Beanspruchung auf.
+academy.claimchunk.text3=Du kannst einen beanspruchten Chunk mit einem SHIFT (ggf. Schleichen) + Rechtsklick als "immer geladen" markieren. Solche Chunks werden nie entladen, auch wenn du nicht auf dem Server bist, oder sehr weit wegläufst.
+
 
 
 # Basic Storage
@@ -844,12 +825,13 @@ academy.fluxducts2.text2=Fluxducts can connect to Fluxducts of other tiers.
 academy.basicenergytess.title=Worse Than Pipes
 academy.basicenergytess.desc=Make Basic Energy Tesslocators
 academy.basicenergytess.text1=Basic Energy Tesslocators allow you to move RF over a distance of one block. Place Tesslocators in the same block space on all blocks where you want to move energy, and then right click to toggle between input and output.
-academy.basicenergytess.text2=Basic Energy Tesslocators can transfer XXXX RF/t.
+academy.basicenergytess.text2=Basic Energy Tesslocators can transfer 2048 RF/t, and can store up to 32,000 RF.
 
 academy.advenergytess.title=Way Better Than Pipes
 academy.advenergytess.desc=Make Advanced Energy Tesslocators
 academy.advenergytess.text1=Advanced Energy Tesslocators work like Basic ones, except they don't need to be in the same block space. This allows you to transfer them wirelessly, over any distance and between dimensions.
 academy.advenergytess.text2=Advanced Tesslocators are set by holding a dye in each hand and then right clicking on the Tesslocator. To toggle between input and output mode, hold sneak and right click with an empty hand on the Tesslocator.
+academy.advenergytess.text3=Advanced Energy Tesslocators can store 40,000,000 RF, and can move the same amount per tick.
 
 academy.plasticmaking.title=Flubber
 academy.plasticmaking.desc=Make some Plastic
@@ -997,8 +979,7 @@ academy.aadrill.task2=Any Drill Augment
 
 academy.greenhouseglass.title=Garden of Glass
 academy.greenhouseglass.desc=Make Greenhouse Glass
-academy.greenhouseglass.text1=When Greenhouse Glass is placed above a crop and is able to see the daytime sky, the crops will grow much faster.
-academy.greenhouseglass.text2=You can place multiple Greenhouse Glass on top of each other, and the effect will stack!
+academy.greenhouseglass.text=When Greenhouse Glass is placed above a crop and is able to see the daytime sky, the crops will grow much faster.
 
 academy.itemrepairer.title=Virtute Reparavit
 academy.itemrepairer.desc=Make an Item Repairer
@@ -1139,7 +1120,7 @@ academy.regularaugments.text1=Augments can be installed on machines and dynamos 
 academy.regularaugments.text2=You can have multiple of an Augment to stack its effectiveness.
 academy.regularaugments.task=Regular Augments
 
-academy.specializationaugments.desc=Make a pecialization Augment.
+academy.specializationaugments.desc=Make a Specialization Augment.
 academy.specializationaugments.text1=Specialization Augments fundamentally change the function of a machine or dynamo.
 academy.specializationaugments.text2=You can only have one Specialization Augment per machine.
 academy.specializationaugments.task=Specialization Augments
@@ -1393,7 +1374,8 @@ academy.naga.task=Advancement: Time To Even The Scales
 academy.lich.title=Scholarly Adventures
 academy.lich.desc=Overthrow the Lich
 academy.lich.text1=The Lich Tower is unlocked once you've defeated the Naga. It spawns in forest biomes. Climb to the top to confront the Lich.
-academy.lich.text2=Once you've grabbed a Scepter, the Swamp, Dark Forest, and Snowy Forest biomes will become unlocked.
+academy.lich.text2=You can read the Guide page by clicking the link below, which has the complete strategy to beat each boss in the mod.
+academy.lich.text3=Once you've grabbed a Scepter, the Swamp, Dark Forest, and Snowy Forest biomes will become unlocked.
 academy.lich.task=Advancement: Bring Out Your Dead
 
 academy.minoshroom.title=Theseus
@@ -1665,6 +1647,11 @@ academy.instrumentalmobs.desc=Get any instrument from Instrumental Mobs
 academy.instrumentalmobs.text=Instrumental Mobs adds versions of most vanilla monsters, but instead of killing you they play you music! Their instruments will push you back, but won't damage you. Killing them will have a small chance of dropping their instruments.
 academy.instrumentalmobs.task=Anything from Instrumental Mobs
 
+academy.claimexplosions.title=Fizz Goes the Dynamite
+academy.claimexplosions.desc=Get a Creeper to explode in your claimed chunks
+academy.claimexplosions.text1=While in claimed chunks, explosions from Creepers will be completely disabled. They can still deal damage to you, but they won't break any blocks.
+academy.claimexplosions.text2=This also prevents the Wither from damaging blocks with its explosions, but it does not stop it from breaking blocks around itself when taking damage.
+
 academy.elevator.title=Going Up
 academy.elevator.desc=Make an Elevator
 academy.elevator.text=If you jump on an Elevator you will teleport to the Elevator above it. Likewise, if you sneak on an Elevator you will teleport to the one below it. Color does not matter.
@@ -1739,7 +1726,7 @@ academy.atgrowth.text=While on, the Ring of Growth uses RF to make nearby crops 
 
 # Tutorials
 
-academy.tutorial.jei.title=Just Enough Items
+academy.tutorial.jei.title=Tutorial: Just Enough Items
 academy.tutorial.jei.1=Your Inventory
 academy.tutorial.jei.2=Mods add a lot of new blocks and items to the game, so remembering how to craft them all can be hard. That's where the mod "Just Enough Items" comes in.
 academy.tutorial.jei.3=JEI is the mod that adds the list of items on the right side of the inventory.
@@ -1750,9 +1737,7 @@ academy.tutorial.jei.7=Hovering over an item will show the item's name as well a
 academy.tutorial.jei.8=Recipes
 academy.tutorial.jei.9=Click on an item (or hover over it and hit R) to see how to make it.
 academy.tutorial.jei.10=You can also right click the item (or hover over it and hit U) to see what recipes use that item.
-academy.tutorial.jei.28=You can change these keys in the Controls menu.
 academy.tutorial.jei.11=These are all the blocks and items that you can use to craft the item using these recipes.
-academy.tutorial.jei.29=Some items have information tabs where you can read how that item works.
 academy.tutorial.jei.12=The Ore Dictonary
 academy.tutorial.jei.13=Certain recipes can accept a type of item, rather than a single specific item. This is called the Ore Dictionary.
 academy.tutorial.jei.14=You can hover over an item in a recipe to see what type of item can be used instead of the specific one shown.
@@ -1767,48 +1752,39 @@ academy.tutorial.jei.22=If you are in a Crafting Table's GUI, it will also work 
 academy.tutorial.jei.23=Bookmarks
 academy.tutorial.jei.24=You can hover over an item and hit A to bookmark it, pinning it to the left of the inventory until you unpin it by hitting A on it again.
 academy.tutorial.jei.25=You can click the button at the bottom left to hide the bookmarks.
-academy.tutorial.jei.26=Inventory Searching
-academy.tutorial.jei.27=You can double click the search bar to highlight that item in your inventory.
+academy.tutorial.jei.29=Some items have information tabs where you can read how that item works.
 
 
-academy.tutorial.quests.title=Quests
+academy.tutorial.quests.title=Tutorial: Quests
 academy.tutorial.quests.1=Opening the quest menu
 academy.tutorial.quests.2=This modpack has lots of quests to help teach you how to play.
 academy.tutorial.quests.3=To open them, click the button in the top left of the inventory or use the Quest Book item.
 academy.tutorial.quests.4=Quest Book item
 academy.tutorial.quests.5=Quest button
 academy.tutorial.quests.6=The quest menu
-academy.tutorial.quests.7=Most quests are invisible until they are unlocked.
-academy.tutorial.quests.8=Left click on a quest to open it.
+academy.tutorial.quests.7=Left click on a quest to open it.
+academy.tutorial.quests.8=Most quests are invisible until they are unlocked. Dark grey quests are locked even if they're visible.
 academy.tutorial.quests.9=Quest information
-academy.tutorial.quests.10=You can hover over a quest to see its name and a short description of it.
-academy.tutorial.quests.11=Quest text
-academy.tutorial.quests.12=When the quest is open, you can read the quest's text which often has much more information.
-academy.tutorial.quests.13=Some quests can also have a link to the Guide which explains how things work, instead of just what to do to complete the quest.
 academy.tutorial.quests.14=Tasks
 academy.tutorial.quests.15=You have to finish every Task for a quest to complete.
 academy.tutorial.quests.16=Hover over the Task to see what you have to do.
-academy.tutorial.quests.17=Some quests may have rewards after the quest is completed that you can claim by clicking on them.
+academy.tutorial.quests.17=Some quests may have rewards after the quest is completed that you can claim by clicking.
 academy.tutorial.quests.18=Quest progression
-academy.tutorial.quests.19=When a quest is completed, the next quest will unlock and a line will connect the two.
+academy.tutorial.quests.19=When a quest is completed, the next quest will unlock.
 academy.tutorial.quests.20=Chapters
 academy.tutorial.quests.21=Once you've completed the school, several more chapters will be unlocked.
 academy.tutorial.quests.22=You can open them by clicking on them from the chapter list on the left of the quest menu.
 academy.tutorial.quests.23=Subchapters
 academy.tutorial.quests.24=Some chapters may have subchapters, which you can open by hovering over the main chapter and then clicking the subchapter from the dropdown.
 academy.tutorial.quests.25=Not all chapters have subchapters.
-academy.tutorial.quests.26=Quest Pinning
-academy.tutorial.quests.27=You can pin quests to make them stay on the side of the screen when playing.
-academy.tutorial.quests.28=You can click this button to pin all available quests.
-academy.tutorial.quests.29=Pinned quests will show on the side of the screen, along with their tasks and progression.
 
-academy.tutorial.school.title=School
+academy.tutorial.school.title=Tutorial: School
 academy.tutorial.school.1=Resetting the School
 academy.tutorial.school.2=In case you get stuck somehow, you can use the Reset School button to generate a new school and restart the quests.
 academy.tutorial.school.3=Skipping the School
 academy.tutorial.school.4=If you don't want to sit through the tutorial, you can click the Quit School button to go straight to the Overworld and begin playing normally.
 
-academy.tutorial.top.title=The One Probe
+academy.tutorial.top.title=Tutorial: The One Probe
 academy.tutorial.top.1=Blocks
 academy.tutorial.top.2=The mod "The One Probe" adds the blue box at the top of the screen.
 academy.tutorial.top.3=It will show details about the block you are looking at, such as its name, what mod it's from, and what kind of tool you need to break it.
@@ -1821,7 +1797,7 @@ academy.tutorial.top.9=Generators and machines will show the amount of RF curren
 academy.tutorial.top.10=Machines
 academy.tutorial.top.11=Some blocks like Furnaces and certain machines will also show you how close they are to being done with what they're doing.
 
-academy.tutorial.journeymap.title=JourneyMap
+academy.tutorial.journeymap.title=Tutorial: JourneyMap
 academy.tutorial.journeymap.1=The Minimap
 academy.tutorial.journeymap.2=The mod "JourneyMap" adds a minimap to the top right of the menu.
 academy.tutorial.journeymap.3=Beneath it, you can see your current coordinates and the biome you are in.
@@ -1841,3 +1817,64 @@ academy.tutorial.journeymap.16=Cave Mapping
 academy.tutorial.journeymap.17=JourneyMap will also map out caves that you explore.
 academy.tutorial.journeymap.18=Each 15 vertical blocks has its own layer for mapping. You can move between them with the Cave Layers button at the top.
 academy.tutorial.journeymap.19=Cave Layers button
+
+
+# Overlays
+
+academy.overlay.welcome.title=Welcome to FTB Academy!
+academy.overlay.welcome.1=Right-click Quest Book in your inventory to begin school!
+
+academy.overlay.storage.title=Storage
+academy.overlay.storage.1=Go to the Storage Area
+academy.overlay.storage.2=Open the different storage blocks
+academy.overlay.storage.3=Take the Wood to Iron Chest Upgrade out of the Chest
+academy.overlay.storage.4=Upgrade the Chest by right clicking the Upgrade on it
+academy.overlay.storage.5=Punch the Cobblestone Storage Drawer to take some out
+academy.overlay.storage.6=Punch the Wood Storage Drawer to take some out
+academy.overlay.storage.7=Right click the Iron Nugget in the bottom right slot of the Compacting Drawer, then punch the top slot to take out an Iron Block
+academy.overlay.storage.8=Open the Disk Drive and insert a Storage Disk
+academy.overlay.storage.9=Open the Grid and take out the Bucket
+academy.overlay.storage.10=Take the Bucket from the Grid
+academy.overlay.storage.11=Right click the Bucket on the full Tank to take out some Water
+academy.overlay.storage.12=Move the Water to the empty Tank by right clicking the Water Bucket on it
+
+academy.overlay.tech.title=Technology and Automation
+academy.overlay.tech.1=Go to the Technology & Automation Area
+academy.overlay.tech.2=Open the Chest on the left and take out one of each ore and one Dirt
+academy.overlay.tech.3=Set the right Filter to a whitelist by clicking the triangle button on the left, then put the ores into the slots at the top
+academy.overlay.tech.4=Set the middle Filter Place by placing Dirt in the one of the slots at the top
+academy.overlay.tech.5=Set the left filter to a blacklist by clicking the triangle button on the left, then put the ores and Dirt into the slots at the top
+academy.overlay.tech.6=Flip the lever
+academy.overlay.tech.7=Right click the top tank with the Crescent Hammer
+academy.overlay.tech.8=Right click the Servo below the tank, click the Redstone button in the top right corner, change Redstone Control to Ignored
+academy.overlay.tech.9=Place the Coal Generator on the Iron block
+academy.overlay.tech.10=Insert Coal into the generator
+academy.overlay.tech.11=Place the Leadstone Fluxduct on the Magenta Wool
+academy.overlay.tech.12=Place the Redstone Furnace on the Lapis Lazuli Block
+academy.overlay.tech.13=Take 4 Iron Ore from the Ore Chest and smelt them in the Redstone Furnace
+
+academy.overlay.as.title=Astral Sorcery
+academy.overlay.as.1=Go to the Astral Sorcery Area
+academy.overlay.as.2=Take items out of the chest
+academy.overlay.as.3=Place the Crafting Table on the White Wool
+academy.overlay.as.4=Craft a Resonating Wand (See JEI for the recipe)
+academy.overlay.as.5=Craft a Luminous Crafting Table (See JEI for the recipe)
+academy.overlay.as.6=Place the Luminous Crafting Table on the Chiseled Quartz Block
+academy.overlay.as.7=Craft some Illumination Powder (See JEI for the recipe)
+academy.overlay.as.8=Right click the Luminous Crafting Table with the Resonating Wand to start the crafting process
+
+academy.overlay.botania.title=Botania
+academy.overlay.botania.1=Go to the Botania Area
+academy.overlay.botania.2=Take items out of the chest
+academy.overlay.botania.3=Craft the Flowers into Petals (See JEI for the recipe)
+academy.overlay.botania.4=Fill the Petal Apothecary with the Water Bucket
+academy.overlay.botania.5=Drop 1 Grey, 1 Red, 2 Brown Petals in the Petal Apothecary, and then drop in Seeds to craft an Endoflame
+academy.overlay.botania.5_5=If you throw the wrong Petals in, you can right click with an empty hand while sneaking to remove them
+academy.overlay.botania.6=Place the Endoflame on the lightest Grass block
+academy.overlay.botania.7=Drop Coal on the ground near the Endoflame
+academy.overlay.botania.8=Sneak right click the Mana Spreader with the Wand of the Forest
+academy.overlay.botania.8.5=Sneak right click the Mana Pool with the Wand of the Forest to bind the Spreader to it
+academy.overlay.botania.9=Craft Manasteel Ingots by dropping Iron Ingot in the Mana Pool
+academy.overlay.botania.10=Craft an Elementium Ingot by dropping 2 Manasteel Ingot in the Elven Portal
+
+tile.manaFlame.name=Mana Flash
