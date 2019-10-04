@@ -10,21 +10,21 @@ academy.botania.title=植物魔法
 academy.twilightforest.title=暮色森林
 academy.astralsorcery.title=星辉魔法
 
-academy.mainstorage.title=Storage
-academy.storage1.title=Basic Storage
-academy.transportation.title=Transportation
-academy.refinedstorage1.title=Refined Storage - Beginner
-academy.refinedstorage2.title=Refined Storage - Advanced
-academy.refinedstorage3.title=Refined Storage - Expert
+academy.mainstorage.title=  储存
+academy.storage1.title=基本存储
+academy.transportation.title=运输
+academy.refinedstorage1.title=精致存储-初学者
+academy.refinedstorage2.title=精致存储-高级
+academy.refinedstorage3.title=精致存储-专家
 
-academy.maintechnology.title=Technology
-academy.technology1.title=Technology - Beginner
-academy.technology2.title=Technology - Advanced
-academy.technology3.title=Technology - Expert
+academy.maintechnology.title=科技
+academy.technology1.title=科技-初学者
+academy.technology2.title=科技-高级
+academy.technology3.title=科技-专家
 
-academy.misc.title=Miscellaneous Quests
+academy.misc.title=杂项任务
 
-academy.clickthis.task=Click this
+academy.clickthis.task=点击这个
 
 
 #Reward Tables
@@ -32,23 +32,23 @@ academy.ticonmodifiers.rewards=TiCon Modifiers
 academy.ticonmodifiers.lapisreward=Fortune modifier
 academy.ticonmodifiers.redstonereward=Speed modifier
 
-academy.ores.rewards=Ores
-academy.mysticalpetals.rewards=Mystical Petals
+academy.ores.rewards=矿石
+academy.mysticalpetals.rewards=神秘花瓣
 academy.mobmasher.rewards=Mob Masher Modifiers
 academy.manamats.rewards=Mana Materials
 academy.elfmats.rewards=Elven Materials
-academy.ingots.rewards=Ingots
-academy.scepters.rewards=Scepters
-academy.TFfirethings.rewards=Fire Thingies
-academy.fluiducts.rewards=Fluiducts
-academy.itemducts.rewards=Itemducts
-academy.iflenses.rewards=Laser Lenses
+academy.ingots.rewards=锭
+academy.scepters.rewards=权杖
+academy.TFfirethings.rewards=火晶石
+academy.fluiducts.rewards=流体
+academy.itemducts.rewards=能量管道
+academy.iflenses.rewards=激光透镜
 academy.passivemobs.rewards=Passive Mobs
-academy.impulseitemducts.rewards=Impulse Itemducts
-academy.signalumitemducts.rewards=Signalum-Plated Itemducts
-academy.signalumimpulse.rewards=Signalum-Plated Impulse Itemducts
-academy.hardenedfluiducts.rewards=Hardened Fluiducts
-academy.signalumfluiducts.rewards=Signalum-Plated Fluiducts
+academy.impulseitemducts.rewards=动能物品管道
+academy.signalumitemducts.rewards=信素物品管道
+academy.signalumimpulse.rewards=信素推进物品管道
+academy.hardenedfluiducts.rewards=硬化流体管道
+academy.signalumfluiducts.rewards=信素流体管道
 academy.laminarfluiducts.rewards=Super-Laminar Fluiducts
 academy.elevators.rewards=Elevators
 academy.meats.rewards=Meats
