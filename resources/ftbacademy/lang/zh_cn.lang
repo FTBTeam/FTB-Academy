@@ -49,87 +49,87 @@ academy.signalumitemducts.rewards=信素物品管道
 academy.signalumimpulse.rewards=信素推进物品管道
 academy.hardenedfluiducts.rewards=硬化流体管道
 academy.signalumfluiducts.rewards=信素流体管道
-academy.laminarfluiducts.rewards=Super-Laminar Fluiducts
-academy.elevators.rewards=Elevators
-academy.meats.rewards=Meats
-academy.rangeaddons.rewards=Range Addons
-academy.drillaugments.rewards=Drill Augments
+academy.laminarfluiducts.rewards=极速层流流体管道
+academy.elevators.rewards=电梯
+academy.meats.rewards=肉类
+academy.rangeaddons.rewards=范围插件
+academy.drillaugments.rewards=钻头增强
 
-academy.swordenchants1.rewards=Sword Enchants 1
-academy.looting1.reward=Looting II
-academy.sharpness1.reward=Sharpness III
-academy.reaper1.reward=Reaper II
+academy.swordenchants1.rewards=剑附魔 1
+academy.looting1.reward=抢夺 II
+academy.sharpness1.reward=锋利 III
+academy.reaper1.reward=收割 II
 
-academy.swordenchants2.rewards=Sword Enchants 2
-academy.looting2.reward=Looting IV
-academy.sharpness2.reward=Sharpness VI
-academy.reaper2.reward=Reaper V
+academy.swordenchants2.rewards=剑附魔 2
+academy.looting2.reward=抢夺 IV
+academy.sharpness2.reward=锋利 VI
+academy.reaper2.reward=收割 V
 
-academy.bowenchants1.rewards=Bow Enchants 1
-academy.power1.reward=Power III
-academy.punch1.reward=Punch I
+academy.bowenchants1.rewards=弓附魔 1
+academy.power1.reward=力量 III
+academy.punch1.reward=冲击 I
 
-academy.bowenchants2.rewards=Bow Enchants 2
-academy.power2.reward=Power VI
-academy.punch2.reward=Punch III
+academy.bowenchants2.rewards=弓附魔 2
+academy.power2.reward=力量 VI
+academy.punch2.reward=冲击 III
 
-academy.helmenchants.rewards=Helmet Enchants
-academy.chestenchants.rewards=Chestplate Enchants
-academy.legenchants.rewards=Legging Enchants
-academy.bootenchants.rewards=Boot Enchants
+academy.helmenchants.rewards=头盔附魔
+academy.chestenchants.rewards=胸甲附魔
+academy.legenchants.rewards=护腿附魔
+academy.bootenchants.rewards=靴子附魔
 
-academy.depthstr1.reward=Depth Strider II
-academy.feathfall1.reward=Feather Falling IV
-academy.frostwalk1.reward=Frost Walker
+academy.depthstr1.reward=深海探索者 II
+academy.feathfall1.reward=摔落保护 IV
+academy.frostwalk1.reward=冰霜行者
 
-academy.aquaaffin1.reward=Aqua Affinity
-academy.resp1.reward=Respiration II
+academy.aquaaffin1.reward=水下速掘
+academy.resp1.reward=水下呼吸 II
 
-academy.prot1.reward=Protection II
-academy.fireprot1.reward=Fire Protection III
-academy.blastprot1.reward=Blast Protection III
-academy.projprot1.reward=Projectile Protection III
-academy.thorns1.reward=Thorns II
+academy.prot1.reward=保护 II
+academy.fireprot1.reward=火焰保护 III
+academy.blastprot1.reward=爆炸保护 III
+academy.projprot1.reward=弹射物保护 III
+academy.thorns1.reward=荆棘 II
 
-academy.prot2.reward=Protection IV
-academy.fireprot2.reward=Fire Protection V
-academy.blastprot2.reward=Blast Protection V
-academy.projprot2.reward=Projectile Protection V
-academy.thorns2.reward=Thorns IV
+academy.prot2.reward=保护 IV
+academy.fireprot2.reward=火焰保护 V
+academy.blastprot2.reward=爆炸保护 V
+academy.projprot2.reward=弹射物保护 V
+academy.thorns2.reward=荆棘 IV
 
-academy.depthstr2.reward=Depth Strider IV
-academy.frostwalk2.reward=Frost Walker III
+academy.depthstr2.reward=深海探索者 IV
+academy.frostwalk2.reward=冰霜行者 III
 
-academy.brightconstellations.rewards=Bright Constellations
-academy.discidia.reward=Discidia
-academy.armara.reward=Armara
-academy.vicio.reward=Vicio
-academy.aevitas.reward=Aevitas
-academy.evorsio.reward=Evorsio
+academy.brightconstellations.rewards=明亮的星座
+academy.discidia.reward=非攻座
+academy.armara.reward=遁甲座
+academy.vicio.reward=虚御座
+academy.aevitas.reward=生息座
+academy.evorsio.reward=解离座
 
-academy.dimconstellations.rewards=Dim Constellations
-academy.bootes.reward=Bootes
-academy.fornax.reward=Fornax
-academy.horologium.reward=Horologium
-academy.lucerna.reward=Lucerna
-academy.mineralis.reward=Mineralis
-academy.octans.reward=Octans
-academy.pelotrio.reward=Pelotrio
+academy.dimconstellations.rewards=暗淡的星座
+academy.bootes.reward=牧夫座
+academy.fornax.reward=天炉座
+academy.horologium.reward=时钟座
+academy.lucerna.reward=圣芒座
+academy.mineralis.reward=晶金座
+academy.octans.reward=南极座
+academy.pelotrio.reward=唤生座
 
-academy.faintconstellations.rewards=Faint Constellations
-academy.alcara.reward=Alcara
-academy.gelu.reward=Gelu
-academy.ulteria.reward=Ulteria
-academy.vorux.reward=Vorux
+academy.faintconstellations.rewards=微弱的星座
+academy.alcara.reward=振变座
+academy.gelu.reward=寒冰座
+academy.ulteria.reward=避役座
+academy.vorux.reward=贪狼座
 
-academy.coloredlenses.rewards=Colored Lenses
-academy.orangelens.reward=Ignition
-academy.yellowlens.reward=Break
-academy.greenlens.reward=Growth
-academy.redlens.reward=Damage
-academy.pinklens.reward=Regeneration
-academy.bluelens.reward=Push
-academy.purplelens.reward=Spectral
+academy.coloredlenses.rewards=彩色镜片
+academy.orangelens.reward=点火器
+academy.yellowlens.reward=打破
+academy.greenlens.reward=成长
+academy.redlens.reward=损伤
+academy.pinklens.reward=再生
+academy.bluelens.reward=按
+academy.purplelens.reward=光谱
 
 
 #Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
@@ -195,7 +195,7 @@ academy.introfluidstorage.text2=存储流体的方块通常在名称中有罐或
 academy.introfluidstorage.text3=便携式储罐有多个等级，使他们能够储存更多的流体。
 academy.introfluidstorage.text4=右键点击左边的便携式储罐取出一些水，然后右键点击右边的一个来填充。
 
-academy.introautomation.title=自动化概论
+academy.introautomation.title=自动化介绍
 academy.introautomation.desc=了解自动化
 academy.introautomation.text1=仅仅储存物品和液体是不够的，要实现正确的自动化，你必须自动移动它们。
 academy.introautomation.text2=最简单的移动方式是管道。物品通过物品管道移动，流体通过流体管道移动。
@@ -220,7 +220,7 @@ academy.introfluidtransfer.text1=就像物品管道移动物品一样，流体�
 academy.introfluidtransfer.text2=便携式储罐可以设置为自动输出到下面的区块。使用用新月锤右击顶部的便携储罐，使其将水移动到下面的储罐。
 academy.introfluidtransfer.text3=当伺服器没有红石信号时，你可以打开它并按下右边的红石粉按钮来设置它的功能。在此处执行此操作并将伺服设置为忽略红石或低（这意味着没有信号）。
 
-academy.introtech.title=科技概论
+academy.introtech.title=科技介绍
 academy.introtech.desc=了解科技
 academy.introtech.text1=科技模组在ftb整合包中扮演着重要角色。这些任务是专门教你一些基本知识。
 academy.introtech.task=进入科技实验室
@@ -258,7 +258,7 @@ academy.introtechlast.title=能源冶炼
 academy.introtechlast.desc=冶炼一些铁矿石
 academy.introtechlast.text=从矿石箱中取出一些铁矿石，然后在红石炉中冶炼。
 
-academy.introastralsorcery.title=星辉魔法概论
+academy.introastralsorcery.title=星辉魔法介绍
 academy.introastralsorcery.desc=了解星辉魔法
 academy.introastralsorcery.text=星辉魔法是一个魔法模组，专注于利用星光和星座的力量。
 academy.introastralsorcery.task=进入星辉魔法区域
@@ -270,25 +270,25 @@ academy.introstarlight.text2=共鸣星杖用于激活星辉魔法的方块。 �
 academy.introstarlight.text3=将工作台放在浮动水晶附近的羊毛块上，并在其中制作共鸣星杖。 您可以通过在JEI中搜索“共鸣星杖”的配方，或在此菜单的“任务”部分中单击“共鸣星杖”来查看它。
 
 academy.introlct.title=收集星能
-academy.introlct.desc=Make a Luminous Crafting Table
-academy.introlct.text1=The Luminous Crafting Table allows you to get Starlight just from being able to see the night sky, though it will also be powered by a Floating Crystal if one is available.
-academy.introlct.text2=To craft items with the Luminous Crafting Table, you have to give it the items as usual and it must have access to an amount of Starlight depending on the recipe.
-academy.introlct.text3=If the Luminous Crafting Table has the items and Starlight required, right click it with a Resonating Wand to craft the item.
+academy.introlct.desc=制作星辉合成台
+academy.introlct.text1=星辉合成台可以让您看到夜空而获得星能，但如果有的话，它也将由浮动水晶驱动。
+academy.introlct.text2=为了使用星辉合成台合成物品，你必须像往常一样摆放物品，它必须获得根据配方的星能。
+academy.introlct.text3=如果星辉合成台具有所需的物品和星能，请用共鸣星杖右键单击它以制作该物品。
 
-academy.introilumpowder.title=Crafting Items with Starlight
-academy.introilumpowder.desc=Make Illumination Powder
-academy.introilumpowder.text1=Illumination Powder is just one of the many items you can make with Starlight. You can place it down anywhere and it will act as a light source, and it doesn't take up a block space.
-academy.introilumpowder.text2=Place the Luminous Crafting Table on the Quartz block and craft Illumination Powder according to its crafting recipe.
-academy.introilumpowder.text3=As a reminder, you have to right click the Luminous Crafting Table with the Resonating Wand to craft with it.
+academy.introilumpowder.title=用星能制作物品
+academy.introilumpowder.desc=制作辉光粉
+academy.introilumpowder.text1=辉光粉只是您使用星能可以制作的众多物品之一。 您可以将其放置在任何地方，它将充当光源，并且不会占用任何块空间。
+academy.introilumpowder.text2=将星辉合成台放在石英块上，并根据其配方制作辉光粉。
+academy.introilumpowder.text3=提醒一下，您必须使用共鸣星杖右键单击星辉合成台以进行制作。
 
-academy.introbotania.title=Introduction to Botania
-academy.introbotania.desc=Learn about Botania
-academy.introbotania.text1=Botania is a tech mod disguised as a magic mod.
-academy.introbotania.text2=With it, you will use flowers to generate and manipulate mana, which can be used to do various things.
-academy.introbotania.task=Enter the Botania area
+academy.introbotania.title=植物魔法介绍
+academy.introbotania.desc=了解植物魔法
+academy.introbotania.text1=植物魔法是伪装成魔法的科技模组。
+academy.introbotania.text2=有了它，您将使用花朵来生成和操纵魔力，魔力可以用来做各种事情。
+academy.introbotania.task=进入植物魔法区
 
-academy.intromanagen.title=Generating Mana
-academy.intromanagen.desc=Make an Endoflame
+academy.intromanagen.title=生产魔力
+academy.intromanagen.desc=制作火红莲
 academy.intromanagen.text1=Magical flowers are created in the Petal Apothecary. Fill it with Water using a Water Bucket, make and then throw in the petals according to the Endoflame's crafting recipe, and then throw in a seed to craft the flower.
 academy.intromanagen.text2=You can either throw items at the Petal Apothecary or right click with the Petal in hand to place it inside. You can hold sneak and then right click with an empty hand to take the last item back out.
 academy.intromanagen.text3=The Endoflame generates Mana when a burnable item is thrown on the ground next to it. If it is placed near a Mana Spreader, the Mana will move to it.
