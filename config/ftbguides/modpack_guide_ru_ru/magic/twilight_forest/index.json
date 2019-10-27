@@ -1,0 +1,12 @@
+[
+	{
+		"id": "bosses",
+		"title": "Bosses",
+		"icon": "item:twilightforest:miniature_structure 1 5"
+	},
+	{
+		"id": "questing_ram",
+		"title": "Questing Ram",
+		"icon": "item:twilightforest:trophy 1 8"
+	}
+]

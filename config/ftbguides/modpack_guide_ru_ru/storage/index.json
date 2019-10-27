@@ -1,0 +1,27 @@
+[
+	{
+		"id": "storage_drawers",
+		"title": "Storage Drawers",
+		"icon": "item:storagedrawers:basicdrawers"
+	},
+	{
+		"id": "iron_chests",
+		"title": "Iron Chests",
+		"icon": "item:ironchest:iron_chest"
+	},
+	{
+		"id": "refined_storage",
+		"title": "Refined Storage",
+		"icon": "item:refinedstorage:grid"
+	},
+	{
+		"id": "other",
+		"title": "Other mods",
+		"icon": "item:simplybackpacks:commonbackpack"
+	},
+	{
+		"id": "fluid",
+		"title": "Fluid Storage",
+		"icon": "item:thermalexpansion:tank"
+	}
+]

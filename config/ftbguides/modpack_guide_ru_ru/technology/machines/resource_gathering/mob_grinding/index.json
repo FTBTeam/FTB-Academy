@@ -1,0 +1,17 @@
+[
+	{
+		"id": "spawning",
+		"title": "Mob Spawning",
+		"icon": "item:minecraft:spawn_egg 1 0 {EntityTag:{id:\"minecraft:creeper\"}}"
+	},
+	{
+		"id": "killing",
+		"title": "Mob Killing",
+		"icon": "item:mob_grinding_utils:saw"
+	},
+	{
+		"id": "other",
+		"title": "Other Helpful Blocks",
+		"icon": "item:mob_grinding_utils:ender_inhibitor_on"
+	}
+]

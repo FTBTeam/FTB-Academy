@@ -1,0 +1,22 @@
+[
+	{
+		"id": "making_tools",
+		"title": "Making Tools",
+		"icon": "item:tconstruct:tooltables"
+	},
+	{
+		"id": "tools",
+		"title": "Tool List",
+		"icon": "item:tconstruct:pickaxe 1 0 {TinkerData: {Materials: [\"wood\", \"iron\", \"cobalt\"]}}"
+	},
+	{
+		"id": "smeltery",
+		"title": "The Smeltery",
+		"icon": "item:tconstruct:smeltery_controller"
+	},
+	{
+		"id": "misc",
+		"title": "Other Fun Things",
+		"icon": "item:tconstruct:slimesling"
+	}
+]

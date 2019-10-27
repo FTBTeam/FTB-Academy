@@ -1,0 +1,27 @@
+[
+	{
+		"id": "ores_fluids",
+		"title": "Ore and Fluid Gathering",
+		"icon": "item:minecraft:iron_ore"
+	},
+	{
+		"id": "farming",
+		"title": "Plant Farming",
+		"icon": "item:minecraft:wheat"
+	},
+	{
+		"id": "plastic",
+		"title": "Plastic",
+		"icon": "item:industrialforegoing:plastic"
+	},
+	{
+		"id": "mob_grinding",
+		"title": "Mob Grinding",
+		"icon": "item:minecraft:skull"
+	},
+	{
+		"id": "other",
+		"title": "Other",
+		"icon": "item:minecraft:cobblestone"
+	}
+]

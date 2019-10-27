@@ -1,0 +1,22 @@
+[
+	{
+		"id": "energy",
+		"title": "Energy Transfer",
+		"icon": "item:thermaldynamics:duct_0 1 2"
+	},
+	{
+		"id": "item",
+		"title": "Item Transfer",
+		"icon": "item:thermaldynamics:duct_32"
+	},
+	{
+		"id": "fluid",
+		"title": "Fluid Transfer",
+		"icon": "item:thermaldynamics:duct_16 1 2"
+	},
+	{
+		"id": "other",
+		"title": "Other Transfer",
+		"icon": "item:thermaldynamics:duct_64"
+	}
+]

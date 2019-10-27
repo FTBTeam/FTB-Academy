@@ -1,0 +1,17 @@
+[
+	{
+		"id": "transportation",
+		"title": "Transfer",
+		"icon": "item:thermaldynamics:duct_0"
+	},
+	{
+		"id": "generators",
+		"title": "Generators",
+		"icon": "item:thermalexpansion:dynamo"
+	},
+	{
+		"id": "machines",
+		"title": "Machines",
+		"icon": "item:thermalexpansion:machine"
+	}
+]

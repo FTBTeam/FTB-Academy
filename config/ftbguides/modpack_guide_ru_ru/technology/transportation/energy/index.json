@@ -1,0 +1,27 @@
+[
+	{
+		"id": "fluxducts",
+		"title": "Fluxducts",
+		"icon": "item:thermaldynamics:duct_0 1 2"
+	},
+	{
+		"id": "aa_relays",
+		"title": "Energy Laser Relays",
+		"icon": "item:actuallyadditions:block_laser_relay"
+	},
+	{
+		"id": "de_crystals",
+		"title": "Energy Crystals",
+		"icon": "item:draconicevolution:energy_crystal 1 1"
+	},
+	{
+		"id": "tesslocators",
+		"title": "Energy Tesslocators",
+		"icon": "item:tesslocator:basic_energy_tesslocator"
+	},
+	{
+		"id": "storage",
+		"title": "Storage",
+		"icon": "item:thermalexpansion:cell"
+	}
+]

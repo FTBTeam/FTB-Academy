@@ -1,0 +1,12 @@
+[
+	{
+		"id": "te",
+		"title": "Machine Crafting",
+		"icon": "item:thermalexpansion:machine 1 11"
+	},
+	{
+		"id": "de",
+		"title": "Fusion Crafting",
+		"icon": "item:draconicevolution:fusion_crafting_core"
+	}
+]
