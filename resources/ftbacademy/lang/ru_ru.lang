@@ -3,7 +3,7 @@
 academy.gettingstarted.title=Getting Started
 academy.building.title=Building
 
-academy.basics.title=Basics
+academy.basics.title=Основы
 
 academy.mainmagic.title=Magic
 academy.botania.title=Botania
@@ -1755,28 +1755,28 @@ academy.tutorial.jei.24=You can hover over an item and hit A to bookmark it, pin
 academy.tutorial.jei.25=You can click the button at the bottom left to hide the bookmarks.
 
 
-academy.tutorial.quests.title=Tutorial: Quests
-academy.tutorial.quests.1=Opening the quest menu
-academy.tutorial.quests.2=This modpack has lots of quests to help teach you how to play.
-academy.tutorial.quests.3=To open them, click the button in the top left of the inventory or use the Quest Book item.
-academy.tutorial.quests.4=Quest Book item
-academy.tutorial.quests.5=Quest button
-academy.tutorial.quests.6=The quest menu
-academy.tutorial.quests.7=Left click on a quest to open it.
-academy.tutorial.quests.8=Most quests are invisible until they are unlocked. Dark grey quests are locked even if they're visible.
-academy.tutorial.quests.9=Quest information
-academy.tutorial.quests.14=Tasks
-academy.tutorial.quests.15=You have to finish every Task for a quest to complete.
-academy.tutorial.quests.16=Hover over the Task to see what you have to do.
-academy.tutorial.quests.17=Some quests may have rewards after the quest is completed that you can claim by clicking.
-academy.tutorial.quests.18=Quest progression
-academy.tutorial.quests.19=When a quest is completed, the next quest will unlock.
-academy.tutorial.quests.20=Chapters
-academy.tutorial.quests.21=Once you've completed the school, several more chapters will be unlocked.
-academy.tutorial.quests.22=You can open them by clicking on them from the chapter list on the left of the quest menu.
-academy.tutorial.quests.23=Subchapters
-academy.tutorial.quests.24=Some chapters may have subchapters, which you can open by hovering over the main chapter and then clicking the subchapter from the dropdown.
-academy.tutorial.quests.25=Not all chapters have subchapters.
+academy.tutorial.quests.title=Руководство: Квесты
+academy.tutorial.quests.1=Открытие меню квестов
+academy.tutorial.quests.2=Эта сборка содержит множество квестов, которые помогут вам научиться играть.
+academy.tutorial.quests.3=Чтобы открыть их, нажмите на кнопку в левой верхней части инвентаря или используйте Книгу квестов.
+academy.tutorial.quests.4=Книга квестов
+academy.tutorial.quests.5=Кнопка Квестов
+academy.tutorial.quests.6=Меню квестов
+academy.tutorial.quests.7=Нажмите левой кнопкой мыши по квесту, чтобы открыть его.
+academy.tutorial.quests.8=Большинство квестов будут скрыты, пока вы их не разблокируете. Темно-серые квесты заблокированы, даже если они видны вам.
+academy.tutorial.quests.9=Информация о квесте
+academy.tutorial.quests.14=Задания
+academy.tutorial.quests.15=Вы должны закончить каждое задание квеста, чтобы выполнить его.
+academy.tutorial.quests.16=Наведите курсор на задание, чтобы увидеть, что вам нужно сделать.
+academy.tutorial.quests.17=Некоторые квесты имеют награды за выполнение, вы можете забрать их кликнув по ним.
+academy.tutorial.quests.18=Прохождение квестов
+academy.tutorial.quests.19=После завершения одного квеста, будет разблокирован следующий.
+academy.tutorial.quests.20=Разделы
+academy.tutorial.quests.21=После прохождения базового обучения, вам будут доступны несколько новых разделов.
+academy.tutorial.quests.22=Вы можете открыть их, кликнув по ним в списке разделов, который находится слева от меню квестов.
+academy.tutorial.quests.23=Подразделы
+academy.tutorial.quests.24=Некоторые разделы имеют подразделы, которые вы можете открыть наведя на них курсор в основном разделе и кликнув по подразделу в списке.
+academy.tutorial.quests.25=Не все разделы имеют подразделы.
 
 academy.tutorial.school.title=Tutorial: School
 academy.tutorial.school.1=Resetting the School
@@ -1821,8 +1821,8 @@ academy.tutorial.journeymap.19=Cave Layers button
 
 # Overlays
 
-academy.overlay.welcome.title=Welcome to FTB Academy!
-academy.overlay.welcome.1=Right-click Quest Book in your inventory to begin school!
+academy.overlay.welcome.title=Добро пожаловать в FTB Академию!
+academy.overlay.welcome.1=Нажмите правую кнопку мыши с книгой квестов из вашего инвентаря, чтобы начать обучение!
 
 academy.overlay.storage.title=Storage
 academy.overlay.storage.1=Go to the Storage Area
