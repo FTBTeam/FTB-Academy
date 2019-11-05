@@ -1,104 +1,104 @@
 # Chapters
 
-academy.gettingstarted.title=Getting Started
-academy.building.title=Building
+academy.gettingstarted.title=Начало
+academy.building.title=Строения
 
 academy.basics.title=Основы
 
-academy.mainmagic.title=Magic
-academy.botania.title=Botania
-academy.twilightforest.title=Twilight Forest
-academy.astralsorcery.title=Astral Sorcery
+academy.mainmagic.title=Магия
+academy.botania.title=Ботания
+academy.twilightforest.title=Сумеречный лес
+academy.astralsorcery.title=Астрал
 
-academy.mainstorage.title=Storage
-academy.storage1.title=Basic Storage
-academy.transportation.title=Transportation
-academy.refinedstorage1.title=Refined Storage - Beginner
-academy.refinedstorage2.title=Refined Storage - Advanced
-academy.refinedstorage3.title=Refined Storage - Expert
+academy.mainstorage.title=Хранилище
+academy.storage1.title=Простое хранилище
+academy.transportation.title=Перемещение предметов
+academy.refinedstorage1.title=Refined Storage - Начинающий
+academy.refinedstorage2.title=Refined Storage - Продвинутый
+academy.refinedstorage3.title=Refined Storage - Эксперт
 
-academy.maintechnology.title=Technology
-academy.technology1.title=Technology - Beginner
-academy.technology2.title=Technology - Advanced
-academy.technology3.title=Technology - Expert
+academy.maintechnology.title=Технологии
+academy.technology1.title=Технологии - Начинающий
+academy.technology2.title=Технологии - Продвинутый
+academy.technology3.title=Технологии - Эксперт
 
-academy.misc.title=Miscellaneous Quests
+academy.misc.title=Различные квесты
 
-academy.clickthis.task=Click this
+academy.clickthis.task=Нажмите здесь
 
 
 #Reward Tables
-academy.ticonmodifiers.rewards=TiCon Modifiers
-academy.ticonmodifiers.lapisreward=Fortune modifier
-academy.ticonmodifiers.redstonereward=Speed modifier
+academy.ticonmodifiers.rewards=Модификаторы Tinkers Construct
+academy.ticonmodifiers.lapisreward=Модификатор удачи
+academy.ticonmodifiers.redstonereward=Модификатор скорости
 
-academy.ores.rewards=Ores
-academy.mysticalpetals.rewards=Mystical Petals
+academy.ores.rewards=Руды
+academy.mysticalpetals.rewards=Мистические лепестки
 academy.mobmasher.rewards=Mob Masher Modifiers
 academy.manamats.rewards=Mana Materials
 academy.elfmats.rewards=Elven Materials
-academy.ingots.rewards=Ingots
+academy.ingots.rewards=Слитки
 academy.scepters.rewards=Scepters
 academy.TFfirethings.rewards=Fire Thingies
-academy.fluiducts.rewards=Fluiducts
-academy.itemducts.rewards=Itemducts
-academy.iflenses.rewards=Laser Lenses
-academy.passivemobs.rewards=Passive Mobs
-academy.impulseitemducts.rewards=Impulse Itemducts
-academy.signalumitemducts.rewards=Signalum-Plated Itemducts
-academy.signalumimpulse.rewards=Signalum-Plated Impulse Itemducts
-academy.hardenedfluiducts.rewards=Hardened Fluiducts
-academy.signalumfluiducts.rewards=Signalum-Plated Fluiducts
+academy.fluiducts.rewards=Жидкостные трубы
+academy.itemducts.rewards=Предметные трубы
+academy.iflenses.rewards=Линзы лазера
+academy.passivemobs.rewards=Пассивные мобы
+academy.impulseitemducts.rewards=Импульсные предметные трубы
+academy.signalumitemducts.rewards=Синаловые предметные трубы
+academy.signalumimpulse.rewards=Синаловые импульсные предметные трубы
+academy.hardenedfluiducts.rewards=Усиленные жидкостные трубы
+academy.signalumfluiducts.rewards=Синаловые жидкостные трубы
 academy.laminarfluiducts.rewards=Super-Laminar Fluiducts
-academy.elevators.rewards=Elevators
+academy.elevators.rewards=Лифты
 academy.meats.rewards=Meats
-academy.rangeaddons.rewards=Range Addons
+academy.rangeaddons.rewards=Улучшения дальности
 academy.drillaugments.rewards=Drill Augments
 
-academy.swordenchants1.rewards=Sword Enchants 1
-academy.looting1.reward=Looting II
-academy.sharpness1.reward=Sharpness III
-academy.reaper1.reward=Reaper II
+academy.swordenchants1.rewards=Зачарования меча 1
+academy.looting1.reward=Добыча II
+academy.sharpness1.reward=Острота III
+academy.reaper1.reward=Жнец II
 
-academy.swordenchants2.rewards=Sword Enchants 2
-academy.looting2.reward=Looting IV
-academy.sharpness2.reward=Sharpness VI
-academy.reaper2.reward=Reaper V
+academy.swordenchants2.rewards=Зачарования меча 2
+academy.looting2.reward=Добыча IV
+academy.sharpness2.reward=Острота VI
+academy.reaper2.reward=Жнец V
 
-academy.bowenchants1.rewards=Bow Enchants 1
-academy.power1.reward=Power III
-academy.punch1.reward=Punch I
+academy.bowenchants1.rewards=Зачарования лука 1
+academy.power1.reward=Сила III
+academy.punch1.reward=Отбрасывание I
 
-academy.bowenchants2.rewards=Bow Enchants 2
-academy.power2.reward=Power VI
-academy.punch2.reward=Punch III
+academy.bowenchants2.rewards=Зачарования лука 2
+academy.power2.reward=Сила VI
+academy.punch2.reward=Отбрасывание III
 
-academy.helmenchants.rewards=Helmet Enchants
-academy.chestenchants.rewards=Chestplate Enchants
-academy.legenchants.rewards=Legging Enchants
-academy.bootenchants.rewards=Boot Enchants
+academy.helmenchants.rewards=Зачарования шлема
+academy.chestenchants.rewards=Зачарования кирасы
+academy.legenchants.rewards=Зачарования поножей
+academy.bootenchants.rewards=Зачарования ботинок
 
-academy.depthstr1.reward=Depth Strider II
-academy.feathfall1.reward=Feather Falling IV
-academy.frostwalk1.reward=Frost Walker
+academy.depthstr1.reward=Подводная ходьба II
+academy.feathfall1.reward=Невесомость IV
+academy.frostwalk1.reward=Ходьба по воде
 
-academy.aquaaffin1.reward=Aqua Affinity
-academy.resp1.reward=Respiration II
+academy.aquaaffin1.reward=Родство с водой
+academy.resp1.reward=Подводное дыхание II
 
-academy.prot1.reward=Protection II
-academy.fireprot1.reward=Fire Protection III
-academy.blastprot1.reward=Blast Protection III
-academy.projprot1.reward=Projectile Protection III
-academy.thorns1.reward=Thorns II
+academy.prot1.reward=Защита II
+academy.fireprot1.reward=Огнеупорность III
+academy.blastprot1.reward=Взрывоустойчивость III
+academy.projprot1.reward=Защита от снарядов III
+academy.thorns1.reward=Шипы II
 
-academy.prot2.reward=Protection IV
-academy.fireprot2.reward=Fire Protection V
-academy.blastprot2.reward=Blast Protection V
-academy.projprot2.reward=Projectile Protection V
-academy.thorns2.reward=Thorns IV
+academy.prot2.reward=Защита IV
+academy.fireprot2.reward=Огнеупорность V
+academy.blastprot2.reward=Взрывоустойчивость V
+academy.projprot2.reward=Защита от снарядов V
+academy.thorns2.reward=Шипы IV
 
-academy.depthstr2.reward=Depth Strider IV
-academy.frostwalk2.reward=Frost Walker III
+academy.depthstr2.reward=Подводная ходьба IV
+academy.frostwalk2.reward=Ходьба по воде III
 
 academy.brightconstellations.rewards=Bright Constellations
 academy.discidia.reward=Discidia
@@ -126,8 +126,8 @@ academy.coloredlenses.rewards=Colored Lenses
 academy.orangelens.reward=Ignition
 academy.yellowlens.reward=Break
 academy.greenlens.reward=Growth
-academy.redlens.reward=Damage
-academy.pinklens.reward=Regeneration
+academy.redlens.reward=Урон
+academy.pinklens.reward=Восстановление
 academy.bluelens.reward=Push
 academy.purplelens.reward=Spectral
 
@@ -136,38 +136,38 @@ academy.purplelens.reward=Spectral
 
 #Basics
 
-academy.welcome.title=Welcome to FTB Academy!
-academy.welcome.desc=Learn how quests work
-academy.welcome.text1=Welcome to FTB Academy!
-academy.welcome.text2=This modpack is dedicated to teaching new players how to play modded Minecraft.
-academy.welcome.text3=These quests will guide you step by step on how to progress through the most common mods. It works best with the Guide, which will have more in depth descriptions on how mods work.
-academy.welcome.reward=Read School tutorial
+academy.welcome.title=Добро пожаловать в FTB Академию!
+academy.welcome.desc=Узнайте как работают квесты
+academy.welcome.text1=Добро пожаловать в FTB Академию!
+academy.welcome.text2=Этот модпак направлен на обучение новых игроков игре в Minecraft с модами.
+academy.welcome.text3=Эти квесты будут вести вас шаг за шагом, а также обучать по самым распространенным модам. Будут рассмотрены как основы, так и глубокое изучение модов.
+academy.welcome.reward=Прочитать руководство по школе
 
-academy.introJEI.title=Item and Recipe Searching
-academy.introJEI.desc=Learn to use JEI
-academy.introJEI.text1=Modded Minecraft has a lot of new blocks and items, so it's hard to remember all the crafting recipes. Luckily, the mod "Just Enough Items" will help make that easier!
-academy.introJEI.text2=On the right side of the inventory is a list of every block and item in the modpack. Hovering over one and hitting R will show you its recipe, and hitting U will show what recipes use it.
-academy.introJEI.text3=At the bottom of the inventory is a search bar, where you can type in the name of an item to filter the item list.
-academy.introJEI.text4=You can double click the search bar to search for that item in your inventory.
-academy.introJEI.reward=Read JEI tutorial
+academy.introJEI.title=Поиск Предметов и Рецептов
+academy.introJEI.desc=Обучение работы с JEI
+academy.introJEI.text1=Minecraft с модами имеет большое количество новых блоков и предметов, поэтому запомнить все рецепты сложно и невозможно. Для этих целей был создан мод "Just Enough Items", с его помощью вы можете увидеть любой рецепт и блок!
+academy.introJEI.text2=Справа от инвентаря вы видите список всех блоков и предметов в модпаке. При наведении на любой из них и нажатии на R, вы увидите рецепт этого предмета, а нажатие на U покажет в каких рецептах данный предмет или блок используется.
+academy.introJEI.text3=Под инвентарем расположена панель поиска, где вы можете найти нужный предмет или блок.
+academy.introJEI.text4=Вы можете нажать два раза по панели поиска, чтобы найти предмет в своем инвентаре.
+academy.introJEI.reward=Прочитать руководство по JEI
 
-academy.introstorage.title=Introduction to Storage
-academy.introstorage.desc=Learn about storage
-academy.introstorage.text=There's a lot of mods that allow you to store items easily.
-academy.introstorage.task=Enter the storage room
+academy.introstorage.title=Введение в Хранилища
+academy.introstorage.desc=Изучение способов хранения блоков
+academy.introstorage.text=Существует довольно много модов, которые добавляют новые виды хранилище в дополнение к сундукам.
+academy.introstorage.task=Войдите в комнату-Хранилище
 
-academy.introgenstorage.title=General Storage
-academy.introgenstorage.desc=Open Chests and Storage Crates
-academy.introgenstorage.text1=Iron Chests and Storage Crates are good for storing a large amount of items. They work just like regular chests, but they store a lot more.
-academy.introgenstorage.text2=They both come in tiers, with more expensive tiers storing more.
-academy.introgenstorage.task1=Open Iron Chest
-academy.introgenstorage.task2=Open Diamond Chest
-academy.introgenstorage.task3=Open Small Storage Chest
-academy.introgenstorage.task4=Open Large Storage Crate
+academy.introgenstorage.title=Простое хранилище
+academy.introgenstorage.desc=Откройте Сундуки и Ящики для хранения
+academy.introgenstorage.text1=Железные сундуки и Ящики для хранения это отличный вариант для хранения большого количества предметов. Они работают как обычные сундуки, но позволяют хранить больше предметов.
+academy.introgenstorage.text2=Они имеют уровни, чем выше уровень, тем больше они смогут вместить предметов.
+academy.introgenstorage.task1=Откройте Железный сундук
+academy.introgenstorage.task2=Откройте Алмазный сундук
+academy.introgenstorage.task3=Откройте Малый ящик для хранения
+academy.introgenstorage.task4=Откройте Большой ящик для хранения
 
-academy.introupgradechest.title=Chest Upgrades
-academy.introupgradechest.desc=Upgrade the Chest into an Iron Chest
-academy.introupgradechest.text=Open the Chest on the right and take out the Wood to Iron Chest Upgrade. Right click it on the Chest to upgrade it to an Iron Chest.
+academy.introupgradechest.title=Улучшения сундуков
+academy.introupgradechest.desc=Улучшите сундук до Железного
+academy.introupgradechest.text=Откройте сундук справа и возьмите Улучшение с Деревянного до Железного сундука. Нажатие правой кнопки мыши с улучшением в руке по сундуку улучшит его до Железного.
 
 academy.introbulkstorage.title=Bulk Storage
 academy.introbulkstorage.desc=Look at Storage Drawers
@@ -318,15 +318,15 @@ academy.introfinish.reward=Teleport to the Overworld
 
 #Getting Started
 
-academy.overworld.title=Let The Games Begin!
-academy.overworld.desc=Start the pack for real
-academy.overworld.text=Now that you've completed the school, you can start playing the pack in earnest.
-academy.overworld.reward=Read JourneyMap tutorial
+academy.overworld.title=Да начнутся игры!
+academy.overworld.desc=Теперь по-настоящему начнем играть в этот модпак
+academy.overworld.text=Теперь, после завершения школы, вы можете начать играть в данный модпак по-настоящему.
+academy.overworld.reward=Прочитайте руководство JourneyMap
 
-academy.timber.title=Timberrrr!
-academy.timber.desc=Get some wood
-academy.timber.text1=Go chop down a tree. Any tree will do, this quest will accept 4 of any wooden log.
-academy.timber.task=4x any Log
+academy.timber.title=Деррреве!
+academy.timber.desc=Получите немного дерева
+academy.timber.text1=Нарубите немного дерева. Подойдет любое дерево, квест примет любые 4 древесины.
+academy.timber.task=4x любых Древесины
 
 academy.tinkering.title=Tinkering
 academy.tinkering.desc=Make the required Tinkers' Construct blocks
@@ -1824,19 +1824,19 @@ academy.tutorial.journeymap.19=Cave Layers button
 academy.overlay.welcome.title=Добро пожаловать в FTB Академию!
 academy.overlay.welcome.1=Нажмите правую кнопку мыши с книгой квестов из вашего инвентаря, чтобы начать обучение!
 
-academy.overlay.storage.title=Storage
-academy.overlay.storage.1=Go to the Storage Area
-academy.overlay.storage.2=Open the different storage blocks
-academy.overlay.storage.3=Take the Wood to Iron Chest Upgrade out of the Chest
-academy.overlay.storage.4=Upgrade the Chest by right clicking the Upgrade on it
+academy.overlay.storage.title=Хранилище
+academy.overlay.storage.1=Перейдите на площадку Хранилища
+academy.overlay.storage.2=Откройте различные хранилища
+academy.overlay.storage.3=Возьмите из сундука улучшение из деревянного до железного сундука
+academy.overlay.storage.4=Улучшение сундук, нажав правой кнопкой мыши по нему с улучшением в руке
 academy.overlay.storage.5=Punch the Cobblestone Storage Drawer to take some out
 academy.overlay.storage.6=Punch the Wood Storage Drawer to take some out
 academy.overlay.storage.7=Right click the Iron Nugget in the bottom right slot of the Compacting Drawer, then punch the top slot to take out an Iron Block
-academy.overlay.storage.8=Open the Disk Drive and insert a Storage Disk
-academy.overlay.storage.9=Open the Grid and take out the Bucket
-academy.overlay.storage.10=Take the Bucket from the Grid
-academy.overlay.storage.11=Right click the Bucket on the full Tank to take out some Water
-academy.overlay.storage.12=Move the Water to the empty Tank by right clicking the Water Bucket on it
+academy.overlay.storage.8=Откройте Привод и вставьте в него Диск хранения
+academy.overlay.storage.9=Откройте Терминал и возьмите оттуда ведро
+academy.overlay.storage.10=Возьмите ведро из терминала
+academy.overlay.storage.11=Нажмите правой кнопкой мыши с ведром в руках по полному резервуару, чтобы наполнить ведро водой
+academy.overlay.storage.12=Вылейте воду в пустой резервуар нажатием правкой кнопкой мыши по нему с ведром воды в руке
 
 academy.overlay.tech.title=Technology and Automation
 academy.overlay.tech.1=Go to the Technology & Automation Area
@@ -1863,7 +1863,7 @@ academy.overlay.as.6=Place the Luminous Crafting Table on the Chiseled Quartz Bl
 academy.overlay.as.7=Craft some Illumination Powder (See JEI for the recipe)
 academy.overlay.as.8=Right click the Luminous Crafting Table with the Resonating Wand to start the crafting process
 
-academy.overlay.botania.title=Botania
+academy.overlay.botania.title=Ботания
 academy.overlay.botania.1=Go to the Botania Area
 academy.overlay.botania.2=Take items out of the chest
 academy.overlay.botania.3=Craft the Flowers into Petals (See JEI for the recipe)
