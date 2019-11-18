@@ -1,6 +1,6 @@
 # Chapters
 
-academy.gettingstarted.title=入门
+academy.gettingstarted.title=起步
 academy.building.title=建造
 
 academy.basics.title=基础
@@ -10,60 +10,57 @@ academy.botania.title=植物魔法
 academy.twilightforest.title=暮色森林
 academy.astralsorcery.title=星辉魔法
 
-academy.mainstorage.title=  储存
-academy.storage1.title=基本存储
-academy.transportation.title=运输
-academy.refinedstorage1.title=精致存储-初学者
-academy.refinedstorage2.title=精致存储-高级
-academy.refinedstorage3.title=精致存储-专家
+academy.mainstorage.title=存储
+academy.storage1.title=基础存储
+academy.transportation.title=物流
+academy.refinedstorage1.title=精致存储 - 新手
+academy.refinedstorage2.title=精致存储 - 进阶
+academy.refinedstorage3.title=精致存储 - 专家
 
 academy.maintechnology.title=科技
-academy.technology1.title=科技-初学者
-academy.technology2.title=科技-高级
-academy.technology3.title=科技-专家
+academy.technology1.title=科技 - 新手
+academy.technology2.title=科技 - 进阶
+academy.technology3.title=科技 - 专家
 
-academy.misc.title=杂项任务
+academy.misc.title=杂项
 
-academy.clickthis.task=点击这个
+academy.clickthis.task=点击这里
 
 
 #Reward Tables
-academy.ticonmodifiers.rewards=TiCon Modifiers
-academy.ticonmodifiers.lapisreward=Fortune modifier
-academy.ticonmodifiers.redstonereward=Speed modifier
+academy.ticonmodifiers.rewards=匠魂强化材料
+academy.ticonmodifiers.lapisreward=时运强化材料
+academy.ticonmodifiers.redstonereward=急速强化材料
 
 academy.ores.rewards=矿石
 academy.mysticalpetals.rewards=神秘花瓣
-academy.mobmasher.rewards=Mob Masher Modifiers
-academy.manamats.rewards=Mana Materials
-academy.elfmats.rewards=Elven Materials
+academy.mobmasher.rewards=怪物捣碎器升级
+academy.manamats.rewards=魔力材料
+academy.elfmats.rewards=精灵材料
 academy.ingots.rewards=锭
 academy.scepters.rewards=权杖
-academy.TFfirethings.rewards=火晶石
-academy.fluiducts.rewards=流体
-academy.itemducts.rewards=能量管道
-academy.iflenses.rewards=激光透镜
-academy.passivemobs.rewards=Passive Mobs
+academy.TFfirethings.rewards=一些与火有关的物品
+academy.fluiducts.rewards=流体管道
+academy.itemducts.rewards=物品管道
+academy.iflenses.rewards=镭射聚焦透镜
+academy.passivemobs.rewards=被动生物
 academy.impulseitemducts.rewards=动能物品管道
 academy.signalumitemducts.rewards=信素物品管道
-academy.signalumimpulse.rewards=信素推进物品管道
+academy.signalumimpulse.rewards=推进信素物品管道
 academy.hardenedfluiducts.rewards=硬化流体管道
 academy.signalumfluiducts.rewards=信素流体管道
 academy.laminarfluiducts.rewards=极速层流流体管道
 academy.elevators.rewards=电梯
-academy.meats.rewards=肉类
-academy.rangeaddons.rewards=范围插件
-academy.drillaugments.rewards=钻头增强
+academy.meats.rewards=肉
+academy.rangeaddons.rewards=范围升级插件
 
 academy.swordenchants1.rewards=剑附魔 1
 academy.looting1.reward=抢夺 II
 academy.sharpness1.reward=锋利 III
-academy.reaper1.reward=收割 II
 
 academy.swordenchants2.rewards=剑附魔 2
 academy.looting2.reward=抢夺 IV
 academy.sharpness2.reward=锋利 VI
-academy.reaper2.reward=收割 V
 
 academy.bowenchants1.rewards=弓附魔 1
 academy.power1.reward=力量 III
@@ -73,23 +70,24 @@ academy.bowenchants2.rewards=弓附魔 2
 academy.power2.reward=力量 VI
 academy.punch2.reward=冲击 III
 
-academy.helmenchants.rewards=头盔附魔
-academy.chestenchants.rewards=胸甲附魔
-academy.legenchants.rewards=护腿附魔
-academy.bootenchants.rewards=靴子附魔
-
-academy.depthstr1.reward=深海探索者 II
-academy.feathfall1.reward=摔落保护 IV
-academy.frostwalk1.reward=冰霜行者
-
-academy.aquaaffin1.reward=水下速掘
-academy.resp1.reward=水下呼吸 II
-
 academy.prot1.reward=保护 II
 academy.fireprot1.reward=火焰保护 III
 academy.blastprot1.reward=爆炸保护 III
 academy.projprot1.reward=弹射物保护 III
 academy.thorns1.reward=荆棘 II
+
+academy.helmenchants1.rewards=头盔附魔 1
+academy.aquaaffin1.reward=水下速掘
+academy.resp1.reward=水下呼吸 II
+
+academy.chestenchants1.rewards=胸甲附魔 1
+
+academy.legenchants1.rewards=护腿附魔 1
+
+academy.bootenchants1.rewards=靴子附魔 1
+academy.depthstr1.reward=深海探索者 II
+academy.feathfall1.reward=摔落保护 IV
+academy.frostwalk1.reward=冰霜行者
 
 academy.prot2.reward=保护 IV
 academy.fireprot2.reward=火焰保护 V
@@ -97,17 +95,24 @@ academy.blastprot2.reward=爆炸保护 V
 academy.projprot2.reward=弹射物保护 V
 academy.thorns2.reward=荆棘 IV
 
-academy.depthstr2.reward=深海探索者 IV
+academy.helmenchants2.rewards=头盔附魔 2
+
+academy.chestenchants2.rewards=胸甲附魔 2
+
+academy.legenchants2.rewards=护腿附魔 2
+
+academy.bootenchants2.rewards=靴子附魔 2
+academy.depthstr2.reward=生孩探索者 IV
 academy.frostwalk2.reward=冰霜行者 III
 
-academy.brightconstellations.rewards=明亮的星座
+academy.brightconstellations.rewards=亮星座星图
 academy.discidia.reward=非攻座
 academy.armara.reward=遁甲座
 academy.vicio.reward=虚御座
 academy.aevitas.reward=生息座
 academy.evorsio.reward=解离座
 
-academy.dimconstellations.rewards=暗淡的星座
+academy.dimconstellations.rewards=昏星座星图
 academy.bootes.reward=牧夫座
 academy.fornax.reward=天炉座
 academy.horologium.reward=时钟座
@@ -116,494 +121,510 @@ academy.mineralis.reward=晶金座
 academy.octans.reward=南极座
 academy.pelotrio.reward=唤生座
 
-academy.faintconstellations.rewards=微弱的星座
+academy.faintconstellations.rewards=暗星座星图
 academy.alcara.reward=振变座
 academy.gelu.reward=寒冰座
 academy.ulteria.reward=避役座
 academy.vorux.reward=贪狼座
 
-academy.coloredlenses.rewards=彩色镜片
-academy.orangelens.reward=点火器
-academy.yellowlens.reward=打破
-academy.greenlens.reward=成长
-academy.redlens.reward=损伤
+academy.coloredlenses.rewards=彩色透镜
+academy.orangelens.reward=燃烧
+academy.yellowlens.reward=破坏
+academy.greenlens.reward=生长
+academy.redlens.reward=伤害
 academy.pinklens.reward=再生
-academy.bluelens.reward=按
-academy.purplelens.reward=光谱
+academy.bluelens.reward=抗拒
+academy.purplelens.reward=汇聚
 
+#Advancements
 
-#Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
+academy.advancements.root.title=欢迎来到 FTB Academy！
+academy.advancements.root.description=开始游玩这一个整合包
+
+academy.advancements.storage.title=结业证书：存储
+academy.advancements.storage.description=学习模组包中各异的存储方法
+
+academy.advancements.automation.title=结业证书：自动化
+academy.advancements.automation.description=学习自动化原理
+
+academy.advancements.tech.title=结业证书：科技
+academy.advancements.tech.description=学习科技类模组
+
+academy.advancements.as.title=结业证书：星辉魔法
+academy.advancements.as.description=学习星辉魔法
+
+academy.advancements.botania.title=结业证书：植物魔法
+academy.advancements.botania.description=学习植物魔法
+
+academy.advancements.graduated.title=博士学位
+academy.advancements.graduated.description=从学校毕业并前往主世界继续游玩
+
 
 #Basics
 
-academy.welcome.title=欢迎来到FTB学院！
-academy.welcome.desc=了解任务的工作原理
-academy.welcome.text1=欢迎来到FTB学院！
-academy.welcome.text2=这个整合包致力于教新的玩家如何玩加了模组的我的世界
-academy.welcome.text3=这些任务将一步一步地指导你如何通过最常见的模组。它最好与指南一起使用，指南将对模组如何工作有更深入的描述。
-academy.welcome.reward=阅读学校教程
+academy.welcome.title=欢迎来到 FTB Academy！
+academy.welcome.desc=学习使用任务系统
+academy.welcome.text1=欢迎来到 FTB Academy！
+academy.welcome.text2=这个模组包致力于教会模组包新玩家游玩模组化 Minecraft。
+academy.welcome.text3=这些任务会一步步带领你游玩常用模组。任务下的指导对模组内容有更深入的阐述，完成任务同时阅读指导，效果最好。
+academy.welcome.reward=阅读模组学校的说明
 
-academy.introJEI.title=物品和配方的寻找
-academy.introJEI.desc=学会使用JEI
-academy.introJEI.text1=加了模组的我的世界有很多新的物品和方块，所以很难记住所有的配方。幸运的是JEI可以让事情变得很容易！
-academy.introJEI.text2=在物品栏的右侧是整合包中每个方块和物品的列表。将鼠标悬停在第一个物品上面，按下r将显示其配方，按下u将显示哪些配方使用它。
-academy.introJEI.text3=在物品栏的底部是一个搜索栏，您可以在其中输入物品的名称以筛选物品列表。
-academy.introJEI.text4=您可以双击搜索栏在物品栏中搜索该物品。
-academy.introJEI.reward=阅读JEI教程
+academy.introJEI.title=搜索物品与合成表
+academy.introJEI.desc=学习使用 JEI
+academy.introJEI.text1=模组包常添加大量新物品和新方块，想要记住所有合成表绝非易事。好在 “Just Enough Items” 模组减轻了记忆负担。
+academy.introJEI.text2=物品栏右侧是一张包含模组包中所有方块、物品的列表。将鼠标悬停在其一上并按 R 键，该物品（方块）的合成表就会显现，而按 U 则会显示哪些合成需要该物品（方块）。
+academy.introJEI.text3=搜索框位于物品栏底部，在搜索框键入物品名称以过滤物品列表。
+academy.introJEI.text4=双击搜索框以在物品栏中查找现有物品。
+academy.introJEI.reward=阅读 JEI 说明
 
-academy.introstorage.title=储存介绍
-academy.introstorage.desc=了解存储
-academy.introstorage.text=有很多的模组可以让你轻松地存储物品。
-academy.introstorage.task=进入储藏室
+academy.introstorage.title=存储简介
+academy.introstorage.desc=学习使用模组包中的存储设备
+academy.introstorage.text=许多模组都为你添加了易于使用的物品存储。
+academy.introstorage.task=进入 存储（Storage） 房间
 
-academy.introgenstorage.title=一般储存
+academy.introgenstorage.title=通用存储
 academy.introgenstorage.desc=打开箱子和板条箱
-academy.introgenstorage.text1=铁箱和板条箱有利于储存大量物品。它们的工作原理和普通的箱子一样，但储存的东西要多得多。
-academy.introgenstorage.text2=他们都是分等级的，越昂贵的储存的越多。
-academy.introgenstorage.task1=打开铁箱
-academy.introgenstorage.task2=打开钻石箱
-academy.introgenstorage.task3=打开小储物箱
-academy.introgenstorage.task4=打开大储物箱
+academy.introgenstorage.text1=更多箱子模组添加的箱子和实用拓展模组添加的板条箱是存储大量物品的不错选择。除了存量大得多之外，它们与普通箱子没有太大区别。
+academy.introgenstorage.text2=它们都分成不同等级，当然，更高等级意味着更大存量。
+academy.introgenstorage.task1=打开铁箱子
+academy.introgenstorage.task2=打开钻石箱子
+academy.introgenstorage.task3=打开小型板条箱
+academy.introgenstorage.task4=打开大型板条箱
 
-academy.introupgradechest.title=箱子升级
-academy.introupgradechest.desc=把箱子升级成铁箱子
-academy.introupgradechest.text=打开右边的箱子，取出箱子升级。右击箱子，升级为铁箱子。
+academy.introbulkstorage.title=大量存储
+academy.introbulkstorage.desc=观察抽屉（Storage Drawer）
+academy.introbulkstorage.text1=抽屉在存储大量单一物品时表现出众。
+academy.introbulkstorage.text2=右击抽屉存入手持物品，右击并按住可存入物品栏中所有该物品。
+academy.introbulkstorage.text3=左击抽屉拿出抽屉中一个物品，潜行状态下左击可取出一组该物品。
+academy.introbulkstorage.task1=观察压缩抽屉
+academy.introbulkstorage.task2=观察 1x2 基础抽屉 
+academy.introbulkstorage.task3=观察基础抽屉
 
-academy.introbulkstorage.title=大量储存
-academy.introbulkstorage.desc=查看储物抽屉
-academy.introbulkstorage.text1=储物抽屉非常适合存放大量单个物品。
-academy.introbulkstorage.text2=右键单击一个抽屉以存储您所持有的物品，并按住右键以存储物品栏中的所有物品。
-academy.introbulkstorage.text3=左键单击抽屉取出其中一个物品，然后按下潜行键和左键单击取出一组。
-academy.introbulkstorage.text4=将鼠标悬停在上面的任务上，查看它们需要什么。
-academy.introbulkstorage.task1=从右边的抽屉里拿出一些圆石
-academy.introbulkstorage.task2=从中间的基础抽屉里拿出一些木头
-academy.introbulkstorage.task3=把铁放在右边的压缩抽屉里，然后取出铁块
-
-academy.introdigitalstorage.title=数字储存
-academy.introdigitalstorage.desc=查看精致储存
-academy.introdigitalstorage.text1=精致存储允许您存储大量的各种物品。
-academy.introdigitalstorage.text2=物品存储在磁盘中，磁盘本身存储在磁盘驱动器中。您可以通过打开终端来访问磁盘中的物品。
-academy.introdigitalstorage.text3=数字存储的物品不受物品栏中插槽数量的限制，而只取决于所用磁盘的大小。
-academy.introdigitalstorage.text4=上一个任务给了你一个储存磁盘。打开磁盘驱动器，插入存储磁盘，然后打开网格，取出里面的水桶。
+academy.introdigitalstorage.title=数字化存储
+academy.introdigitalstorage.desc=观察精致存储（Refined Storage） 
+academy.introdigitalstorage.text1=精致存储允许你存储巨量的各类物品。
+academy.introdigitalstorage.text2=物品将被存储在存放在磁盘驱动器中的磁盘里。你可以通过打开终端来访问磁盘里的物品。
+academy.introdigitalstorage.text3=不受物品栏有限的槽位限制，数字化存储的物品只需考虑磁盘使用量的多少。
+academy.introdigitalstorage.text4=上一个任务给了你一个存储磁盘。打开磁盘驱动器，插入存储磁盘，开启合成终端，拿出里面的水桶。
 academy.introdigitalstorage.task1=打开磁盘驱动器
 academy.introdigitalstorage.task2=打开合成终端
 
-academy.introfluidstorage.title=流体储存
-academy.introfluidstorage.desc=倒一桶水
-academy.introfluidstorage.text1=就像有添加存储方式的模组一样，也有添加存储流体方式的模组。
-academy.introfluidstorage.text2=存储流体的方块通常在名称中有罐或者桶这个词，所以您可以在jei中搜索“罐或者桶”来找到它们。
-academy.introfluidstorage.text3=便携式储罐有多个等级，使他们能够储存更多的流体。
-academy.introfluidstorage.text4=右键点击左边的便携式储罐取出一些水，然后右键点击右边的一个来填充。
+academy.introfluidstorage.title=流体存储
+academy.introfluidstorage.desc=倒出水桶中的水
+academy.introfluidstorage.text1=既然有模组添加了物品存储，那么就有模组添加流体存储。
+academy.introfluidstorage.text2=存储流体的方块名字中常含有“储罐”一词，所以你可以在 JEI 中通过搜索“储罐”来找到所有的流体存储方块。
+academy.introfluidstorage.text3=便携储罐分为多个等级，更高等级也意味着更大流体存量。
+academy.introfluidstorage.text4=你可以右击将流体从桶中倒出至储罐，反之亦然。
 
-academy.introautomation.title=自动化介绍
-academy.introautomation.desc=了解自动化
-academy.introautomation.text1=仅仅储存物品和液体是不够的，要实现正确的自动化，你必须自动移动它们。
-academy.introautomation.text2=最简单的移动方式是管道。物品通过物品管道移动，流体通过流体管道移动。
-academy.introautomation.text3=伺服器用于从方块中提取，物品/液体将自动进入最近的方块中存储。
-academy.introautomation.task=进入自动化房间
+academy.introautomation.title=自动化简介
+academy.introautomation.desc=学习自动化原理
+academy.introautomation.text1=单存储物品和流体可不够，你需要自动地移动他们以实现自动化。
+academy.introautomation.text2=管道是移动物品的最简单方式。物品通过物品管道移动，流体则通过流体管道。
+academy.introautomation.text3=伺服器用来从方块中“抽取”，被抽取的物品（流体）会自动进入最近的容器中。
+academy.introautomation.task=进入 自动化（automation） 房间
 
 academy.introfilters.title=过滤
-academy.introfilters.desc=设置一些过滤器
-academy.introfilters.text1=过滤器可用于指定允许通过管道进入方块的内容。你可以打开它来设置它的白名单或黑名单。
-academy.introfilters.text2=白名单上的物品是唯一允许输入的项目，黑名单上的物品是唯一不允许输入的项目。
-academy.introfilters.text3=• 将右侧过滤器设置为矿石白名单
-academy.introfilters.text4=• 将中间过滤器设置为泥土白名单。
-academy.introfilters.text5=• 将左侧过滤器设置为矿石和泥土的黑名单。
-academy.introfilters.text6=拉下拉杆打开伺服器，物品将从左侧的箱子中取出，并根据过滤器的设置进入右侧的箱子。
-academy.introfilters.task1=设置常规过滤器
-academy.introfilters.task2=设置泥土过滤器
-academy.introfilters.task3=设置矿石过滤器
+academy.introfilters.desc=设置过滤器
+academy.introfilters.text1=过滤器用于指定能够进入导管的物品。打开它便可设置白（黑）名单。
+academy.introfilters.text2=只有白名单上的物品能进入管道，而只有黑名单上的物品不能进入。
+academy.introfilters.text3=• 设置右边的过滤器为包含（板条箱中）所有矿石的白名单。
+academy.introfilters.text4=• 设置中间的过滤器为仅包含泥土的白名单。
+academy.introfilters.text5=• 设置左边的过滤器为包含泥土和所有矿石的黑名单。
+academy.introfilters.text6=打开拉杆，激活伺服器，物品将从左边的板条箱中被抽出并依据过滤器的设置进入右边的板条箱中。
+academy.introfilters.task1=设置左侧过滤器
+academy.introfilters.task2=设置中间过滤器
+academy.introfilters.task3=设置右侧伺服器
 
-academy.introfluidtransfer.title=流体输送
-academy.introfluidtransfer.desc=移动一些水
-academy.introfluidtransfer.text1=就像物品管道移动物品一样，流体也可以移动。
-academy.introfluidtransfer.text2=便携式储罐可以设置为自动输出到下面的区块。使用用新月锤右击顶部的便携储罐，使其将水移动到下面的储罐。
-academy.introfluidtransfer.text3=当伺服器没有红石信号时，你可以打开它并按下右边的红石粉按钮来设置它的功能。在此处执行此操作并将伺服设置为忽略红石或低（这意味着没有信号）。
+academy.introfluidtransfer.title=流体转运
+academy.introfluidtransfer.desc=移动水
+academy.introfluidtransfer.text1=正如物品管道移动物品，流体管道转移流体。
+academy.introfluidtransfer.text2=便携储罐可被设置为自动向下方方块输出。手持新月锤对上方便携储罐右击，将水移动到下方储罐。
+academy.introfluidtransfer.text3=打开伺服器，点击右侧红石粉按钮可以设置其红石工作模式。在这里将伺服器设为忽略红石信号或低红石信号（即无红石信号）。
 
-academy.introtech.title=科技介绍
-academy.introtech.desc=了解科技
-academy.introtech.text1=科技模组在ftb整合包中扮演着重要角色。这些任务是专门教你一些基本知识。
-academy.introtech.task=进入科技实验室
+academy.introtech.title=科技类模组简介
+academy.introtech.desc=学习科技类模组
+academy.introtech.text1=在 FTB 众多模组包中，科技类模组占很大一部分。这些任务会教你基础玩法。
+academy.introtech.task=进入 科技（technology） 房间
 
-academy.introgen.title=制造能量
+academy.introgen.title=生产能量
 academy.introgen.desc=使用煤炭发电机
-academy.introgen.text1=大多数科技模组使用RF，本质上只是电。
-academy.introgen.text2=发电机是制造RF的机器。煤炭发电机使用熔炉的燃料，例如煤炭，来产生RF。
-academy.introgen.text3=把煤炭发电机放在铁块上，给它一些煤使它产生RF。
-academy.introgen.task=把发电机放在铁块上
+academy.introgen.text1=大部分科技类模组使用 RF 作为能量单位，而 RF 的本质就是电能。
+academy.introgen.text2=发电机用于生产 RF。煤炭发电机使用熔炉燃料，如：煤炭以生产 RF。
+academy.introgen.text3=把煤炭发电机放在铁块上，放入煤炭以发电。
+academy.introgen.task=把煤炭发电机放在铁块上。
 
-academy.intropowertransfer.title=移动能量
-academy.intropowertransfer.desc=放置RF能量管道
-academy.intropowertransfer.text1=从技术上讲，您可以将发电机直接放在机器旁，但是这并不是最好的主意。
-academy.intropowertransfer.text2=能量管道和其他电缆可以使发电机与机器保持一定距离。
-academy.intropowertransfer.text3=将能量管道放在羊毛上。
-academy.intropowertransfer.task=将能量管道放在品红色羊毛上
+academy.intropowertransfer.title=转移能量
+academy.intropowertransfer.desc=放置能量管道
+academy.intropowertransfer.text1=虽然你可以直接把发电机放在用电器旁了事，但这显然不是最好方案。
+academy.intropowertransfer.text2=能量管道和其他电力线缆允许你远距离连接发电机和用电器。
+academy.intropowertransfer.text3=在羊毛上放置能量管道。
+academy.intropowertransfer.task=在品红色羊毛上放置能量管道
 
-academy.intromachines.title=使用能源
+academy.intromachines.title=消耗能量
 academy.intromachines.desc=使用红石炉
-academy.intromachines.text1=发电机产生能量，但您也必须使用它。 有很多机器使用RF执行各种功能。
-academy.intromachines.text2=红石炉是使用RF冶炼物品。 它的功能几乎与常规熔炉完全一样，只是它需要RF而不是煤。
-academy.intromachines.text3=将红石炉放在青金石上，用它来冶炼一些铁矿石。
-academy.intromachines.task=把红石炉放在青金石块上
+academy.intromachines.text1=有了发电机发电，你还需要用电器用电。许多拥有不同功能的机器消耗 RF。
+academy.intromachines.text2=例如，红石炉消耗 RF 熔炼物品。它几乎与普通熔炉发挥一样的作用，只是它用电，而熔炉消耗燃料。
+academy.intromachines.text3=将红石炉放在青金石块上，熔炼一些铁粉。
+academy.intromachines.task=将红石炉放在青金石块上。
 
-academy.introenergystorage.title=储存能量
-academy.introenergystorage.desc=放置并配置能量电池
-academy.introenergystorage.text1=能量电池存储RF。 最好将它们放在发电机和机器之间，以便机器具有可以使用的能量缓冲。
-academy.introenergystorage.text2=使用新月锤右击能量管道中间将他拆下来，然后将能量电池放下。
-academy.introenergystorage.text3=打开能量电池，然后单击右侧的蓝色齿轮按钮进行配置。 在那里，您可以选择输入哪一侧和输出哪一侧。
-academy.introenergystorage.text4=单击面可在输入（蓝色），输出（红色）和两者（黄色）之间切换。 您可以按住潜行并在正面上单击鼠标左键以将其全部关闭。 进行设置，使其从发电机和红石炉的输出输入。
-academy.introenergystorage.task=用能量电池替换中间的能量管道并进行配置
+academy.introenergystorage.title=存储能量
+academy.introenergystorage.desc=放下并配置能量单元
+academy.introenergystorage.text1=能量单元可存储 RF。当被置于发电机与机器之间时，能量单元可充分发挥其能量缓存的作用。
+academy.introenergystorage.text2=手持新月锤潜行右击中部能量管道可将其拆下，然后在该位置放置能量单元。
+academy.introenergystorage.text3=打开能量单元 GUI，点击右侧蓝色齿轮图标以配置能量单元。你可以在这里选择输入输出面。
+academy.introenergystorage.text4=每个面都可以在输入（蓝色）、输出（红色）、既不输入也不输出（黄色）状态间切换，只需点击每个面。按住潜行键并左击正面可取消所有面的配置。设置这个为由发动机侧输入，红石炉侧输出。
+academy.introenergystorage.task=将中部能量管道替换为能量单元并配置
 
-academy.introtechlast.title=能源冶炼
-academy.introtechlast.desc=冶炼一些铁矿石
-academy.introtechlast.text=从矿石箱中取出一些铁矿石，然后在红石炉中冶炼。
+academy.introaugments.title=强化机器
+academy.introaugments.desc=强化红石炉
+academy.introaugments.text1=许多科技类模组允许你强化机器。在热力膨胀（Thermal Expansion）模组中通过“机器级别”和“升级”实现这一概念。
+academy.introaugments.text2=用升级套件或装换套件右击机器以升级。机器的工作速率将加快，相应地，消耗能量也将增加。
+academy.introaugments.text3=你可以通过升级（插件）进一步强化机器。机器级别越高，能安装的升级就越多。按下机器 GUI 右上方按钮，可打开升级插件的安装槽位。
+academy.introaugments.task=强化红石炉并安装升级插件
 
-academy.introastralsorcery.title=星辉魔法介绍
-academy.introastralsorcery.desc=了解星辉魔法
-academy.introastralsorcery.text=星辉魔法是一个魔法模组，专注于利用星光和星座的力量。
-academy.introastralsorcery.task=进入星辉魔法区域
+academy.introtechlast.title=使用经强化的机器
+academy.introtechlast.desc=使用红石炉（谐振）
+academy.introtechlast.text=当红石炉升至满级时，熔炼铁粉，并观察此时速率与未升级红石炉间的差异。
+
+academy.introastralsorcery.title=星辉魔法简介
+academy.introastralsorcery.desc=学习星辉魔法
+academy.introastralsorcery.text=星辉魔法作为一个魔法类模组，其力量来源是星能与星座。
+academy.introastralsorcery.task=进入星辉魔法（Astral Sorcery）区域
 
 academy.introstarlight.title=使用星能
-academy.introstarlight.desc=做一个共鸣星杖
-academy.introstarlight.text1=此模组中的许多配方除物品外还需要星能。 当你刚刚起步，用星能的唯一方法是将一个普通工作台放置到附近浮动水晶边。
-academy.introstarlight.text2=共鸣星杖用于激活星辉魔法的方块。 拿着它并在主世界上奔跑时，您还可以看到地下产生的水晶矿石的位置。
-academy.introstarlight.text3=将工作台放在浮动水晶附近的羊毛块上，并在其中制作共鸣星杖。 您可以通过在JEI中搜索“共鸣星杖”的配方，或在此菜单的“任务”部分中单击“共鸣星杖”来查看它。
+academy.introstarlight.desc=制作共鸣星杖
+academy.introstarlight.text1=除正确的物品外，此模组的大多数合成还需要星能。初识星辉魔法，利用星能的唯一途径是将工作台置于浮动水晶附件。
+academy.introstarlight.text2=共鸣星杖用于激活星辉魔法中的部分方块。手持共鸣星杖，在主世界移动，你也可以看到水晶石在地底的生成位置（仅指示 xOz 平面位置）。
+academy.introstarlight.text3=将工作台放在浮动水晶附件的羊毛上，在其中制作共鸣星杖。在 JEI 中搜索共鸣星杖可查看合成配方，在这个任务选单的任务目标处点击共鸣星杖也可以查看配方。
 
 academy.introlct.title=收集星能
 academy.introlct.desc=制作星辉合成台
-academy.introlct.text1=星辉合成台可以让您看到夜空而获得星能，但如果有的话，它也将由浮动水晶驱动。
-academy.introlct.text2=为了使用星辉合成台合成物品，你必须像往常一样摆放物品，它必须获得根据配方的星能。
-academy.introlct.text3=如果星辉合成台具有所需的物品和星能，请用共鸣星杖右键单击它以制作该物品。
+academy.introlct.text1=星辉合成台可以在夜晚且上方不受遮挡时获得星能，它也可以使用附件的浮动水晶来驱动。
+academy.introlct.text2=要在星辉合成台中制作物品，你需要像普通合成一样摆放物品，并且根据不同合成让其获得特定强度的星能。
+academy.introlct.text3=如果在星辉合成台中正确摆放了物品，并且星辉合成台接收到了星能，使用共鸣星杖右击来合成物品。
 
-academy.introilumpowder.title=用星能制作物品
+academy.introilumpowder.title=使用星能合成物品
 academy.introilumpowder.desc=制作辉光粉
-academy.introilumpowder.text1=辉光粉只是您使用星能可以制作的众多物品之一。 您可以将其放置在任何地方，它将充当光源，并且不会占用任何块空间。
-academy.introilumpowder.text2=将星辉合成台放在石英块上，并根据其配方制作辉光粉。
-academy.introilumpowder.text3=提醒一下，您必须使用共鸣星杖右键单击星辉合成台以进行制作。
+academy.introilumpowder.text1=辉光粉是你可以使用星能制作的众多物品中的一个。你可以在任何地方放置辉光粉，放置后其将作为一个光源，且不占据方块位置。
+academy.introilumpowder.text2=把星辉合成台置于石英块上，根据合成表合成辉光粉。
+academy.introilumpowder.text3=提示：你需要使用共鸣星杖右击星辉合成台启动合成。
 
-academy.introbotania.title=植物魔法介绍
-academy.introbotania.desc=了解植物魔法
-academy.introbotania.text1=植物魔法是伪装成魔法的科技模组。
-academy.introbotania.text2=有了它，您将使用花朵来生成和操纵魔力，魔力可以用来做各种事情。
-academy.introbotania.task=进入植物魔法区
+academy.introbotania.title=植物魔法简介
+academy.introbotania.desc=学习植物魔法
+academy.introbotania.text1=植物魔法是伪装成魔法类模组的科技类模组。
+academy.introbotania.text2=此模组用花生产魔力、操控魔力并使用魔力来达成各种目的。
+academy.introbotania.task=进入植物魔法（Botania）区域
 
 academy.intromanagen.title=生产魔力
 academy.intromanagen.desc=制作火红莲
-academy.intromanagen.text1=Magical flowers are created in the Petal Apothecary. Fill it with Water using a Water Bucket, make and then throw in the petals according to the Endoflame's crafting recipe, and then throw in a seed to craft the flower.
-academy.intromanagen.text2=You can either throw items at the Petal Apothecary or right click with the Petal in hand to place it inside. You can hold sneak and then right click with an empty hand to take the last item back out.
-academy.intromanagen.text3=The Endoflame generates Mana when a burnable item is thrown on the ground next to it. If it is placed near a Mana Spreader, the Mana will move to it.
-academy.intromanagen.text4=Once you've made the Endoflame, place it on the lightest Grass Block. Throw some Coal nearby and it will begin to generate Mana.
+academy.intromanagen.text1=该模组中的魔法花都是在花药台中制作。在花药台中装一桶水，制作花瓣并根据火红莲合成表将花瓣扔进花药台，最后扔出小麦种子完成合成。
+academy.intromanagen.text2=将物品扔进花药台或右击花药台将手持的物品放入花药台都是可行的。按住潜行键空手右击拿回最后放入的物品。
+academy.intromanagen.text3=火红莲通过消耗扔在旁边的可燃烧物品生产魔力。如果火红莲被置于魔力发射器旁，魔力会流转至魔力发射器。
+academy.intromanagen.text4=做出火红莲后，将其置于最亮的草方块上。扔一些煤炭在附件，火红莲就会开始生产魔力。
 
-academy.intromanatransfer.title=Moving and Storing Mana
-academy.intromanatransfer.desc=Store the Mana in the Mana Pool
-academy.intromanatransfer.text1=Mana Spreaders are used to transfer Mana, and Mana Pools are used to store Mana.
-academy.intromanatransfer.text2=Sneak right click a Wand of the Forest on the Mana Spreader, then do the same on a Mana Pool to point the Spreader at the Pool.
-academy.intromanatransfer.text3=Any Mana inside the Mana Spreader will be sent to the Mana Pool.
-academy.intromanatransfer.task=Fill the Mana Pool
+academy.intromanatransfer.title=转移与存储魔力
+academy.intromanatransfer.desc=将魔力存储在魔力池
+academy.intromanatransfer.text1=魔力发射器用于转运魔力，魔力池用于存储魔力。
+academy.intromanatransfer.text2=手持森林法杖潜行右击魔力发射器，再在魔力池上重复该动作，可使魔力发射器与魔力池绑定并指向魔力池。
+academy.intromanatransfer.text3=魔力发射器内所有魔力都会被转运至魔力池内。
+academy.intromanatransfer.task=填充魔力池
 
-academy.intromanasteel.title=Crafting with Mana
-academy.intromanasteel.desc=Make some Manasteel
-academy.intromanasteel.text1=Some items can be crafted by throwing them into a Mana Pool that has Mana in it. This uses up some of the Mana.
-academy.intromanasteel.text2=Throw an Iron Ingot into some Mana and it will be turned into a Manasteel Ingot.
+academy.intromanasteel.title=使用魔力制作物品
+academy.intromanasteel.desc=制作魔力钢
+academy.intromanasteel.text1=通过将原材料扔入存有魔力的魔力池可制作某些物品。这个过程会消耗部分魔力。
+academy.intromanasteel.text2=将铁锭扔入存有魔力的魔力池内，可将其转化为魔力钢锭。
 
-academy.introelementium.title=Elven Trading
-academy.introelementium.desc=Get some Elementium
-academy.introelementium.text1=Later on in the progression, you will eventually make a Portal to Alfheim. This essentially works the same as crafting with the Mana Pool.
-academy.introelementium.text2=You can throw certain items into the Portal and you will get other items out. Any item you throw in that is not part of a recipe will be lost.
+academy.introelementium.title=与精灵交易
+academy.introelementium.desc=获得源质钢
+academy.introelementium.text1=在游戏进程稍后的部分，你将会制作一个连接阿尔夫海姆的传送门。精灵交易原理上与使用魔力池制作物品相同。
+academy.introelementium.text2=你可以将特定物品扔入精灵传送门，并得到相应的“报酬”。不构成精灵交易的物品将会被丢弃。
 
-academy.introfinish.title=School's Out!
-academy.introfinish.desc=Go to the Overworld
-academy.introfinish.text=Now that you've completed all of the tutorials, you can head over to the Overworld and start playing for real!
-academy.introfinish.reward=Teleport to the Overworld
+academy.introfinish.title=毕业！
+academy.introfinish.desc=前往主世界
+academy.introfinish.text=你已经完成了所有指导内容，可以前往主世界开始真实的游戏了！
+academy.introfinish.reward=传送至主世界
 
 #Getting Started
 
-academy.overworld.title=Let The Games Begin!
-academy.overworld.desc=Start the pack for real
-academy.overworld.text=Now that you've completed the school, you can start playing the pack in earnest.
-academy.overworld.reward=Read JourneyMap tutorial
+academy.overworld.title=游戏开始！
+academy.overworld.desc=开始正式游玩这个模组包
+academy.overworld.text=你已经从学校毕业，可以开始认真游玩这个模组包了。
+academy.overworld.reward=阅读旅行地图（JourneyMap）说明
 
-academy.timber.title=Timberrrr!
-academy.timber.desc=Get some wood
-academy.timber.text1=Go chop down a tree. Any tree will do, this quest will accept 4 of any wooden log.
-academy.timber.task=4x any Log
+academy.timber.title=要致富先撸树！
+academy.timber.desc=获得原木
+academy.timber.text1=砍树。任何树都行，这个任务接受 4 个任意原木。
+academy.timber.text2=你或许已经注意到树木与平时看起来有些不一样。在指导书中阅读世界（The World）章节，了解被模组改变的世界有什么不同之处。
+academy.timber.task=4x 任意原木
 
-academy.tinkering.title=Tinkering
-academy.tinkering.desc=Make the required Tinkers' Construct blocks
-academy.tinkering.text=Tinkers' Construct tools are very special. Instead of disappearing when broken, they remain in your inventory and can't be used until repaired. They also have traits and modifiers that work like enchantments, but they use materials instead of experience. You can also swap tool parts without making a new tool!
-academy.tinkering.text2=Read the "Making Tools" section of the Tinkers' Construct page in the Guide for information on this mod works. You can also read the book "Materials and You."
+academy.tinkering.title=匠人
+academy.tinkering.desc=制作任务要求的匠魂（Tinkers' Construct）方块
+academy.tinkering.text=这些方块是制作匠魂工具所必备的方块！
+academy.tinkering.text2=阅读指导书中关于匠魂的页面的制作工具（Making Tools）部分获知这些方块的用法。
 
-academy.smeltery.title=Hot Stuff
-academy.smeltery.desc=Construct a Smeltery
-academy.smeltery.text1=The Smeltery allows you to melt metals in order to make metal tool parts, blocks, ingots, and other items.
-academy.smeltery.text2=These blocks are required to make a Smeltery that has 9 internal blocks. You have to have all 18 Seared Bricks in your inventory at the same time for that task to complete.
+academy.smeltery.title=滚烫之物
+academy.smeltery.desc=搭建冶炼炉
+academy.smeltery.text1=冶炼炉允许你熔化金属来制作金属质工具部件、金属块、金属锭以及一些非金属物品。
+academy.smeltery.text2=这些方块可以搭建一个具有 9 格内部空间的冶炼炉。
 
-academy.pickaxe.title=Time to Mine
-academy.pickaxe.desc=Make a Tinkers' Construct Pickaxe
-academy.pickaxe.text1=Pickaxes from Tinkers' Construct are best made early on, because as you use them they gain experience which can be used for more modifiers down the line.
-academy.pickaxe.text2=To make a Tinkers' Construct Pickaxe, make a Pickaxe Head, Tool Rod, and Binding out of any material (read the Guide to see how), and combine them in the Tool Station.
-academy.pickaxe.text3=This quest can accept a Pickaxe using any combination of parts.
-academy.pickaxe.task=Any Tinkers' Pickaxe
+academy.pickaxe.title=采矿时间到
+academy.pickaxe.desc=制作一把匠魂镐
+academy.pickaxe.text1=匠魂模组提供的镐以其成长性非常适用于前期，在你挖掘的过程中，工具会获得经验，而经验达到一定数量时会为工具添加强化。
+academy.pickaxe.text2=这个任务接受任意部件组合的匠魂镐。
+academy.pickaxe.task=任意匠魂镐
 
-academy.toolforge.title=Forging Onward
-academy.toolforge.desc=Make a Tool Forge
-academy.toolforge.text1=The Tool Forge can make every Tinkers' Construct tool.
-academy.toolforge.text2=This quest will accept a Tool Forge made of any material.
-academy.toolforge.task=Any Tool Forge
+academy.toolforge.title=铸艺渐精
+academy.toolforge.desc=制作工具锻造台
+academy.toolforge.text1=工具锻造台可以制作匠魂的所有工具。
+academy.toolforge.text2=这个任务接受任意材料制成的工具锻造台。
+academy.toolforge.task=任意工具锻造台
 
-academy.bonsai.title=Happy Little Trees
-academy.bonsai.desc=Make a Bonsai Pot
-academy.bonsai.text1=The Bonsai Pot will grow whatever sapling you put into it over time, granted it has the correct soil under it. Harvest it by right clicking it with an Axe.
-academy.bonsai.text2=You can craft it into a Hopping Bonsai Pot, and it will automatically chop itself and put the drops into the inventory directly beneath it.
+academy.bonsai.title=快乐小树苗
+academy.bonsai.desc=制作一个盆栽盆
+academy.bonsai.text1=只需保证盆栽盆里有正确的土壤，里面的树苗就会自动长大。手持斧头右击可以收获树木产物。
+academy.bonsai.text2=你可以将盆栽盆进一步合成为漏式盆栽盆，它会自动砍伐成熟的树木并将掉落物放入其下方的容器中。
 
-academy.ores.title=Diggy Diggy Hole
-academy.ores.desc=Mine for Ores
-academy.ores.text1=Get 16 ore from Vanilla and Thermal Foundation each.
-academy.ores.text2=You can hold the Excavate key (` by default, to the left of the 1 key) and then mine a block to mine all the surrounding blocks of the same type. This uses durability from the tool as if you'd mined it all one by one and also takes a lot of hunger when you use it.
-academy.ores.text3=The item task will scroll through all items that it accepts, and you need a combined 16 of any of them for the task to complete. You can also click the Task to see what items it accepts.
-academy.ores.text4=Once you've gotten a good amount of materials, you should look towards the Technology quests and guide.
-academy.ores.vanillatask=16x Vanilla ores
-academy.ores.thermaltask=16x Thermal Foundation ores
+academy.ores.title=打打洞
+academy.ores.desc=挖矿
+academy.ores.text1=分别获取原版与热力基础（Thermal Foundation）的 16 个矿石。
+academy.ores.text2=你可以在挖掘时按住连锁挖矿键（默认为 1 左边的 ` 键）来一次挖掘附近所有的同种方块。这个动作与一个一个挖消耗相同工具耐久，且消耗大量饱食度。
+academy.ores.text3=这个任务会遍历该任务接受的所有物品，要完成这个任务，你需要组合 16 个任意两种矿石。点击任务目标可以查看任务接受的物品。
+academy.ores.text4=当你获得足够多的矿物后，你就可以开始阅读科技类模组说明，并着手完成任务了。
+academy.ores.vanillatask=16x 原版矿石
+academy.ores.thermaltask=16x 热力基础矿石
 
-academy.seedyplace.title=Agricultural Revolution
-academy.seedyplace.desc=Harvest crops
-academy.seedyplace.task=Advancement: A Seedy Place
-academy.seedyplace.text1=One of the most important parts of a base is a steady source of food. The easiest way to get food is just by growing it!
-academy.seedyplace.text2=You can right click a fully grown crop to harvest it, automatically replanting the seed.
+academy.seedyplace.title=农业革命
+academy.seedyplace.desc=收获作物
+academy.seedyplace.task=进度：开垦荒地
+academy.seedyplace.text1=一个基地最重要的部分之一就是食物来源。种植则是食物的最简单来源。
+academy.seedyplace.text2=右击完全成熟的作物可以直接收获，并自动补种。
 
-academy.beesandbats.title=When a Mommy Mob and a Daddy Mob Love Each Other Very Much
-academy.beesandbats.desc=Breed some mobs
-academy.beesandbats.task=Advancement: The Parrots and the Bats
-academy.beesandbats.text1=Mobs can be a great source of food and other materials.
-academy.beesandbats.text2=There are a lot of ways to automatically breed animals. Mobs will automatically eat food that's been dropped on the ground, so you can automatically breed animals using only a Dispenser.
-academy.beesandbats.text3=You could also make the Automatic Feeder, which will automatically feed mobs in an area around itself using food in its inventory.
+academy.beesandbats.title=爱到深处自然……
+academy.beesandbats.desc=繁殖动物
+academy.beesandbats.task=进度：我从哪儿来？
+academy.beesandbats.text1=生物是食物的重要来源和一些资源的重要来源。
+academy.beesandbats.text2=有许多方法自动繁殖动物。如果饲料被丢在地上，动物会自动食用，故你只要一个投掷器就可以自动繁殖动物。
+academy.beesandbats.text3=你也可以制作自动喂食机器，这种机器可以使用其物品栏内饲料喂食一定范围内生物。
 
-academy.chisel.title=Lookin' Good
-academy.chisel.desc=Make a Chisel
-academy.chisel.text1=The Chisel mod adds a ton of decorative versions of blocks.
-academy.chisel.text2=Craft a Chisel, open its menu, and insert a block (like Cobblestone or Dirt) into it to see all the different versions you can make.
-academy.chisel.text3=There are three versions of the Chisel. The Chisel and Diamond Chisel are essentially the same except for the durability. The iChisel is a lot more advanced and has a lot more features.
-academy.chisel.text4=Chisel also adds a bunch of new blocks to decorate your base with. Search JEI for "@Chisel" for a list of them all.
-academy.chisel.task=Any Chisel
+academy.chisel.title=颜值即正义
+academy.chisel.desc=制作凿子
+academy.chisel.text1=凿子（Chisel）模组为方块添加了成百上千的可用来作为装饰的版本。
+academy.chisel.text2=制作一个凿子，打开 GUI，放入一种方块（如圆石或泥土）就可以看到该方块的所有不同材质的版本。
+academy.chisel.text3=有三种凿子，凿子和钻石凿子除了耐久度不同以外无太大区别；而 iChisel 则具有许多高级功能和特性。
+academy.chisel.text4=凿子模组添加了大量可用于装点你的基地的方块。在 JEI 搜索框中键入“@chisel”即可看到所有方块。
+academy.chisel.task=任意凿子
 
-academy.builderswands.title=Better Building
-academy.builderswands.desc=Make a Builder's Wand
-academy.builderswands.text1=Builder's Wands allow you to place multiple blocks at the same time quickly.
-academy.builderswands.text2=Hold one in your hand, look at a block and you can right click to place that block on connected surfaces wherever you see a white outline.
-academy.builderswands.text3=Each tier can place more blocks at a time. The Stone and Iron Wands can only place blocks horizontally, but Diamond and above can place on the top and bottom of blocks too.
-academy.builderswands.task=Any Builder's Wand
+academy.builderswands.title=更方便的建造
+academy.builderswands.desc=制作手杖
+academy.builderswands.text1=更好建筑之杖（Better Builer's Wands）模组的手杖允许你一次放置多个方块。 
+academy.builderswands.text2=手持手杖，指向一个方块，右击即可在一个由白色框线构成的连通区域放置你之前所指向的方块。
+academy.builderswands.text3=不同级别的手杖一次可以放置不同数量的方块。石质手杖和铁质手杖只能在同一水平面内放置方块，而钻石及以上级别手杖还可在方块的顶部或底部放置方块。
+academy.builderswands.task=任意手杖
 
-academy.naturescompass.title=Location, Location, Location
-academy.naturescompass.desc=Make a Nature's Compass
-academy.naturescompass.text1=Finding a nice spot to settle down is one of the most important parts of building a nice base. The Nature's Compass will help you find a specific biome to live in.
-academy.naturescompass.text2=To select a biome, right click the Nature's Compass and then find and click the biome out of the list. You can click Search to find the nearest instance of that biome or click Info to see information about that biome.
+academy.naturescompass.title=地段，地段，还是地段
+academy.naturescompass.desc=制作生物群系指南针
+academy.naturescompass.text1=找到一个绝佳的定居点是建造一个基地的重要一环。生物群系指南针会帮你找到你想居住的特定生物群系。
+academy.naturescompass.text2=右击打开生物群系指南针，从列表中可以找到并选中一个特定生物群系。你可以点击搜索查找最近的一个该生物群系，或点击信息了解该生物群系。
 
-academy.slimesling.title=Like an Eagle Piloting a Blimp
-academy.slimesling.desc=Make a Slime Sling and Slime Boots
-academy.slimesling.text1=When you charge the Slimesling and release while looking at the ground, you will be flung violently in the opposite direction.
-academy.slimesling.text2=You will bounce when landing while wearing Slime Boots, negating all fall damage. This makes them very useful to use in tandem with the Slimesling.
-academy.slimesling.text3=You can sneak to prevent yourself from bouncing, although you will get fall damage as normal.
-academy.slimesling.task2=Any Slimesling
-academy.slimesling.task1=Any Slime Boots
+academy.slimesling.title=如雄鹰展翅，又如飞艇航天
+academy.slimesling.desc=制作史莱姆弹弓和史莱姆靴子
+academy.slimesling.text1=当你指向地面并按住右键为史莱姆弹弓蓄力时，松开鼠标，史莱姆弹弓将会将你弹向反方向。
+academy.slimesling.text2=装备史莱姆靴子时落地会弹跳并抵消摔落伤害。这一点让它与史莱姆弹弓配合得很好。
+academy.slimesling.text3=按住潜行键会停止弹跳，但你会受到正常摔落伤害。
+academy.slimesling.task1=任意史莱姆弹弓
+academy.slimesling.task2=任意史莱姆靴子
 
-academy.simplybackpacks.title=Packback
-academy.simplybackpacks.desc=Make a Common Backpack
-academy.simplybackpacks.text1=Backpacks store items in their inventories, each tier holding more than the last.
-academy.simplybackpacks.text2=There's an optional keybind you can set that allows you to open the Backpack from anywhere in your inventory, including the Bauble slot (which you access from the ring button at the top right of your player portrait in your inventory).
-academy.simplybackpacks.text3=There's another optional keybind that you can set that allows you to toggle item auto-pickup; when enabled, items will go straight to the backpack when picked up. You can hold sneak and right click the Backpack to set a whitelist or a blacklist.
-academy.simplybackpacks.task=Any Backpack
-
-academy.claimchunk.title=This Land is My Land
-academy.claimchunk.desc=Claim a chunk
-academy.claimchunk.text1=At the top left of the inventory, click the map button to see a map of the surrounding chunks.
-academy.claimchunk.text2=You can click a chunk to claim it for your team, so anyone from different teams will not be able to place or break blocks in your claimed chunks. Right click to unclaim a chunk.
-academy.claimchunk.text3=You can click a claimed chunk while holding shift to mark it as loaded, which keeps everything in it running even if you're far away or offline.
-
+academy.simplybackpacks.title=包背
+academy.simplybackpacks.desc=制作一个普通背包
+academy.simplybackpacks.text1=背包在其物品栏存储物品，升级意味着可以存更多物品。
+academy.simplybackpacks.text2=你可以设置一个可选的键位来让你直接打开背包而不需要切换背包至快捷栏，甚至对饰品栏也可以（物品栏中人物的右上角的按钮）。
+academy.simplybackpacks.text3=另一个可选的键位允许你切换物品自动拾取模式；激活时，物品被捡起时将直接进入背包。按住潜行键右击设置黑（白）名单。
+academy.simplybackpacks.task=任意背包
 
 
 # Basic Storage
 
-academy.storagedrawers.title=Compact Storage
-academy.storagedrawers.desc=Make any Drawer
-academy.storagedrawers.text1=A Basic Drawer can store 32 stacks of a single item. A 1x2 Drawer stores 16 stacks of two items, and a 2x2 Drawer holds 8 stacks of 4 items. You can add upgrades to them to store more.
-academy.storagedrawers.text2=Read the Guide for more information on Storage Drawers.
-academy.storagedrawers.task=Any Drawer
+academy.storagedrawers.title=密集存储
+academy.storagedrawers.desc=制作任意抽屉
+academy.storagedrawers.text1=基础抽屉可以存储 32 组单种物品。一个 1x2 抽屉可以存储 16 组两种物品，一个 2x2 抽屉可以存储 8 组四种物品。 你可以通过升级来让它们存得更多。
+academy.storagedrawers.text2=阅读抽屉（Storage Drawer）的指导。
+academy.storagedrawers.task=任意抽屉
 
-academy.drawercontroller.title=Remote Access
-academy.drawercontroller.desc=Make a Drawer Controller
-academy.drawercontroller.text1=The Drawer Controller allows you to access all connected Drawers with Hoppers, pipes, or any other form of automation.
-academy.drawercontroller.text2=Drawers are connected when they are touching the Drawer Controller, even if there are other Drawers between them.
+academy.drawercontroller.title=远程访问
+academy.drawercontroller.desc=制作抽屉管理器
+academy.drawercontroller.text1=抽屉管理器允许你通过漏斗、管道或任意形式的自动化物品来访问所有相连的抽屉。
+academy.drawercontroller.text2=相连的抽屉只要有一个抽屉与抽屉管理器相接，这些抽屉都能与抽屉管理器连接。
 
-academy.compactingdrawer.title=Nuggets and Ingots and Blocks, Oh My!
-academy.compactingdrawer.desc=Make a Compacting Drawer
-academy.compactingdrawer.text1=A Compacting Drawer will show items in its ingot, nugget, and block forms.
-academy.compactingdrawer.text2=The maximum storage depends on the block version, so this is really good for storing metals and gems.
+academy.compactingdrawer.title=粒，锭和块。哦，天哪！
+academy.compactingdrawer.desc=制作压缩抽屉
+academy.compactingdrawer.text1=压缩抽屉将展示物品的块、锭、粒形式。
+academy.compactingdrawer.text2=最大存量由物品种类决定，故压缩抽屉适于存储金属和宝石。
 
-academy.ironchests.title=Storage Solution
-academy.ironchests.desc=Make an Iron Chest
-academy.ironchests.text=The mod Iron Chests adds a bunch of new chests that have expanded storage, each tier holding more items.
+academy.ironchests.title=新型存储解决方案
+academy.ironchests.desc=制作铁箱子
+academy.ironchests.text=更多箱子（Iron Chests）模组添加了一堆新型箱子，这些箱子有着更大容量， 级别上升，存量上升。
 
-academy.chestupgrade.title=Deeper Pockets
-academy.chestupgrade.desc=Make an Iron to Gold Chest Upgrade
-academy.chestupgrade.text=Chest Upgrades allow you to upgrade the tier of the Chest without having to break it. Simply right click the Chest Upgrade on the appropriate tier Chest.
+academy.chestupgrade.title=更大的箱子
+academy.chestupgrade.desc=制作箱子升级：铁>金
+academy.chestupgrade.text=箱子升级允许你在不破坏箱子的情况下升级箱子。 只需手持升级对准对应级别的箱子右击即可完成升级。
 
-academy.endertank.title=Water-Safe
-academy.endertank.desc=Make an Ender Tank
-academy.endertank.text1=Ender Tanks will share their contents with all other Ender Tanks with the same color combination. Use a dye on one of the white spots on top to set the color.
-academy.endertank.text2=You can also use a Diamond on the valve to make it a personal Ender Tank. Personal Ender Tanks will only connect to other personal Ender Tanks placed by the same person.
-academy.endertank.text3=Right click the valve with an empty hand to toggle if it will automatically output to the block underneath.
-academy.endertank.text4=Obviously works best in pairs.
+academy.endertank.title=防水末影制品
+academy.endertank.desc=制作末影蓄水槽
+academy.endertank.text1=所有具有相同染色组合的末影蓄水槽共享内容物。用染料为顶部三个白块染色。
+academy.endertank.text2=你也可以对阀门使用钻石让储罐变为私有储罐。只有同属于一人的私有储罐才会相互连接。
+academy.endertank.text3=空手右击阀门切换是否向底部方块自动输出。
+academy.endertank.text4=很明显，成对使用末影蓄水槽最好。
 
-academy.enderchest.title=Extradimensional
-academy.enderchest.desc=Make an Ender Chest
-academy.enderchest.text1=Ender Chests will share their contents with all other Ender Chests with the same color combination. Use a dye on one of the white spots on top to set the color.
-academy.enderchest.text2=You can also use a Diamond on the latch to make it a personal Ender Chest. Personal Ender Chests will only connect to other personal Ender Chests placed by the same person.
-academy.enderchest.text3=Obviously works best in pairs.
+academy.enderchest.title=超次元存储
+academy.enderchest.desc=制作末影箱子
+academy.enderchest.text1=所有具有相同染色组合的末影箱子共享内容物。用染料为顶部三个白块染色。
+academy.enderchest.text2=你也可以对锁扣使用钻石让箱子变为私有箱子。只有同属于一人的私有箱子才会相互连接。
+academy.enderchest.text3=很明显，成对使用末影箱子最好。
 
-academy.enderpouch.title=Bag of Holding
-academy.enderpouch.desc=Make an Ender Pouch
-academy.enderpouch.text1=The Ender Pouch will access the same inventory as the Ender Chest color combination it is linked to. Sneak right click the Ender Pouch on an Ender Chest to set the color combination.
-academy.enderpouch.text2=You can have an Ender Chest at your base with the contents automatically going into storage, and carry around an Ender Pouch linked to it to be able to store all your items without having to go back to your base.
+academy.enderpouch.title=持握之箱
+academy.enderpouch.desc=制作末影袋子
+academy.enderpouch.text1=末影袋子拥有对与其具有相同染色组合的末影箱子的访问权。按住潜行键右击末影袋子设置染色组合。
+academy.enderpouch.text2=你可以在基地放一个末影箱子，末影箱子自动输出内容物至存储系统，这样一来，你在基地外也能向基地内的存储系统存入东西。
 
-academy.blackholeunit.title=Supermassive Black Hole
-academy.blackholeunit.desc=Make a Black Hole Unit
-academy.blackholeunit.text=A Black Hole Unit can hold over 2 billion of a single item.
+academy.blackholeunit.title=超重黑洞
+academy.blackholeunit.desc=制作黑洞存储器
+academy.blackholeunit.text=黑洞存储器可以存储超过二十亿个单种物品。
 
-academy.blackholtank.title=Black Hole Sun
-academy.blackholtank.desc=Make a Black Hole Tank
-academy.blackholtank.text=A Black Hole Tank can hold over 2 million buckets of a single fluid.
+academy.blackholtank.title=黑日
+academy.blackholtank.desc=制作黑洞储液罐
+academy.blackholtank.text=黑洞储液罐可以存储超过两百万桶单种流体。
 
-academy.blackholecontroller.title=Messier 87
-academy.blackholecontroller.desc=Make a Black Hole Controller v2.0
-academy.blackholecontroller.text1=The Black Hole Controller v2.0 can hold 12 Black Hole Units/Tanks which can be accessed with Hoppers or pipes.
-academy.blackholecontroller.text2=Very useful to use in tandem with the External Storage from Refined Storage.
+academy.blackholecontroller.title=M87 星云
+academy.blackholecontroller.desc=制作黑洞存储控制器 v2.0
+academy.blackholecontroller.text1=黑洞存储控制器 v2.0 可以连接 12 个黑洞单元/储罐，并且可以用漏斗或管道输入输出。
+academy.blackholecontroller.text2=与精致存储的外部存储总线并用效果更好。
 
-academy.blackholelabel.title=Black Hole Drawer
-academy.blackholelabel.desc=Make a Black Hole Label
+academy.blackholelabel.title=黑洞抽屉
+academy.blackholelabel.desc=制作黑洞标签
 academy.blackholelabel.text=You can place a Black Hole Label to make it funciton similar to a Storage Drawer.
 
-academy.storagecrate1.title=""Small""
-academy.storagecrate1.desc=Make a Small Storage Crate
-academy.storagecrate1.text1=A Small Storage Crate has 117 storage slots.
-academy.storagecrate1.text2=If it contains a Storage Crate Keeper, the Crate will hold its contents when destroyed. The Keeper is lost in this process.
+academy.storagecrate1.title=“小型”
+academy.storagecrate1.desc=制作小型板条箱
+academy.storagecrate1.text1=小型板条箱有 117 个槽位。
+academy.storagecrate1.text2=如果板条箱装有板条箱守护徽章，破坏板条箱时内容物不会掉出，而守护徽章则会损毁。
 
-academy.storagecrate2.title=Double Trouble
-academy.storagecrate2.desc=Make a Medium Storage Crate
-academy.storagecrate2.text1=A Medium Storage Crate has 2 pages of 117 slots, for a total of 234 slots.
-academy.storagecrate2.text2=Click on the arrows on either side of the GUI to swap between the pages.
+academy.storagecrate2.title=好事成双
+academy.storagecrate2.desc=制作中型板条箱
+academy.storagecrate2.text1=中型板条箱有两页空间，每页有 117 个槽位，共计 234 个槽位。
+academy.storagecrate2.text2=点击 GUI 下的左右箭头可翻页。
 
-academy.storagecrate3.title=The Ultimate Clutter Storage
-academy.storagecrate3.desc=Make a Large Storage Crate
-academy.storagecrate3.text=A Large Storage Crate has 3 pages of 117 slots, for a total of 351 slots.
+academy.storagecrate3.title=终极多种类存储
+academy.storagecrate3.desc=制作大型板条箱
+academy.storagecrate3.text=大型板条箱有三页，每页 117 槽位，共计 351 槽位。
 
 # Going to leave this here just in case we eventually re-add /dank/null/
 # academy.dank.title=/dank/null/
-# academy.dank.desc=Make a /dank/null/
-# academy.dank.text1=The /dank/null/ allows you to hold a large amount of items in a single slot. It will automatically place specific items you pick up into itself, and you can place blocks from it. If a slot is full, it will delete items that try to go into it.
-# academy.dank.text2=Sneak right click to open its GUI and insert items you want to store.
-# academy.dank.text3=While holding in your hand, sneak and scroll to change what item you want to place.
-# academy.dank.text4=Higher tier /dank/null/s have more slots and store more per slot.
-# academy.dank.task=Any /dank/null/
+# academy.dank.desc=制作/dank/null/
+# academy.dank.text1=/dank/null/ 允许你在一个槽位内堆叠大量物品。它会自动将你捡起的特定物品收入其中， 你也可以用它来放置方块。 如果一个槽位满了，多余物品将被自动删除。
+# academy.dank.text2=按住潜行键右击打开 GUI 放入你想存储的物品。
+# academy.dank.text3=手持 /dank/null/ 按住潜行键并滚动鼠标滚轮调整你想要的放置的方块。
+# academy.dank.text4=/dank/null/ 级别更高，槽位以及槽位堆叠上限越多。
+# academy.dank.task=任意 /dank/null/
 
-academy.dracchest.title=Dragon Hoard
-academy.dracchest.desc=Make a Draconium Chest
-academy.dracchest.text=The Draconium Chest has 260 slots, 5 upgradable furnace slots, a 3x3 crafting grid, and you can set specific slots to be able to come in and out of specific sides.
+academy.dracchest.title=龙之密藏
+academy.dracchest.desc=制作龙箱
+academy.dracchest.text=龙箱有 260 个槽位，5 个可升级的熔炉槽位，一个 3x3 合成网格，你还可以随意更改指定槽位的输入输出面设定。
 
 # Transportation
 
-academy.hopper.title=Simple, Elegant, Beautiful
-academy.hopper.desc=Make a Hopper
-academy.hopper.text1=Ah, the Hopper. It takes things out of blocks above it, and inserts them into inventories it's pointing towards. Could there be anything better than this?
+academy.hopper.title=简洁，精致，美丽
+academy.hopper.desc=制作漏斗
+academy.hopper.text1=啊！漏斗。它从上方漏出方块，并输入器指向的方块的物品栏。这世上难道还有比漏斗更好的东西吗？
 
-academy.basicitemtess.title=Better Than Hoppers
-academy.basicitemtess.desc=Make a Basic Item Tesslocator
-academy.basicitemtess.text1=Item Tesslocators allow you to quickly move items over a distance of one block. Place Tesslocators in the same block space on all inventories you want to interact with and open its GUI to change the settings.
-academy.basicitemtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging items or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more than one stack at a time.
+academy.basicitemtess.title=比漏斗更好！
+academy.basicitemtess.desc=制作基础物品超转运体
+academy.basicitemtess.text1=物品超转运体让你可以在一格内快速传输物品。把一对（或更多）物品超转运体放在同一格内，分别贴在你想交互的两个（或更多）容器上，打开 GUI 更改设置。
+academy.basicitemtess.text2=点击中部按钮可在输入、输出、输入/输出模式切换。左边槽位可通过拖拽物品或过滤器设置输入输出过滤，右边槽位放入萤石加速，放入钻石增加一次的传输量。
 
-academy.basicfluidtess.title=Fluid Hopper
-academy.basicfluidtess.desc=Make a Basic Fluid Tesslocator
-academy.basicfluidtess.text1=Fluid Tesslocators allow you to quickly move fluids over a distance of one block. Place Tesslocators in the same block space on all blocks you want to interact with and open its GUI to change the settings.
-academy.basicfluidtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging filled Buckets or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more at a time.
+academy.basicfluidtess.title=液体漏斗
+academy.basicfluidtess.desc=制作基础流体超转运体
+academy.basicfluidtess.text1=流体超转运体让你可以在一格内快速传输流体。把一对（或更多）流体超转运体放在同一格内，分别贴在你想交互的两个（或更多）容器上，打开 GUI 更改设置。
+academy.basicfluidtess.text2=点击中部按钮可在输入、输出、输入/输出模式切换。左边槽位可通过拖拽装有流体的桶或过滤器设置输入输出过滤，右边槽位放入萤石加速，放入钻石增加一次的传输量。
 
-academy.itemducts.title=Latest Innovation in Moving Items
-academy.itemducts.desc=Make Itemducts
-academy.itemducts.text1=Itemducts move items along their path, in all directions. Items move through them at 1 block per second.
-academy.itemducts.text2=Opaque Itemducts work exactly the same, except you can't see items flow through them. This can help prevent lag.
-academy.itemducts.task=Itemduct
+academy.itemducts.title=关于移动物品的最新研究成果
+academy.itemducts.desc=制作物品管道
+academy.itemducts.text1=物品管道沿其形成的通路移动物品，各个方向都行。物品以每秒一个方格的速度通过物品管道。
+academy.itemducts.text2=不透明物品管道作用相同，只是你看不到物品通过管道。这对减轻卡顿有帮助。
+academy.itemducts.task=物品管道
 
-academy.basicfluiducts.title=Aqueduct
-academy.basicfluiducts.desc=Make Basic Fluiducts
-academy.basicfluiducts.text1=Fluiducts are used to transfer fluids. Basic Fluiducts can only transfer fluids that aren't extremely temperate, like Lava or Gelid Cryotheum.
-academy.basicfluiducts.text2=Opaque Fluiducts work exactly the same, except you can't see Fluids flow through them. This can help prevent lag.
-academy.basicfluiducts.task=Fluiduct
+academy.basicfluiducts.title=水道
+academy.basicfluiducts.desc=制作约束流体管道
+academy.basicfluiducts.text1=流体管道用于转运流体。约束流体管道只能传输非极端高温的流体，如岩浆、极寒之凛冰。
+academy.basicfluiducts.text2=不透明流体管道作用相同，只是你看不到流体通过管道。这对减轻卡顿有帮助。
+academy.basicfluiducts.task=约束流体管道
 
-academy.hardenedfluiducts.title=Lavaduct
-academy.hardenedfluiducts.desc=Make Hardened Fluiducts
-academy.hardenedfluiducts.text=Hardened Fluiducts can transfer any fluid.
-academy.hardenedfluiducts.task=Hardened Fluiduct
+academy.hardenedfluiducts.title=熔岩通路
+academy.hardenedfluiducts.desc=制作硬化流体管道
+academy.hardenedfluiducts.text=硬化流体管道可以转运任意流体。
+academy.hardenedfluiducts.task=硬化流体管道
 
-academy.servo.title=Make it Work
-academy.servo.desc=Make a Servo
-academy.servo.text1=A Servo is used to extract items or fluids from an inventory or tank and move them to Itemducts or Fluiducts. Place the Servo on the connection and provide it with a Redstone signal (or set it to not need Redstone) and it will begin to extract items/fluids.
-academy.servo.text2=Items only extract if there is somewhere for them to go, but fluids will be extracted regardless.
-academy.servo.text3=Items will try to go to the nearest inventory it can enter, while fluids will just fill anything it can.
-academy.servo.task=Any Servo
+academy.servo.title=让它动起来！
+academy.servo.desc=制作伺服器
+academy.servo.text1=伺服器用于从容器中抽取物品或流体。把伺服器放在管道连接处，给予红石信号（或将其设置为忽略红石信号），它就会开始提取物品/流体。
+academy.servo.text2=伺服器只会在管线中存在容器时抽取物品，而对流体则不存在这种限制。
+academy.servo.text3=物品会进入其能进入的最近容器，流体则会均分至所有有效容器中。
+academy.servo.task=任意伺服器
 
-academy.signalumfluiduct.title=Electrolyte Rich
-academy.signalumfluiduct.desc=Make a Signalum-Plated Fluiduct
-academy.signalumfluiduct.text=Signalum-Plated Fluiducts work just like Hardened Fluiducts, except they can also transfer 4,000 RF/t per connection.
-academy.signalumfluiduct.task=Signalum-Plated Fluiduct
+academy.signalumfluiduct.title=富含电解质
+academy.signalumfluiduct.desc=制作信素流体管道
+academy.signalumfluiduct.text=信素流体管道作用与硬化流体管道类似，只是它还可以同时以 4000 RF/t 的速率在连接处传输能量。
+academy.signalumfluiduct.task=信素流体管道
 
-academy.laminar.title=Under Pressure
-academy.laminar.desc=Make a Super-Laminar Fluiduct
-academy.laminar.text1=Super-Laminar Fluiducts can transfer at hundreds of buckets per second when fully pressurized.
-academy.laminar.text2=It takes a couple seconds to pressureize, during which the transfer rate speeds up.
-academy.laminar.text3=They work best when fluid is being pushed into it by the source rather than being pulled out with a Servo.
-academy.laminar.task=Super-Laminar Fluiduct
+academy.laminar.title=压力
+academy.laminar.desc=制作极速层流流体管道
+academy.laminar.text1=极速层流流体管道加压完全时能以每秒上百桶的速率传输流体。
+academy.laminar.text2=管道需要几秒钟加压，这个过程中流速会逐渐增加。
+academy.laminar.text3=当流体被压入这类管道而不是由伺服器抽入管道时管道效率更高。
+academy.laminar.task=极速层流流体管道
 
-academy.signalumitemduct.title=Item Energyducts
-academy.signalumitemduct.desc=Make Signalum-Plated Itemducts
-academy.signalumitemduct.text=Signalum-Plated Itemducts work just like regular Itmeducts, except they can also transfer 4,000 RF/t per connection.
-academy.signalumitemduct.task=Signalum-Plated Itemduct
+academy.signalumitemduct.title=物品能量并行
+academy.signalumitemduct.desc=制作信素物品管道
+academy.signalumitemduct.text=信素物品管道作用与普通物品管道类似，只是它还可以同时以 4000 RF/t 的速率在连接处传输能量。
+academy.signalumitemduct.task=信素物品管道
 
-academy.impulseitemduct.title=Impulsive
-academy.impulseitemduct.desc=Make Impulsive Itemducts
-academy.impulseitemduct.text=Impulsive Itemducts move items much faster at 2 blocks per second.
-academy.impulseitemduct.task=Impulse Itemduct
+academy.impulseitemduct.title=动力
+academy.impulseitemduct.desc=制作动能物品管道
+academy.impulseitemduct.text=动能物品管道传输速度快得多——每秒两格。
+academy.impulseitemduct.task=动能物品管道
 
-academy.signalumimpulseitemduct.title=This is the Longest Item Name, So It Has the Longest Quest Name
-academy.signalumimpulseitemduct.desc=Make Signalum-Plated Impulse Itemducts
-academy.signalumimpulseitemduct.text=Signalum-Plated Impulse Itemducts work just like regular Impulse Itemducts, except they can also transfer 4,000 RF/t per connection.
-academy.signalumimpulseitemduct.task=Signalum-Plated Impulse Itemduct
+academy.signalumimpulseitemduct.title=这个物品有整个模组包中最长的物品名称，所以这个任务的名称是所有任务中最长的
+academy.signalumimpulseitemduct.desc=制作信素推进物品管道
+academy.signalumimpulseitemduct.text=信素推进物品管道作用与普通动能物品管道类似，只是它还可以同时以 4000 RF/t 的速率在连接处传输能量。
+academy.signalumimpulseitemduct.task=信素推进物品管道
 
-academy.fluidlaser.title=Fast Fluid Ferrying
-academy.fluidlaser.desc=Make Fluid Laser Relays
-academy.fluidlaser.text1=Fluid Laser Relays can wirelesssly transfer an infinite amount of fluid instantly.
-academy.fluidlaser.text2=Place a Fluid Laser Relay on the block you want to pull from and on the block you want to push into, as well as anywhere along the way for you to connect them.
-academy.fluidlaser.text3=To connect Laser Relays, right click on one with a Laser Wrench and then the other.
-academy.fluidlaser.text4=To toggle between input and output, right click on it with a Compass.
+academy.fluidlaser.title=快速流体转运
+academy.fluidlaser.desc=制作流体激光中继器
+academy.fluidlaser.text1=流体激光中继器能够以无穷大的速度无线传输流体。
+academy.fluidlaser.text2=将一个流体激光中继器放在你想要从中抽取流体的容器上，另一个放在你想要往其中加入流体的容器上，如果俩容器距离过远，你需要在中间再放上中继器以起到中继效果。
+academy.fluidlaser.text3=要连接中继器，手持中继器扳手依次右击两个中继器。
+academy.fluidlaser.text4=要切换输入输出，手持指南针右击。
 
-academy.itemlaser.title=Matter to Energy to Matter
-academy.itemlaser.desc=Make Item Laser Relays
-academy.itemlaser.text1=Item Laser Relays can wirelessly transfer items.
-academy.itemlaser.text2=Place Item Laser Relays on all inventories you wish to be part of the system.
-academy.itemlaser.text3=Place an Item Interface on the point where you want to insert or extract items from storage, and place an Item Laser Relay on it too. Connect all the Item Laser Relays with a Laser Wrench.
-academy.itemlaser.text4=Items that are inserted into or extracted from the Item Interface will be moved to/from the connected storage blocks. Inventories with the highest priority are used first. You can use a Compass to raise/lower the Relay's priorty.
+academy.itemlaser.title=物质与能量的奇妙转化
+academy.itemlaser.desc=制作物品激光中继器
+academy.itemlaser.text1=物品激光中继器可无线传输物品。
+academy.itemlaser.text2=在所有你想让其连入网络的容器上放置激光中继器。
+academy.itemlaser.text3=若要访问中继器存储网络，放置一个物品接口并在其上放置中继器，再用中继器扳手连接所有中继器。
+academy.itemlaser.text4=向物品接口加入或从物品接口抽出的物品会移动至接受物品的中继器所连接的容器中。中继器优先级越高，其连接的容器越先参与物品输入输出，用指南针可以调节中继器优先级。
 
-academy.advanceditemlaser.title=Sorting Lasers
-academy.advanceditemlaser.desc=Make Advanced Item Laser Relays
-academy.advanceditemlaser.text1=Advanced Item Laser Relays work similar to regular Item Laser Relays, except with a bit of added functionality.
-academy.advanceditemlaser.text2=In its GUI you can set a whitelist/blacklist for what is allowed to enter or exist that inventory. You can click the S button to set the list to whatever is currently in the inventory it is placed on.
+academy.advanceditemlaser.title=激光过滤
+academy.advanceditemlaser.desc=制作高级物品激光中继器
+academy.advanceditemlaser.text1=高级物品激光除了一些高级功能外与普通物品激光中继器效用类似。
+academy.advanceditemlaser.text2=你可以打开 GUI 对物品设置黑、白名单。按 S 按钮，可将名单设置为中继器所贴容器内的物品。
 
-academy.ifconveyorbelts.title=Production Line
-academy.ifconveyorbelts.desc=Make Conveyor Belts
-academy.ifconveyorbelts.text1=Conveyor Belts can move items, entities, and fluids.
-academy.ifconveyorbelts.text2=By default, it can only push entities mobs, players, and dropped items. You can use Extraction and Insertion Conveyor Upgrades to make it push and pull from blocks.
-academy.ifconveyorbelts.text3=There are also several other Conveyor Upgrades that change their functionality. If you right click Plastic on a Conveyor Belt items won't be able to be picked up by players, and if you right click it with Glowstone Dust items will move much quicker.
-academy.ifconveyorbelts.task2=Insertion/Extraction Conveyor Upgrade
+academy.ifconveyorbelts.title=生产线
+academy.ifconveyorbelts.desc=制作传送带
+academy.ifconveyorbelts.text1=传送带可用于移动物品、实体和流体。
+academy.ifconveyorbelts.text2=默认情况下，传送带只能移动生物、玩家和掉落物等实体。你可以使用传送带提取升级和传送带输入升级赋予其将物品输入至容器或将物品从容器抽出的能力。
+academy.ifconveyorbelts.text3=还有几种改变传送带功能的升级。手持塑料片对准传送带右击，传送带上的物品将不会被玩家拾取；若手持萤石对准传送带右击，物品将会移动得更快。
+academy.ifconveyorbelts.task2=传送带提取/输入升级
 
-academy.viaducts.title=New New York
-academy.viaducts.desc=Make Viaducts
+academy.viaducts.title=这是什么地方？
+academy.viaducts.desc=制作旅行管道
 academy.viaducts.text1=Like other Ducts allow you to transfer items, energy, and fluids, Viaducts allow you to transfer yourself! Players move through Viaducts at 10 blocks per second.
 academy.viaducts.text2=Place Viaducts along the route players will move through, and right click on Viaducts you want to be destinations with a Crescent Hammer. Click on the opening to change its details, or select a destination to travel to it through the Viaducts.
 
@@ -825,13 +846,12 @@ academy.fluxducts2.text2=Fluxducts can connect to Fluxducts of other tiers.
 academy.basicenergytess.title=Worse Than Pipes
 academy.basicenergytess.desc=Make Basic Energy Tesslocators
 academy.basicenergytess.text1=Basic Energy Tesslocators allow you to move RF over a distance of one block. Place Tesslocators in the same block space on all blocks where you want to move energy, and then right click to toggle between input and output.
-academy.basicenergytess.text2=Basic Energy Tesslocators can transfer 2048 RF/t, and can store up to 32,000 RF.
+academy.basicenergytess.text2=Basic Energy Tesslocators can transfer XXXX RF/t.
 
 academy.advenergytess.title=Way Better Than Pipes
 academy.advenergytess.desc=Make Advanced Energy Tesslocators
 academy.advenergytess.text1=Advanced Energy Tesslocators work like Basic ones, except they don't need to be in the same block space. This allows you to transfer them wirelessly, over any distance and between dimensions.
 academy.advenergytess.text2=Advanced Tesslocators are set by holding a dye in each hand and then right clicking on the Tesslocator. To toggle between input and output mode, hold sneak and right click with an empty hand on the Tesslocator.
-academy.advenergytess.text3=Advanced Energy Tesslocators can store 40,000,000 RF, and can move the same amount per tick.
 
 academy.plasticmaking.title=Flubber
 academy.plasticmaking.desc=Make some Plastic
@@ -874,7 +894,7 @@ academy.rangedcollector.text2=Open it up and set the filter in the 12 slots on t
 
 academy.aalens.title=Technomancic Refraction
 academy.aalens.desc=Make any Lens for the Atomic Reconstructor
-academy.aalens.text1=Lens can be placed on the Atomic reconstructor to change its function in some way, such as making the laser color blocks or kill mobs.
+academy.aalens.text1=Lens can be placed on the Atomic reconstructor to change its function in some way, such as making the laser color blocks or kill mobs. 
 academy.aalens.text2=See the Actually Additions Manual for more information.
 academy.aalens.task=Any Lens
 
@@ -979,7 +999,8 @@ academy.aadrill.task2=Any Drill Augment
 
 academy.greenhouseglass.title=Garden of Glass
 academy.greenhouseglass.desc=Make Greenhouse Glass
-academy.greenhouseglass.text=When Greenhouse Glass is placed above a crop and is able to see the daytime sky, the crops will grow much faster.
+academy.greenhouseglass.text1=When Greenhouse Glass is placed above a crop and is able to see the daytime sky, the crops will grow much faster.
+academy.greenhouseglass.text2=You can place multiple Greenhouse Glass on top of each other, and the effect will stack!
 
 academy.itemrepairer.title=Virtute Reparavit
 academy.itemrepairer.desc=Make an Item Repairer
@@ -1120,7 +1141,7 @@ academy.regularaugments.text1=Augments can be installed on machines and dynamos 
 academy.regularaugments.text2=You can have multiple of an Augment to stack its effectiveness.
 academy.regularaugments.task=Regular Augments
 
-academy.specializationaugments.desc=Make a Specialization Augment.
+academy.specializationaugments.desc=Make a pecialization Augment.
 academy.specializationaugments.text1=Specialization Augments fundamentally change the function of a machine or dynamo.
 academy.specializationaugments.text2=You can only have one Specialization Augment per machine.
 academy.specializationaugments.task=Specialization Augments
@@ -1347,25 +1368,25 @@ academy.gaia2.text1=You can challenge the Guardian to a more difficult fight to 
 academy.gaia2.text2=The second fight will be much, much harder. Come prepared for a battle. It drops Loot Dice, which turn into 1 of 6 possible legendary Relics.
 
 #Twilight Forest
-academy.twilightportal.title=A World of Pure Imagination
-academy.twilightportal.desc=Enter the Twilight Forest
-academy.twilightportal.text1=The Twilight Forest is an entirely new dimension to explore.
-academy.twilightportal.text2=It has a strict progression system, so you have to defeat certain bosses before you can enter certain biomes.
-academy.twilightportal.text3=To make the portal, dig a 2x2 in Grass and fill it with Water. Make sure every Grass block has a plant on it like a flower, and then throw a Diamond in.
-academy.twilightportal.task=Enter the Twilight Forest
+academy.twilightportal.title=幻想之界
+academy.twilightportal.desc=进入暮色森林
+academy.twilightportal.text1=暮色森林是一个全新的可探索维度。
+academy.twilightportal.text2=它有着严格的进度系统，所以在你进入某些生物群系前你需要击败某些前置 boss。
+academy.twilightportal.text3=要制作传送门，挖一个 2x2 的坑，装满水。确保水池边每个草方块上都有植物，最后向水中投掷钻石。
+academy.twilightportal.task=进入暮色森林
 
-academy.magicmap.title=I'm the Map!
-academy.magicmap.desc=Make a Magic Map
-academy.magicmap.text1=The Magic Map will greatly help in navigating through the Twilight Forest.
-academy.magicmap.text2=It is very zoomed out, each biome has a unique color, and landmarks have icons so you can find them easier.
+academy.magicmap.title=我是地图！
+academy.magicmap.desc=制作魔法地图
+academy.magicmap.text1=魔法地图用于在暮色森林中导航。
+academy.magicmap.text2=它是缩小显示的，每个生物群系有独特的颜色，而重要地点则会有图标指示。
 
 academy.questingram.title=Rainbow Ram
 academy.questingram.desc=Complete the Questing Ram's quest
 academy.questingram.text1=The Questing Ram is a passive boss that spawns in Enchanted Forests.
 academy.questingram.text2=Give it one of each color of Wool and it will give you a block of every vanilla metal and gem, as well as the Crumble Horn.
 
-academy.naga.title=Ophidiophobia
-academy.naga.desc=Exterminate the Naga
+academy.naga.title=恐蛇症
+academy.naga.desc=终结娜迦
 academy.naga.text1=When you first begin, only the core biomes are unlocked.
 academy.naga.text2=You can explore all you like, but locked biomes will each have their own ways of stopping you.
 academy.naga.text3=To unlock the next biomes, find and defeat the Naga. You can find it in a Naga Courtyard in one of the forest biomes.
@@ -1374,8 +1395,7 @@ academy.naga.task=Advancement: Time To Even The Scales
 academy.lich.title=Scholarly Adventures
 academy.lich.desc=Overthrow the Lich
 academy.lich.text1=The Lich Tower is unlocked once you've defeated the Naga. It spawns in forest biomes. Climb to the top to confront the Lich.
-academy.lich.text2=You can read the Guide page by clicking the link below, which has the complete strategy to beat each boss in the mod.
-academy.lich.text3=Once you've grabbed a Scepter, the Swamp, Dark Forest, and Snowy Forest biomes will become unlocked.
+academy.lich.text2=Once you've grabbed a Scepter, the Swamp, Dark Forest, and Snowy Forest biomes will become unlocked.
 academy.lich.task=Advancement: Bring Out Your Dead
 
 academy.minoshroom.title=Theseus
@@ -1430,69 +1450,69 @@ academy.castle.text2=The mod is not done, so the Final Castle is almost complete
 
 # Astral Sorcery
 
-academy.astraltome.title=The More You Know
-academy.astraltome.desc=Make an Astral Tome
-academy.astraltome.text1=The Astral Tome is the best source of information on Astral Sorcery. It has multiple chapters that you have to zoom in to see with the scroll wheel.
-academy.astraltome.text2=At the beginning, the only chapter you can see is Discovery. The further you progress, the more chapters you will unlock.
+academy.astraltome.title=你懂得更多了
+academy.astraltome.desc=制作星芒宝典
+academy.astraltome.text1=星芒宝典是星辉魔法模组最好的信息来源。宝典分为多章，使用鼠标滚轮（或 W、S 键）缩放以查看章节。
+academy.astraltome.text2=最开始你能看见的章节只有“发现”。你的进度越深入，越多的章节也会随之解锁。
 
-academy.constellationpaper.desc=Find a Constellation Paper
-academy.constellationpaper.text1=Constellations are one of the most important parts of the mod, and can be found in Shrines. There are five you can get right now.
-academy.constellationpaper.text2=Sneak right click the Astral Tome and insert Constellation Papers into its inventory. This will create a new page in the Astral Tome that has a list of constellations, though they will be missing any important information.
+academy.constellationpaper.desc=找到星图
+academy.constellationpaper.text1=星座是此模组重要部分之一。记有星座信息的星图可在神殿中找到。你目前可获得五张星图。
+academy.constellationpaper.text2=手持星芒宝典按住潜行键右击，可打开星芒宝典的星图存储区，可以将星图放入。星图会为星芒宝典中的“星座”（第一次获取星图后开启）页面添加条目（现阶段条目可能有部分信息缺失）。
 
-academy.reswand.title=Magical Tuning Fork
-academy.reswand.desc=Make a Resonating Wand
-academy.reswand.text1=To begin Astral Sorcery, you must find an Ancient Shrine somewhere in the world. You can find them in mountainous areas; they are large marble structures with flowing water.
-academy.reswand.text2=Dig into the Ancient Shrine's basement to find a Floating Crystal. This is important later, but for now just place a Crafting Table anywhere nearby. This will allow you to craft items that require Starlight in that Crafting Table.
-academy.reswand.text3=While holding the Resonating Wand and walking around the world, floating white sparkles will mark certain areas as having Rock Crystal Ore deep underneath them.
+academy.reswand.title=魔法调谐叉
+academy.reswand.desc=制作共鸣星杖
+academy.reswand.text1=要开始游玩星辉魔法，你必须找到星辉神殿。高原生物群系可以找到神殿；它们是由大理石和流动的水组成的大型建筑。
+academy.reswand.text2=挖掘进入神殿的地下室，找到浮动水晶。现在在浮动水晶附近放下工作台，你可以临时使用这个工作台合成需要星能的物品。
+academy.reswand.text3=手持共鸣星杖，在主世界巡弋，地表浮动的白色闪光表示下方有水晶石矿石。
 
-academy.luminouscraftingtable.title=Night Shift
-academy.luminouscraftingtable.desc=Make a Luminous Crafting Table
-academy.luminouscraftingtable.text1=The Luminous Crafting Table allows you to craft with Starlight without having to be near a Floating Crystal, though it does need to be able to see the night sky directly above it.
-academy.luminouscraftingtable.text2=The amount of Starlight it has access to depends on its altitude and location.
-academy.luminouscraftingtable.text3=To craft with the Luminous Crafting Table, make sure it has enough Starlight and then right click it with a Resonating Wand.
-academy.luminouscraftingtable.text4=Once you've crafted the Luminous Crafting Table, the Exploration chapter is unlocked in the Astral Tome.
+academy.luminouscraftingtable.title=夜班
+academy.luminouscraftingtable.desc=制作星辉合成台
+academy.luminouscraftingtable.text1=星辉合成台允许你在附近没有浮动水晶的情况下利用星能合成物品。当然，是在星辉合成台能被星光直射的情况下。
+academy.luminouscraftingtable.text2=星能的大小取决于高度与位置。
+academy.luminouscraftingtable.text3=当有足够的星能时，手持共鸣星杖右击星辉合成台制作物品。
+academy.luminouscraftingtable.text4=成功制作星辉合成台后，星芒宝典的“探索”章节就会解锁。
 
-academy.sextant.title=Building Helper
-academy.sextant.desc=Make a Sextant
-academy.sextant.text1=Astral Sorcery has several multiblock structures which can be a big confusing to build. If you use a Sextant on the main part of a multiblock, it will show you where to place the blocks to complete it.
-academy.sextant.text2=Use the Sextant on air at night and look to the stars, and you might see a large coloured star. Hold sneak to unlock the mouse and hover over it, and it will change to one of the icons on the right. Drag that icon onto the star to mark it, and you will be able to see it in the night sky. Follow it to find that structure in the world.
+academy.sextant.title=建筑小帮手
+academy.sextant.desc=制作六分仪
+academy.sextant.text1=星辉魔法有几个复杂的多方块结构。对多方块结构的核心部分使用六分仪会显示缺失方块和其放置位置。
+academy.sextant.text2=夜晚对准天空使用六分仪打开 GUI 观测星星，你可能会看到颜色不为白的较大的星星。按住潜行键解锁并悬浮光标，GUI 右侧会出现三种神殿的图标，拖动正确图标到星星上以标记，此时可在夜空中看到已标记的星星。朝向星星走即可找到对应神殿。
 
-academy.lookingglass.title=Through the Looking Glass
-academy.lookingglass.desc=Make a Looking Glass
-academy.lookingglass.text1=By using the Looking Glass, you can search the night sky for any Constellations whose Papers you've found. Only one constellation is visible per night using the Looking Glass, so it may take multiple nights for the one you are searching for to appear.
-academy.lookingglass.text2=Stars that belong to constellations will be larger and fade in and out. If it is a constellation you've discovered already, hold sneak to unlock the mouse and trace lines between the stars in the pattern of the constellation.
+academy.lookingglass.title=望远镜
+academy.lookingglass.desc=制作望远镜
+academy.lookingglass.text1=使用望远镜可以在夜空寻找你已获得对应星图的星座。望远镜每个晚上只能找到一个星座，所以找到你正探寻的星座可能需要好几个晚上。
+academy.lookingglass.text2=属于某一星座的星星会较大，且伴随着闪烁。如果这个星座你已经发现，那么按住潜行键以解锁鼠标并按照星座图案在星星间连线。
 
-academy.lightwell.title=Moonlit Bath
-academy.lightwell.desc=Make a Lightwell
-academy.lightwell.text1=Lightwells are used to create Liquid Starlight, which is done by right clicking one with Aquamarine or a Rock Crystal while the Lightwell can see the night sky. More expensive ones will make more and will last longer.
-academy.lightwell.text2=You can throw a Rock Crystal into some Liquid Starlight and it will slowly increase its Size. Large Rock Crystals will increase the durability of tools made with them.
+academy.lightwell.title=月光浴
+academy.lightwell.desc=制作聚星缸
+academy.lightwell.text1=聚星缸用于生产星能液，用法是：在聚星缸受星光直射时，手持海蓝宝石或水晶石右击聚星缸放入。材料越昂贵，产出星能液越多，持续产出时间也越长。
+academy.lightwell.text2=向星能液中投入水晶石可以缓慢增加水晶石尺寸。水晶石越大，其制成的工具耐久越高。
 
-academy.fosicresonator.title=Constructive Interference
-academy.fosicresonator.desc=Make a Fosic Resonator
-academy.fosicresonator.text1=Some areas are better than others for getting Starlight, and it can be hard to find a location that works well.
-academy.fosicresonator.text2=Explore the land at night while holding a Fosic Resonator in your hand, and you can find areas that glow blue. The more intense the glow, the more Starlight can be found there.
+academy.fosicresonator.title=建设性光波干涉
+academy.fosicresonator.desc=制作法斯刻共振器
+academy.fosicresonator.text1=某些地域可以更好获取星能，而这些地域可能难以找到。
+academy.fosicresonator.text2=夜晚手持法斯刻共振器探索，你会发现某些区域泛着微弱的蓝光。蓝色越深，说明该区域星能越多。
 
-academy.spectralrelay.title=Starlight Boost
-academy.spectralrelay.desc=Make a Spectral Relay
-academy.spectralrelay.text1=If you are unable to find the perfect spot, you can use Spectral Relays to give a boost to Starlight. Build the multiblock near the the structure you want to give Starlight to and it will boost it.
-academy.spectralrelay.text2=If Spectral Relays are within 16 blocks of each other, they will lose a lot of efficiency.
+academy.spectralrelay.title=星能增强
+academy.spectralrelay.desc=制作光波增幅器
+academy.spectralrelay.text1=若不能找到绝佳的地域，你可以用光波增幅器来增强星能。在欲给予星能的结构旁搭建增幅器多方块结构以增幅星能。
+academy.spectralrelay.text2=若光波增幅器相互间隔小于 16 格，光波增幅器会损失部分增强效果。
 
-academy.illuminationpowder.title=Night Light
-academy.illuminationpowder.desc=Make Illumination Powder
-academy.illuminationpowder.text1=Illumination Powder is a great source of light. It doesn't take up a block space, it can't be touched, and it doesn't need to be supported.
-academy.illuminationpowder.text2=The only way to destroy it is to place a block on it.
+academy.illuminationpowder.title=夜明
+academy.illuminationpowder.desc=制作辉光粉
+academy.illuminationpowder.text1=辉光粉是绝佳的光源。它不占据方块位置，摸不着，也不需要支撑方块。
+academy.illuminationpowder.text2=唯一能破坏辉光粉形成的光源的方法是在同一位置放一个方块。
 
-academy.caveilluminator.desc=Make a Cave Illuminator
-academy.caveilluminator.text=The Cave Illuminator will slowly light up all dark areas beneath it in a large area.
+academy.caveilluminator.desc=制作洞穴照明器
+academy.caveilluminator.text=洞穴照明器会点亮其下方大范围内的黑暗地带。
 
-academy.nocturnalpowder.title=Black Light
-academy.nocturnalpowder.desc=Make Nocturnal Powder
-academy.nocturnalpowder.text=When Nocturnal Powder is thrown, it will create a dark cloud that spawns monsters.
+academy.nocturnalpowder.title=黑星
+academy.nocturnalpowder.desc=制作暗夜粉
+academy.nocturnalpowder.text=扔出暗夜粉可创造一片黑云，黑云中会刷出怪物。
 
-academy.grindstone.title=Quality over Quantity
-academy.grindstone.desc=Make a Grindstone
-academy.grindstone.text1=The Grindstone can be used to sharpen Swords, adding 10%% damage.
-academy.grindstone.text2=You can also use them to sharpen Rock Crystals, which will increase the damage/speed of tools crafted with them at the cost of lowering their size.
+academy.grindstone.title=质胜于量
+academy.grindstone.desc=制作砂轮
+academy.grindstone.text1=砂轮可以打磨剑刃，为其增加 10% 的伤害。
+academy.grindstone.text2=你也可以使用砂轮来打磨水晶石，以减少水晶石尺寸为代价增加水晶石工具的伤害或采掘速度。
 
 academy.starlightcraftingaltar.desc=Make a Starlight Crafting Altar
 academy.starlightcraftingaltar.text1=The Starlight Crafting Altar is the second tier of crafting tables that use Starlight. When you craft it in the Luminous Crafting Table, instead of popping out it will just convert into the Starlight Crafting Altar.
@@ -1617,264 +1637,209 @@ academy.mantleofthestars.desc=Make a Mantle of the Stars
 academy.mantleofthestars.text1=The Mantle of the Stars can be attuned to constellations to gain special abilities.
 academy.mantleofthestars.text2=The Mantle is attuned in the Iridescent Altar, not the Attunement Altar.
 
-academy.attunedreswands.title=Holly and Phoenix Feather, Eleven Inches
-academy.attunedreswands.desc=Make an Attuned Resonating Wand
-academy.attunedreswands.text=You can attuned Resonating Wands to constellations to give them special powers, like the ability to walk on air, fling yourself, and deal extra damage the more you attack a mob.
-academy.attunedreswands.task=Any Attuned Resonating Wand
+academy.attunedreswands.title=十一英寸、冬青木、凤凰羽杖芯魔杖
+academy.attunedreswands.desc=制作调谐共鸣星杖
+academy.attunedreswands.text=将共鸣星杖与星座调谐以给予星杖特殊能力，如空中行走、弹飞自己、多次攻击附加额外伤害等。
+academy.attunedreswands.task=任意调谐共鸣星杖
 
-academy.evershiftingfountain.desc=Make an Evershifting Fountain
-academy.evershiftingfountain.text1=The Evershifting Fountain is part of a multiblock structure. It doesn't do anything on its own though, it needs one of the Primes for it to have any function. Primes are placed on the bottom face of the Fountain.
-academy.evershiftingfountain.text2=Both Primes use Liquid Starlight for fuel. To power it, place a Containment Chalice on top of the Evershifting Fountain and fill it with Liquid Starlight.
+academy.evershiftingfountain.desc=制作万象泉
+academy.evershiftingfountain.text1=万象泉是万象泉多方块结构的一部分。万象泉多方块结构无法单独工作，必须有喷口配合工作。在万象泉底部放置喷口。
+academy.evershiftingfountain.text2=两种喷口都使用星能液为燃料。在万象泉顶部放置遏制圣杯并装满星能液以驱动万象泉。
 
-academy.neromantic.title=I ❤ Emperor Nero
-academy.neromantic.desc=Make a Neromantic Prime
-academy.neromantic.text1=The Neromantic Prime drills a hole about as wide as the Evershifting Fountain multiblock down all the way to Bedrock, and then begins to generate fluid. This fluid gets sent to any nearby Containment Chalices.
-academy.neromantic.text2=Different areas will have different fluids that will be generated.
+academy.neromantic.title=我 ❤ 尼禄皇帝
+academy.neromantic.desc=制作纳耳狂曼喷口
+academy.neromantic.text1=纳耳狂曼喷口会钻一个与万象泉多方块结构几乎同等大小、直通基岩层的洞，接着产出流体。产出的流体会被输入附近的遏制圣杯。
+academy.neromantic.text2=在不同区域钻探会得到不同流体产出。
 
-academy.ichosic.title=What does Ichosic Mean? Who Knows!
-academy.ichosic.desc=Make an Ichosic Resonator
-academy.ichosic.text1=The Ichosic Resonator is an upgrade to the Fosic Resonator. It can be crafted with just the Fosic Resonator or with a Domic Resonator. Sneak right click to swap between the modes.
-academy.ichosic.text2=The Ichosic Resonator will show the location of fluids that can be generated with the Neromantic Prime in the world. While in your hand at night, you will see small spurts of fluid pop up on the ground. This is where that fluid can be generated.
+academy.ichosic.title=艾克斯啥意思？谁知道呢
+academy.ichosic.desc=制作艾克斯共振器
+academy.ichosic.text1=艾克斯共振器是法斯刻共振器的升级版。可由法斯刻共振器或多米刻共振器合成得到。按住潜行键右击可切换模式。
+academy.ichosic.text2=艾克斯共振器会在地面显示可被纳耳狂曼喷口吸取的流体的所在位置。夜间手持艾克斯共振器，你会在地面看到喷涌而出的流体小水花。这就是可被吸取的流体的位置。
 
-academy.fysallidic.title=Weird Names Make it Easier to Look Up
-academy.fysallidic.desc=Make a Fysallidic Prime
-academy.fysallidic.text=The Fysallidic Prime will suck up all mobs beneath it in a wide horizontal radius, and then freeze them floating in the air slightly below itself.
+academy.fysallidic.title=怪名字更容易记住
+academy.fysallidic.desc=制作费萨利德喷口
+academy.fysallidic.text=费萨利德喷口会吸起其下方水平面大范围内的生物，并使它们悬浮在其下方。
 
 #Miscellaneous
 
-academy.instrumentalmobs.title=Let's Make a Band
-academy.instrumentalmobs.desc=Get any instrument from Instrumental Mobs
-academy.instrumentalmobs.text=Instrumental Mobs adds versions of most vanilla monsters, but instead of killing you they play you music! Their instruments will push you back, but won't damage you. Killing them will have a small chance of dropping their instruments.
-academy.instrumentalmobs.task=Anything from Instrumental Mobs
+academy.instrumentalmobs.title=一起乐队吧
+academy.instrumentalmobs.desc=从乐器怪物获得乐器。
+academy.instrumentalmobs.text=乐器怪物（Instrumental Mobs）模组添加了原版怪物的乐器版本，这些怪物演奏时可以把你击退（不会对你造成伤害），击杀它们有小几率掉落乐器。
+academy.instrumentalmobs.task=任意乐器怪物掉落物
 
-academy.claimexplosions.title=Fizz Goes the Dynamite
-academy.claimexplosions.desc=Get a Creeper to explode in your claimed chunks
-academy.claimexplosions.text1=While in claimed chunks, explosions from Creepers will be completely disabled. They can still deal damage to you, but they won't break any blocks.
-academy.claimexplosions.text2=This also prevents the Wither from damaging blocks with its explosions, but it does not stop it from breaking blocks around itself when taking damage.
+academy.elevator.title=上楼
+academy.elevator.desc=制作电梯
+academy.elevator.text=在电梯上按空格键会传送至上层电梯，同样，按潜行键会传送至下层电梯。这个过程与电梯颜色无关。
+academy.elevator.task=任意电梯
 
-academy.elevator.title=Going Up
-academy.elevator.desc=Make an Elevator
-academy.elevator.text=If you jump on an Elevator you will teleport to the Elevator above it. Likewise, if you sneak on an Elevator you will teleport to the one below it. Color does not matter.
-academy.elevator.task=Any Elevator
+academy.exchanging.title=彼此交换
+academy.exchanging.desc=制作更替小帮手
+academy.exchanging.text=更替小帮手采用与建筑小帮手类似得样式替换方块。按住潜行键右击你想替换的方块，设置模式和范围后，右击替换。
 
-academy.exchanging.title=This to That
-academy.exchanging.desc=Make an Exchanging Gadget
-academy.exchanging.text=The Exchanging Gadget replaces blocks in patterns similar to the Building Gadget. Sneak right click on the block you want to replace to, set the mode and range, and then right click to replace.
+academy.destructiongadget.title=毁灭于前，创造于后
+academy.destructiongadget.desc=制作破坏小帮手
+academy.destructiongadget.text=破坏小帮手可以一次破坏大量方块。破坏掉的方块不会成为掉落物，它们永远消失了（你可以默认按 U 撤销操作）。
 
-academy.destructiongadget.title=Before Creation Comes Destruction
-academy.destructiongadget.desc=Make a Destruction Gadget
-academy.destructiongadget.text=The Destruction Gadget allows you to destroy a massive amount of blocks at once. Blocks destroyed are not dropped, they are gone forever (though you can undo with U by default).
+academy.copypaste.title=外包建筑
+academy.copypaste.desc=制作复制-粘贴小帮手
+academy.copypaste.text=复制-粘贴小帮手可以复制一片区域，粘贴至其他地方，这个过程无需破坏原建筑。你也可以放置其他人在网上制作的结构！
 
-academy.copypaste.title=Outsourcing
-academy.copypaste.desc=Make a Copy-Paste Gadget
-academy.copypaste.text=The Copy-Paste Gadget will allow you to copy an area and place it somewhere else, without destroying the original. You can also place structures other people have made online!
+academy.buildinggadget.title=建造真简单！
+academy.buildinggadget.desc=制作建筑小帮手
+academy.buildinggadget.text=建筑小帮手可以快速建造简单结构，如墙、楼梯。
 
-academy.buildinggadget.title=9x9s Made Easy
-academy.buildinggadget.desc=Make a Building Gadget
-academy.buildinggadget.text=The Bulding Gadget allows you to quickly build simple structures like walls and stairs.
+academy.wateringcan.title=无水不欢
+academy.wateringcan.desc=制作洒水壶
+academy.wateringcan.text1=洒水壶可以加速一片区域内作物生长，这个过程消耗水。按住潜行键右击水源方块装水。
+academy.wateringcan.text2=水壶越高级，装水越多，作用范围越大，促进生长几率越大。
 
-academy.wateringcan.title=Not Watering Can't
-academy.wateringcan.desc=Make a Watering Can
-academy.wateringcan.text1=Watering Cans speed up plant growth in an area when used, which takes Water. You can fill the Watering Can up by sneak right clicking on a Water source block.
-academy.wateringcan.text2=Higher tier Watering Cans can store more water, have a higher maximum area, and have a higher chance of growing plants.
+academy.slimechannel.title=明胶状
+academy.slimechannel.desc=制作史莱姆（凝血）通道
+academy.slimechannel.text1=史莱姆（凝血）通道会把实体（包括物品和生物）往其流动方向（包括沿墙壁移动和爬墙壁）推动。
+academy.slimechannel.text2=它们不会阻止怪物生成，所以非常适合刷怪塔。
+academy.slimechannel.task=任意史莱姆（凝血）通道
 
-academy.slimechannel.title=Gelatinous
-academy.slimechannel.desc=Make a Slime Channel
-academy.slimechannel.text1=Slime Channels will push all entities (items and mobs) in the direction they are facing, including up and along walls.
-academy.slimechannel.text2=They don't block mobs from spawning, so they work great in mob grinders.
-academy.slimechannel.task=Any Slime Channel
+academy.craftingtableonastick.title=工作台 + 木棍 = ？
+academy.craftingtableonastick.desc=制作手持工作台
+academy.craftingtableonastick.text=手持工作台具有便携性。右击打开 3x3 合成界面。
 
-academy.craftingtableonastick.title=Crafting Table + Stick = ?
-academy.craftingtableonastick.desc=Make a Crafting Table on a Stick
-academy.craftingtableonastick.text=The Crafting Table on a Stick is exactly what it sounds like. Right click it to open a 3x3 crafting menu.
+academy.tinytorch.title=生命之光
+academy.tinytorch.desc=制作微型火把
+academy.tinytorch.text=微型火把比普通火把便宜，但光照强度只有 12，原版火把则有 14。
 
-academy.tinytorch.title=Light of my Life
-academy.tinytorch.desc=Make a Tiny Torch
-academy.tinytorch.text=The Tiny Torch is a cheaper alternative to the regular Torch. However, it only has a light level of 12 compared to the Torch's 14.
+academy.foodxl.title=变化是生活的调味料
+academy.foodxl.desc=获得一些“XL 食物模组”的食物
+academy.foodxl.text=“XL 食物模组”添加了大量食物。从芝士汉堡到意大利面！
+academy.foodxl.task=任意“XL 食物模组”的食物
 
-academy.foodxl.title=Variety is the Spice of Life
-academy.foodxl.desc=Get something from XL Food Mod
-academy.foodxl.text=XL Food Mod adds a huge variety of food items. Everything from Cheeseburgers to Spaghetti!
-academy.foodxl.task=Anything from XL Food Mod
+academy.mobgrindingutils.title=轻松刷怪
+academy.mobgrindingutils.desc=制作怪物捣碎器和风扇
+academy.mobgrindingutils.text1=刷怪塔实用设备（Mob Grinding Utils）添加了一系列实用方块，让刷怪变得简单。
+academy.mobgrindingutils.text2=当给予红石信号时，风扇会把怪物吹向风扇正对的方向。风扇可通过升级增加作用范围。
+academy.mobgrindingutils.text3=当给予红石信号时，怪物捣碎器会对任何其接触到的生物造成伤害。怪物捣碎器可通过升级增加伤害、增加抢夺效果。
+academy.mobgrindingutils.reward1=抢夺
+academy.mobgrindingutils.reward2=锋利
 
-academy.mobgrindingutils.title=Mobs Made Easy
-academy.mobgrindingutils.desc=Make a Mob Masher and Fan
-academy.mobgrindingutils.text1=Mob Grinding Utils adds a lot of special utility blocks that allow you to easily farm mobs.
-academy.mobgrindingutils.text2=Fans will blow mobs in the direction they're facing when given a Redstone signal, and they can be given upgrades to increase their working area.
-academy.mobgrindingutils.text3=The Mob Masher will damage any mobs that touch it when given a Redstone signal. You can give it upgrades to make it deal more damage and give it Looting.
-academy.mobgrindingutils.reward1=Looting
-academy.mobgrindingutils.reward2=Sharpness
+academy.solidifiedxp.title=名副其实
+academy.solidifiedxp.desc=获得固态经验
+academy.solidifiedxp.text1=击杀怪物时有几率掉落固态经验。固态经验本质上是物品形式的经验球。右击使用获得经验。
+academy.solidifiedxp.text2=按住潜行键右击一次使用一组。
 
-academy.solidifiedxp.title=Exactly What it Says
-academy.solidifiedxp.desc=Get some Solidified Experience
-academy.solidifiedxp.text1=Solidified Experience has a chance of dropping when mobs are killed. They are essentially experience orbs in item form. Use them to gain experience.
-academy.solidifiedxp.text2=Use them while sneaking to use the whole stack at once.
+academy.xpsolidifier.title=日后使用
+academy.xpsolidifier.desc=制作经验固化器
+academy.xpsolidifier.text1=经验固化器让你可以将经验转化为固态经验，以物品形式存储。
+academy.xpsolidifier.text2=它也可以将 5 格范围内经验球吸收并转化为固态经验。
 
-academy.xpsolidifier.title=Saving for Later
-academy.xpsolidifier.desc=Make an Experience Solidifier
-academy.xpsolidifier.text1=The Experience Solidifier allows you to turn your xp into Soldified Experience so you can store it as an item.
-academy.xpsolidifier.text2=It will also collect any experience orbs on the ground within 5 blocks of itself and convert those into Solidified Experience as well.
+academy.atmagnet.title=磁力
+academy.atmagnet.desc=制作磁力指环
+academy.atmagnet.text1=处于激活状态时，磁力指环消耗 RF 收集附近掉落物。
+academy.atmagnet.text2=按住潜行键右击开关指环。
 
-academy.atmagnet.title=Animal Magnetism
-academy.atmagnet.desc=Make a Ring Of Magnetism
-academy.atmagnet.text1=While on, the Ring of Magnetism uses RF to collect items around you.
-academy.atmagnet.text2=You can toggle it on and off by sneak right clicking it.
-
-academy.atgrowth.title=Green Thumb
-academy.atgrowth.desc=Make a Ring Of Growth
-academy.atgrowth.text=While on, the Ring of Growth uses RF to make nearby crops grow faster.
+academy.atgrowth.title=园艺好手
+academy.atgrowth.desc=制作生长指环
+academy.atgrowth.text=处于激活状态时，生长指环消耗 RF 催熟附近作物。
 
 # Tutorials
 
-academy.tutorial.jei.title=Tutorial: Just Enough Items
-academy.tutorial.jei.1=Your Inventory
-academy.tutorial.jei.2=Mods add a lot of new blocks and items to the game, so remembering how to craft them all can be hard. That's where the mod "Just Enough Items" comes in.
-academy.tutorial.jei.3=JEI is the mod that adds the list of items on the right side of the inventory.
-academy.tutorial.jei.4=Item Searching
-academy.tutorial.jei.5=You can filter the item list by typing the name of the item into the search bar.
-academy.tutorial.jei.6=Tooltip information
-academy.tutorial.jei.7=Hovering over an item will show the item's name as well as what mod it's from.
-academy.tutorial.jei.8=Recipes
-academy.tutorial.jei.9=Click on an item (or hover over it and hit R) to see how to make it.
-academy.tutorial.jei.10=You can also right click the item (or hover over it and hit U) to see what recipes use that item.
-academy.tutorial.jei.11=These are all the blocks and items that you can use to craft the item using these recipes.
-academy.tutorial.jei.29=Some items have information tabs where you can read how that item works.
-academy.tutorial.jei.12=The Ore Dictonary
-academy.tutorial.jei.13=Certain recipes can accept a type of item, rather than a single specific item. This is called the Ore Dictionary.
-academy.tutorial.jei.14=You can hover over an item in a recipe to see what type of item can be used instead of the specific one shown.
-academy.tutorial.jei.15=These are all the blocks and items that you can use to craft the item using these recipes.
-academy.tutorial.jei.16=Processing recipes
-academy.tutorial.jei.17=JEI is not limited to showing only crafting recipes, you can also see what you get from smelting, drops from animals, the location of ores, and much more!
-academy.tutorial.jei.18=These are all the different machines that can craft the item in any way.
-academy.tutorial.jei.19=Recipe filling
-academy.tutorial.jei.20=If you have all the items you need to craft an item, you can hit the + button to automatically move them to the proper slots in the crafting grid.
-academy.tutorial.jei.21=Recipe filling
-academy.tutorial.jei.22=If you are in a Crafting Table's GUI, it will also work with 3x3 crafting recipes.
-academy.tutorial.jei.23=Bookmarks
-academy.tutorial.jei.24=You can hover over an item and hit A to bookmark it, pinning it to the left of the inventory until you unpin it by hitting A on it again.
-academy.tutorial.jei.25=You can click the button at the bottom left to hide the bookmarks.
+academy.tutorial.jei.title=Just Enough Items
+academy.tutorial.jei.1=你的物品栏
+academy.tutorial.jei.2=模组向游戏添加了一堆新方块和新物品，记住它们的合成表绝非易事。这就是 Just Enough Items 模组被加入模组包的原因。
+academy.tutorial.jei.3=JEI 模组在物品栏右侧添加了物品列表。
+academy.tutorial.jei.4=搜索物品
+academy.tutorial.jei.5=通过在搜索框中输入物品名称，你可以过滤列表。
+academy.tutorial.jei.6=提示信息
+academy.tutorial.jei.7=鼠标悬浮在物品上可查看物品的名称以及来源模组。
+academy.tutorial.jei.8=合成表
+academy.tutorial.jei.9=左键点击一个物品（或将鼠标悬浮于该物品上按 R）查看合成表。
+academy.tutorial.jei.10=右键点击一个物品（或将鼠标悬浮于该物品上按 U）查看什么合成需要该物品。
+academy.tutorial.jei.28=可在“控制”菜单更改键位。
+academy.tutorial.jei.11=这是你用这个合成制作这个物品可以使用的全部材料。
+academy.tutorial.jei.29=有些物品附有标签告诉你物品用法。
+academy.tutorial.jei.12=矿物词典
+academy.tutorial.jei.13=某些合成表不限于单种物品，而是接受一类物品。这种做法的原理是矿物词典。
+academy.tutorial.jei.14=在合成表中悬浮鼠标于一个物品上查看该处接受的所有物品。
+academy.tutorial.jei.15=这是你用这个合成制作这个物品可以使用的全部材料。
+academy.tutorial.jei.16=处理配方
+academy.tutorial.jei.17=JEI 不局限于显示合成表，你也可以查看熔炼配方，掉落，矿石生成分布等等！
+academy.tutorial.jei.18=这些是制作这个物品可用使用的不同方法和不同机器。These are all the different machines that can craft the item in any way.
+academy.tutorial.jei.19=合成自动填充
+academy.tutorial.jei.20=如果你身上备齐了合成所需物品，点击合成表下 “+” 按钮自动填充物品至对应合成槽位。
+academy.tutorial.jei.21=合成自动填充
+academy.tutorial.jei.22=合成自动填充对 3x3 配方也生效，只是你需要在工作台 GUI 中完成这一过程。
+academy.tutorial.jei.23=书签
+academy.tutorial.jei.24=鼠标悬浮在物品上按 A 添加书签并将物品固定在物品栏左侧，在物品栏左侧列表中重复与添加书签相同的操作可取消书签。
+academy.tutorial.jei.25=按左下按钮隐藏书签列表。
+academy.tutorial.jei.26=物品栏搜索
+academy.tutorial.jei.27=双击搜索框高亮显示物品栏中已有的该物品。
 
 
-academy.tutorial.quests.title=Tutorial: Quests
-academy.tutorial.quests.1=Opening the quest menu
-academy.tutorial.quests.2=This modpack has lots of quests to help teach you how to play.
-academy.tutorial.quests.3=To open them, click the button in the top left of the inventory or use the Quest Book item.
-academy.tutorial.quests.4=Quest Book item
-academy.tutorial.quests.5=Quest button
-academy.tutorial.quests.6=The quest menu
-academy.tutorial.quests.7=Left click on a quest to open it.
-academy.tutorial.quests.8=Most quests are invisible until they are unlocked. Dark grey quests are locked even if they're visible.
-academy.tutorial.quests.9=Quest information
-academy.tutorial.quests.14=Tasks
-academy.tutorial.quests.15=You have to finish every Task for a quest to complete.
-academy.tutorial.quests.16=Hover over the Task to see what you have to do.
-academy.tutorial.quests.17=Some quests may have rewards after the quest is completed that you can claim by clicking.
-academy.tutorial.quests.18=Quest progression
-academy.tutorial.quests.19=When a quest is completed, the next quest will unlock.
-academy.tutorial.quests.20=Chapters
-academy.tutorial.quests.21=Once you've completed the school, several more chapters will be unlocked.
-academy.tutorial.quests.22=You can open them by clicking on them from the chapter list on the left of the quest menu.
-academy.tutorial.quests.23=Subchapters
-academy.tutorial.quests.24=Some chapters may have subchapters, which you can open by hovering over the main chapter and then clicking the subchapter from the dropdown.
-academy.tutorial.quests.25=Not all chapters have subchapters.
+academy.tutorial.quests.title=任务（Quests）系统
+academy.tutorial.quests.1=打开任务选单
+academy.tutorial.quests.2=这个模组包的所有任务的目的都是指导你游玩。
+academy.tutorial.quests.3=要打开任务，可以点击物品栏左上角任务按钮或使用任务书。
+academy.tutorial.quests.4=任务书
+academy.tutorial.quests.5=任务按钮
+academy.tutorial.quests.6=任务菜单
+academy.tutorial.quests.7=大多数任务在解锁前都是隐藏的。
+academy.tutorial.quests.8=左击一个任务以查看。
+academy.tutorial.quests.9=任务信息
+academy.tutorial.quests.10=将鼠标悬浮在任务上可查看其名称和简短描述。
+academy.tutorial.quests.11=任务文本
+academy.tutorial.quests.12=任务展开时你可以阅读任务文本获取更多信息。
+academy.tutorial.quests.13=一些任务不止有任务目标，还添加了指向解释事物运行原理的指导页面的链接。
+academy.tutorial.quests.14=任务目标
+academy.tutorial.quests.15=完成所有任务目标，任务才会完成。
+academy.tutorial.quests.16=鼠标悬浮在任务目标上查看你需要做的事。
+academy.tutorial.quests.17=一些任务完成后，会有任务奖励，点击它们来领取奖励。
+academy.tutorial.quests.18=任务进度
+academy.tutorial.quests.19=一个任务完成时，下一个任务会解锁，会有一根线连接这两个任务指示前置任务关系。
+academy.tutorial.quests.20=章节
+academy.tutorial.quests.21=你从学校毕业后，好几个章节就会解锁。
+academy.tutorial.quests.22=你可以在任务菜单左边的任务章节列表选择章节打开。
+academy.tutorial.quests.23=子章节
+academy.tutorial.quests.24=一些章节有子章节，你可以悬浮鼠标在主章节上在弹出的下拉菜单中选择子章节。
+academy.tutorial.quests.25=只有部分章节有子章节。
+academy.tutorial.quests.26=固定任务
+academy.tutorial.quests.27=你可以在游玩时将任务固定在屏幕边缘。
+academy.tutorial.quests.28=你可以点击这个按钮来固定所有可固定的任务。
+academy.tutorial.quests.29=被固定的任务会出现在屏幕边缘，其目标与进度会一起显示。
 
-academy.tutorial.school.title=Tutorial: School
-academy.tutorial.school.1=Resetting the School
-academy.tutorial.school.2=In case you get stuck somehow, you can use the Reset School button to generate a new school and restart the quests.
-academy.tutorial.school.3=Skipping the School
-academy.tutorial.school.4=If you don't want to sit through the tutorial, you can click the Quit School button to go straight to the Overworld and begin playing normally.
+academy.tutorial.school.title=学校
+academy.tutorial.school.1=重置学校
+academy.tutorial.school.2=万一你被卡住了，你可以按下重置学校按钮重新生成学校并重置任务。
+academy.tutorial.school.3=跳过学校
+academy.tutorial.school.4=如果你不想老老实实跟着指导走，你可以点击退出学校按钮直接前往主世界正常游玩。
 
-academy.tutorial.top.title=Tutorial: The One Probe
-academy.tutorial.top.1=Blocks
-academy.tutorial.top.2=The mod "The One Probe" adds the blue box at the top of the screen.
-academy.tutorial.top.3=It will show details about the block you are looking at, such as its name, what mod it's from, and what kind of tool you need to break it.
-academy.tutorial.top.4=Viewing inventories
-academy.tutorial.top.5=You can hold sneak to see extra information about the block, such as the contents of inventories.
-academy.tutorial.top.6=Tanks
-academy.tutorial.top.7=Sneaking will also allow you to see the amount of fluid in a container, as well as the maximum amount.
-academy.tutorial.top.8=Generators
-academy.tutorial.top.9=Generators and machines will show the amount of RF currently inside them.
-academy.tutorial.top.10=Machines
-academy.tutorial.top.11=Some blocks like Furnaces and certain machines will also show you how close they are to being done with what they're doing.
+academy.tutorial.top.title=探测器（The One Probe）
+academy.tutorial.top.1=方块
+academy.tutorial.top.2=探测器模组在屏幕顶部添加了蓝色方格。
+academy.tutorial.top.3=蓝色方格中有你正指向的方块的信息，如其名称、其所属模组以及破坏该方块所需的工具。
+academy.tutorial.top.4=存储
+academy.tutorial.top.5=按住潜行键可查看方块的详细信息，如存储设备的物品栏内的物品。
+academy.tutorial.top.6=流体
+academy.tutorial.top.7=按住潜行键可查看流体容器内流体存量，以及容器最大容量。
+academy.tutorial.top.8=能量
+academy.tutorial.top.9=对于发电机和用电器，探测器会显示其内部 RF 存量。
+academy.tutorial.top.10=工作进度
+academy.tutorial.top.11=对于某些方块，如熔炉、一些机器，探测器模组会在蓝色方格显示方块当前工作进度。
 
-academy.tutorial.journeymap.title=Tutorial: JourneyMap
-academy.tutorial.journeymap.1=The Minimap
-academy.tutorial.journeymap.2=The mod "JourneyMap" adds a minimap to the top right of the menu.
-academy.tutorial.journeymap.3=Beneath it, you can see your current coordinates and the biome you are in.
-academy.tutorial.journeymap.4=Waypoints
-academy.tutorial.journeymap.5=You can hit the Create Waypoint button (B by default) to open the New Waypoint menu.
-academy.tutorial.journeymap.6=Here, you can choose its name, location (it defaults to where you are now), and color, as well as what dimensions it will show in.
-academy.tutorial.journeymap.7=Because Nether dimensions are Overworld dimensions divided by 8, waypoints that are in both will automatically adjust. That means you can place a Waypoint in one location and build a portal in the other, and they will link up!
-academy.tutorial.journeymap.8=Waypoints will show in the world as beacon beams. If you look directly at them, you can see their name and how far away they are.
-academy.tutorial.journeymap.9=If you get close to them, they will fade away.
-academy.tutorial.journeymap.10=Fullscreen Map
-academy.tutorial.journeymap.11=You can hit the Fullscreen Map button (J by default) to open the fullscreen map.
-academy.tutorial.journeymap.12=Here you can see everywhere in the world you've ever been. You can also see all waypoints you've placed, as well as any nearby mobs and players.
-academy.tutorial.journeymap.13=With the buttons at the top, you can change the way the map looks, as well as toggle visibility of certain things.
-academy.tutorial.journeymap.14=With the buttons at the bottom, you can see the waypoints menu, change the mod settings, and other similar things.
-academy.tutorial.journeymap.15=In single-player, you can use the Auto-Map button to fill the map in places you haven't been.
-academy.tutorial.journeymap.16=Cave Mapping
-academy.tutorial.journeymap.17=JourneyMap will also map out caves that you explore.
-academy.tutorial.journeymap.18=Each 15 vertical blocks has its own layer for mapping. You can move between them with the Cave Layers button at the top.
-academy.tutorial.journeymap.19=Cave Layers button
-
-
-# Overlays
-
-academy.overlay.welcome.title=Welcome to FTB Academy!
-academy.overlay.welcome.1=Right-click Quest Book in your inventory to begin school!
-
-academy.overlay.storage.title=Storage
-academy.overlay.storage.1=Go to the Storage Area
-academy.overlay.storage.2=Open the different storage blocks
-academy.overlay.storage.3=Take the Wood to Iron Chest Upgrade out of the Chest
-academy.overlay.storage.4=Upgrade the Chest by right clicking the Upgrade on it
-academy.overlay.storage.5=Punch the Cobblestone Storage Drawer to take some out
-academy.overlay.storage.6=Punch the Wood Storage Drawer to take some out
-academy.overlay.storage.7=Right click the Iron Nugget in the bottom right slot of the Compacting Drawer, then punch the top slot to take out an Iron Block
-academy.overlay.storage.8=Open the Disk Drive and insert a Storage Disk
-academy.overlay.storage.9=Open the Grid and take out the Bucket
-academy.overlay.storage.10=Take the Bucket from the Grid
-academy.overlay.storage.11=Right click the Bucket on the full Tank to take out some Water
-academy.overlay.storage.12=Move the Water to the empty Tank by right clicking the Water Bucket on it
-
-academy.overlay.tech.title=Technology and Automation
-academy.overlay.tech.1=Go to the Technology & Automation Area
-academy.overlay.tech.2=Open the Chest on the left and take out one of each ore and one Dirt
-academy.overlay.tech.3=Set the right Filter to a whitelist by clicking the triangle button on the left, then put the ores into the slots at the top
-academy.overlay.tech.4=Set the middle Filter Place by placing Dirt in the one of the slots at the top
-academy.overlay.tech.5=Set the left filter to a blacklist by clicking the triangle button on the left, then put the ores and Dirt into the slots at the top
-academy.overlay.tech.6=Flip the lever
-academy.overlay.tech.7=Right click the top tank with the Crescent Hammer
-academy.overlay.tech.8=Right click the Servo below the tank, click the Redstone button in the top right corner, change Redstone Control to Ignored
-academy.overlay.tech.9=Place the Coal Generator on the Iron block
-academy.overlay.tech.10=Insert Coal into the generator
-academy.overlay.tech.11=Place the Leadstone Fluxduct on the Magenta Wool
-academy.overlay.tech.12=Place the Redstone Furnace on the Lapis Lazuli Block
-academy.overlay.tech.13=Take 4 Iron Ore from the Ore Chest and smelt them in the Redstone Furnace
-
-academy.overlay.as.title=Astral Sorcery
-academy.overlay.as.1=Go to the Astral Sorcery Area
-academy.overlay.as.2=Take items out of the chest
-academy.overlay.as.3=Place the Crafting Table on the White Wool
-academy.overlay.as.4=Craft a Resonating Wand (See JEI for the recipe)
-academy.overlay.as.5=Craft a Luminous Crafting Table (See JEI for the recipe)
-academy.overlay.as.6=Place the Luminous Crafting Table on the Chiseled Quartz Block
-academy.overlay.as.7=Craft some Illumination Powder (See JEI for the recipe)
-academy.overlay.as.8=Right click the Luminous Crafting Table with the Resonating Wand to start the crafting process
-
-academy.overlay.botania.title=Botania
-academy.overlay.botania.1=Go to the Botania Area
-academy.overlay.botania.2=Take items out of the chest
-academy.overlay.botania.3=Craft the Flowers into Petals (See JEI for the recipe)
-academy.overlay.botania.4=Fill the Petal Apothecary with the Water Bucket
-academy.overlay.botania.5=Drop 1 Grey, 1 Red, 2 Brown Petals in the Petal Apothecary, and then drop in Seeds to craft an Endoflame
-academy.overlay.botania.5_5=If you throw the wrong Petals in, you can right click with an empty hand while sneaking to remove them
-academy.overlay.botania.6=Place the Endoflame on the lightest Grass block
-academy.overlay.botania.7=Drop Coal on the ground near the Endoflame
-academy.overlay.botania.8=Sneak right click the Mana Spreader with the Wand of the Forest
-academy.overlay.botania.8.5=Sneak right click the Mana Pool with the Wand of the Forest to bind the Spreader to it
-academy.overlay.botania.9=Craft Manasteel Ingots by dropping Iron Ingot in the Mana Pool
-academy.overlay.botania.10=Craft an Elementium Ingot by dropping 2 Manasteel Ingot in the Elven Portal
-
-tile.manaFlame.name=Mana Flash
+academy.tutorial.journeymap.title=旅行地图（JourneyMap）
+academy.tutorial.journeymap.1=小地图
+academy.tutorial.journeymap.2=旅行地图模组在界面右上角添加了一个小地图。
+academy.tutorial.journeymap.3=小地图下方显示了当前坐标与生物群系。
+academy.tutorial.journeymap.4=路径点
+academy.tutorial.journeymap.5=你可以按下“创建路径点”按钮来打开新路径点菜单（默认为 B 键）。
+academy.tutorial.journeymap.6=你可以设定名字，位置（默认当前坐标位置），颜色以及所在维度。
+academy.tutorial.journeymap.7=因下界的坐标与主世界坐标比呈 1:8，两边的路径点坐标都会自动调整。也就是说如果你在某个位置上创建了路径点并在另一个维度的对应位置搭建传送门，则路径点所在维度的传送门会与路径点重合！
+academy.tutorial.journeymap.8=路径点会以信标光束的形式显示。如果你用准星指向路径点，你将看到其名称以及距离。
+academy.tutorial.journeymap.9=若走近路径点，路径点光束会消失。
+academy.tutorial.journeymap.10=全屏地图
+academy.tutorial.journeymap.11=你可以按全屏地图键（默认为 J 键）来打开全屏地图。
+academy.tutorial.journeymap.12=你可以在全屏地图中看到你去过的地方。你也可以看到你创建的所有路径点、附件的生物以及附近的玩家。
+academy.tutorial.journeymap.13=你可以改变地图样式——只需按下顶部的按钮。此外，顶部的按钮还具有改变某些物体的可见性的功能。
+academy.tutorial.journeymap.14=底部按钮可以查看路径点、改变模组设置以及其他类似的功能。
+academy.tutorial.journeymap.15=单人游戏时，可按下自动绘制地图按钮来自动画出你未探索的地区的地图。 
+academy.tutorial.journeymap.16=洞穴地图
+academy.tutorial.journeymap.17=旅行地图模组会画出你探索的洞穴的地图。
+academy.tutorial.journeymap.18=地图的每一层覆盖竖直方向 15 个方块。你可以通过顶部的洞穴图层按钮来切换显示图层。
+academy.tutorial.journeymap.19=洞穴图层按钮
