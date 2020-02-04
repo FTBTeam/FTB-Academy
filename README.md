@@ -1,6 +1,9 @@
-Fork for ru_ru translation for FTB Academy mod pack
+Fork for ru_ru translation for FTB Academy mod pack. Other languages are welcome also.
 
-Other languages are welcome also.
+Translation happens here: https://crowdin.com/project/ftba
+
+.lang files are not synced automatically from GitHub to Crowdin.  
+
 
 To translate the quests, make a new lang file in the format of your language (Spanish would be `es_es.lang`, for instance), copy the contents of en_us.lang, and translate it to language. Lang files are in `/resources/assets/lang/`
 
