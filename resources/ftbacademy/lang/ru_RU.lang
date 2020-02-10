@@ -1037,8 +1037,8 @@ academy.empowerer.text2=Разместите Empowerer в центре, а Вы�
 
 academy.verticaldigger.title=Одинокий золотоискатель
 academy.verticaldigger.desc=Сделайте Вертикальный Землекоп
-academy.verticaldigger.text1=The Vertical Digger uses RF to mine blocks in the world. You can set it to dig only ores or dig every block.
-academy.verticaldigger.text2=By default, it digs a square hole 5 wide down all the way to Bedrock. You can place up to 3 Phantom Boosters on top of it, which increases its range to 33x33.
+academy.verticaldigger.text1=Вертикальный Землекоп использует RF для добычи блоков. Вы можете настроить его на добычу только руды, или же любых блоков.
+academy.verticaldigger.text2=По умолчанию он копает квадрат 5х5 до самого Бедрока. Вы можете разместить на нём до 3 Призрачных Ускорителей, что увеличит площадь добычи до 33х33.
 
 academy.powerfiller.title=Наполнен энергией
 academy.powerfiller.desc=Создать машину, которая может заряжать RF в предметы
@@ -1054,7 +1054,7 @@ academy.inventorybatteries.text2=Флаксовые Конденсаторы и�
 academy.inventorybatteries.text3=Флаксовые конденсаторы из Draconic Evolution наиболее сложны в производстве. И обладают максимальным зарядом. Первый уровень хранит 64.000.000 RF, а максимальный - 256.000.000 RF. Также может быть улучшен до 640.000.000 RF.
 academy.inventorybatteries.task=Сделайте любой из этих предметов
 
-academy.leadstonejetpack.title=Like an Eagle, Piloting a Blimp
+academy.leadstonejetpack.title=Как орёл. На воздушном шаре.
 academy.leadstonejetpack.desc=Make a Leadstone Jetpack
 academy.leadstonejetpack.text1=Ты знаешь, что лучше, чем ходить? Летать\!
 academy.leadstonejetpack.text2=Jetpacks are worn as a chestplate, allowing you to fly by holding space. The Leadstone Jetpack is the first and worst tier.
@@ -1095,20 +1095,20 @@ academy.itemrepairer.text=The Item Repairer uses RF to repair slowly repair item
 
 academy.spawnerchanger.title=Коробка с монстром
 academy.spawnerchanger.desc=Сделайте Переключатель Спавнера
-academy.spawnerchanger.text1=Right click a mob with the Spawner Changer to set it to that mob, killing it. Then right click the Spawner Changer on a Mob Spawner, and it will change to spawn that mob.
-academy.spawnerchanger.text2=You can use this to set the type of mob to spawn before turning it into a Draconc Evolution Stabilized Spawner so you don't have to rely on Mob Souls.
+academy.spawnerchanger.text1=Используйте Переключатель Спавнера на монстре, чтобы забрать его в Переключатель. Затем используйте Переключатель на Рассаднике монстров, чтобы изменить тип монстра, который появляется из Рассадника.
+academy.spawnerchanger.text2=Вы можете проделать это до того, как превратите Рассадник в Стабилизированный Спаунер из Draconic Evolution. Таким образом, вам не надо будет добывать Душу Монстра.
 
 academy.playerinterface.desc=Сделайте Интерфейс Игрока
 academy.playerinterface.text1=Интерфейс игрока представляет ваш инвентарь в виде блока. Вы можете вставлять или доставать предметы с помощью труб. Если вы подадите RF на него - будут заряжать предметы в вашем инвентаре.
 academy.playerinterface.text2=Радиус его действия по умолчанию - 32 блока. Его можно увеличить до 256 блоков, если поместить 3 Фантомных лица на этот блок.
-academy.playerinterface.reward=IOU\: 1 Phantom Booster
+academy.playerinterface.reward=Торчу\: 1 Призрачный Ускоритель
 
 academy.aaenergylaser2.desc=Сделайте Энергосберегающее Лазерное Реле
 academy.aaenergylaser2.text1=Энергосберегающее Лазерное Реле осуществляет беспроводную передачу до 10.000 RF в тик.
-academy.aaenergylaser2.text2=If you have an Energy Laser Relay of a lower tier between two higher tiers, the lowest speed will be used.
+academy.aaenergylaser2.text2=Если между лазерными реле высокого уровня будет установлено реле низкого уровня, то скорость передачи будет ограничена самым слабым реле.
 
 academy.aaenergylaser3.desc=Сделайте Экстремальная Энергия Лазерного Реле
-academy.aaenergylaser3.text=Extreme Energy Laser Relays can wirelessly transfer up to 100,000
+academy.aaenergylaser3.text=Экстремальная Энергия Лазерного Реле осуществляет беспроводную передачу до 100.000 RF в тик.
 
 academy.canola4.title=Усиленное масло, последний уровень
 academy.canola4.desc=Сделайте последний уровень Масла Канолы
@@ -1122,41 +1122,41 @@ academy.numismatic.text1=Нумизматический генератор вы�
 academy.numismatic.text2=Расширение\: Лапидарная Калибровка позволяет генератору использовать кристаллы вместо монет. Алмаз выдаст целых 1.200.000 RF\!
 
 academy.ifbioreactor.title=Экологический
-academy.ifbioreactor.desc=Set up a Biofuel Generator
-academy.ifbioreactor.text1=The Biofuel Generator makes 640,000 RF per bucket of Biofuel.
-academy.ifbioreactor.text2=Biofuel is created in the Bioreactor, by giving it RF and plant material. The larger variety of plant items are in the Bioreactor, the more efficiently it creates Biofuel.
+academy.ifbioreactor.desc=Установите Генератор Биотоплива
+academy.ifbioreactor.text1=Генератор Биотоплива вырабатывает 640.000 RF из одного ведра Биотоплива.
+academy.ifbioreactor.text2=Биотопливо создаётся в Биореакторе из растений, с использованием RF. Чем разнообразнее набор растений в Биореакторе, тем больше выход Биотоплива.
 
-academy.ifprotein.title=Juicy, Meaty Power
-academy.ifprotein.desc=Set up a Protein Generator
-academy.ifprotein.text1=The Protein Generator makes 1,280,000 RF per bucket of Protein.
-academy.ifprotein.text2=Protein is created in the Protein Reactor, by giving it RF and animal material. The larger variety of animal items are in the Protein Reactor, the more efficiently it creates Protein.
+academy.ifprotein.title=Сочная, Мясистая Энергия
+academy.ifprotein.desc=Установите Протеиновый Генератор
+academy.ifprotein.text1=Протеиновый Генератор вырабатывает 1.280.000 RF из ведра Протеина.
+academy.ifprotein.text2=Протеин создаётся в Протеиновом Реакторе из материалов животного происхождения с использованием RF. Чем разнообразней исходный материал, тем эффективнее вырабатывается Протеин.
 
 academy.reactantdynamo.title=Противоположная реакция
-academy.reactantdynamo.desc=Make a Reactant Dynamo
-academy.reactantdynamo.text1=The Reactant Dynamo generates RF based on the item and fluid you put in. The combinations are usually connected in some way, like Cryotheum and Pyrotheum.
-academy.reactantdynamo.text2=Once upgraded and using the right reactions, you can make a fairly large amount of RF using easily obtained materials.
+academy.reactantdynamo.desc=Сделайте Реагентный Генератор
+academy.reactantdynamo.text1=Реагентный Генератор вырабатывает RF из определённых комбинаций предметов и жидкостей. Комбинация, как правило, имеет некоторую логику, например, Пыль пиротеума и Ледяной креотеум.
+academy.reactantdynamo.text2=После применения набора обновления и выбора правильной реакции Вы сможете получать значительное количество RF из доступных материалов.
 
 academy.compactor.title=ЖМЁМ
-academy.compactor.desc=Make a Compactor
-academy.compactor.text1=The Compactor allows you to compress items, basically changing their shape. You convert the various mob Powders into Rods, and most metal Ingots into Plates.
-academy.compactor.text2=With Augments, you can also make metal Ingots into Coins or Gears.
+academy.compactor.desc=Сделайте Компактор
+academy.compactor.text1=Компактор сжимает предметы. Порошки из монстров сжимаются в стержни, слитки - в пластины.
+academy.compactor.text2=Если установить Расширение, то можно делать Монеты или Шестерни.
 
 academy.passivespawning.title=Ферма животных
-academy.passivespawning.desc=Set up a passive animal farm
-academy.passivespawning.text1=The Animal Feeder will try to feed mobs in its area with whatever items are inside of it.
-academy.passivespawning.text2=The Animal Baby Separator will teleport baby animals in its area to the other side of it.
-academy.passivespawning.text3=The mob farm should be split into two areas\: One area has adult animals that are fed by the Animal Feeder. The other area should have baby animals, moved there by by the Animal Baby Separator.
-academy.passivespawning.text4=There, the baby animals will grow and then be killed by either a Mob Slaughter Factory, if you want Liquid Meat and Pink Slime, or a Mob Crusher if you want their drops and Essence. You can place an Adult Filter in either of them to stop them from killing baby animals until they've grown.
-academy.passivespawning.text5=Both machines' default ranges are 1 block, and you will have to use Range Addons to increase their working areas.
+academy.passivespawning.desc=Создайте автономную ферму животных
+academy.passivespawning.text1=Кормушка Животных будет пытаться накормить животных в своей рабочей области предметами из своего инвентаря.
+academy.passivespawning.text2=Разделитель Животных будет перемещать детёнышей на противоположную сторону.
+academy.passivespawning.text3=Ферма животных должна быть разделена на две части\: в первой части взрослые животные получают корм из Кормушки. Во второй части - зона для детёнышей, перемещаемых туда при помощи Разделителя.
+academy.passivespawning.text4=В этой зоне детёныши будут взрослеть и в дальнейшем забиваться либо при помощи Завод-Резня Мобов, если вам нужно Жидкое Мясо и Розовая Слизь. Альтернативный вариант - использовать для забоя Перемещатель Мобов, если вам нужны выпадающие предметы и Эссенция. Вы можете установить в каждую из машин Фильтр Взросления Животных, чтобы не происходил забой детёнышей.
+academy.passivespawning.text5=Рабочая область по умолчанию у обоих машин - 1 блок. Для увеличения рабочей области необходимо установить Улучшение Радиуса Действия.
 
 academy.mobslaughterfactory.title=Фаст-фуд
 academy.mobslaughterfactory.desc=Сделайте Завод-Резня Мобов
-academy.mobslaughterfactory.text1=The Mob Slaughter Factory will kill any mobs in its working area. Instead of dropping items and experience, it will instead produce Liquid Meat in its internal tank. It also has a chance of producing Pink Slime.
-academy.mobslaughterfactory.text2=Its default range is 1 block. You will have to use Range Addons to increase the working area.
+academy.mobslaughterfactory.text1=Завод-Резня Мобов убьёт любого моба в своей рабочей области. Вместо выпадения предметов и опыта она будет наполнять внутренний резервуар Жидким Мясом. Также есть шанс создания Розовой Слизи.
+academy.mobslaughterfactory.text2=По умолчанию рабочая область машины - 1 блок. Для увеличения рабочей области необходимо установить Улучшение Радиуса Действия.
 
 academy.meatfeeder.title=Вливаем бутеры прямо в вены
 academy.meatfeeder.desc=Сделайте Питатель Мясом
-academy.meatfeeder.text=When filled with Liquid Meat, the Meat Feeder will keep you fed from anywhere in your inventory automatically.
+academy.meatfeeder.text=Если наполнить Питатель Жидким Мясом и положить в свой инвентарь, то он будет поддерживать вас сытым автоматически.
 
 academy.meatores.title=Самая невероятная обработка руды
 academy.meatores.desc=Настройте процесс утроения руды с помощью Жидкого Мяса
@@ -1166,35 +1166,35 @@ academy.meatores.text3=Жидкостная Просеивательная Ма�
 academy.meatores.text4=Этот процесс создаёт 3 слитка из одного блока руды.
 
 academy.ifenergy1.desc=Сделайте Energy Upgrade I
-academy.ifenergy1.text=You can insert an Energy Upgrade I into most Industrial Foregoing machines to lower the amount of energy they use.
+academy.ifenergy1.text=Вы можете вставить Energy Upgrade I в большинство машин Industrial Foregoing, чтобы уменьшить количество энергии, которую они используют.
 
 academy.ifenergy2.desc=Сделайте Energy Upgrade II
-academy.ifenergy2.text1=An Industrial Foregoing machine with Energy I and II will use even less energy.
-academy.ifenergy2.text2=You need to use both tiers for it to function.
+academy.ifenergy2.text1=Машины из Industrial Foregoing с установленными Energy Upgrade I и II будут использовать еще меньше энергии.
+academy.ifenergy2.text2=Для своей работы Energy Upgrade II требует установленный Energy Upgrade I.
 
 academy.ifspeed1.desc=Сделайте Speed Upgrade I
-academy.ifspeed1.text=You can insert a Speed Upgrade I into most Industrial Foregoing machines to increase their speed.
+academy.ifspeed1.text=Вы можете вставить Speed Upgrade I в большинство машин Industrial Foregoing, чтобы ускорить их.
 
 academy.ifspeed2.desc=Сделайте Speed Upgrade II
-academy.ifspeed2.text1=An Industrial Foregoing machine with Speed I and II will work even faster.
-academy.ifspeed2.text2=You need to use both tiers for it to function.
+academy.ifspeed2.text1=Машины из Industrial Foregoing с установленными Speed Upgrade I и II будут работать еще быстрее.
+academy.ifspeed2.text2=Для своей работы Speed Upgrade II требует установленный Speed Upgrade I.
 
 academy.mobcrusher.desc=Сделайте Перемещатель Мобов
-academy.mobcrusher.text1=The Mob Crusher will kill any mobs in its working area. Their drops will automatically go into the Mob Crusher's inventory, and experience will be converted into Essence.
-academy.mobcrusher.text2=Its default range is 1 block. You will have to use Range Addons to increase the working area.
+academy.mobcrusher.text1=Перемещатель Мобов убивает любых мобов в своей рабочей области. Выпадающие предметы будут автоматически помещены в инвентарь Перемещателя, опыт будет превращен в Эссенцию.
+academy.mobcrusher.text2=По умолчанию рабочая область машины - 1 блок. Для увеличения рабочей области необходимо установить Улучшение Радиуса Действия.
 
 academy.mobduplicator.desc=Сделайте Дубликатор Мобов
-academy.mobduplicator.text=The Mob Duplicator will use Essence and a filled Mob Imprisonment Tool to spawn that mob.
+academy.mobduplicator.text=Дубликатор Мобов использует Эссенцию и Заключатель Мобов с мобом внутри для порождения мобов.
 
-academy.wyvernarmor.title=Супер-броня
+academy.wyvernarmor.title=Почти супер броня
 academy.wyvernarmor.desc=Сделать полный набор брони Виверны
-academy.wyvernarmor.text1=Wyvern armor is the second best armor in most modpacks, behind its upgraded version.
-academy.wyvernarmor.text2=When wearing Wyvern or Draconic armor, a new GUI element will appear. The top bar shows the Shield Points, the amount of damage that can be absorbed without hurting the player. It drops when it takes damage, and it goes back up when it has power.
-academy.wyvernarmor.text3=The small green bar is the Entropy meter, which increases as you take damage and decreases over time. At high entropy, the shield points regenerate slower.
-academy.wyvernarmor.text4=The bottom bar is the amount of RF that is stored in the armor.
+academy.wyvernarmor.text1=Броня Виверны - это вторая лучшая броня в большинстве мод-паков. Уступает только своей улучшенной версии.
+academy.wyvernarmor.text2=Если надеть броню Виверна или Дракона, появятся новые элементы GUI. Верхняя панель показывает заряд Энергетического Щита - количество урона, которое может быть поглощено без повреждения игрока. Он падает когда вы получаете урон, и растёт обратно по мере заряда щита за счёт энергии в элементе брони.
+academy.wyvernarmor.text3=Маленькая зеленая полоса это шкала Энтропии, которая увеличивается по мере получения урона и уменьшается со временем. При высокой энтропии заряд щита восстанавливается медленнее.
+academy.wyvernarmor.text4=Нижняя полоска - это количество RF в броне.
 
 academy.wyvernpickaxe.desc=Сделайте Кирку Виверны
-academy.wyvernpickaxe.text1=The Pickaxe of the Wyvern has an adjustable mining speed, an upgradable area of effect, and a junk filter.
+academy.wyvernpickaxe.text1=Кирка Виверны имеет регулируемую скорость добычи, улучшаемую область добычи и фильтр мусора.
 academy.wyvernpickaxe.text2=Для настройки инструментов Draconic Evolution нажмите C.
 
 academy.wyvernsword.desc=Сделайте Меч Виверны
@@ -1202,42 +1202,42 @@ academy.wyvernsword.text1=Меч Виверны обладает регулир�
 academy.wyvernsword.text2=Для настройки инструментов Draconic Evolution нажмите C.
 
 academy.wyvernshovel.desc=Сделайте Лопату Виверны
-academy.wyvernshovel.text1=Лопата Виверны имеет регулируемую скорость добычи, улучшаемую область эффекта и фильтр мусора.
+academy.wyvernshovel.text1=Лопата Виверны имеет регулируемую скорость добычи, улучшаемую область добычи и фильтр мусора.
 academy.wyvernshovel.text2=Для настройки инструментов Draconic Evolution нажмите C.
 
 academy.wyvernaxe.desc=Сделайте Топор Виверны
-academy.wyvernaxe.text1=Топор Виверны имеет регулируемую скорость добычи и улучшаемую область эффекта.
+academy.wyvernaxe.text1=Топор Виверны имеет регулируемую скорость добычи и улучшаемую область добычи.
 academy.wyvernaxe.text2=Для настройки инструментов Draconic Evolution нажмите C.
 
 academy.wyvernbow.desc=Сделайте Лук Виверны
-academy.wyvernbow.text1=The Bow of the Wyvern has an adjustable magnification and arrow damage/velocity, as well as togglable auto-fire and explosive arrows.
+academy.wyvernbow.text1=Лук Виверны имеет регулируемое приближение, урон стрелою и скорость полёта стрелы, а также режим автоматической стрельбы и позволяет сделать стрелы взрывающимися.
 academy.wyvernbow.text2=Для настройки инструментов Draconic Evolution нажмите C.
 
 academy.energycore.desc=Сделайте Энергетическое Ядро
-academy.energycore.text1=The Energy Storage Core can store an extremely massive amount of RF. See the Draconic Evolution Information Tablet to see how to build it.
-academy.energycore.text2=The first tier requires only the blocks required for this quest, and can store 45,500,000 RF. The final tier can store 9,223,372,036,854,775,807 RF.
-academy.energycore.text3=To compare, the final tier can store 9,223,372,036,854,775,807 RF.
+academy.energycore.text1=Энергетическое ядро может хранить огромное количество RF. Инструкцию по сборке ядра смотрите в Информационном Планшете Draconic Evolution.
+academy.energycore.text2=Ядро первого уровня требует только блоки, необходимые для этого задания, и может хранить 45.500.000 RF.
+academy.energycore.text3=Для сравнения, Ядро максимального уровня может хранить 9.223.372.036.854.775.807 RF.
 
 academy.wyverncrystals.title=Вивернуться
 academy.wyverncrystals.desc=Сделайте Энергетические Кристаллы Виверны
 academy.wyverncrystals.text1=Энергетические Кристаллы Виверны могут вместить в 4 раза больше RF, чем Базовые Энергетические Кристаллы.
-academy.wyverncrystals.text2=All Energy Crystals of all tiers transfer effectively infinite RF/t.
+academy.wyverncrystals.text2=Любые Энергетические Кристаллы передают бесконечное количество RF в тик.
 academy.wyverncrystals.task=Любые Энергетические Кристаллы Виверны
 
-academy.fusioncrafting.title=Another Certain Scientific Fusion Altar
-academy.fusioncrafting.desc=Set up Fusion Crafting
-academy.fusioncrafting.text1=Place the Fusion Crafting Core, and then place Fusion Crafting Injectors around it facing the Core. The setup is powered through the Fusion Crafting Injectors.
-academy.fusioncrafting.text2=For Fusion Crafting recipes, the item in the center needs to be in the Fusion Crafting Core, and the items on the sides need to be in Fusion Crafting Injectors.
-academy.fusioncrafting.text3=Recipes require certain tier Fusion Crafting Injectors. If it needs a specific tier, it also works with higher tiers.
-academy.fusioncrafting.text4=To begin the craft, click "Craft" in the Fusion Crafting Core.
+academy.fusioncrafting.title=Еще один Несомненно Научный Алтарь Синтеза
+academy.fusioncrafting.desc=Постройте конструкцию для Слияния
+academy.fusioncrafting.text1=Установите Ядро Слияния, а затем разместите Инжекторы Слияния вокруг него, лицом к Ядру. Энергия в конструкцию подаётся через Инжекторы.
+academy.fusioncrafting.text2=Предмет в центре рецепта слияния помещается в Ядро Слияния, а предметы по сторонам рецепта помещаются на Инжекторы.
+academy.fusioncrafting.text3=Рецепты слияния требуют Инжекторы определённого уровня. Рецепт будет работать и с инжекторами более высокого уровня.
+academy.fusioncrafting.text4=Для начала крафта нажмите на кнопку "Старт" в Ядре Слияния.
 
 academy.wyverninjectors.desc=Сделайте Инжектор Слияния Виверны
 academy.wyverninjectors.text1=Инжекторы Слияния Виверны позволяют создавать больше предметов.
-academy.wyverninjectors.text2=For recipes that require a certain tier, every Fusion Crafting Injector must be that tier or higher.
+academy.wyverninjectors.text2=Для рецептов, требующих инжекторы определенного уровня, каждый инжектор должен быть этого или более высокого уровня.
 
 academy.enderenergymanipulator.title=Пацифист
 academy.enderenergymanipulator.desc=Сделайте Манипулятор Эндер-Энергией
-academy.enderenergymanipulator.text=Right click the Ender Energy Manipulator on the Bedrock portal in the End while the Dragon is alive, and it will begin to kill as many Endermen as it can. Once it's reached a certain amount, it will stop and spawn a Dragon Egg.
+academy.enderenergymanipulator.text=Используйте Манипулятор Эндер-Энергией в Энде на портале из Бедрока, пока Дракон жив. Он начнет убивать Эндерменов. По достижении определённого уровня манипулятор остановится и создаст Яйцо Дракона.
 
 academy.awakeneddraconium.title=Проснитесь, Владыки
 academy.awakeneddraconium.desc=Сделайте Пробуждённый Дракониевый Блок
@@ -1245,13 +1245,13 @@ academy.awakeneddraconium.text=Инструменты и доспехи из П�
 
 academy.upgradekeys.title=Улучшаем
 academy.upgradekeys.desc=Сделайте Ядро Улучшения
-academy.upgradekeys.text1=Upgrade Keys are used with Fusion Crafting to upgrade tools and armor. Hit U to see the key's uses, and use that recipe with the tool you want to upgrade in the center.
-academy.upgradekeys.text2=Upgrade Keys have multiple recipes as they have multiple levels. Naturally, you have to upgrade with the Basic recipe, and then Wyvern, Draconic, and Chaotic.
-academy.upgradekeys.text3=Upgrade Keys are not destroyed when used, so you will only ever need to make each once.
+academy.upgradekeys.text1=Ядро улучшения используются в рецептах Слияния для улучшения брони и инструментов. Наведите курсор на ядро и нажмите U, чтобы посмотреть рецепты.
+academy.upgradekeys.text2=Одно Ядро Улучшения используется в нескольких рецептах, так как улучшения имеют несколько уровней. Естественно, вы должны сначала сделать Базовое улучшение, а затем улучшения уровня Виверна, Дракон и Хаос.
+academy.upgradekeys.text3=При использовании Ядра Улучшения не уничтожаются, поэтому вам нужно будет сделать каждое Ядро только один раз.
 academy.upgradekeys.task=Любое Ядро Улучшения
 
 academy.hardenedupgrade.desc=Сделайте Усиленный Набор Обновления
-academy.hardenedupgrade.text1=Upgrade Kits are used to increase the tier of a Thermal Expansion machine or dynamo. Simply right click the block with the Upgrade Kit to set it to that tier, as long as the machine is already the previous tier.
+academy.hardenedupgrade.text1=Наборы обновления используются для увеличения уровня машины и генераторов из Thermal Expansion. Просто используйте набор на машине, чтобы улучшить машину предыдущего уровня до уровня набора.
 academy.hardenedupgrade.text2=Порядок наборов обновления\:
 academy.hardenedupgrade.text3=•Основной
 academy.hardenedupgrade.text4=•Усиленный
@@ -1260,52 +1260,52 @@ academy.hardenedupgrade.text6=•Синаловый
 academy.hardenedupgrade.text7=•Резонирующий
 
 academy.reinforcedupgrade.desc=Сделайте Укреплённый Набор Обновления
-academy.reinforcedupgrade.text1=Reinforced machines are the second tier, and have room for 2 Augments.
-academy.reinforcedupgrade.text2=You can craft Upgrade Kits together to create a Conversion Kit, which will apply all the upgrades at once.
+academy.reinforcedupgrade.text1=Укреплённые машины - это машины второго уровня. Они имеют две ячейки для Расширений.
+academy.reinforcedupgrade.text2=Вы можете объединить несколько Наборов Обновления в Набор Преобразования, который сразу применит к машине все обновления, входящие в его состав.
 
 academy.regularaugments.desc=Сделайте обычное Расширение
 academy.regularaugments.text1=Расширения могут быть установлены в машинах и генераторы для их улучшения их работы. Количество слотов под расширения зависит от уровня машины.
-academy.regularaugments.text2=You can have multiple of an Augment to stack its effectiveness.
-academy.regularaugments.task=Regular Augments
+academy.regularaugments.text2=Вы можете установить несколько одинаковых Расширений для усиления эффекта от них.
+academy.regularaugments.task=Обычные Расширения
 
 academy.fastaugments.title=Я Скорость
-academy.fastaugments.desc=Make these Augments
-academy.fastaugments.text1=Auxiliary Coil Augments increase the speed of the machine/dynamo they are installed on. They don't increase efficiency though.
-academy.fastaugments.text2=Machines will take less time to work, but use the same amount of RF, increasing the RF/t.
-academy.fastaugments.text3=Dynamos will do the same, generating the same amount of RF using the same amount of fuel but in a shorter amount of time, increasing the RF/t.
+academy.fastaugments.desc=Сделайте эти Расширения
+academy.fastaugments.text1=Вспомогательные катушки увеличивают скорость работы машин и генераторов. Но не увеличивают эффективность.
+academy.fastaugments.text2=Машины произведут результат быстрее, но при этом используют то же самое количество RF, что увеличит потребление RF в тик.
+academy.fastaugments.text3=Генераторы ведут себя так же. Вырабатывается такое же количество RF, из такого же количества топлива, но за меньшее время. Что увеличивать производство RF в тик.
 
-academy.specializationaugments.desc=Make a Specialization Augment.
-academy.specializationaugments.text1=Specialization Augments fundamentally change the function of a machine or dynamo.
-academy.specializationaugments.text2=You can only have one Specialization Augment per machine.
-academy.specializationaugments.task=Specialization Augments
+academy.specializationaugments.desc=Сделайте Расширение со Специализацией.
+academy.specializationaugments.text1=Расширение со Специализацией коренным образом изменяет функцию машины или генератора.
+academy.specializationaugments.text2=В машину можно установить только одной Расширение со Специализацией.
+academy.specializationaugments.task=Расширение со Специализацией
 
 # Technology - Advanced
 
 academy.iflaserdrill.title=Пронзите Небеса
 academy.iflaserdrill.desc=Настройте лазерную дрель
-academy.iflaserdrill.text1=The Laser Drill allows you to essentially turn RF into ores.
-academy.iflaserdrill.text2=Place down a Laser Base anywhere, and then place 4 Laser Drills around it so that the laser connects them. Power is provided through the Laser Drills. Upgrades are also installed onto these.
-academy.iflaserdrill.text3=In the Laser Base's GUI, click the - and + buttons on the right to change the y level to get ores from. You can check JEI for the recipes of ores to see what the optimal levels to set for them.
-academy.iflaserdrill.text4=You can place Laser Lenses into the 6 slots on the left to increase the chances of certain ores generating. Again, you can check JEI to see what laser helps what ore.
+academy.iflaserdrill.text1=Лазерная дрель, по факту, превращает RF в руду.
+academy.iflaserdrill.text2=Разместите Базу Лазера. Затем разместите 4 Лазерных Дрели так, чтобы лазер попадал в Базу. Энергия подаётся в Дрели. В них же устанавливаются улучшения.
+academy.iflaserdrill.text3=В пользовательском интерфейсе Основания Лазера нажмите кнопки справа - и +, чтобы изменить высоту, с которой будет добываться руда. Вы можете проверить рецепты руды в JEI, чтобы определить оптимальную высоты добычи.
+academy.iflaserdrill.text4=Для увеличения шансов получения определенной руды поместите Лазерные линзы в 6 ячеек слева. В JEI указано, какие линзы нужны для определённой руды.
 
 academy.signalumupgrade.desc=Сделайте Синаловый Набор Обновления
-academy.signalumupgrade.text=Signalum is the third tier for machines and dynamos.
+academy.signalumupgrade.text=Синаловый уровень машин - третий уровень для машин и генераторов.
 
 academy.resonantupgrade.desc=Сделайте Резонирующий Набор Обновления
-academy.resonantupgrade.text=Resonant machines are the highest tier available in survival mode.
+academy.resonantupgrade.text=Резонирующий уровень машин - это максимальный уровень, доступный в режиме выживания.
 
 academy.alchemyimbuer.title=Провизор
 academy.alchemyimbuer.desc=Сделайте Алхимическую Зельеварку
-academy.alchemyimbuer.text1=The Alchemical Imbuer works with fluids to create potions, which have to be bottled separately.
-academy.alchemyimbuer.text2=It is recommended to have multiple Alchemical Imbuers working in concert so you don't have to repeatedly pipe the fluid potions out of then back into the same machine.
-academy.alchemyimbuer.text3=The first Alchemical Imbuer make Awkward Potions, which would be sent to another Imbuer to upgrade it, and so on. At the end you would want to move the fluid to a Fluid Transposer to fill Glass Bottles. Alternatively you could pipe it to a Decoctive Diffuser which will spread that potion effect over an area.
+academy.alchemyimbuer.text1=Алхимическая Зельеварка варит зелья и помещает их во внутренний резервуар, откуда их надо разливать по бутылкам.
+academy.alchemyimbuer.text2=Рекомендуется использовать несколько зельеварок, работающих последовательно. Таким образом вам не придется постоянно перегонять зелье из зельеварки и обратно.
+academy.alchemyimbuer.text3=Первая Зельеварка будет делать Мутное зелье, которое будет улучшено в последующих Зельеварках. На последнем этапе зелье стоит подать в Распределитель Жидкостей, который разольет его в Пузырьки. В качестве альтернативы мы можете подать зелье в Рассеиватель Отваров, который распылит зелье в определённой области.
 
 academy.alchemicalretort.title=Нужно больше сильных зелий
 academy.alchemicalretort.desc=Сделайте Расширение\: Алхимическая Реторта
-academy.alchemicalretort.text=You can upgrade a Fractionating Still with an Alchemical Retort to allow it to process potion fluids, increasing the effect by 1 but also decreasing the amount by a quarter.
+academy.alchemicalretort.text=Установка Расширение\: Алхимическая Реторта в Дистилятор позволит ему улучшать силу зелий. Объем улучшенного зелья будет на четверть меньше.
 
 academy.draconicfluxcap.desc=Сделайте Флаксовый Конденсатор Дракона
-academy.draconicfluxcap.text=The Draconic Flux Capacitor can hold the most RF of any item by far. Unupgraded, it can hold 256,000,000 RF. At Chaotic level Flux Capacity, it can store 768,000,000 RF.
+academy.draconicfluxcap.text=Флаксовый Конденсатор Дракона обладает максимальным зарядом по сравнению с другими предметами. Без улучшений он вмещает 256.000.000 RF. Конденсатор, улучшенный до уровня Хаос - 768.000.000 RF.
 
 academy.draconicinjectors.desc=Сделайте Инжектор Слияния Дракона
 academy.draconicinjectors.text=Инжекторы Слияния Дракона могут создавать еще больше предметов.
@@ -1317,61 +1317,61 @@ academy.draconiccrystals.task=Любой Энергетический Крист
 
 academy.draconichelm.title=Клёвый клоунский парик
 academy.draconichelm.desc=Сделайте Шлем Дракона
-academy.draconichelm.text=The Draconic Helm has Night Vision, cures negative potion effects, prevents drowning, and allows you to mine quickly while underwater.
+academy.draconichelm.text=Шлем Дракона даёт эффект Ночное Видение, убирает отрицательные эффекты от зелий, предотвращает утопление и убирает замедление копания под водой.
 
 academy.draconicchestplate.title=Сердце Дракона
 academy.draconicchestplate.desc=Сделайте Нагрудник Дракона
-academy.draconicchestplate.text=The Draconic Chestplate allows flight, quick mining in the air, and fire immunity.
+academy.draconicchestplate.text=Нагрудник Дракона позволяет летать, убирает замедление копания в полёте и даёт иммунитет к огню.
 
 academy.draconicleggings.title=Чешуйчатые колготки
 academy.draconicleggings.desc=Сделайте Поножи Дракона
-academy.draconicleggings.text=Draconic Leggings give a configurable speed boost.
+academy.draconicleggings.text=Поножи Дракона дают настраиваемое увеличение скорости бега.
 
 academy.draconicboots.title=Готов к ходьбе
 academy.draconicboots.desc=Сделайте Ботинки Дракона
-academy.draconicboots.text=Draconic Boots provide fall protection, a jump boost, and allow you to walk up single blocks without jumping.
+academy.draconicboots.text=Ботинки Дракона защищают от урона при падении, увеличивают высоту прыжка и дают возможность авто-подъема на 1 блок.
 
 academy.draconicpickaxe.desc=Сделайте Кирку Дракона
-academy.draconicpickaxe.text=The Draconic Pickaxe is essentially the Pickaxe of the Wyvern, but better in every way.
+academy.draconicpickaxe.text=Кирку Дракона, по сути, является Киркой Виверны, улучшенной во всём.
 
 academy.draconicsword.desc=Сделайте Меч Дракона
-academy.draconicsword.text=The Draconic Sword is essentially the Sword of the Wyvern, but better in every way.
+academy.draconicsword.text=Меч Дракона, по сути, является Мечом Виверны, улучшенным во всём.
 
 academy.draconicshovel.desc=Сделайте Лопату Дракона
-academy.draconicshovel.text=The Draconic Shovel is essentially the Shovel of the Wyvern, but better in every way.
+academy.draconicshovel.text=Лопату Дракона, по сути, является Лопатой Виверны, улучшенной во всём.
 
 academy.draconicaxe.desc=Сделайте Топор Дракона
-academy.draconicaxe.text=The Draconic Axe is essentially the Axe of the Wyvern, but better in every way.
+academy.draconicaxe.text=Топор Дракона, по сути, является Топором Виверны, улучшенным во всём.
 
 academy.draconicbow.desc=Сделайте Лук Дракона
-academy.draconicbow.text1=The Draconic Bow is essentially the Bow of the Wyvern, but better in every way.
-academy.draconicbow.text2=It also has a couple extra options. Arrows of Draconic Fire will allow it to shoot pure energy, increasing damage by 10%%. Shock Wave Power creates a shockwave that damages mobs in an area without damaging blocks.
+academy.draconicbow.text1=Лук Дракона, по сути, является Луком Виверны, улучшенным во всём.
+academy.draconicbow.text2=Но у него есть отличительные особенности. Стрелы Драконьего Огня позволяют стрелять чистой энергией, увеличивая урон на 10%. Ударная волна повреждает существ, но не блоки в зоне попадания.
 
 academy.draconicstaff.desc=Сделайте Посох Силы
-academy.draconicstaff.text=The Draconic Staff of Power is the most powerful tool in the modpack. It combines the Draconic Pickaxe, Shovel, and Sword in one.
+academy.draconicstaff.text=Посох Силы является самым сильным инструментом в игре. Он сочетает в себе кирку, лопату и меч.
 
 
 # Technology - Expert
 
 academy.chaosshard.desc=Победите Хранителя Хаоса
-academy.chaosshard.text1=In the End, you can find the hardest boss in the modpack at any locations where the X and Z coordinates are divisible by 10,000.
-academy.chaosshard.text2=The Chaos Guardian will require your absolute best weapons and armor. It can shred through your shields in moments, so you have to always stay moving.
-academy.chaosshard.text3=Aside from the difficulty, the fight is largely the same as the regular Ender Dragon; destroy the healing crystals and then attack the Chaos Guardian.
-academy.chaosshard.text4=Once you defeat the Chaos Guardian, dig under the center of the island and collect the Chaos Shards. This will cause the island to explode, so you should probably run away after you do so.
+academy.chaosshard.text1=В Энде, в координатах кратных 10.000 вы встретите самого сложного босса в мод-паке.
+academy.chaosshard.text2=Вам понадобится лучшее оружие и лучшая броня, чтобы победить Хранителя Хаоса. Постоянно перемещайтесь, иначе он покрошит ваши щиты за секунды.
+academy.chaosshard.text3=За исключением повышенной сложности, битва сильно похожа на битву с Драконом Края. Сначала уничтожьте кристаллы, которые лечат дракона. Потом самого дракона.
+academy.chaosshard.text4=После победы над Хранителем Хаоса прокопайтесь до центра острова и соберите Осколки Хаоса. Кстати, это запустит взрыв острова. Убегайте быстрее после сбора осколков.
 
 academy.chaosinjectors.desc=Сделайте Инжектор Слияния Хаоса
-academy.chaosinjectors.text=Chaotic Fusion Crafting Injectors are the highest tier and can craft any Fusion Crafting recipe.
+academy.chaosinjectors.text=Инжекторы Слияния Хаоса - Инжекторы Слияния максимального уровня и могут создавать любой рецепт слияния.
 
 academy.draconicreactor.title=Очистка Базы
 academy.draconicreactor.desc=Соберите Дракониевый Реактор
-academy.draconicreactor.text1=The Draconic is the single most dangerous block in the modpack. It is the very definition of risk-reward. If you run it right you can get an insane amount of RF, but if it explodes it will destroy everything that's within 200 blocks of itself.
-academy.draconicreactor.text2=It is very complicated to run. Definitely too complicated to explain here, so read the Draconic Evolution Information Tablet to see more information.
+academy.draconicreactor.text1=Дракониевый Реактор является наиболее опасным блоком в мод-паке. Но и награда за риск высока. При правильном обращении вы можете получить безумное количество RF, но если он взорвётся, то уничтожит всё в радиусе 200 блоков.
+academy.draconicreactor.text2=Реактор сложен в обращении. Изучите статью в Информационном Планшете Draconic Evolution.
 
 # Botania
 academy.lexica.title=Хорошая книга – искренний друг
 academy.lexica.desc=Сделайте Лексика Botania
 academy.lexica.text=Лексика Ботания - это очень хорошее руководство по Botania. При первом использовании вам будет предложено пройти обучение. Не отказывайтесь\! Задания дополняют обучение, но не заменяют его.
-academy.lexica.text2=When the Lexica Botania is in your hotbar, you can hold control while hovering over items from Botania in your inventory to see the page on that item.
+academy.lexica.text2=Если положить Лексика Ботания в панель быстрого доступа, навести курсор на предмет и зажать Ctrl - откроется страница из Лексика Ботания, касающаяся этого предмета.
 
 academy.apothecary.title=Купель
 academy.apothecary.desc=Сделайте Лепестковый аптекарь
@@ -1405,10 +1405,10 @@ academy.manatablet.desc=Сделайте Планшет маны
 academy.manatablet.text1=Планшет маны может использоваться для ручной передачи маны без Распространителя маны, а также питает любые предметы в вашем инвентаре, которые нуждаются в мане.
 academy.manatablet.text2=Чтобы зарядить или разрядить Планшет маны, бросьте его в Бассейн маны. Активируйте бассейн Посохом леса, чтобы переключиться между зарядкой и разрядкой.
 
-academy.halo.title=Круговой верстак
-academy.halo.desc=Сделайте Круговой верстак
-academy.halo.text1=Круговой верстак будет автоматически создавать предметы по заданным рецептам при наличии ингредиентов в вашем инвентаре.
-academy.halo.text2=Hold the Manufacturing Halo in your hand to see the interface appear. You can use the Crafting Table like you would normally, and you can click any of the other segments to set the Halo to automatically craft that recipe.
+academy.halo.title=Автоматический Круговой Верстак
+academy.halo.desc=Сделайте Автоматический Круговой верстак
+academy.halo.text1=Автоматический Круговой Верстак будет автоматически создавать предметы по заданным рецептам при наличии ингредиентов в вашем инвентаре.
+academy.halo.text2=Держите верстак в руке для появления интерфейса вокруг вас. Вы можете использовать сегмент с верстаком как обычно. Вы можете нажать на любом из сегментов для задания рецепта автоматического крафта.
 
 academy.alchemcat.title=Закон сохранения энергии
 academy.alchemcat.desc=Сделайте Алхимический катализатор
@@ -1439,7 +1439,7 @@ academy.botaniamagnet.text=Кольцо Магнетизма будет прит
 
 academy.botaniarods.title=Волшебная Палочка
 academy.botaniarods.desc=Сделайте любой жезл
-academy.botaniarods.text=Rods allow you to use Mana from your inventory to perform certain actions, such as placing Cobblestone or Dirt, flying through the air, or smelt blocks.
+academy.botaniarods.text=Жезла расходуют ману на осуществление определённых действий. Например, установка Булыжника или Земли, полёт, переплавка блоков.
 
 academy.terrasteel.title=Огоньки
 academy.terrasteel.desc=Сделайте Террасталь
@@ -1474,21 +1474,21 @@ academy.farreach.text=Кольцо дальнего богатства, как �
 
 academy.luminizer.title=Прогулка под Солнцем
 academy.luminizer.desc=Сделайте Светлячка
-academy.luminizer.text1=Luminizers can move players and mobs between each other by having them ride on trails of light.
-academy.luminizer.text2=Place two Luminizers within 20 blocks of each other. Sneak right click the Luminizers with a Wand of the Forest to make a one-way connection. Right click the first Luminizer to go to the other one, and if that one is connected to another you will be sent to that one as well.
+academy.luminizer.text1=Светлячки могут перемещать игроков и существ между друг другом дорогами света.
+academy.luminizer.text2=Разместите два Светлячка в пределах 20 блоков друг от друга. Shift-ПКМ на Светлячках Посохом Леса для создания односторонней связи. ПКМ на первом Светлячке для перемещения ко второму. Если второй связан с третьим - вы понесётесь дальше.
 
 academy.conjuration.desc=Сделайте Колдовской Катализатор
-academy.conjuration.text1=The Conjuration Catalyst is placed under the Mana Pool to allow it to duplicate certain items using Mana.
-academy.conjuration.text2=Look at the Conjuration Catalyst's uses in JEI with the U button to see what can be duplicated.
+academy.conjuration.text1=Если поместить Колдовской Катализатор под Бассейн Маны, то вы сможете удваивать некоторые предметы за счет использования маны.
+academy.conjuration.text2=Посмотрите в JEI варианты использования Колдовского Катализатора, нажав U на нём.
 
 academy.elvenspreader.desc=Сделайте Эльфийский Распространитель Маны
 academy.elvenspreader.text=Эльфийский Распространитель Маны посылает гораздо большие всплески Маны, хотя он и реже стреляет.
 
 academy.globetrotter.desc=Сделайте Кушак Пилигрима
-academy.globetrotter.text=The Globetrotter's Sash is essentially a direct upgrade to the Soujourner's Sash. You can run faster, jump higher, and pronounce it easier\!
+academy.globetrotter.text=Кушак Пилигрима это улучшенная версия Пояса Странника. Вы сможете бегать быстрее и прыгать выше. Кушать он вам не даст\!
 
 academy.gaiaspreader.desc=Сделайте Распространитель Маны Гайи
-academy.gaiaspreader.text=the Gaia Mana Spreader is the final tier of Mana Spreader. It larger Mana bursts which travel farther.
+academy.gaiaspreader.text=Распространитель Маны Гайи является последним уровнем распространителей маны. Его всплески маны больше, и летят дальше.
 
 academy.gaia.title=Согнуть в бараний рог\!
 academy.gaia.desc=Победите Стража Гайи
@@ -1502,141 +1502,141 @@ academy.gaia2.text2=Вторая битва будет намного сложн
 #Twilight Forest
 academy.twilightportal.title=Мир чистого воображения
 academy.twilightportal.desc=Войдите в Сумеречный Лес
-academy.twilightportal.text1=The Twilight Forest is an entirely new dimension to explore.
-academy.twilightportal.text2=It has a strict progression system, so you have to defeat certain bosses before you can enter certain biomes.
-academy.twilightportal.text3=To make the portal, dig a 2x2 in Grass and fill it with Water. Make sure every Grass block has a plant on it like a flower, and then throw a Diamond in.
+academy.twilightportal.text1=Сумеречный Лес - это совершенно новое измерение, полное чудес.
+academy.twilightportal.text2=У него строгая система прогресса, поэтому вы должны победить определенных боссов, прежде чем попасть в определенные биомы.
+academy.twilightportal.text3=Чтобы сделать портал в Сумеречный Лес, выкопайте яму 2х2 в траве и наполните её водой. Убедитесь, что на каждом блоке травы вокруг ямы есть какой-нибудь цветок, а затем киньте алмаз в воду.
 academy.twilightportal.task=Войдите в Сумеречный Лес
 
 academy.magicmap.title=Я карта\!
-academy.magicmap.desc=Make a Magic Map
-academy.magicmap.text1=The Magic Map will greatly help in navigating through the Twilight Forest.
-academy.magicmap.text2=It is very zoomed out, each biome has a unique color, and landmarks have icons so you can find them easier.
+academy.magicmap.desc=Сделайте Пустую Магическую Карту
+academy.magicmap.text1=Магическая карта очень сильно поможет в навигации по Сумеречному Лесу.
+academy.magicmap.text2=Она крупномасштабная, каждый биом имеет уникальный цвет, а достопримечательности имеют значки, чтобы их было проще найти.
 
 academy.questingram.title=Радужный Баран
-academy.questingram.desc=Complete the Questing Ram's quest
-academy.questingram.text1=The Questing Ram is a passive boss that spawns in Enchanted Forests.
-academy.questingram.text2=Give it one of each color of Wool and it will give you a block of every vanilla metal and gem, as well as the Crumble Horn.
+academy.questingram.desc=Выполните задание Квестового Барана
+academy.questingram.text1=Квестовый Баран - это пассивное существо, которое рождается в биоме "Enchanted Forest".
+academy.questingram.text2=Дайте ему один блок шерсти каждого цвета, и он даст вам блоки всех металлов и драгоценных камней из оригинального Minecraft, а так же Рог.
 
-academy.naga.title=Ophidiophobia
-academy.naga.desc=Exterminate the Naga
-academy.naga.text1=When you first begin, only the core biomes are unlocked.
-academy.naga.text2=You can explore all you like, but locked biomes will each have their own ways of stopping you.
-academy.naga.text3=To unlock the next biomes, find and defeat the Naga. You can find it in a Naga Courtyard in one of the forest biomes.
-academy.naga.task=Advancement\: Time To Even The Scales
+academy.naga.title=Змеебоязнь
+academy.naga.desc=Истребите Нагу
+academy.naga.text1=Поначалу, только основные биомы будут доступны.
+academy.naga.text2=Вы можете путешествовать как вам угодно, но недоступные биомы имеют свои собственные способы остановиться вас.
+academy.naga.text3=Чтобы открыть следующие биомы, найдите и победите Нагу. Вы можете найти его во дворе Наги в одном из лесных биомов.
+academy.naga.task=Достижение\: Убийца наги
 
-academy.lich.title=Scholarly Adventures
-academy.lich.desc=Overthrow the Lich
-academy.lich.text1=The Lich Tower is unlocked once you've defeated the Naga. It spawns in forest biomes. Climb to the top to confront the Lich.
-academy.lich.text2=You can read the Guide page by clicking the link below, which has the complete strategy to beat each boss in the mod.
-academy.lich.text3=Once you've grabbed a Scepter, the Swamp, Dark Forest, and Snowy Forest biomes will become unlocked.
-academy.lich.task=Any Scepter
+academy.lich.title=Учебные приключения
+academy.lich.desc=Свергните Лича
+academy.lich.text1=Башня Лича откроется в лесных биомах после победы над Нагой. Заберитесь на вершину башни, чтобы одолеть Лича.
+academy.lich.text2=В FTB Руководстве, доступном по ссылке внизу, есть описание стратегии на каждого босса Сумеречного Леса.
+academy.lich.text3=После получения Посоха вам станут доступны биомы\: Болото, Тёмный Лес и Снежный Лес.
+academy.lich.task=Достижение\: Убить мёртвого
 
 academy.minoshroom.title=Тезей
-academy.minoshroom.desc=Slay the Minoshroom
-academy.minoshroom.text1=In the Swamp you can find massive underground Labyrinths, full of monsters and treasure. At the very bottom you can find the Minoshroom.
-academy.minoshroom.text2=The Minoshroom doesn't need any special tactics to defeat; hit it until it dies. Eat the Meef Stroganoff to unlock the Fire Swamp.
-academy.minoshroom.task=Advancement\: Mighty Stroganoff
+academy.minoshroom.desc=Победите Гриботавра
+academy.minoshroom.text1=В Болоте вы найдёте огромный подземный Лабиринт, полный монстров и сокровищ. На самом нижнем уровне вы найдёте Гриботавра.
+academy.minoshroom.text2=Для победы над Гриботавром не требуется специальная тактика, просто бейте его, пока не победите. Съешьте Суп из минотавра, чтобы разблокировать Огненное Болото.
+academy.minoshroom.task=Достижение\: Могучий строганов
 
 academy.hydra.title=Подвиг Геракла
 academy.hydra.desc=Обезглавьте Гидру
-academy.hydra.text1=The Hydra can be found in the Fire Swamp. It is best fought at range, attacking a head when its mouth is open.
-academy.hydra.text2=When a head takes enough damage it will die and be replaced with two others. Do this enough times and the Hydra will be defeated.
-academy.hydra.text3=Fiery Blood, along with the drops from two other bosses, is required to unlock the Highlands.
+academy.hydra.text1=Гидра может быть найдена в Огненном Болоте. Лучше всего сражаться с ней на расстоянии, атакуя голову, когда рот открыт.
+academy.hydra.text2=Когда голова получит достаточно урона, она умрёт и заменится другой. Убейте все головы и Гидра будет побеждена.
+academy.hydra.text3=Огненная кровь, вместе с дропом с двух других боссов, нужна для доступа в Нагорья.
 academy.hydra.task=Достижение\: Убийца гидры
 
-academy.knightphantom.title=Spooky Scary Skeletons
-academy.knightphantom.desc=Lay the Knight Phantoms to rest
-academy.knightphantom.text1=You can find Goblin Knight Strongholds in Dark Forests and are filled with monsters and treasure. One room has six Knight Phantoms to battle.
-academy.knightphantom.text2=Kill all the Knight Phantoms to be able to enter the Dark Tower.
+academy.knightphantom.title=Жуткие Скелеты
+academy.knightphantom.desc=Успокойте Рыцарей фантомов
+academy.knightphantom.text1=Бастион гоблинов-рыцарей находится в Тёмных лесах и наполнен монстрами и сокровищами. В одной из комнат есть шесть Рыцарей Фантомов, которых необходимо победить.
+academy.knightphantom.text2=Убейте всех Рыцарей Фантомов, чтобы войти в Темную Башню.
 academy.knightphantom.task=Достижение\: Карминитовая акклиматизация
 
 academy.urghast.title=Плакса
-academy.urghast.desc=Make the Ur-Ghast cry
-academy.urghast.text1=The Dark Tower can be found looming over Dark Forests. As you climb it, you have to overcome many puzzles and fight many monsters.
-academy.urghast.text2=Fiery Tears, along with the drops from two other bosses, are required to unlock the Highlands.
+academy.urghast.desc=Доведите Ур-Гаста до слёз
+academy.urghast.text1=Тёмная башня может быть найдена в темных лесах. При подъеме на неё вам придется преодолеть много головоломок и сразиться со множеством монстров.
+academy.urghast.text2=Огненные слёзы, вместе с дропом с двух других боссов, нужны для доступа в Нагорья.
 academy.urghast.task=Достижение\: Слёзы огня
 
 academy.yeti.title=Крутой парень
-academy.yeti.desc=Put the Alpha Yeti on ice
-academy.yeti.text1=The Alpha Yeti can be found in the Yeti Lair in the Snowy Forest biome.
-academy.yeti.text2=Grab some fur to unlock the Glacier.
+academy.yeti.desc=Охладите Альфа-Йети
+academy.yeti.text1=Альфа Йети можно найти в Логове Йети в биоме Заснеженный Лес.
+academy.yeti.text2=Соберите с него мех, чтобы разблокировать Ледник.
 academy.yeti.task=Достижение\: Тёплый мех
 
 academy.snowqueen.title=Цареубийство
 academy.snowqueen.desc=Сбросьте Снежную Королеву с трона
 academy.snowqueen.text1=Снежная Королева находится на верхнем этаже дворца Авроры на вершине Ледников.
-academy.snowqueen.text2=Once you've defeated the Snow Queen and collected the drops from two other bosses, you can enter the Highlands.
+academy.snowqueen.text2=После победы над Снежной Королевой и получения трофеев у двух других боссов, вы можете войти в Нагорье.
 academy.snowqueen.task=Достижение\: Чистое небо
 
-academy.cinders.title=Breaking and Entering
-academy.cinders.desc=Rob the Giants in their home
-academy.cinders.text1=Under the Highlands you can find the Troll Caves, which contain large and small Obsidian vaults as well as, obviously, Trolls.
-academy.cinders.text2=Find some Magic Beans and use them to reach the Cloud Cottage above. Kill a Giant Miner there and take their Giant Pickaxe, and return to the Troll Caves.
-academy.cinders.text3=Use the Giant Pickaxe to get the Lamp of Cinders in the Giant Obsidian vault.
+academy.cinders.title=Взломать и Зайти
+academy.cinders.desc=Ограбьте Гигантов прямо в их доме
+academy.cinders.text1=Под Нагорьями вы можете найти Пещеры Троллей, которые содержат как большие, так и небольшие обсидиановые хранилища, а также, очевидно, Троллей.
+academy.cinders.text2=Найдите Волшебные Бобы и используйте их чтобы добраться до Облачного Коттеджа. Убейте Гигантского Шахтера, заберите его Гигантскую кирку и вернитесь в Пещеры Троллей.
+academy.cinders.text3=Используйте Гигантскую Кирку чтобы забрать Лампу Огня из Гигантского Обсидианового Хранилища.
 academy.cinders.task=Достижение\: Я желаю больше огня
 
-academy.castle.title=Makes a Cool Base, Though
-academy.castle.desc=Explore the Final Castle
-academy.castle.text1=Use the Lamp of Cinders to bypass the Thornlands and reach the Final Plateau. In it, you can find the Final Castle.
-academy.castle.text2=The mod is not done, so the Final Castle is almost completely unfinished. There is no boss, and the puzzles don't work. This is the end of the progression for now, but it is still being worked on.
+academy.castle.title=Неплохая база. Наверное
+academy.castle.desc=Исследуйте Финальный Замок
+academy.castle.text1=Используйте Лампу Огня чтобы пробраться сквозь Шипы и добраться до Финального Плато. На нём стоит Финальный Замок.
+academy.castle.text2=Мод не доделан, поэтому в Финальном Замке мало что работает. Нет босса и головоломки не работают. В настоящее время прогресс на этом завершается, но над модом продолжают работать.
 
 
 # Astral Sorcery
 
 academy.astraltome.title=Знания - сила
 academy.astraltome.desc=Сделайте Журнал Знаний
-academy.astraltome.text1=The Astral Tome is the best source of information on Astral Sorcery. It has multiple chapters that you have to zoom in to see with the scroll wheel.
-academy.astraltome.text2=At the beginning, the only chapter you can see is Discovery. The further you progress, the more chapters you will unlock.
+academy.astraltome.text1=Журнал Знаний является лучшим источником информации об Astral Sorcery. Он имеет несколько глав, которые можно приблизить с помощью колеса прокрутки.
+academy.astraltome.text2=По началу единственной доступной вам главой будет Открытие. Больше глав откроется по мере игры в этот мод.
 
 academy.constellationpaper.desc=Найдите Свиток Созвездия
-academy.constellationpaper.text1=Constellations are one of the most important parts of the mod, and can be found in Shrines. There are five you can get right now.
-academy.constellationpaper.text2=Sneak right click the Astral Tome and insert Constellation Papers into its inventory. This will create a new page in the Astral Tome that has a list of constellations, though they will be missing any important information.
+academy.constellationpaper.text1=Созвездия - одна из наиболее важных частей мода. Свитки Созвездий могут быть найдены в Святынях. По началу вам будет доступно пять созвездий.
+academy.constellationpaper.text2=Shift-ПКМ Журналом Знаний чтобы добавить Свиток в него. Это создаст новую страницу в Журнале со списком созвездий, но, пока, без какой-либо важной информации.
 
-academy.reswand.title=Magical Tuning Fork
+academy.reswand.title=Магический камертон
 academy.reswand.desc=Создайте Резонирующий Жезл
-academy.reswand.text1=To begin Astral Sorcery, you must find an Ancient Shrine somewhere in the world. You can find them in mountainous areas; they are large marble structures with flowing water.
-academy.reswand.text2=Dig into the Ancient Shrine's basement to find a Floating Crystal. This is important later, but for now just place a Crafting Table anywhere nearby. This will allow you to craft items that require Starlight in that Crafting Table.
-academy.reswand.text3=While holding the Resonating Wand and walking around the world, floating white sparkles will mark certain areas as having Rock Crystal Ore deep underneath them.
+academy.reswand.text1=Найдите Древнюю Святыню, чтобы начать прогресс в Astral Sorcery. Вы можете найти их в горных районах; это большие мраморные структуры с текущей водой.
+academy.reswand.text2=Докопайтесь до подвала Древней святыни, чтобы найти летающий кристалл. К нему еще придётся вернуться, но сейчас просто разместите Верстак поблизости. Это позволит вам создавать на этом верстаке предметы, которые требуют Звёздного Света.
+academy.reswand.text3=Если взять Резонирующий Жезл в руку и прогуляться по миру, то местами вы увидите белые искры, которые отмечают залежи Горной Кристальной Руды.
 
 academy.luminouscraftingtable.title=Ночной дозор
 academy.luminouscraftingtable.desc=Сделайте Светящийся Верстак
-academy.luminouscraftingtable.text1=The Luminous Crafting Table allows you to craft with Starlight without having to be near a Floating Crystal, though it does need to be able to see the night sky directly above it.
-academy.luminouscraftingtable.text2=The amount of Starlight it has access to depends on its altitude and location.
-academy.luminouscraftingtable.text3=To craft with the Luminous Crafting Table, make sure it has enough Starlight and then right click it with a Resonating Wand.
-academy.luminouscraftingtable.text4=Once you've crafted the Luminous Crafting Table, the Exploration chapter is unlocked in the Astral Tome.
+academy.luminouscraftingtable.text1=Светящийся Верстак позволяет вам использовать рецепты, требующие Звёздного Света, без необходимости использования Летающего Кристалла. Светящийся Верстак должен быть расположен напрямую под ночным небом.
+academy.luminouscraftingtable.text2=Доступный объём Звёздного Света зависит от высоты и точки на карте.
+academy.luminouscraftingtable.text3=Для крафта на Светящемся Верстака убедитесь, что вам хватает Звёздного Света, а затем используйте Резонирующий Жезл для запуска процесса.
+academy.luminouscraftingtable.text4=После создания Светящегося Верстака в Журнале Знаний откроется глава Исследования.
 
 academy.sextant.title=Помощник по строительству
 academy.sextant.desc=Создайте Секстант
-academy.sextant.text1=Astral Sorcery has several multiblock structures which can be a big confusing to build. If you use a Sextant on the main part of a multiblock, it will show you where to place the blocks to complete it.
-academy.sextant.text2=Use the Sextant on air at night and look to the stars, and you might see a large coloured star. Hold sneak to unlock the mouse and hover over it, and it will change to one of the icons on the right. Drag that icon onto the star to mark it, and you will be able to see it in the night sky. Follow it to find that structure in the world.
+academy.sextant.text1=Astral Sorcery имеет несколько многоблочных структур, которые могут быть сложными для постройки. Если использовать Секстант на основной части структуры, то он покажет, где надо размещать остальные блоки.
+academy.sextant.text2=Используйте Секстант ночью и посмотрите на звезды. Вы можете увидеть большую цветную звезду. Удерживайте Shift, чтобы разблокировать мышь. Перетащите правильную структуру на звезду, чтобы выбрать цель для Секстанта. Следуйте этой цели, чтобы найти выбранную структуру.
 
-academy.lookingglass.title=Through the Looking Glass
+academy.lookingglass.title=Смотрим в Телескоп
 academy.lookingglass.desc=Создайте Ручной Телескоп
-academy.lookingglass.text1=By using the Looking Glass, you can search the night sky for any Constellations whose Papers you've found. Only one constellation is visible per night using the Looking Glass, so it may take multiple nights for the one you are searching for to appear.
-academy.lookingglass.text2=Stars that belong to constellations will be larger and fade in and out. If it is a constellation you've discovered already, hold sneak to unlock the mouse and trace lines between the stars in the pattern of the constellation.
+academy.lookingglass.text1=С помощью Телескопа можно найти на ночном небе созвездия, свитки с которыми вы уже нашли. Каждую ночь Телескоп покажет вам только одно созвездие. Может потребоваться несколько ночей, чтобы отобразилось нужное созвездие.
+academy.lookingglass.text2=Звезды, которые принадлежат созвездиям, будут больше и буду мигать. Если это созвездие, свиток которого вы уже нашли, то держите Shift, чтобы разблокировать мышь и проведите линии между звёздами созвездия согласно рисунку.
 
 academy.lightwell.title=Лунная Ванна
 academy.lightwell.desc=Сделайте Колодец Света
-academy.lightwell.text1=Lightwells are used to create Liquid Starlight, which is done by right clicking one with Aquamarine or a Rock Crystal while the Lightwell can see the night sky. More expensive ones will make more and will last longer.
-academy.lightwell.text2=You can throw a Rock Crystal into some Liquid Starlight and it will slowly increase its Size. Large Rock Crystals will increase the durability of tools made with them.
+academy.lightwell.text1=Колодцы света используются для создания Жидкого Звездного Света. Используйте Аквамарин или Горные Кристаллы на колодце, стоящим под ночным небом. Более качественные кристаллы позволят собрать больше Звездного света.
+academy.lightwell.text2=Если бросить Горный Кристалл в Жидкий Звёздный Свет, то он начнет постепенно увеличивать свой размер. Кристаллы большего размера позволят создать кристальные инструменты с большей прочностью.
 
-academy.fosicresonator.title=Constructive Interference
+academy.fosicresonator.title=Конструктивное вмешательство
 academy.fosicresonator.desc=Сделайте Резонатор Света
-academy.fosicresonator.text1=Some areas are better than others for getting Starlight, and it can be hard to find a location that works well.
-academy.fosicresonator.text2=Explore the land at night while holding a Fosic Resonator in your hand, and you can find areas that glow blue. The more intense the glow, the more Starlight can be found there.
+academy.fosicresonator.text1=В некоторых точках на карте Звёздного света больше, в других - меньше. Найти место с большим количеством Звёздного света может быть трудно.
+academy.fosicresonator.text2=Пройдитесь по окрестностям ночью, держа Резонатор Света в руках. Местами вы увидите синее свечение. Чем интенсивнее свечение, тем больше в этом месте Звёздного света.
 
-academy.spectralrelay.title=Starlight Boost
+academy.spectralrelay.title=Усиление Звёздного Света
 academy.spectralrelay.desc=Создайте Реле Настройки
-academy.spectralrelay.text1=If you are unable to find the perfect spot, you can use Spectral Relays to give a boost to Starlight. Build the multiblock near the the structure you want to give Starlight to and it will boost it.
-academy.spectralrelay.text2=If Spectral Relays are within 16 blocks of each other, they will lose a lot of efficiency.
+academy.spectralrelay.text1=Если вы не смогли найти идеальное место - используйте реле Настройки для направления Звёздного света на ближайший алтарь. Постройте многоблочную структуру неподалёку от алтаря, и он повысит количество Звёздного света, доступного на алтаре.
+academy.spectralrelay.text2=Эффективность Реле настройки падает, если они расположены ближе, чем 16 блоков друг от друга.
 
 academy.illuminationpowder.title=Ночной режим
 academy.illuminationpowder.desc=Сделайте Осветительный Порошок
-academy.illuminationpowder.text1=Illumination Powder is a great source of light. It doesn't take up a block space, it can't be touched, and it doesn't need to be supported.
-academy.illuminationpowder.text2=The only way to destroy it is to place a block on it.
+academy.illuminationpowder.text1=Осветительный Порошок - великолепный источник света. Он не занимает место в блоке, его нельзя потрогать и он не нуждается в какой-либо опоре.
+academy.illuminationpowder.text2=Единственный способ его убрать - разместить на нем блок.
 
 academy.caveilluminator.desc=Сделайте Пещерный Осветитель
-academy.caveilluminator.text=The Cave Illuminator will slowly light up all dark areas beneath it in a large area.
+academy.caveilluminator.text=Пещерный Осветитель будет неспешно освещать большую область под собой.
 
 academy.nocturnalpowder.title=Black Light
 academy.nocturnalpowder.desc=Сделайте Ночной Порошок
@@ -1797,8 +1797,8 @@ academy.fysallidic.text=The Fysallidic Prime will suck up all mobs beneath it in
 #Miscellaneous
 
 academy.fontunfucker.title=Исправление шрифтов
-academy.fontunfucker.desc=Learn how to change the font
-academy.fontunfucker.text1=FTB Academy includes the mod Smooth Font, which makes Minecraft's font much clearer. However, it also changes the default font to Verdana which some people might not like.
+academy.fontunfucker.desc=Узнайте, как изменить шрифт
+academy.fontunfucker.text1=FTB Академия содержит мод Smooth Font, которая делает шрифт Minecraft более четким. Также он меняет шрифт по умолчанию на Verdana, который не всем по вкусу.
 academy.fontunfucker.text2=By default, the HOME key will open the Smooth Font menu, where you can change all the font settings you want. You can also easily reset it to the default font there.
 
 academy.tesslocatorbad.title=Передача RF на расстояние
@@ -1807,9 +1807,9 @@ academy.tesslocatorbad.text1=Advanced Energy Tesslocators are fairly confusing t
 academy.tesslocatorbad.text2=Click this Guide link to learn how to move RF over large distances without using them.
 
 academy.instrumentalmobs.title=Давайте соберём группу
-academy.instrumentalmobs.desc=Get any instrument from Instrumental Mobs
+academy.instrumentalmobs.desc=Получите любой инструмент из мода Instrumental Mobs
 academy.instrumentalmobs.text=Instrumental Mobs adds versions of most vanilla monsters, but instead of killing you they play you music\! Their instruments will push you back, but won't damage you. Killing them will have a small chance of dropping their instruments.
-academy.instrumentalmobs.task=Anything from Instrumental Mobs
+academy.instrumentalmobs.task=Любой инструмент из мода Instrumental Mobs
 
 academy.claimexplosions.title=Пзззз щас рванёт
 academy.claimexplosions.desc=Взорвите Крипера в чанке, занятом вами
@@ -1819,9 +1819,9 @@ academy.claimexplosions.text2=This also prevents the Wither from damaging blocks
 academy.elevator.title=Едем вверх
 academy.elevator.desc=Сделайте Лифт
 academy.elevator.text=If you jump on an Elevator you will teleport to the Elevator above it. Likewise, if you sneak on an Elevator you will teleport to the one below it. Color does not matter.
-academy.elevator.task=Any Elevator
+academy.elevator.task=Любой Лифт
 
-academy.exchanging.title=This to That
+academy.exchanging.title=Шило на мыло
 academy.exchanging.desc=Сделайте Exchanging Gadget
 academy.exchanging.text=The Exchanging Gadget replaces blocks in patterns similar to the Building Gadget. Sneak right click on the block you want to replace to, set the mode and range, and then right click to replace.
 
@@ -1840,20 +1840,20 @@ academy.buildinggadget.text=The Bulding Gadget allows you to quickly build simpl
 academy.wateringcan.title=Лейка
 academy.wateringcan.desc=Создайте лейку
 academy.wateringcan.text1=Лейка ускоряет рост растений в определенной области поливая их. Наполнить лейку можно с помощью Shift-ПКМ на блоке воды.
-academy.wateringcan.text2=Higher tier Watering Cans can store more water, have a higher maximum area, and have a higher chance of growing plants.
+academy.wateringcan.text2=Лейки более высокого уровня вмещают больше воды, поливают большую площадь и имеют больший шанс на рост растений.
 
-academy.mguspawnegg.title=Kind of Horrifying Actually
+academy.mguspawnegg.title=Жуткие вещи
 academy.mguspawnegg.desc=Use a Mob Swab to get a Mob Spawn Egg
 academy.mguspawnegg.text1=You can use Mob Grinding Utilities to get Mob Spawn Eggs. This is especially useful for using on Mob Spawners, to set them to spawn that mob.
 academy.mguspawnegg.text2=To begin, right click a Mob Swab on any mob to get its DNA. Then, craft it into GM Chicken Feed and feed that to a Chicken. The Chicken will then lay a Mob Spawn Egg using the DNA.
 academy.mguspawnegg.text3=This kills the Chicken.
 academy.mguspawnegg.task=Any Mob Spawn Egg
 
-academy.slimechannel.title=Gelatinous
+academy.slimechannel.title=Желейно
 academy.slimechannel.desc=Сделайте Жёлоб из Слизи
 academy.slimechannel.text1=Slime Channels will push all entities (items and mobs) in the direction they are facing, including up and along walls.
 academy.slimechannel.text2=They don't block mobs from spawning, so they go great with the Drop of Evil for mob grinders.
-academy.slimechannel.task=Any Slime Channel
+academy.slimechannel.task=Любой Жёлоб из Слизи
 
 academy.craftingtableonastick.title=Верстак + Палка \= ?
 academy.craftingtableonastick.desc=Сделайте Верстак на палочке
@@ -1864,9 +1864,9 @@ academy.tinytorch.desc=Сделайте Крошечный факел
 academy.tinytorch.text=Крошечный факел - дешевая альтернатива обычному Факелу. Но сила его света - 12, а у обычного факела - 14.
 
 academy.foodxl.title=Variety is the Spice of Life
-academy.foodxl.desc=Make something from XL Food Mod
+academy.foodxl.desc=Получите любой предмет из мода XL Food Mod
 academy.foodxl.text=XL Food Mod adds a huge variety of food items. Everything from Cheeseburgers to Spaghetti\!
-academy.foodxl.task=Anything from XL Food Mod
+academy.foodxl.task=Любой предмет из мода XL Food Mod
 
 academy.mobgrindingutils.title=Монстры - Легко\!
 academy.mobgrindingutils.desc=Сделайте Mob Masher и Mob Fan
@@ -1891,9 +1891,9 @@ academy.atmagnet.desc=Сделайте Кольцо Магнетизма
 academy.atmagnet.text1=Uses CF to collect items around you.
 academy.atmagnet.text2=You can enable and disable it by sneak right clicking with it in your hand.
 
-academy.atgrowth.title=Green Thumb
+academy.atgrowth.title=Садовник
 academy.atgrowth.desc=Сделайте Кольцо Роста
-academy.atgrowth.text=While on, the Ring of Growth uses RF to make nearby crops grow faster.
+academy.atgrowth.text=Во включенном состоянии Кольцо Роста использует RF для ускорения роста растений поблизости.
 
 # Tutorials
 
