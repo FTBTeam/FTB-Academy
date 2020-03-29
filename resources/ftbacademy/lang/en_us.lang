@@ -1116,7 +1116,7 @@ academy.canola4.text1=Empowered Oil is the final tier of Canola Oil, and generat
 academy.canola4.text2=Empowered Oil is created by dropping Empowered Canola Seeds into Crystallized Oil that's been poured into the world.
 academy.canola4.text3=Again, you'll probably want to read the Guide to see how to automate this.
 
-academy.numismatic.title=Lods of Emone
+academy.numismatic.title=Money Can be Exchanged for Goods and Services
 academy.numismatic.desc=Make a Numismatic Dynamo
 academy.numismatic.text1=The Numismatic Dynamo allows you to generate RF using currency as fuel. This means Coins of any metal, as well as Emeralds. The more expensive, the more RF. How does that work? Who knows!
 academy.numismatic.text2=The Lapidary Calibration Augment allows the Dynamo to accept Gems instead of Coins. With this, a Diamond will generate 1,200,000 RF!
@@ -1274,7 +1274,7 @@ academy.fastaugments.text1=Auxiliary Coil Augments increase the speed of the mac
 academy.fastaugments.text2=Machines will take less time to work, but use the same amount of RF, increasing the RF/t.
 academy.fastaugments.text3=Dynamos will do the same, generating the same amount of RF using the same amount of fuel but in a shorter amount of time, increasing the RF/t.
 
-academy.specializationaugments.desc=Make a Specialization Augment.
+academy.specializationaugments.desc=Make a Specialization Augment
 academy.specializationaugments.text1=Specialization Augments fundamentally change the function of a machine or dynamo.
 academy.specializationaugments.text2=You can only have one Specialization Augment per machine.
 academy.specializationaugments.task=Specialization Augments
@@ -1364,7 +1364,7 @@ academy.chaosinjectors.text=Chaotic Fusion Crafting Injectors are the highest ti
 
 academy.draconicreactor.title=Base Cleanup
 academy.draconicreactor.desc=Set up a Draconic Reactor
-academy.draconicreactor.text1=The Draconic is the single most dangerous block in the modpack. It is the very definition of risk-reward. If you run it right you can get an insane amount of RF, but if it explodes it will destroy everything that's within 200 blocks of itself.
+academy.draconicreactor.text1=The Draconic Reactor is the single most dangerous block in the modpack. It is the very definition of risk-reward. If you run it right you can get an insane amount of RF, but if it explodes it will destroy everything that's within 200 blocks of itself.
 academy.draconicreactor.text2=It is very complicated to run. Definitely too complicated to explain here, so read the Draconic Evolution Information Tablet to see more information.
 
 # Botania
@@ -1627,7 +1627,7 @@ academy.fosicresonator.text2=Explore the land at night while holding a Fosic Res
 
 academy.spectralrelay.title=Starlight Boost
 academy.spectralrelay.desc=Make a Spectral Relay
-academy.spectralrelay.text1=If you are unable to find the perfect spot, you can use Spectral Relays to give a boost to Starlight. Build the multiblock near the the structure you want to give Starlight to and it will boost it.
+academy.spectralrelay.text1=If you are unable to find the perfect spot, you can use Spectral Relays to give a boost to Starlight. Build the multiblock near the the structure you want to give Starlight to and place a Glass Lens inside, and it will boost it.
 academy.spectralrelay.text2=If Spectral Relays are within 16 blocks of each other, they will lose a lot of efficiency.
 
 academy.illuminationpowder.title=Night Light
@@ -1813,7 +1813,7 @@ academy.instrumentalmobs.task=Anything from Instrumental Mobs
 
 academy.claimexplosions.title=Fizz Goes the Dynamite
 academy.claimexplosions.desc=Get a Creeper to explode in your claimed chunks
-academy.claimexplosions.text1=While in claimed chunks, explosions from Creepers will be completely disabled. They can still deal damage to you, but they won't break any blocks.
+academy.claimexplosions.text1=While in claimed chunks, explosions will be completely disabled. They can still deal damage to you, but they won't break any blocks. This applies to TNT as well.
 academy.claimexplosions.text2=This also prevents the Wither from damaging blocks with its explosions, but it does not stop it from breaking blocks around itself when taking damage.
 
 academy.elevator.title=Going Up

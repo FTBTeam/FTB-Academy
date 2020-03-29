@@ -6,7 +6,7 @@
 
 ![](naga.png)
 The Naga is a giant snake that can be found in the Naga Courtyard, which spawns in most forest biomes.
-It will chase you around and run into you to cause damage. You can hurt it by hitting it anywhere. As it loses health, it will get shorter. There is no special strategy needed, just hit it until it dies.
+It will chase you around and run into you to cause damage. You can hurt it by hitting it anywhere. As it loses health, it will get shorter. There is no special strategy needed, just hit it until it dies. You *can* stun it by blocking its charge with a shield though.
 
 The Naga will drop Naga Scales and a Naga Trophy. Picking these up will allow you to access the Lich Tower.
 

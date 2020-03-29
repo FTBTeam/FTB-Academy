@@ -1,5 +1,10 @@
 # Ore and Fluid Gathering
 
+![Vertical Digger](item:actuallyadditions:block_miner)
+The Vertical Digger uses RF to mine blocks in an area underneath it, all the way down to Bedrock. The default area is 5x5 directly under it, but placing up to 3 Phantom Boosters on top of it will increase the limit to 33x33.
+You can set it to mine all blocks or only ores.
+![](vertical_digger.png)
+
 ![Fluid Pump](item:industrialforegoing:fluid_pump)
 The Fluid Pump will check the fluid directly underneath it and then pump all of that fluid in the working area into its internal tank, where it can be piped out. Pumped fluids will be replaced with Cobblestone.
 ![](pump.png)

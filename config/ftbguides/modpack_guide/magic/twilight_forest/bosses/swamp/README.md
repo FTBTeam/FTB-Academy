@@ -27,9 +27,9 @@ Killing the Minoshroom will net you a Minoshroom Trophy and some Meef Stroganoff
 The Hydra is a giant multi-headed dragon that breathes fire and spawns in the Hydra Lair, which is at the center of Fire Swamps.
 
 If you have not eaten Meef Stroganoff, the Fire Swamp will be too hot to enter, lighting you on fire if you try.
-![](fire_swamp_locked.png)
+![](fire\_swamp\_locked.png)
 
 ![](hydra.png)
-The Hydra will attack by blowing fire at you, or by shooting explosive bombs. It can only take damage by being shot in its open mouth, so try to tempt it to breath fire at you.
+The Hydra will attack by blowing fire at you, or by shooting explosive bombs. You can bounce these back at it to deal damage, or just attack it when its mouths are open.
 
 Once defeated, the Hydra will drop Hydra Chops, a Hydra Trophy, and Firey Blood, which is one thing needed to gain access to the Highlands.

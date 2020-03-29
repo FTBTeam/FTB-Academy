@@ -23,5 +23,10 @@
 		"id": "storage",
 		"title": "Storage",
 		"icon": "item:thermalexpansion:cell"
+	},
+	{
+		"id": "distance",
+		"title": "Transfer over distance",
+		"icon": "item:enderstorage:ender_storage"
 	}
 ]
