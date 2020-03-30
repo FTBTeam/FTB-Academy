@@ -373,7 +373,7 @@ academy.bonsai.text2=You can craft it into a Hopping Bonsai Pot, and it will aut
 academy.ores.title=Diggy Diggy Hole
 academy.ores.desc=Mine for Ores
 academy.ores.text1=Get 16 ore from Vanilla and Thermal Foundation each.
-academy.ores.text2=You can hold the Excavate key (` by default, to the left of the 1 key) and then mine a block to mine all the surrounding blocks of the same type. This uses durability from the tool as if you'd mined it all one by one and also takes a lot of hunger when you use it.
+academy.ores.text2=You can hold the Ultimine key (` by default, to the left of the 1 key) and then mine a block to mine all the surrounding blocks of the same type. This uses durability from the tool as if you'd mined it all manually.
 academy.ores.text3=The item task will scroll through all items that it accepts, and you need a combined 16 of any of them for the task to complete. You can also click the Task to see what items it accepts.
 academy.ores.text4=Once you've gotten a good amount of materials, you should look towards the Technology quests and guide.
 academy.ores.vanillatask=16x Vanilla ores
@@ -1440,6 +1440,7 @@ academy.botaniamagnet.text=While worn in the Bauble slots, the Ring of Magnetiza
 academy.botaniarods.title=Magic Wand
 academy.botaniarods.desc=Make any Rod
 academy.botaniarods.text=Rods allow you to use Mana from your inventory to perform certain actions, such as placing Cobblestone or Dirt, flying through the air, or smelt blocks.
+academy.botaniarods.task=Botania Rods
 
 academy.terrasteel.title=Dancing Lights
 academy.terrasteel.desc=Make some Terrasteel
@@ -1458,10 +1459,10 @@ academy.laputa.text1=The Shard of Laputa will take blocks on the ground and move
 academy.laputa.text2=The higher tiers create bigger islands.
 
 academy.flugel.title=It's Called an Umlaut
-academy.flugel.desc=Make a Flügal Tiara
+academy.flugel.desc=Make a Flügel Tiara
 academy.flugel.text=The Flügel Tiara allows you to fly for a period of time. When you're wearing one, you can see the time remaining above your hunger bar.
 academy.flugel.text2=You can also sprint in the air to dart forward. This has a cooldown.
-academy.flugel.text3=There are several different kinds of Flügal Tiara that you can make that allow you to change the way it looks.
+academy.flugel.text3=There are several different kinds of Flügel Tiara that you can make that allow you to change the way it looks.
 
 academy.lexica2.title=It's Lucky They Understand English
 academy.lexica2.desc=Get the elven Lexica Botania
