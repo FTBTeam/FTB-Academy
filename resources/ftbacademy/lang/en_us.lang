@@ -1721,9 +1721,10 @@ academy.celestialcrystal.desc=Make a Celestial Crystal
 academy.celestialcrystal.text1=Celestial Crystals are stronger and bigger than Rock Crystals. In almost any situation where a recipe calls for a Crystal, a Celestial Crystal will do a better job.
 academy.celestialcrystal.text2=To grow Celestial Crystals, throw some Stardust and a Rock Crystal into some Liquid Starlight and wait. This will create a Celestial Crystal Cluster, which will take time to grow. When it starts to emit white particles, it can be harvested by mining it.
 
-academy.sextant2.desc=Make an Advanced Sextant
-academy.sextant2.text=The Advanced Sextant allows you to locate even more structures, such as Villages, Ocean Monuments, and Nether Fortresses.
-academy.sextant2.task=Advanced Sextant
+academy.sextant2.desc=Make an Augmented Sextant
+academy.sextant2.text1=The Augmented Sextant allows you to locate even more structures, such as Villages, Ocean Monuments, and Nether Fortresses.
+academy.sextant2.text2=Unfortunately, due to the way Astral Sorcery items use NBT, there is no way to make a task that can detect an Augmented Sextant. So instead, this is just a checkmark task. Click it to complete it.
+academy.sextant2.task=Augmented Sextant
 
 academy.ritualanchor.title=Remote Ritual
 academy.ritualanchor.desc=Make a pair of Ritual Anchors
@@ -1774,7 +1775,8 @@ academy.mantleofthestars.text2=The Mantle is attuned in the Iridescent Altar, no
 
 academy.attunedreswands.title=Holly and Phoenix Feather, Eleven Inches
 academy.attunedreswands.desc=Make an Attuned Resonating Wand
-academy.attunedreswands.text=You can attuned Resonating Wands to constellations to give them special powers, like the ability to walk on air, fling yourself, and deal extra damage the more you attack a mob.
+academy.attunedreswands.text1=You can attuned Resonating Wands to constellations to give them special powers, like the ability to walk on air, fling yourself, and deal extra damage the more you attack a mob.
+academy.attunedreswands.text2=Unfortunately, only the Aevitas wand will complete this quest. Apologies!
 academy.attunedreswands.task=Any Attuned Resonating Wand
 
 academy.evershiftingfountain.desc=Make an Evershifting Fountain
@@ -2049,4 +2051,10 @@ academy.overlay.botania.8.5=Sneak right click the Mana Pool with the Wand of the
 academy.overlay.botania.9=Craft Manasteel Ingots by dropping Iron Ingot in the Mana Pool
 academy.overlay.botania.10=Craft an Elementium Ingot by dropping 2 Manasteel Ingot in the Elven Portal
 
+
+# Fixes broken TheOneProbe name in school
 tile.manaFlame.name=Mana Flash
+
+# This perk is broken when VanillaFixes is installed, and we aren't removing that. This will make it so hovering over it will show that it doesn't work.
+perk.astralsorcery.key_step_assist.name=Hiking Boots (DOESN'T WORK)
+perk.astralsorcery.key_step_assist.desc=This perk doesn't work, sorry -Academy devs
