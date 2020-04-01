@@ -2001,7 +2001,7 @@ academy.overlay.welcome.1=Right-click Quest Book in your inventory to begin scho
 academy.overlay.storage.title=Storage
 academy.overlay.storage.1=Go to the Storage Area
 academy.overlay.storage.2=Open the different storage blocks
-academy.overlay.storage.3=Take the Wood to Iron Chest Upgrade out of the Chest
+#(unused) academy.overlay.storage.3=Take the Wood to Iron Chest Upgrade out of the Chest
 academy.overlay.storage.4=Upgrade the Chest by right clicking the Upgrade on it
 academy.overlay.storage.5=Punch the Cobblestone Storage Drawer to take some out
 academy.overlay.storage.6=Punch the Wood Storage Drawer to take some out
@@ -2025,7 +2025,7 @@ academy.overlay.tech.9=Place the Coal Generator on the Iron block
 academy.overlay.tech.10=Insert Coal into the generator
 academy.overlay.tech.11=Place the Leadstone Fluxduct on the Magenta Wool
 academy.overlay.tech.12=Place the Redstone Furnace on the Lapis Lazuli Block
-academy.overlay.tech.13=Take 4 Iron Ore from the Ore Chest and smelt them in the Redstone Furnace
+academy.overlay.tech.13=Take some Iron Ore from the Ore Chest and smelt it in the Redstone Furnace
 
 academy.overlay.as.title=Astral Sorcery
 academy.overlay.as.1=Go to the Astral Sorcery Area
@@ -2050,6 +2050,9 @@ academy.overlay.botania.8=Sneak right click the Mana Spreader with the Wand of t
 academy.overlay.botania.8.5=Sneak right click the Mana Pool with the Wand of the Forest to bind the Spreader to it
 academy.overlay.botania.9=Craft Manasteel Ingots by dropping Iron Ingot in the Mana Pool
 academy.overlay.botania.10=Craft an Elementium Ingot by dropping 2 Manasteel Ingot in the Elven Portal
+
+academy.overlay.finished_school.title=Congratulations!
+academy.overlay.finished_school.1=You've finished the tutorial! Claim the quest reward to teleport to the Overworld.
 
 
 # Fixes broken TheOneProbe name in school
