@@ -1,4 +1,4 @@
-FTB Academy Testing
+FTB Academy
 
 Issues with the modpack as a whole should go in the [Issues page](https://github.com/FTBTeam/FTB-Academy/issues).
 
