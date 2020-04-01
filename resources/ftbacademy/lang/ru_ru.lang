@@ -1,0 +1,2051 @@
+# Ok so I know it says desc where it should now be called subtitle, and it says text where it should be desc, but it wasn't like that when we started and I am NOT changing all those to fix it
+
+# Chapters
+
+academy.gettingstarted.title=Первые шаги
+academy.building.title=Строительство
+
+academy.basics.title=Основы
+
+academy.mainmagic.title=Магия
+academy.botania.title=Botania
+academy.twilightforest.title=Twilight Forest
+academy.astralsorcery.title=Astral Sorcery
+
+academy.mainstorage.title=Хранение вещей
+academy.storage1.title=Базовое хранилище
+academy.transportation.title=Транспортировка
+academy.refinedstorage1.title=Refined Storage - Начинающий
+academy.refinedstorage2.title=Refined Storage - Продвинутый
+academy.refinedstorage3.title=Refined Storage - Эксперт
+
+academy.maintechnology.title=Технологии
+academy.technology1.title=Технологии - Начинающий
+academy.technology2.title=Технология - Продвинутый
+academy.technology3.title=Технология - Эксперт
+
+academy.misc.title=Прочие задания
+
+academy.clickthis.task=Нажми меня
+
+
+#Reward Tables
+academy.ticonmodifiers.rewards=Модификаторы Tinkers' Construct
+academy.ticonmodifiers.lapisreward=Модификатор удачи
+academy.ticonmodifiers.redstonereward=Модификатор скорости
+
+academy.ores.rewards=Руды
+academy.mysticalpetals.rewards=Мистический лепесток
+academy.mobmasher.rewards=Модификаторы Mob Masher
+academy.manamats.rewards=Мана ингредиенты
+academy.elfmats.rewards=Эльфийские ингредиенты
+academy.ingots.rewards=Слитки
+academy.scepters.rewards=Посохи
+academy.TFfirethings.rewards=Светлячки
+academy.fluiducts.rewards=Жидкостные трубы
+academy.itemducts.rewards=Предметные трубы
+academy.iflenses.rewards=Лазерные линзы
+academy.passivemobs.rewards=Дружелюбные мобы
+academy.impulseitemducts.rewards=Импульсная предметная труба
+academy.signalumitemducts.rewards=Колеблющаяся предметная труба
+academy.signalumimpulse.rewards=Покрытая сигналовая импульсная предметная труба
+academy.hardenedfluiducts.rewards=Усиленная жидкостная труба
+academy.signalumfluiducts.rewards=Покрытая флаксом жидкостная труба
+academy.laminarfluiducts.rewards=Сверхпластичная жидкостная труба
+academy.elevators.rewards=Лифты
+academy.meats.rewards=Мясо
+academy.rangeaddons.rewards=Улучшения радиуса действия
+academy.drillaugments.rewards=Улучшения бура
+academy.coins.rewards=Монеты
+academy.jetpacktrails.rewards=Следы реактивного ранца
+
+academy.swordenchants1.rewards=Зачаровывание меча 1
+academy.looting1.reward=Добыча II
+academy.sharpness1.reward=Острота III
+academy.reaper1.reward=Жнец II
+
+academy.swordenchants2.rewards=Зачаровывание меча 2
+academy.looting2.reward=Добыча IV
+academy.sharpness2.reward=Острота VI
+academy.reaper2.reward=Жнец V
+
+academy.bowenchants1.rewards=Зачаровывание лука 1
+academy.power1.reward=Сила III
+academy.punch1.reward=Отбрасывание I
+
+academy.bowenchants2.rewards=Зачаровывание лука 2
+academy.power2.reward=Сила VI
+academy.punch2.reward=Отбрасывание III
+
+academy.helmenchants.rewards=Зачаровывание шлема
+academy.chestenchants.rewards=Зачаровывание кирасы
+academy.legenchants.rewards=Зачаровывания поножей
+academy.bootenchants.rewards=Зачаровывания ботинок
+
+academy.depthstr1.reward=Подводная ходьба II
+academy.feathfall1.reward=Невесомость IV
+academy.frostwalk1.reward=Ходьба по воде
+
+academy.aquaaffin1.reward=Родство с водой
+academy.resp1.reward=Подводное дыхание II
+
+academy.prot1.reward=Защита II
+academy.fireprot1.reward=Огнеупорность III
+academy.blastprot1.reward=Взрывоустойчивость III
+academy.projprot1.reward=Защита от снарядов III
+academy.thorns1.reward=Шипы II
+
+academy.prot2.reward=Защита IV
+academy.fireprot2.reward=Огнеупорность V
+academy.blastprot2.reward=Взрывоустойчивость V
+academy.projprot2.reward=Защита от снарядов V
+academy.thorns2.reward=Шипы IV
+
+academy.depthstr2.reward=Подводная ходьба IV
+academy.frostwalk2.reward=Ходьба по воде III
+
+academy.brightconstellations.rewards=Яркие созвездия
+academy.discidia.reward=Discidia
+academy.armara.reward=Armara
+academy.vicio.reward=Vicio
+academy.aevitas.reward=Aevitas
+academy.evorsio.reward=Evorsio
+
+academy.dimconstellations.rewards=Тусклые созвездия
+academy.bootes.reward=Bootes
+academy.fornax.reward=Fornax
+academy.horologium.reward=Horologium
+academy.lucerna.reward=Lucerna
+academy.mineralis.reward=Mineralis
+academy.octans.reward=Octans
+academy.pelotrio.reward=Pelotrio
+
+academy.faintconstellations.rewards=Слабые созвездия
+academy.alcara.reward=Alcara
+academy.gelu.reward=Gelu
+academy.ulteria.reward=Ulteria
+academy.vorux.reward=Vorux
+
+academy.coloredlenses.rewards=Цветные линзы
+academy.orangelens.reward=Воспламенение
+academy.yellowlens.reward=Слом
+academy.greenlens.reward=Рост
+academy.redlens.reward=Урон
+academy.pinklens.reward=Восстановление
+academy.bluelens.reward=Толчок
+academy.purplelens.reward=Спектр
+
+academy.monsterspawneggs.rewards=Яйца призывания монстров
+
+#Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
+
+#Basics
+
+academy.welcome.title=Добро пожаловать в FTB Academy!
+academy.welcome.desc=Как работают задания
+academy.welcome.text1=Добро пожаловать в FTB Academy!
+academy.welcome.text2=Эта сборка модов предназначена для обучения новых игроков игре в Minecraft с модами.
+academy.welcome.text3=Задания проведут вас шаг за шагом по распространенным модам. В FTB Руководстве содержится более подробная информация.
+academy.welcome.reward=Прочитайте учебник по Школе
+
+academy.introJEI.title=Поиск предметов и рецептов
+academy.introJEI.desc=Научитесь пользоваться JEI
+academy.introJEI.text1=Моды добавляют в Майнкрафт множество новых блоков и предметов. Сложно запомнить столько рецептов на крафт. К счастью, есть мод "Just Enough Items"!
+academy.introJEI.text2=Справа от инвентаря находится список всех блоков и предметов в игре. Если навести курсор и нажать R - отобразится рецепт на крафт. Если нажать U - отобразится использование предмета в рецептах.
+academy.introJEI.text3=Ниже инвентаря находится строка поиска.
+academy.introJEI.text4=При двойном клике на строке искать будет в вашем инвентаре.
+academy.introJEI.reward=Прочитайте учебник по JEI
+
+academy.introstorage.title=Основы хранения
+academy.introstorage.desc=Научитесь основам хранения
+academy.introstorage.text=Существует множество модов, облегчающих хранение ваших предметов.
+academy.introstorage.task=Войдите в комнату Storage
+
+academy.introgenstorage.title=Сундуки
+academy.introgenstorage.desc=Откройте сундуки и ящики
+academy.introgenstorage.text1=Железные сундуки и Ящики хранения обладают хорошей вместительностью.
+academy.introgenstorage.text2=Существует несколько уровней сундуков и ящиков, продвинутые уровни вмещают больше.
+academy.introgenstorage.task1=Откройте Железный сундук
+academy.introgenstorage.task2=Откройте Алмазный сундук
+academy.introgenstorage.task3=Откройте Малый ящик для хранения
+academy.introgenstorage.task4=Откройте Большой ящик для хранения
+
+academy.introupgradechest.title=Улучшение сундуков
+academy.introupgradechest.desc=Улучшите сундук до Железного сундука
+academy.introupgradechest.text=Откройте сундук справа и заберите "Улучшение из деревянного в железный сундук". Используйте его на сундуке для улучшения.
+
+academy.introbulkstorage.title=Массовое хранение
+academy.introbulkstorage.desc=Посмотрите на Storage Drawers
+academy.introbulkstorage.text1=Ящики прекрасно подходят для хранения большого количества одинаковых предметов.
+academy.introbulkstorage.text2=Используйте предмет на ящике, чтобы поместить предмет, который вы держите. Удерживайте правую кнопку мыши, чтобы перенести в ящик все подобные предметы из вашего инвентаря.
+academy.introbulkstorage.text3=Клик левой кнопкой забирает предмет из ящика, Shift-клик забирает стак предметов.
+academy.introbulkstorage.text4=Для получения подсказки наведите на задания сверху.
+academy.introbulkstorage.task1=Заберите булыжник из Ящика справа
+academy.introbulkstorage.task2=Заберите дерево из Ящика в центре
+academy.introbulkstorage.task3=Поместите Кусочек железа в Уплотняющий ящик справа, заберите из него Блок железа
+
+academy.introdigitalstorage.title=Цифровое хранилище
+academy.introdigitalstorage.desc=Посмотрите на Refined Storage
+academy.introdigitalstorage.text1=Refined Storage позволяет хранить множество различных предметов.
+academy.introdigitalstorage.text2=Предметы хранятся на Дисках, диски вставляются в Привод. Просмотреть содержимое дисков можно через Терминал.
+academy.introdigitalstorage.text3=Refined Storage не ограничено количеством слотов, как обычные сундуки. Вместимость хранилища определяется размером Дисков.
+academy.introdigitalstorage.text4=Последнее задание выдало вам Диск Хранения. Откройте Привод и вставьте в него Диск. Затем откройте Терминал и заберите Ведро.
+academy.introdigitalstorage.task1=Откройте Терминал
+academy.introdigitalstorage.task2=Откройте Терминал с верстаком
+
+academy.introfluidstorage.title=Хранение жидкостей
+academy.introfluidstorage.desc=Опустошите ведро с водой
+academy.introfluidstorage.text1=Кроме модов для хранения предметов существуют и моды для хранения жидкостей.
+academy.introfluidstorage.text2=Блоки, предназначенные для хранения жидкостей, зачастую содержат слова "Танк" или "Резервуар" в своём имени. Поищите в JEI по этим словам.
+academy.introfluidstorage.text3=Переносной резервуар имеет несколько уровней, повышение уровня увеличивает вместимость.
+academy.introfluidstorage.text4=Кликните ПКМ на левом резервуаре, чтобы забрать из него воду. Потом кликните ПКМ на правом, чтобы поместить воду в него.
+
+academy.introautomation.title=Введение в Автоматизацию
+academy.introautomation.desc=Научитесь основам автоматизации
+academy.introautomation.text1=Недостаточно просто складировать предметы или жидкости, для автоматического производства их надо перемещать.
+academy.introautomation.text2=Простейший способ переместить предметы или жидкость - трубы. Предметные трубы перемещают предметы. Жидкостные трубы - жидкости.
+academy.introautomation.text3=Сервомеханизмы используются для извлечения из сундуков или цистерн. Предметы или жидкости автоматически поступят в ближайший блок, который сможет их принять.
+academy.introautomation.task=Войдите в комнату Automation
+
+academy.introfilters.title=Сортировка
+academy.introfilters.desc=Настройте фильтры
+academy.introfilters.text1=Фильтры могут быть использованы для ограничения предметов, которые попадут в блок из трубы. Возможно задание черного и белого списка в фильтре.
+academy.introfilters.text2=Белый список позволяет пройти только указанным предметам. Черный список позволяет пройти всем предметам, кроме указанных.
+academy.introfilters.text3=• Добавьте руду в белый список на правом фильтре.
+academy.introfilters.text4=• Добавьте землю в белый список на среднем фильтре.
+academy.introfilters.text5=• Добавьте руду и землю в черный список на левом фильтре.
+academy.introfilters.text6=Включите рычаг на сервомеханизме, предметы будут извлечены из ящика слева и будут перемещены в ящики справа согласно установленным фильтрам.
+academy.introfilters.task1=Настройте общий фильтр
+academy.introfilters.task2=Настройте фильтр для земли
+academy.introfilters.task3=Настройте фильтр для руды
+
+academy.introfluidtransfer.title=Перекачка жидкостей
+academy.introfluidtransfer.desc=Перекачайте воду
+academy.introfluidtransfer.text1=Жидкостные трубы перекачивают жидкость, так же как предметные трубы передают предметы.
+academy.introfluidtransfer.text2=Переносной резервуар может автоматически подавать жидкость в блок под ним. Используйте Серповидный молот на верхнем резервуаре, чтобы перекачать воду в нижний резервуар.
+academy.introfluidtransfer.text3=Вы можете настроить Сервомеханизм на работу без сигнала красного камня. Откройте экран сервомеханизма, и нажмите кнопку с Красным камнем справа. Установите режим Игнорировать или Работать при слабом сигнале (что означает работу при отсутствии сигнала).
+
+academy.introtech.title=Введение в Технологию
+academy.introtech.desc=Научитесь основам Технологии
+academy.introtech.text1=Техно-моды являются важнейшей частью FTB мод-паков. Эти задания позволят вам изучить их основы.
+academy.introtech.task=Войдите в комнату Technology
+
+academy.introgen.title=Выработка Энергии
+academy.introgen.desc=Используйте Угольный генератор
+academy.introgen.text1=Большинство техно-модов используют RF. RF подобно электричеству.
+academy.introgen.text2=Генераторы вырабатывают RF. Угольный генератор использует топливо, подходящее для печки, для получения RF.
+academy.introgen.text3=Поместите Угольный генератор на Блок Железа. Поместите Уголь в генератор, чтобы начать выработку RF.
+academy.introgen.task=Поместите Генератор на Блок Железа
+
+academy.intropowertransfer.title=Передача Энергии
+academy.intropowertransfer.desc=Поместите Флаксовую трубу
+academy.intropowertransfer.text1=Можно обойтись размещением генераторов возле машин. Но, в целом, это не самая лучшая идея.
+academy.intropowertransfer.text2=Флаксовые трубы, а также другие кабеля, позволяют передавать энергию от генераторов к машинам.
+academy.intropowertransfer.text3=Поместите Флаксовую трубу на Блок Шерсти.
+academy.intropowertransfer.task=Поместите Флаксовую трубу на Блок Сиреневой Шерсти
+
+academy.intromachines.title=Использование энергии
+academy.intromachines.desc=Используйте Редстоуновую Печь
+academy.intromachines.text1=Генераторы вырабатывают энергию, которую вы можете использовать в своих целях. Существует множество машин, выполняющих крайне полезные функции за счёт RF.
+academy.intromachines.text2=Редстоуновая печь использует RF для переплавки предметов. Работает как обычная Печь, только потребляет RF вместо топлива.
+academy.intromachines.text3=Поместите Редстоуновую печь на Блок Ляписа. Используйте её для переплавки Измельченного Железа.
+academy.intromachines.task=Поместите Редстоуновую Печь на Блок Ляписа
+
+academy.introenergystorage.title=Хранение Энергии
+academy.introenergystorage.desc=Разместите и настройте Энергетическую Ячейку
+academy.introenergystorage.text1=Энергетическая Ячейка хранит RF. Лучше всего ставить её между генераторами и машинами. Таким образом для машин будет доступен запас энергии.
+academy.introenergystorage.text2=Шифт-ПКМ Серповидным Молотом на средней Флаксовой трубе и поместите Ячейку на освободившееся место.
+academy.introenergystorage.text3=Откройте Энергетическую Ячейку и кликните на шестеренке справа. В открывшейся закладке вы можете настроить поведение граней ячейки.
+academy.introenergystorage.text4=Клик на грани переключает режим между вводом (синяя), выводом (красная) и не активной (желтая). Шифт-ЛКП на центральной грани чтобы отключить все грани Ячейки. Настройте Ячейку, чтобы она принимала энергию от генератора и выдавала энергию Редстоуновой Печи.
+academy.introenergystorage.task=Замените среднюю Флаксовую трубу на Энергетическую Ячейку и настройте её
+
+academy.introtechlast.title=Плавим энергией
+academy.introtechlast.desc=Переплавьте Железную Руду
+academy.introtechlast.text=Возьмите Железную Руду из сундука и переплавьте в Редстоуновой Печи.
+
+academy.introastralsorcery.title=Введение в Astral Sorcery
+academy.introastralsorcery.desc=Научитесь основам Astral Sorcery
+academy.introastralsorcery.text=Astral Sorcery это магический мод направленный на укрощение силы звездного света и созвездий.
+academy.introastralsorcery.task=Войдите в комнату Astral Sorcery
+
+academy.introstarlight.title=Используем Звёздный свет
+academy.introstarlight.desc=Сделайте Резонирующий жезл
+academy.introstarlight.text1=Множество рецептов в этом моде используют Звёздный свет в дополнение к обычным ингредиентам. Единственный способ использования Звёздного света в начале игры - поставить верстак возле Летающего Кристалла.
+academy.introstarlight.text2=Резонирующий жезл используется для активации блоков Astral Sorcery. Кроме того, он показывает расположение Горной Кристальной Руды под землей.
+academy.introstarlight.text3=Поместите Верстак на Блок Шерсти возле Летающего Кристалла и сделайте Резонирующий жезл. Вы можете посмотреть рецепт жезла в JEI, или же в Секции Tasks на этом экране.
+
+academy.introlct.title=Собираем Звёздный Свет
+academy.introlct.desc=Сделайте Светящийся Верстак
+academy.introlct.text1=Светящийся Верстак собирает Звёздный свет, если находится под ночным небом. Кроме того, он может использовать силу Летающего Кристалла, если тот есть неподалёку.
+academy.introlct.text2=Для крафта на Светящемся Верстаке - разместите ингредиенты крафта, как обычно. Кроме того, убедитесь, что хватает Звёздного света.
+academy.introlct.text3=Если на Светящемся Верстаке хватает предметов и Звездного света, согласно рецепту, то используйте Резонирующий Жезл на верстаке для запуска процесса.
+
+academy.introilumpowder.title=Крафтим предметы используя Звездный Свет
+academy.introilumpowder.desc=Сделайте Осветительный Порошок
+academy.introilumpowder.text1=Осветительный порошок - один из многих предметов, которые можно сделать с помощью Звёздного Света. Вы можете поместить его где угодно и он будет освещать окружающее пространство, при этом не занимая места.
+academy.introilumpowder.text2=Поместите Светящийся Верстак на Блок Кварца и сделайте Осветительный Порошок.
+academy.introilumpowder.text3=Напоминание: используйте Резонирующий Жезл на верстаке для начала крафта.
+
+academy.introbotania.title=Введение в Ботанию
+academy.introbotania.desc=Научитесь основам Botania
+academy.introbotania.text1=Botania - техно-мод, скрывающийся под маской магического.
+academy.introbotania.text2=В этом моде вы будете использовать цветы для генерации и манипуляции маной. Мана используется для крафта.
+academy.introbotania.task=Войдите в комнату Botania
+
+academy.intromanagen.title=Генерация маны
+academy.intromanagen.desc=Сделайте Пламя Края
+academy.intromanagen.text1=Магические цветы создаются в Лепестковом Аптекаре. Наполните его водой с помощью ведра, бросьте в него лепестки согласно рецепта на Пламя Края, а затем бросьте Семена Пшеницы, чтобы завершить крафт.
+academy.intromanagen.text2=Можно либо бросать предметы в Лепестковый Аптекарь, либо ПКМ лепестком, чтобы поместить его в Лепестковый Аптекарь. Shift-ПКМ пустой рукой заберет обратно последний помещенный предмет.
+academy.intromanagen.text3=Пламя Края генерирует ману, если рядом с ним бросить предмет, который может быть использован в Печке в качестве топлива. Если посадить этот цветок рядом с Распространителем Маны - мана поступит сразу в распространитель.
+academy.intromanagen.text4=После изготовления Пламени Края посадите его на самый светлый Блок Травы. Бросьте рядом немного Угля и цветок начнёт вырабатывать ману.
+
+academy.intromanatransfer.title=Храним и Перемещаем ману
+academy.intromanatransfer.desc=Поместите ману в Бассейн Маны
+academy.intromanatransfer.text1=Распространители Маны используются для передачи маны, а Бассейны Маны используются для её хранения.
+academy.intromanatransfer.text2=Шифт-ПКМ Посохом Леса на Распространителе Маны, а затем тоже самое на Бассейне Маны, чтобы привязать распространитель к бассейну.
+academy.intromanatransfer.text3=Мана из Распространителя Маны начнёт поступать в Бассейн Маны.
+academy.intromanatransfer.task=Наполните Бассейн Маны
+
+academy.intromanasteel.title=Крафт с маной
+academy.intromanasteel.desc=Сделайте Манасталь
+academy.intromanasteel.text1=Некоторые предметы могут быть получены, если бросить ингредиенты в Бассейн Маны, в котором есть мана. Для крафта будет использовано некоторое количество маны.
+academy.intromanasteel.text2=Бросьте Слиток Железа в ману и он превратится в Слиток манастали.
+
+academy.introelementium.title=Торговля с Эльфами
+academy.introelementium.desc=Получите Элементий
+academy.introelementium.text1=В ходе прогресса в Botania Вы сделаете Портал в Эльфхейм. Принцип работы которого похож на Бассейн маны.
+academy.introelementium.text2=Вы можете бросить в портал некоторые предметы и получить что-то взамен. Если брошенный предмет не является частью рецепта, то он будет потерян.
+
+academy.introfinish.title=Выпускной!
+academy.introfinish.desc=Отправляйтесь в Верхний Мир
+academy.introfinish.text=Теперь, по завершению Основ, вы можете отправиться в Верхний Мир и начать играть по-настоящему!
+academy.introfinish.reward=Телепортируйтесь в Верхний Мир
+
+#Getting Started
+
+academy.overworld.title=Да начнутся Игры!
+academy.overworld.desc=Начните настоящую игру
+academy.overworld.text=Теперь, по завершению Школы, вы можете начать играть по-серьезному.
+academy.overworld.reward=Прочитайте руководство по JourneyMap
+
+academy.timber.title=Дерррррево!
+academy.timber.desc=Добудьте древесину
+academy.timber.text1=Срубите дерево. Для задания надо 4 любых бревна.
+academy.timber.task=4x любой Древесины
+
+academy.tinkering.title=Починяем примус
+academy.tinkering.desc=Создайте несколько блоков из Tinkers' Construct
+academy.tinkering.text=Инструменты из Tinkers' Construct уникальны. Они не исчезают при поломке, а остаются в инвентаре и ждут починки. Также у них есть особенности и модификаторы. Механизм похож на зачаровывание, то вместо опыта используются ингредиенты. Кроме того, можно заменить часть инструмента без необходимости создания нового!
+academy.tinkering.text2=Подробнее об этом моде читайте в разделе "Making Tools" на странице "Tinkers' Construct" в Руководстве. Вы также можете прочитать книгу «Материалы и Вы».
+
+academy.smeltery.title=Горячая штучка
+academy.smeltery.desc=Постройте Плавильню
+academy.smeltery.text1=Плавильня позволяет вам плавить металл. Из расплавленного металла можно получить части инструментов, блоки, слитки и т. д. В FTB Руководстве и в книге "Материалы и Вы" описано, как работает Плавильня.
+academy.smeltery.text2=Этих блоков хватит на создание плавильни на 9 блоков руды.
+
+academy.ticoncasts.title=Манипулируем расплавленным металлом
+academy.ticoncasts.desc=Сделайте каждую из Отливок
+academy.ticoncasts.text1=Теперь, когда у вас есть Плавильня, настало время найти применение для расплавленных металлов.
+academy.ticoncasts.text2=Металлические части инструментов получаются путем залития расплавленного металла в Отливку. Отливка получается путём залития части инструмента расплавленной глиной или золотом.
+academy.ticoncasts.text3=Глиняные Отливки намного дешевле, но, одноразовые. Их следует использовать если вам надо сделать небольшое количество частей инструмента.
+academy.ticoncasts.text4=Отливки из золота или алюминиевой бронзы дороже, но многоразовые. Что особенно полезно для Отливки Слитка.
+academy.ticoncasts.task1=Любая Глиняная Отливка
+academy.ticoncasts.task2=Любая обычная Отливка
+
+academy.pickaxe.title=Пора копать
+academy.pickaxe.desc=Создайте Кирку из Tinkers' Construct
+academy.pickaxe.text1=Создайте Кирку из Tinkers' Construct как можно раньше. При копании она будет получать опыт, который можно использовать для добавления дополнительных модификаторов.
+academy.pickaxe.text2=Для создания кирки сделайте Навершие кирки, Рукоять и Крепление из любых материалов. Соедините части вместе на Инженерной Станции.
+academy.pickaxe.text3=Задание будет выполнено при любой комбинации частей кирки.
+academy.pickaxe.task=Любая кирка из Tinkers'
+
+academy.toolforge.title=Куй!
+academy.toolforge.desc=Создайте Кузню из Tinkers' Construct
+academy.toolforge.text1=Кузня позволяет сделать любой инструмент из Tinkers' Construct.
+academy.toolforge.text2=Для выполнения задания подойдёт Кузня из любого материала.
+academy.toolforge.task=Любая Кузня
+
+academy.bonsai.title=Забавные Маленькие Деревья
+academy.bonsai.desc=Сделайте горшок для бонсай
+academy.bonsai.text1=Горшок для бонсай будет сам выращивать деревья из саженцев. Необходима корректная почва под горшком. Собрать "урожай" можно ПКМ рукой с топором.
+academy.bonsai.text2=Горшок может быть улучшен до горшка с воронкой. Он будет сам собирать "урожай" и помещать его в инвентарь под горшком.
+
+academy.ores.title=Копай глубже
+academy.ores.desc=Накопайте руды
+academy.ores.text1=Соберите по 16 руды из оригинального Minecraft и из Thermal Foundation.
+academy.ores.text2=Удерживайте кнопку Excavate (по умолчанию - `) и выкопаете сразу несколько блоков определенного типа. Инструмент потеряет в прочности согласно количеству выкопанных блоков. Также используется сытость\\голод.
+academy.ores.text3=Задача будет выполнена при получении 16 блоков любой руды в каждой категории.
+academy.ores.text4=После того, как вы насобирали достаточно ресурсов - можно начинать прогресс в разделе "Технологии".
+academy.ores.vanillatask=16x руды из оригинального Minecraft'а
+academy.ores.thermaltask=16х руды из Thermal Foundation
+
+academy.seedyplace.title=Сельскохозяйственная революция
+academy.seedyplace.desc=Соберите урожай
+academy.seedyplace.task=Достижение: Поле чудес
+academy.seedyplace.text1=На базе должен быть источник еды. Проще всего еду вырастить!
+academy.seedyplace.text2=При правом клике на созревшем растении вы автоматически его соберете, и посадите заново.
+
+academy.beesandbats.title=Когда мама-моб и папа-моб любят друг друга
+academy.beesandbats.desc=Разведите животных
+academy.beesandbats.task=Достижение: Романтический ужин
+academy.beesandbats.text1=Животные - хороший источник еды и различных материалов.
+academy.beesandbats.text2=Существует множество способов разведения животных. Животные сами съедят еду, брошенную возле них на землю. Для начала вам хватит обычного Раздатчика.
+academy.beesandbats.text3=Вы можете сделать Автоматический Податчик, который будет сам кормить животных едой из своего инвентаря.
+
+academy.chisel.title=Наводим красоту
+academy.chisel.desc=Сделайте Стамеску
+academy.chisel.text1=Мод Chisel добавляет множество декоративных версий обычных блоков.
+academy.chisel.text2=Сделайте Стамеску, откройте её GUI и выберите в инвентаре блок, чтобы посмотреть все варианты его декорирования.
+academy.chisel.text3=Существует три версии Стамески. Обычная Стамеска и Алмазная Стамеска, по существу, одинаковы, кроме прочности. Высокотехнологичная стамеска более продвинута и обладает большей функциональность.
+academy.chisel.text4=Мод Chisel также добавляет много декоративных блоков для наведения красоты на вашей базе. Полный список доступен в JEI. Поищите "@Chisel".
+academy.chisel.task=Любая Стамеска
+
+academy.builderswands.title=Строим проще
+academy.builderswands.desc=Сделайте Строительный Жезл
+academy.builderswands.text1=Строительные жезлы позволяют быстро размещать сразу несколько блоков.
+academy.builderswands.text2=Возьмите жезл в руки и наведите на блок. Подобные блоки будут размещены в местах обозначенных белым контуром, как только вы кликнете правой кнопкой мыши.
+academy.builderswands.text3=Более качественные жезлы могут размещать больше блоков за раз. Каменный и Железный жезлы могут размещать блоки только горизонтально. Алмазный еще и вверх или вниз от блока, на который вы смотрите.
+academy.builderswands.task=Любой Строительный жезл
+
+academy.naturescompass.title=Где, где, где
+academy.naturescompass.desc=Сделайте Nature's Compass
+academy.naturescompass.text1=Найти хорошее место - важнейшая часть строительства хорошей базы. Nature's Compass поможет вам найти нужный биом.
+academy.naturescompass.text2=Для выбора биома ПКМ с Nature's Compass в руке и выберите нужный из списка. При нажатии на Search компас найдёт выбранный биом, при нажатии на Info отобразится дополнительная информация о выбранном биоме.
+
+academy.slimesling.title=Вверх и вниз, и вверх и вниз
+academy.slimesling.desc=Сделайте Slime Sling и Слизневые ботинки
+academy.slimesling.text1=Если рогатку натянуть, а потом отпустить, смотря на землю, метнётесь в противоположном направлении.
+academy.slimesling.text2=Вы отскочите после приземления, если наденете Слизневые ботинки, без повреждения от падения. Это делает их особо полезными при совместном использовании с рогаткой.
+academy.slimesling.text3=Вы можете нажать Shift, чтобы не пружинить. Но тогда может быть больно от падения.
+academy.slimesling.task2=Любые Слизневые ботинки
+academy.slimesling.task1=Любая Slimesling
+
+academy.simplybackpacks.title=Зак-рюк
+academy.simplybackpacks.desc=Сделайте Обычный рюкзак
+academy.simplybackpacks.text1=Рюкзаки хранят предметы в собственном инвентаре. Улучшение рюкзаков позволяет хранить им больше предметов.
+academy.simplybackpacks.text2=Можно назначить клавишу для открытия рюкзака, включая рюкзак в Bauble слоте.
+academy.simplybackpacks.text3=Кроме того, можно назначить клавишу для включения авто-подбора предметов рюкзаком. Shift-ПКМ с рюкзаком в руке для настройки фильтра рюкзака.
+academy.simplybackpacks.task=Любой рюкзак
+
+academy.claimchunk.title=Это МОЯ территория!
+academy.claimchunk.desc=Займите чанк
+academy.claimchunk.text1=Кликните на кнопке с картой в левом верхнем углу инвентаря, чтобы открыть карту с чанками.
+academy.claimchunk.text2=Кликните на чанке, чтобы занять его для своей команды. Игроки из других команд не смогут ставить или ломать блоки в занятом чанке. Кликните ПКМ, чтобы освободить чанк.
+academy.claimchunk.text3=Shift-ЛКМ чтобы сделать чанк постоянно загруженным, даже если вы далеко или оффлайн.
+
+
+
+# Basic Storage
+
+academy.storagedrawers.title=Компактное хранилище
+academy.storagedrawers.desc=Сделайте любой ящик из Storage Drawers
+academy.storagedrawers.text1=Основной ящик вмещает 32 стопки одинаковых предметов. Ящик 1х2 - два предмета по 16 стопок. Ящик 2х2 - 4 предмета по 8 стопок. Ящики можно улучшить для увеличения вместимости.
+academy.storagedrawers.text2=FTB Руководство содержит дополнительную информация о Storage Drawers.
+academy.storagedrawers.task=Ящик из Storage Drawers
+
+academy.drawerstorageupgrade.title=Хранилище повместительней
+academy.drawerstorageupgrade.desc=Сделайте любое Улучшение Хранилища
+academy.drawerstorageupgrade.task=Любое Улучшение Хранилища
+academy.drawerstorageupgrade.text1=Улучшения Хранилища увеличивают максимальное количество предметов, помещающееся в Ящики. Текущее значение доступно в подсказке.
+academy.drawerstorageupgrade.text2=Улучшения высокого уровня не требует предыдущие улучшения. Вы можете иметь 7 улучшений максимального уровня. Что повысит вместимость до 7168 стопок в каждой ячейке Ящика.
+
+academy.drawervoidupgrade.title=Слишком много хорошего
+academy.drawervoidupgrade.desc=Сделайте Пустотное Улучшение
+academy.drawervoidupgrade.text=Пустотное Улучшение уничтожает лишние предметы, не поместившиеся в Ящик. Это особенно полезно для блоков типа Булыжника, хранить излишки которого смысла маловато.
+
+academy.drawercontroller.title=Удалённый доступ
+academy.drawercontroller.desc=Сделайте Контроллер Ящика
+academy.drawercontroller.text1=Контроллер Ящика позволяет получить Воронке или трубам доступ к ящикам.
+academy.drawercontroller.text2=Ящики считаются подключенными к Контроллеру если они его касаются. Даже через другие Ящики.
+
+academy.compactingdrawer.title=И кусочки, и слитки, и блоки. Круто!
+academy.compactingdrawer.desc=Сделайте Уплотняющие Ящики
+academy.compactingdrawer.text1=Уплотняющий ящик отображает предметы в виде кусочка, слитка и блока.
+academy.compactingdrawer.text2=Вместимость зависит от того, что вы в него поместили. Больше всего подходит для хранения металлов или драгоценных камней.
+
+academy.ironchests.title=Где всё это хранить?
+academy.ironchests.desc=Сделайте Железный сундук
+academy.ironchests.text=Мод Iron Chests добавляет несколько новых, вместительных сундуков. Продвинутые сундуки вмещают больше предметов.
+
+academy.chestupgrade.title=Карманы поглубже
+academy.chestupgrade.desc=Сделайте "Улучшение из железного в золотой сундук"
+academy.chestupgrade.text=Эти улучшения могут быть использованы прямо на сундуке. Просто кликните на сундуке подходящим улучшением.
+
+academy.endertank.title=Водопортация
+academy.endertank.desc=Сделайте Цистерну Края
+academy.endertank.text1=Цистерны Края с одинаковой комбинацией цветов содержат одинаковую жидкость. Используйте краситель на белых клавишах на верхней части цистерны, чтобы задать комбинацию.
+academy.endertank.text2=Если использовать Алмаз на вентиле цистерны - то она станет персональной. Персональная цистерна будет связана только с другой персональной цистерной, поставленной тем же игроком.
+academy.endertank.text3=ПКМ на вентиле цистерны пустой рукой чтобы включить или выключить автоподачу жидкости в блок под цистерной.
+academy.endertank.text4=Очевидно, что вам надо две цистерны.
+
+academy.enderchest.title=Расстояние - не преграда!
+academy.enderchest.desc=Сделайте Сундук Края
+academy.enderchest.text1=Сундуки Края с одинаковой комбинацией цветов содержат одинаковые предметы. Используйте краситель на белых клавишах на верхней части цистерны, чтобы задать комбинацию.
+academy.enderchest.text2=Если использовать Алмаз на замке сундука - он станет персональным. И будет связан только с другим персональным сундуком, размещенным тем же игроком.
+academy.enderchest.text3=Очевидно, что вам надо два сундука.
+
+academy.enderpouch.title=Бездонная сумка
+academy.enderpouch.desc=Сделайте Сумку Края
+academy.enderpouch.text1=Сумка Края содержит те же предметы, что и Сундук Края с аналогичной комбинацией цветов. Shift-ПКМ сумкой на сундуке для задания комбинации.
+academy.enderpouch.text2=Сундук Края можно разместить на базе и забирать его содержимое в хранилище. А Сумку Края носить с собой и класть в неё предметы, которые хотите отправить на базу.
+
+academy.portabletank.title=Простейшее хранилище жидкости
+academy.portabletank.desc=Сделайте Переносной Резервуар
+academy.portabletank.text1=Переносной Резервуар - самый простой способ хранения жидкостей. Просто используйте наполненное ведро на нём для переноса жидкости в резервуар. Используйте пустое ведро на нём для забора жидкости.
+academy.portabletank.text2=Переносной Резервуар имеет 5 уровней, и вмещает от 20 до 500 вёдер. Его можно улучшить при помощи Набора Обновления. Кроме того, можно зачаровать Удержание, что увеличит вместимость до 3х раз.
+
+academy.blackholeunit.title=Супермассивная Чёрная Дыра
+academy.blackholeunit.desc=Сделайте Хранилище Чёрной Дыры
+academy.blackholeunit.text=Хранилище Чёрной Дыры вмещает до 2 млрд. единиц одного предмета.
+
+academy.blackholtank.title=Солнце Чёрной Дыры
+academy.blackholtank.desc=Сделайте Резервуар Чёрной Дыры
+academy.blackholtank.text=Резервуар Чёрной Дыры вмещает до 2 млрд. вёдер одной жидкости.
+
+academy.blackholecontroller.title=Галактика М 87
+academy.blackholecontroller.desc=Сделайте Black Hole Controller v2.0
+academy.blackholecontroller.text1=Black Hole Controller v2.0 вмещает 12 Хранилищ или Резервуаров Чёрной Дыры. И позволяет получить к ним доступ по трубам.
+academy.blackholecontroller.text2=Особенно полезно в паре с Внешним Хранилищем из мода Refined Storage.
+
+academy.blackholelabel.title=Чёрная дыра в ящике
+academy.blackholelabel.desc=Сделайте Бирку Чёрной Дыры
+academy.blackholelabel.text=Если поместить Бирку на Хранилище Чёрной Дыры - оно станет похоже на Ящик из Storage Drawers.
+
+academy.storagecrate1.title=Малыш
+academy.storagecrate1.desc=Сделайте Малый Ящик для Хранения
+academy.storagecrate1.text1=Малый Ящик для Хранения имеет 117 ячеек.
+academy.storagecrate1.text2=Если в Ящик положить "Хранилище для хранения ящиков" и сломать Ящик, то предметы останутся в ящике, и не выпадут в окружающий мир. После установки ящика вы снова сможете получить доступ к предметам. Но "Хранилище для хранения ящиков" будет использовано и исчезнет.
+
+academy.storagecrate2.title=Двойные проблемы
+academy.storagecrate2.desc=Сделайте Средний Ящик для Хранения
+academy.storagecrate2.text1=Средний Ящик для Хранения имеет две страницы по 117 ячеек. Итого 234 ячейки.
+academy.storagecrate2.text2=Кликните на стрелки по бокам от инвентаря для перемещения между страницами.
+
+academy.storagecrate3.title=Большущая свалка
+academy.storagecrate3.desc=Сделайте Большой Ящик для Хранения
+academy.storagecrate3.text=Большой Ящик для Хранения имеет три страницы по 117 ячеек. Итого 351 ячейка.
+
+# Going to leave this here just in case we eventually re-add /dank/null/
+# academy.dank.title=/dank/null/
+# academy.dank.desc=Make a /dank/null/
+# academy.dank.text1=The /dank/null/ allows you to hold a large amount of items in a single slot. It will automatically place specific items you pick up into itself, and you can place blocks from it. If a slot is full, it will delete items that try to go into it.
+# academy.dank.text2=Sneak right click to open its GUI and insert items you want to store.
+# academy.dank.text3=While holding in your hand, sneak and scroll to change what item you want to place.
+# academy.dank.text4=Higher tier /dank/null/s have more slots and store more per slot.
+# academy.dank.task=Any /dank/null/
+
+academy.dracchest.title=Драконий клад
+academy.dracchest.desc=Сделайте Сундук Дракона
+academy.dracchest.text=Сундук Дракона имеет 260 ячеек, 5 ячеек под Печку и 3х3 верстак. Вы можете сделать доступными определённые ячейки на определённых сторонах сундука.
+
+# Transportation
+
+academy.hopper.title=Просто, Элегантно, Красиво
+academy.hopper.desc=Сделайте Воронку
+academy.hopper.text1=Ах, Воронка. Забирает предметы из блоков над ней и вставляет их в инвентарь, к которому присоединена. Может быть что-то лучше, чем это?
+
+academy.basicitemtess.title=Лучше, чем Воронка
+academy.basicitemtess.desc=Сделайте Basic Item Tesslocator
+academy.basicitemtess.text1=Item Tesslocators позволяют быстро перемещать предметы на расстояние одного блока. Поместите Tesslocator'ы на разных инвентарях, но в одном и том же блоке. Откройте его пользовательский интерфейс, чтобы изменить настройки.
+academy.basicitemtess.text2=Средняя кнопка настраивает работу на ввод, вывод или оба режима. Ячейки слева используются для фильтрации ввода и вывода. В них можно поместить непосредственно предмет или Item Filter. В ячейки справа можно добавить Светокаменную пыль для ускорения работы, или Алмазы, чтобы Tesslocator перемещал больше одной стопки за раз.
+
+academy.basicfluidtess.title=Воронка для жидкости
+academy.basicfluidtess.desc=Сделайте Basic Fluid Tesslocator
+academy.basicfluidtess.text1=Fluid Tesslocators быстро перемещают жидкости на расстояние одного блока. Поместите Fluid Tesslocator'ы на разные резервуары, но в одном блоке. Откройте его пользовательский интерфейс, чтобы изменить настройки.
+academy.basicfluidtess.text2=Средняя кнопка настраивает работу на ввод, вывод или оба режима. Ячейки слева используются для фильтрации ввода и вывода. В них можно поместить непосредственно ведро с жидкостью или Item Filter. В ячейки справа можно добавить Светокаменную пыль для ускорения работы, или Алмазы, чтобы Tesslocator перемещал больше одного ведра за раз.
+
+academy.itemducts.title=Новшества в перемещении предметов
+academy.itemducts.desc=Сделайте Предметную трубу
+academy.itemducts.text1=Предметные трубы перерезают предметы в любом направлении со скоростью 1 блок в секунду.
+academy.itemducts.text2=Непрозрачные Предметные трубы работают также, просто не отображают перемещаемые предметы. Это может помочь в случае задержек.
+academy.itemducts.task=Предметная труба
+
+academy.densevacuum.title=Приоритетная доставка
+academy.densevacuum.desc=Сделайте Плотную и Вакуумную Предметные Трубы
+academy.densevacuum.text1=Предметы (по умолчанию) будут перемещаться в ближайший пункт назначения при работе Сервомеханизма. То есть, предмет будет пытаться пройти кратчайший путь (каждая Предметная труба добавляет 1 к длине пути).
+academy.densevacuum.text2=Плотная Предметная Труба добавляет 1000 к пути, что понижает приоритет конечной точки.
+academy.densevacuum.text3=Вакуумная Предметная труба вычитает 1000 из длины пути, что повышает приоритет конечной точки.
+academy.densevacuum.task1=Любая Плотная Предметная Труба
+academy.densevacuum.task2=Любая Вакуумная Предметная Труба
+
+academy.basicfluiducts.title=Акведук
+academy.basicfluiducts.desc=Сделайте Основную Жидкостную трубу
+academy.basicfluiducts.text1=Жидкостные трубы используются для передачи жидкости. Основная Жидкостная Труба не может передавать сильно горячие (Лава) или сильно холодные (Ледяной криотеум) жидкости.
+academy.basicfluiducts.text2=Непрозрачные Жидкостные Трубы работают также, просто не отображают перемещаемые жидкости. Это может помочь в случае задержек.
+academy.basicfluiducts.task=Жидкостные трубы
+
+academy.hardenedfluiducts.title=Лавапровод
+academy.hardenedfluiducts.desc=Сделайте Усиленную Жидкостную Трубу
+academy.hardenedfluiducts.text=Усиленные Жидкостные Трубы могут передавать любые жидкости.
+academy.hardenedfluiducts.task=Усиленная жидкостная труба
+
+academy.servo.title=Запускаем
+academy.servo.desc=Создайте Сервомеханизм
+academy.servo.text1=Сервомеханизм извлекает предметы или жидкости из инвентаря или цистерны. Поместите Сервомеханизм на конец трубы, присоединенный к инвентарю или цистерне для начала работы. В зависимости от настроек Сервомеханизма может понадобиться сигнал Красного камня.
+academy.servo.text2=Предметы будут извлечены только если есть, куда из поместить. Жидкости будут извлечены вне зависимости от этого условия.
+academy.servo.text3=Предметы будут пытаться перейти в ближайший инвентарь, в который смогут попасть. Жидкости будут пытаться заполнить всё, что смогут заполнить.
+academy.servo.task=Любой Сервомеханизм
+
+academy.signalumfluiduct.title=Содержит электролит
+academy.signalumfluiduct.desc=Сделай Покрытую Флаксом Жидкостную Трубу
+academy.signalumfluiduct.text=Покрытая Флаксом Жидкостная Труба работает как Усиленная Жидкостная Труба, а также может передавать по 4000 RF в тик.
+academy.signalumfluiduct.task=Покрытая Флаксом Жидкостная Труба
+
+academy.laminar.title=Под давлением
+academy.laminar.desc=Сделайте Сверхпластичную Жидкостную Трубу
+academy.laminar.text1=Сверхпластичная Жидкостная Труба может передавать по сотне вёдер жидкости в секунду после полного заполнения.
+academy.laminar.text2=На заполнение уходит несколько секунд, во время заполнения скорость передачи возрастает.
+academy.laminar.text3=Они работают лучше всего в том случае, когда источник жидкости подаёт жидкость в трубу сам, без помощи Сервомеханизма.
+academy.laminar.task=Сверхпластичная Жидкостная Труба
+
+academy.signalumitemduct.title=Предметный энергопровод
+academy.signalumitemduct.desc=Сделайте Колеблющуюся Предметную Трубу
+academy.signalumitemduct.text=Колеблющуюся Предметная Труба работает как обычная Предметная Труба, а также передает 4000 RF в тик.
+academy.signalumitemduct.task=Колеблющаяся Предметная Труба
+
+academy.impulseitemduct.title=Импульсивный
+academy.impulseitemduct.desc=Сделайте Импульсную предметную трубу
+academy.impulseitemduct.text=Импульсные предметные трубы перемещают предметы быстрее. Скорость достигает 2 блока в секунду.
+academy.impulseitemduct.task=Импульсная предметная труба
+
+academy.signalumimpulseitemduct.title=Длинному имени - длинное название задания
+academy.signalumimpulseitemduct.desc=Сделайте Покрытую Сигналовую Импульсную Предметную Трубу
+academy.signalumimpulseitemduct.text=Покрытая Сигналовая Импульсная Предметная Труба работает как обычная Импульсная Предметная Труба, а также передает по 4000 RF в тик.
+academy.signalumimpulseitemduct.task=Покрытая Сигналовая Импульсная Предметная Труба
+
+academy.fluidlaser.title=Быстрая перекачка жидкости
+academy.fluidlaser.desc=Сделайте Реле Жидкостного Лазера
+academy.fluidlaser.text1=Реле Жидкостного Лазера осуществляет мгновенную беспроводную передачу бесконечного количества жидкости.
+academy.fluidlaser.text2=Поместите Реле Жидкостного Лазера на блок, откуда надо забрать жидкость и на блок, куда надо поместить жидкость. При необходимости, добавьте промежуточные Реле.
+academy.fluidlaser.text3=Для связывания Релеев - кликните на одном и на другом Лазерным Ключом.
+academy.fluidlaser.text4=Чтобы переключить между вводом и выводом, щелкните на нём правой кнопкой мыши с помощью компаса.
+
+academy.itemlaser.title=Материя в Энергию и обратно
+academy.itemlaser.desc=Сделайте Предметное Лазерное Реле
+academy.itemlaser.text1=Предметное Лазерное Реле осуществляет беспроводную передачу предметов.
+academy.itemlaser.text2=Разместите Предметное Лазерное Реле на всех сундуках, которые должны быть частью системы.
+academy.itemlaser.text3=Поместите Интерфейс Предмета на инвентарь, куда вы будете помещать предметы, и поместите Предметное Лазерное Реле на этот интерфейс. Соедините все реле при помощи Лазерного Ключа.
+academy.itemlaser.text4=Предметы, которые забираются или попадают в Интерфейс Предмета будут получены или помещены в соответствующий инвентарь. Инвентарь с наибольшим приоритетом будет использован первым. Используйте Компас для изменения приоритета.
+
+academy.advanceditemlaser.title=Лазерная сортировка
+academy.advanceditemlaser.desc=Сделайте Расширенное Предметное Лазерное Реле
+academy.advanceditemlaser.text1=Расширенное Предметное Лазерное Реле работает как обычное Предметное Лазерное Реле, за исключением нескольких добавленных функций.
+academy.advanceditemlaser.text2=В графическом интерфейсе вы можете установить белый список/черный список для того, что разрешено забирать или вставлять в инвентарь. Вы можете нажать на кнопку S, чтобы добавить в список содержимое текущего инвентаря.
+
+academy.ifconveyorbelts.title=Сборочный конвейер
+academy.ifconveyorbelts.desc=Сделайте Конвейерную Ленту
+academy.ifconveyorbelts.text1=Конвейерные ленты могут перемещать предметы, существ и жидкости.
+academy.ifconveyorbelts.text2=По умолчанию лента может перемещать только мобов, игроков и брошенные на неё предметы. Используйте Улучшение конвейера, чтобы лента смогла забирать или помещать предметы в блоки.
+academy.ifconveyorbelts.text3=Существуют и другие улучшения конвейера. Если применить Пластик на Конвейерной ленте - игроки не смогут поднять предметы с ленты. Если применить Светокаменную пыль - предметы будут перемещаться быстрее.
+academy.ifconveyorbelts.task2=Улучшение Конвейера: Вставка и Извлечение
+
+academy.viaducts.title=В дальние дали
+academy.viaducts.desc=Создайте Виадук
+academy.viaducts.text1=Виадуки позволяют вам передавать себя! Игроки перемещаются по Виадукам со скоростью 10 блоков в секунду.
+academy.viaducts.text2=Разместите Виадуки от старта до финиша. ПКМ на финише Серповидным Молотом. Кликните на старте для изменения настроек или выбора финиша.
+
+academy.longrange.title=Скоростное шоссе
+academy.longrange.desc=Сделайте Виадук большой дальности
+academy.longrange.text1=Виадуки большой дальности в два раза быстрее обычных виадуков, что делает их особо полезными для путешествий на большие расстояния.
+academy.longrange.text2=Разместите Виадуки Большой Дальносте между двумя Соединяющими Виадуками Большой Дальности. А затем присоедините обычные Виадуки к ним. Виадуки будут соединены через Виадуки Большой Дальности.
+
+academy.dislocator.title=ПриёмоПорталоПередатчик
+academy.dislocator.desc=Сделайте Телепортер
+academy.dislocator.text1=Телепортер позволяет вам телепортироваться откуда угодно к привязанному местоположению.
+academy.dislocator.text2=Shift-ПКМ Телепортером для привязки к текущему месту. Кликните правой кнопкой мышки, чтобы переместиться в данное место откуда угодно.
+academy.dislocator.text3=Телепортер имеет всего 20 зарядов. Кроме того, вам будет нанесено небольшое количество урона.
+
+academy.disrep.title=Продвинутые порталы
+academy.disrep.desc=Сделайте Телепортационный приёмник
+academy.disrep.text1=Вы можете сделать раму любой формы из Заряженного Обсидиана. Поместите Телепортационный приёмник в раму. Вставьте привязанный Телепортер в приёмник. Получится портал в то место, куда привязан Телепортер.
+academy.disrep.text2=В этом случае прочность Телепортера не будет расходоваться.
+
+academy.disped.title=Портальный постамент
+academy.disped.desc=Сделайте Пьедестал Телепортации
+academy.disped.text1=Если вы нажмете правой кнопкой мыши на Пьедестал Телепортации с привязанным Телепортером в нём, то вы будете телепортированы в то место, куда привязан Телепортер.
+academy.disped.text2=В этом случае прочность Телепортера не будет расходоваться.
+academy.disped.text3=Если у вас есть пара Телепортеров привязанных в разные точки, то разместив по Пьедесталу в этих точках вы сможете телепортироваться туда и обратно.
+
+academy.advdislocator.title=Портуемся
+academy.advdislocator.desc=Сделайте Улучшенный Телепортер
+academy.advdislocator.text1=Улучшенный Телепортер может иметь до 100 привязанных точек и использует Эндер-Жемчуг вместо прочности.
+academy.advdislocator.text2=Shift-ПКМ чтобы открыть интерфейс. В нём вы можете добавить Эндер-Жемчуг, запомнить точку, и задать ей имя.
+academy.advdislocator.text3=Вы можете держать Shift и прокручивать при удерживании Продвинутого Телепортера в вашей руке, чтобы изменить место назначения. Затем кликните правой кнопкой мыши для телепортации в выбранную точку.
+
+academy.phantomface.title=Варп труба
+academy.phantomface.desc=Сделайте Призрачное Лицо
+academy.phantomface.text1=Призрачное Лицо симулируют инвентарь, к которому привязан. Вы можете забирать и вставлять предметы в инвентарь через Призрачное Лицо.
+academy.phantomface.text2=Разместите Призрачное Лицо в пределах 16ти блоков от инвентаря, с которым хотите его связать. Используйте Фантомный Разьем на этом блоке, затем на Призрачном Лице.
+
+academy.phantombooster.title=РАСширитель
+academy.phantombooster.desc=Сделайте Призрачный Ускоритель
+academy.phantombooster.text=Вы можете поместить до трёх Призрачных Ускорителя на Призрачном Лице для увеличения дальности работы.
+
+academy.phantomblocks.title=Призрачная Энергия
+academy.phantomblocks.desc=Сделайте продвинутые Призрачные блоки
+academy.phantomblocks.text1=Призрачное Энергетическое Лицо и Призрачное Жидкостное Лицо работают как обычное Призрачное Лицо, но для энергии и жидкости.
+academy.phantomblocks.text2=Призрачное Лицо Редстоун работает в одном направлении. Если блок, к которому оно привязано, имеет Сигнал Красного Камня, то он передаст его на Призрачное Лицо Редстоун.
+academy.phantomblocks.task=Продвинутые Призрачные блоки
+
+academy.xpteleporter.desc=Сделайте XPTeleporter
+academy.xpteleporter.text1=Поместите два XPTeleporter и свяжите их картой XPT Link Card, щелкнув правой кнопкой мыши на обоих. Если нажать Shift стоя на одном из них, то вас телепортирует к другому.
+academy.xpteleporter.text2=Чем больше расстояние, тем больше опыта расходуется.
+academy.xpteleporter.text3=Телепортер показывает координаты связанного телепортера. Переименуйте XPTeleporter на наковальне, и тогда вместо координат будет показано это имя.
+
+
+# Refined Storage - Beginner
+
+academy.controller.title=Умник
+academy.controller.desc=Сделайте Контроллер
+academy.controller.text1=Контроллер является основой Refined Storage.
+academy.controller.text2=Каждый блок в сети Refined Storage должен быть подключен к Контроллеру. Либо с помощью кабелей, либо путем установки рядом с Контроллером.
+academy.controller.text3=Refined Storage требует RF для работы. Подавать RF надо в Контроллер.
+academy.controller.text4=В каждой Refined Storage сети может быть только один Контроллер.
+
+academy.diskdrive.desc=Сделайте Привод
+academy.diskdrive.text=Предметы хранятся на Дисках, диски вставляются в Привод. В один привод можно вставить до 10 Дисков.
+
+academy.storagedisk.title=Крутятся диски
+academy.storagedisk.desc=Сделайте Диск хранения
+academy.storagedisk.text1=Диск хранения хранит предметы. Внезапно. Более продвинутые диски вмещают больше предметов.
+academy.storagedisk.text2=Диск хранения 1Кб может хранить до 1 тысячи предметов. Диск хранения 4Кб - 4 тысячи, и т. д.
+academy.storagedisk.task=Любой Диск хранения
+
+academy.fluiddisk.title=Водонепроницаемый
+academy.fluiddisk.desc=Сделайте Диск хранения жидкости
+academy.fluiddisk.text1=Диски хранения жидкости работают как обычные Диски хранения, но они хранят жидкости вместо предметов.
+academy.fluiddisk.text2=Диск хранения жидкости 64Кб вмещает до 64 вёдер (64.000 милиВёдер). Диск хранения жидкости 256Кб вмещает 256 вёдер жидкости, и т. д.
+academy.fluiddisk.task=Любой Диск хранения жидкости
+
+academy.grid.title=Входим в Сеть
+academy.grid.desc=Сделайте Терминал
+academy.grid.text=Терминал предоставляет вам возможность взаимодействия с Refined Storage. Подключите его к сети Refined Storage и используйте как сундук.
+
+academy.craftinggrid.desc=Создайте Терминал с верстаком
+academy.craftinggrid.text=Терминал с верстаком является улучшенной версией Терминала. По сравнению с оригиналом в наличии имеется встроенный верстак.
+
+academy.fluidgrid.desc=Сделайте Жидкостный терминал
+academy.fluidgrid.text1=Жидкостный терминал работает также, как и обычный Терминал. Но отображает жидкости, а не предметы.
+academy.fluidgrid.text2=Перетащите контейнер с жидкостью (например, ведро) для добавления жидкости в хранилище. Также можно Shift-ПКМ этим контейнером на Жидкостном терминале.
+academy.fluidgrid.text3=Если кликнуть пустым ведром на жидкости в хранилище - то ведро будет наполнено этой жидкостью.
+
+academy.cable.desc=Сделайте кабели
+academy.cable.text=Кабели используются для подключения устройств к контроллеру.
+
+academy.io.title=Ввод/вывод
+academy.io.desc=Создайте Импортёр и Экспортёр
+academy.io.text1=Импортер забирает предметы из инвентаря и помещает их в Refined Storage.
+academy.io.text2=Экспортёр перемещает предметы из Refined Storage в инвентарь.
+
+academy.extstorage.title=Обратная совместимость
+academy.extstorage.desc=Сделайте Внешнее Хранилище
+academy.extstorage.text1=Разместите Внешнее хранилище на инвентаре (например, сундуке) и его содержимое отобразится в системе.
+academy.extstorage.text2=Если Внешнее Хранилище имеет больший приоритет по сравнению с другими блоками хранения или дисками хранения, то система сначала попытается разместить предметы во внешнем хранилище.
+
+academy.rsdetector.title=Управляем запасами
+academy.rsdetector.desc=Сделайте Датчик
+academy.rsdetector.text1=Датчик испускает Сигнал Красного Камня в зависимости от заданных в нём условий, на основании количества предметов или жидкостей в системе.
+academy.rsdetector.text2=Вы можете задать любой предмет или жидкость и установить количество. Затем настройте выдачу Сигнала Красного Камня, если имеется больше, меньше или ровно столько предметов в хранилище.
+academy.rsdetector.text3=Датчик можно использовать совместно с Экспортёром, чтобы постоянно иметь определённое количество предметов в системе. Например, настроить экспорт Редстоуна в Магмовый Тигель при подачи Сигнала Красного Камня, поставить Датчик и настроить его включение, если уровень Дестабилизированного Красного Камня упал ниже 50 вёдер. Таким образом, в системе всегда будет, как минимум, 50 вёдер Дестабилизированного Красного камня.
+
+academy.rsinterface.title=В + В
+academy.rsinterface.desc=Сделайте Интерфейс
+academy.rsinterface.text1=Интерфейса работает как Импортер и Экспортер.
+academy.rsinterface.text2=Предметы, вставленные в него попадут в систему. Улучшение "Скорость" ускорит его.
+academy.rsinterface.text3=Если поместить стопку предметов в ячейки "Интерфейс экспорта", то ячейки ниже будут содержать подобные стопки. Эти предметы можно извлечь трубами.
+
+# Refined Storage - Advanced
+
+academy.patterngrid.desc=Сделайте Терминал с кодировщиком шаблонов
+academy.patterngrid.text1=Первый шаг к автоматическому созданию предметов - Терминал с кодировщиком шаблонов.
+academy.patterngrid.text2=Поставьте его, вставьте Шаблон и укажите нужный вам рецепт.
+academy.patterngrid.text3=Если это не обычный рецепт верстака (создается не в 3х3 сетке, а, например, в Печке), то отметьте галочку "Обработка".
+academy.patterngrid.text4=Если вы хотите использовать в рецепту Ore Dictionary (например, делать сундук из любых досок), отметьте галочку "Словарь руды".
+
+academy.crafter.desc=Сделайте Крафтер
+academy.crafter.text1=Поместите Шаблоны в Крафтер, и вы сможете создавать эти рецепты из вашего Терминала.
+academy.crafter.text2=Вы можете направить Крафтер на машину (например, Печку) и рецепты с Обработкой будут пытаться использовать эту машину. Для рецептов в Обработкой, вероятно, вам придется использовать Импортер для того, чтобы поместить готовый предмет из машины хранилище.
+academy.crafter.text3=Если несколько Крафтеров выстроить в линию, то все они смогут использовать машину, на которую направлен последний Крафтер. Смотрите в FTB Руководстве, доступном по ссылке ниже, картинку с примером.
+
+academy.craftmanager.desc=Сделайте Менеджер создания
+academy.craftmanager.text1=Менеджер создания показывает все Крафтеры в сети, к какой машине они присоединены, а также Шаблоны внутри этих Крафтеров.
+academy.craftmanager.text2=Вы можете переименовать Крафтер в Менеджере создания.
+
+academy.craftmonitor.desc=Сделайте Монитор создания
+academy.craftmonitor.text=Монитор создания показывает список активных операций.
+
+academy.portablegrid.desc=Сделайте Портативный терминал
+academy.portablegrid.text1=Портативный терминал работает как маленькая обособленная Refined Storage система.
+academy.portablegrid.text2=Откройте терминал, добавьте диск (для предметов или жидкости) в правую верхнюю ячейку. Теперь можно использовать терминал в качестве продвинутого рюкзака.
+
+# Refined Storage - Expert
+
+academy.network.title=Любовь на расстоянии
+academy.network.desc=Сделайте Сетевой приёмник, передатчик и Сетевую карту
+academy.network.text1=С помощью Сетевых приёмника, передатчика и карты можно осуществить беспроводное соединение с вашим Refined Storage.
+academy.network.text2=Разместите Сетевой передатчик в вашей основной системе, Сетевой приемник в том месте, в котором вы хотите получить доступ, и затем Shift-ПКМ Сетевой картой на приёмнике, чтобы запомнить его. Вставьте Cетевую карту в Передатчик, чтобы связать его с запомненным приёмником.
+academy.network.text3=Для работы и приёмник и передатчик должны находиться в загруженных чанках.
+
+academy.wirelesstransmitter.desc=Сделайте Беспроводной передатчик
+academy.wirelesstransmitter.text1=Подключите Беспроводной передатчик к Refined Storage кабелю, и вы сможете получить доступ к нему пределах 16 блоков через Беспроводной Терминал.
+academy.wirelesstransmitter.text2=Если вы хотите увеличить радиус беспроводного доступа, поместите дополнительные Беспроводных Передатчиков ближе к тем местам, где вам нужен беспроводной доступ. Кроме того, в передатчик можно установить Улучшение: "Радиус".
+
+academy.wirelesscraftinggrid.desc=Сделайте Беспроводной терминал
+academy.wirelesscraftinggrid.text1=Беспроводной терминал работает также, как и обычный Терминал с верстаком. Только без проводов.
+academy.wirelesscraftinggrid.text2=Shift-ПКМ на Контроллере, чтобы привязать Беспроводной терминал к системе.
+
+academy.wirelessfluidgrid.desc=Сделайте Беспроводной жидкостный терминал
+academy.wirelessfluidgrid.text1=Беспроводной жидкостный терминал работает также, как и обычный Жидкостный Терминал. Только без проводов.
+academy.wirelessfluidgrid.text2=Shift-ПКМ на Контроллере, чтобы привязать Беспроводной терминал к системе.
+
+
+# Technology - Beginner
+
+academy.magmatic.title=Ядро
+academy.magmatic.desc=Сделайте Магмовый Генератор
+academy.magmatic.text1=Магмовый Генератор генерирует RF используя горячие жидкости.
+academy.magmatic.text2=Одно ведро Лавы выдаст 120.000 RF. Выход энергии из других видов топлива можно посмотреть в JEI.
+
+academy.steam.title=Стимпанк
+academy.steam.desc=Сделайте Паровой Генератор
+academy.steam.text1=Паровой Генератор генерирует RF используя топливо и воду.
+academy.steam.text2=Одна единица Угля выдаст 24.000 RF. Выход энергии из других видов топлива можно посмотреть в JEI.
+
+academy.coalgen.title=Старина Уголёк
+academy.coalgen.desc=Сделайте Угольный Генератор
+academy.coalgen.text1=Угольный Генератор вырабатывает RF из угля или любого другого топлива печки.
+academy.coalgen.text2=Один Уголь даст 48,000 RF.
+
+academy.canola1.title=Натуральное
+academy.canola1.desc=Настройте получении RF из Масла Канолы
+academy.canola1.text1=Масло Канолы является простым и возобновляемым источником RF!
+academy.canola1.text2=Масло Канолы насчитывает 4 уровня. Первый уровень выдаёт 80.000 RF, последний - 700.000 RF.
+academy.canola1.text3=Пресс для Канолы использует небольшое количество RF для превращения Канолы в Масло Канолы. А также автоматически выдаёт это масло в соседние блоки. Масло Канолы может быть использовано как топливо для Масляном Генераторе или в Компрессионном Генераторе. Одно ведро масла даст 80.000 RF.
+
+academy.canola2.title=Отличный вкус
+academy.canola2.desc=Очистите Масло Канолы
+academy.canola2.text1=Очищенное Масло Канолы является вторым уровнем масла, и генерирует 200.000 RF.
+academy.canola2.text2=Очищенное Масло Канолы может быть создано либо в Бродильной Бочке, либо в Дистилляторе.
+academy.canola2.text3=Бродильная бочка не требует RF и автоматически подаёт Очищенное Масло Канолы в соседние блоки (включая трубы, по которым поступает масло. Будьте осторожны).
+academy.canola2.text4=Дистиллятор требует RF, но работает быстрее. Кроме того, он позволяет выбрать, откуда поступает масло, и куда его подавать.
+academy.canola2.task=Один их этих
+
+academy.canola3.title=Слегка выдержанное
+academy.canola3.desc=Кристаллизуйте Масло Канолы
+academy.canola3.text1=Кристаллизованное масло это третий уровень Масла Канолы. Генерирует 400.000 RF.
+academy.canola3.text2=Кристаллизованное масло получается если бросить Кристаллизованные Семена Канолы в Очищенное Масло Канолы.
+academy.canola3.text3=Автоматизация этого процесса немного сложновата, можете посмотреть FTB Руководство для детальных инструкций.
+
+academy.compressiondynamo.title=Под давлением
+academy.compressiondynamo.desc=Сделайте Компрессионный Генератор
+academy.compressiondynamo.text1=Компрессионный Генератор вырабатывает RF путём комбинирования охладителя (например, Вода, но чем холоднее, тем лучше) и жидкого топлива. Наведите курсор на генератор в инвентаре и нажмите U, чтобы посмотреть, какое топливо может быть использовано.
+academy.compressiondynamo.text2=Охлаждение не увеличивает скорость и количество выработанного RF. Более холодные охладители расходуются медленнее и ничего более. Посмотрите, как бесконечна вода...
+academy.compressiondynamo.text3=Тем не менее, существует Расширение: Охлаждение с Закрытым Контуром, которое заставляет более холодные хладагенты вырабатывать больше RF. Ледяной Криотеум (единственный хладагент, кроме воды, доступный в этом мод-паке) позволит выработать в 1.4 раза больше RF, если установить это Расширение.
+
+academy.pitifulgen.title=Просто тоска
+academy.pitifulgen.desc=Сделайте Pitiful Fuel Generator
+academy.pitifulgen.text1=Pitiful Fuel Generator генерирует RF, сжигая древесину.
+academy.pitifulgen.text2=Один блок дерева или досок даст 11.250 RF.
+
+academy.petrifiedgen.title=Ископаемое топливо
+academy.petrifiedgen.desc=Сделайте Генератор на Твердом Топливе
+academy.petrifiedgen.text1=Генератор на Твёрдом Топливе генерирует РФ, сжигая любое печное топливо.
+academy.petrifiedgen.text2=Один Уголь даст 60.000 RF.
+
+academy.dynamoweirdness.title=Внимание: Генераторы
+academy.dynamoweirdness.desc=Если генераторы из Thermal Foundation не вырабатывают RF, то они и не подают RF из внутреннего буфера.
+academy.dynamoweirdness.text=Если генераторы из Thermal Foundation не вырабатывают RF, то они и не подают RF из внутреннего буфера. Если в генераторе осталась энергия - добавьте в него немного топлива, чтобы эту энергию получить.
+
+academy.pulverizer.title=Прах к праху
+academy.pulverizer.desc=Сделайте Измельчитель
+academy.pulverizer.text1=Измельчитель использует RF для измельчения камня или руды.
+academy.pulverizer.text2=Руда даст две пыли, каждая пыль даст по слитку. Кроме того, есть шанс получить вторичный продукт.
+academy.pulverizer.text3=Измельчитель может быть улучшен и усилен. Что ускорит его работу или изменит его функции.
+
+academy.redstonefurnace.title=Микроволновка
+academy.redstonefurnace.desc=Сделайте Редстоуновую печь
+academy.redstonefurnace.text1=Эта печь использует RF для плавки предметов.
+academy.redstonefurnace.text2=Ничего лишнего, только плавка. Улучшения и Расширения позволяют значительно ускорить процесс.
+
+academy.resourcefulfurnace.title=Опытный повар
+academy.resourcefulfurnace.desc=Сделайте Производительную Печь
+academy.resourcefulfurnace.text1=Эта печь использует RF для плавки предметов.
+academy.resourcefulfurnace.text2=Он имеет 3 входных ячейки, поэтому вы можете переплавить 3 предмета одновременно. Он также генерирует небольшое количество Эссенции, которую можно превратить в Опыт.
+
+academy.atomicreconstructor.title=Технологическая трансмутация
+academy.atomicreconstructor.desc=Сделайте Атомный Реконструктор
+academy.atomicreconstructor.text1=Атомный Реконструктор – это машина, использующая RF для преобразования одних предметов в другие. Он будет стрелять лазером, который преобразует предметы, брошенные на землю перед ним.
+academy.atomicreconstructor.text2=По умолчанию он будет стрелять всякий раз, когда накопит достаточное количество RF. Вы можете щелкнуть правой кнопкой мыши с помощью Редстоунового Факела, чтобы он работал только при Сигнале Красного Камня.
+
+academy.crusher.title=Дробилище
+academy.crusher.desc=Сделайте Дробилку
+academy.crusher.text1=Дробилка использует RF для дробления предметов.
+academy.crusher.text2=Руда даст две пыли, каждая пыль даст по слитку. Кроме того, есть шанс получить вторичный продукт, отличный от того, который даёт Измельчитель.
+
+academy.doublecrusher.title=Ещё один
+academy.doublecrusher.desc=Сделайте Двойную Дробилку
+academy.doublecrusher.text1=Двойная Дробилка работает так же, как и Дробилка, но имеет 2 входных ячейки.
+academy.doublecrusher.text2=Вы можете настроить авторазделение предметов между ними, что ускорит дробилку в два раза.
+
+academy.poweredfurnace.title=Два по цене одного
+academy.poweredfurnace.desc=Сделайте Электрическую Печь
+academy.poweredfurnace.text1=Эта печь использует RF для плавки предметов.
+academy.poweredfurnace.text2=Он имеет 2 входных ячейки, поэтому вы можете переплавить 2 предмета одновременно. Вы также можете задать авторазделение предметов, что позволит переплавлять предметы в два раза быстрее.
+
+academy.fluxducts1.title=Подключите его!
+academy.fluxducts1.desc=Сделайте Свинцовую Флаксовую Трубу
+academy.fluxducts1.text1=Флаксовые трубы используются для передачи RF. Более высокие уровни могут передавать RF быстрее.
+academy.fluxducts1.text2=Свинцовая Флаксовая Труба может передавать 1000 RF в тик через одно соединение.
+
+academy.fluxducts2.title=Лучше, сложнее
+academy.fluxducts2.desc=Сделайте Усиленную Флаксовую Трубу
+academy.fluxducts2.text1=Усиленная Флаксовая Труба может передавать 4000 RF в тик через одно соединение.
+academy.fluxducts2.text2=Флаксовые трубы соединяются с другими флаксовыми трубами вне зависимости от уровня трубы.
+
+academy.basicenergytess.title=Хуже, чем провода
+academy.basicenergytess.desc=Сделайте Basic Energy Tesslocator
+academy.basicenergytess.text1=Basic Energy Tesslocator передаёт RF на расстояние одного блока. Поместите оба Basic Energy Tesslocator в одном блоке, и настройте ввод и вывод.
+academy.basicenergytess.text2=Basic Energy Tesslocator может передавать 2048 RF в тик, и имеет внутренний буфер на 32.000 RF.
+
+academy.advenergytess.title=Намного лучше проводов
+academy.advenergytess.desc=Сделайте Advanced Energy Tesslocator
+academy.advenergytess.text1=Advanced Energy Tesslocator работает как Basic Energy Tesslocators, за исключением того, что они не обязаны быть в одном блоке. Это означает беспроводную передачу энергии на любое расстояние, даже между мирами.
+academy.advenergytess.text2=Для настройки Advanced Tesslocators возьмите краску в каждую руку и кликните на Tesslocator. Shift-ПКМ пустой рукой для настройки ввода или вывода. По умолчанию работает на ввод.
+academy.advenergytess.text3=Advanced Energy Tesslocators имеют внутренний буфер на 40 млн. RF и могут передавать столько же в тик.
+
+academy.plasticmaking.title=Жидкиластик
+academy.plasticmaking.desc=Производим пластик
+academy.plasticmaking.text1=Извлекатель Жидкости из Дерева добывает Латекс из блока дерева, находящегося перед ним. Не работает с деревом из Dynamic Trees, используйте обычное дерево. Дерево будет неспешно разрушаться, так что периодически ставьте новый блок дерева.
+academy.plasticmaking.text2=Юнит Производства Латекса превращает 75мБ Латекса и 1000мБ воды в 1 Небольшой Кусок Сухой Резины. Из 9 таких кусков можно сделать Сухую Резину, которая переплавляется в Пластик.
+
+academy.energycell.title=Сохраняем на чёрный день
+academy.energycell.desc=Сделайте Энергетическую Ячейку
+academy.energycell.text1=Энергетическая ячейка хранит RF. Как и у других машины из Thermal Expansion, у неё 6 уровней.
+academy.energycell.text2=Ячейка начального уровня может вместить 2 млн. RF. Улучшенные ячейки могут вместить до 80 млн. RF.
+academy.energycell.text3=Каждая сторона блока кодируется цветом: синий означает, что он может вводить энергию, оранжевый означает, что он может выводить энергию, а желтый означает, что он ничего не делает. Цвета можно изменить на закладке Конфигурация в пользовательском интерфейсе ячейки.
+
+academy.AAbook.title=Фактическая информация
+academy.AAbook.desc=Сделайте руководство из Actually Additions
+academy.AAbook.text=Руководство по Actually Additions предоставляет информацию по всем блокам и предметам данного мода.
+
+academy.IFbook.title=ИФфективность
+academy.IFbook.desc=Сделайте Руководство по моду Industrial Foregoing
+academy.IFbook.text=Руководство по моду Industrial Foregoing предоставляет информацию по всем блокам и предметам данного мода.
+
+academy.DEinfotab.title=Мы составили руководство по их руководству
+academy.DEinfotab.desc=Сделайте Информационный Планшет Draconic Evolution
+academy.DEinfotab.text=Информационный Планшет Draconic Evolution предоставляет информацию по всем блокам и предметам данного мода.
+
+academy.autobreaker.desc=Сделайте Авто-разрушитель
+academy.autobreaker.text1=Авто-разрушитель автоматически разрушает блок перед собой и помещает выпавшие предметы в свой инвентарь.
+academy.autobreaker.text2=По умолчанию он работает постоянно. Вы можете переключить его на работу только при наличии Сигнала Красного камня. Для переключения используйте Редстоуновый Факел.
+
+academy.autoplacer.desc=Сделайте Авто-разместитель
+academy.autoplacer.text1=Авто-разместитель автоматически помещает перед собой блок из инвентаря.
+academy.autoplacer.text2=По умолчанию он работает постоянно. Вы можете переключить его на работу только при наличии Сигнала Красного камня. Для переключения используйте Редстоуновый Факел.
+
+academy.aafarmer.title=Промышленное фермерство
+academy.aafarmer.desc=Сделайте Фермер
+academy.aafarmer.text=Фермер вспашет почву в квадрате 9х9 перед собой, и будет пытаться высадить любые семена из ячеек слева. Ячейки справа будут содержать собранный урожай. После сбора урожая Фермер заново посадит семена.
+
+academy.rangedcollector.title=Подбери меня
+academy.rangedcollector.desc=Сделайте Диапазонный Собиратель
+academy.rangedcollector.text1=Диапазонный Собиратель собирает предметы, разбросанные в пределах 6 блоков от него, в соответствии с заданным фильтром.
+academy.rangedcollector.text2=12 ячеек слева - настройки фильтра. Можно задать белый и черный список. Сравнение метаданных, NBT и так далее.
+
+academy.aalens.title=Техно Рефракция
+academy.aalens.desc=Сделайте любую Линзу для Атомного Реконструктора
+academy.aalens.text1=Линзы, помещенная на Атомный Реконструктор, изменяет его функциональность. Например, лазер начинает красить блоки или убивать мобов.
+academy.aalens.text2=Дополнительную информацию смотрите в Руководстве по Actually Additions.
+academy.aalens.task=Любая Линза
+
+academy.aaenergylaser1.desc=Сделайте Реле Лазера Энергии
+academy.aaenergylaser1.text1=Реле Лазера Энергии осуществляет беспроводную передачу до 1.000 RF в тик.
+academy.aaenergylaser1.text2=Поместите Реле Лазера Энергии на блок, откуда надо забрать RF и на блок, куда надо поместить RF. При необходимости, добавьте промежуточные Реле.
+academy.aaenergylaser1.text3=Для связывания Реле - используйте на одном и на другом Лазерным Ключом.
+academy.aaenergylaser1.text4=Используйте Компас для переключения между вводом, выводом или обоими режимами работы.
+
+academy.ifpump.title=Каменный океан
+academy.ifpump.desc=Сделайте Жидкостный насос
+academy.ifpump.text1=Насос качает жидкость, находящуюся под ним. Жидкость помещается в резервуар внутри насоса, откуда может быть выкачана трубами. Вместо выкачанной жидкости насос ставит Булыжник.
+academy.ifpump.text2=Как и у всех машин Industrial Foregoing, его рабочая область по умолчанию равна 1 блоку. Вам нужно будет использовать Улучшение Радиуса Действия для увеличения рабочей области. Выполните это, прежде чем подавать RF на насос.
+
+academy.rangeaddon.title=Большее, лучше
+academy.rangeaddon.desc=Сделайте Улучшение Радиуса Действия
+academy.rangeaddon.text=По умолчанию, все машины из Industrial Foregoing имеют рабочую область в 1 блок. Улучшение Радиуса Действия увеличивает эту область. Улучшение Радиуса Действия +2 увеличит радиус рабочей области на 2, соответственно рабочая область машины станет 3x3.
+academy.rangeaddon.task=Любое Улучшение Радиуса Действия
+
+academy.DEgrinder.title=Коробка-убийца
+academy.DEgrinder.desc=Сделайте Молотилку
+academy.DEgrinder.text=Молотилка использует RF чтобы моментально убивать мобов на площади 7х7 блоков перед собой, включая Иссушителей. Предметы и опыт будет выпадать на землю, как обычно.
+
+academy.DEbasic.title=В основном
+academy.DEbasic.desc=Сделайте Базовый Энергетический Кристалл
+academy.DEbasic.text1=Энергетические кристаллы осуществляют беспроводную передачу RF. Чтобы связать кристаллы, Shift-ПКМ Связывателем Кристаллов на первом кристалле, а затем кликните правой кнопкой мыши со Связывателем Кристаллов на втором кристалле.
+academy.DEbasic.text2=RF входит и выходит из системы через энергетические кристаллы входа/выхода, но они могут подключаться только к двум другим энергетическим кристаллам.
+academy.DEbasic.text3=Для соединения кристаллов в сеть используется Энергетический реле-кристалл, т.к. он имеет наибольшее количество возможных соединений.
+academy.DEbasic.text4=Беспроводной Энергетический Кристалл может подавать энергию на машины без кристалла входа\\выхода. Свяжите его с кристаллом, в котором есть RF, а затем свяжите с машинами, которым надо подавать RF.
+academy.DEbasic.task=Любой Базовый Энергетический Кристалл
+
+academy.stabilizedspawner.title=Подчини своей воле
+academy.stabilizedspawner.desc=Стабилизируйте Рассадник Монстров
+academy.stabilizedspawner.text1=Щелкните правой кнопкой мыши с Ядром на Рассаднике Монстров, чтобы его стабилизировать. Существует 4 уровня стабилизированных спаунеров, соответствующие 4-м уровням ядер. Как только вы стабилизировали Рассадник Монстров, он превратится в предмет, чтобы вы могли разместить его где-нибудь еще.
+academy.stabilizedspawner.text2=Вы можете нажать правой кнопкой мыши на спаунере Душою моба, чтобы спаунить этого моба. Сломав стабилизированный спаунер вы получите сам спаунер, но душа будет потеряна.
+academy.stabilizedspawner.text3=Каждый уровень спаунера лучше предыдущего. Чаще и быстрее спаунит монстров. Кроме того, продвинутые уровни имеют меньше ограничений на условия спауна монстров. Больше информации доступно в Информационном Планшете Draconic Evolution.
+academy.stabilizedspawner.task=Любой Стабилизированный Спаунер
+
+academy.DEsouls.title=Пожиратель Душ
+academy.DEsouls.desc=Соберите душу
+academy.DEsouls.text1=Души мобов имеют шанс выпадения при использовании оружия из Draconic Evolution и/или зачаровывания Жнец. Без этого условия Души мобов не выпадают.
+academy.DEsouls.text2=Основное использование души мобов — это добавление в Стабилизированные Спаунеры, чтобы спаунить именно этого монстра. Однако вы можете Shift-ПКМ душой на земле, чтобы вызвать моба. Душа при этом будет использована.
+academy.DEsouls.task=Любая Душа
+
+academy.celestialmanipulator.title=Прогноз погоды
+academy.celestialmanipulator.desc=Сделайте Контроллер Погоды
+academy.celestialmanipulator.text=Контроллер Погоды использует RF для изменения погоды и текущего времени суток.
+
+academy.disenchanter.title=яинавыворачаЗ лотС
+academy.disenchanter.desc=Сделайте Дизенчантер
+academy.disenchanter.text=Дизенчантер позволяет перенести зачаровывание с предметов на книги.
+
+# Technology - Intermediate
+
+academy.magmacrucible.title=Тает лёд
+academy.magmacrucible.desc=Сделайте Магмовый Тигель
+academy.magmacrucible.text=Магмовый Тигель это машина, которая плавит блоки и предметы, превращая их в жидкость.
+
+academy.fluidtransposer.title=Наполнитель ведер
+academy.fluidtransposer.desc=Сделайте Распределитель Жидкостей
+academy.fluidtransposer.text=Распределитель Жидкости объединяет предметы и жидкость.
+
+academy.fluxducts3.desc=Сделайте Красную Энергетическую Флаксовую Трубу
+academy.fluxducts3.text=Красная Энергетическая Флаксовая Труба может передавать 9000 RF в тик через одно соединение.
+
+academy.fluxducts4.desc=Сделайте Сигналовую Флаксовую Трубу
+academy.fluxducts4.text=Сигналовая Флаксовая Труба может передавать 16.000 RF в тик через одно соединение.
+
+academy.fluxducts5.desc=Сделайте Резонирующую Флаксовую Трубу
+academy.fluxducts5.text=Резонирующая Флаксовая Труба может передавать 25.000 RF в тик через одно соединение.
+
+academy.fluxducts6.desc=Сделайте Криостабилизированную Флаксовую Трубу
+academy.fluxducts6.text=Криостабилизированная Флаксовая Труба передает неограниченное количество RF. Внутреннего буфера у трубы нет, что не всегда хорошо.
+
+academy.empowerer.title=Чисто Алтарь Научной Инфузии
+academy.empowerer.desc=Сделайте Empowerer
+academy.empowerer.text1=Empowerer используется для улучшения кристаллов.
+academy.empowerer.text2=Разместите Empowerer в центре, а Выставочные Стенды на расстоянии 2 блоков с каждой из четырех сторон. Подайте RF на стенды.
+
+academy.verticaldigger.title=Одинокий золотоискатель
+academy.verticaldigger.desc=Сделайте Вертикальный Землекоп
+academy.verticaldigger.text1=Вертикальный Землекоп использует RF для добычи блоков. Вы можете настроить его на добычу только руды, или же любых блоков.
+academy.verticaldigger.text2=По умолчанию он копает квадрат 5х5 до самого Бедрока. Вы можете разместить на нём до 3 Призрачных Ускорителей, что увеличит площадь добычи до 33х33.
+
+academy.powerfiller.title=Наполнен энергией
+academy.powerfiller.desc=Создать машину, которая может заряжать RF в предметы
+academy.powerfiller.text1=Энерджайзер просто передаёт поступающую RF в предметы в своём инвентаре.
+academy.powerfiller.text2=Энергетический зарядник делает то же самое, но может быть улучшен и расширен, что повысит скорость зарядки предметов до 1.000.000 RF в секунду.
+academy.powerfiller.text3=Энергетический Наполнитель стоит гораздо дороже, но может заряжать со скоростью 1.000.000 RF в тик (20.000.000 RF в секунду).
+academy.powerfiller.task=Сделайте любую из этих машин
+
+academy.inventorybatteries.title=Портативное зарядное устройство
+academy.inventorybatteries.desc=Создать предмет, который может хранить RF
+academy.inventorybatteries.text1=Батареи из Actually Additions наиболее простые в производстве. Первый уровень может хранить 200.000 RF, а последний уровень - 2.000.000 RF.
+academy.inventorybatteries.text2=Флаксовые Конденсаторы из Thermal Expansion немного сложнее в производстве, но обладают большим зарядом. Первый уровень хранит 1.000.000 RF, а последний - 25.000.000. Кроме того, можно наложить зачаровывание Удержание, что повысить заряд до 3х.
+academy.inventorybatteries.text3=Флаксовые конденсаторы из Draconic Evolution наиболее сложны в производстве. И обладают максимальным зарядом. Первый уровень хранит 64.000.000 RF, а максимальный - 256.000.000 RF. Также может быть улучшен до 640.000.000 RF.
+academy.inventorybatteries.task=Сделайте любой из этих предметов
+
+academy.leadstonejetpack.title=Как орёл. На воздушном шаре.
+academy.leadstonejetpack.desc=Сделайте Свинцовый Реактивный Ранец
+academy.leadstonejetpack.text1=Ты знаешь, что лучше, чем ходить? Летать!
+academy.leadstonejetpack.text2=Реактивные ранцы надеваются в качестве нагрудника и позволяют летать при нажатии на клавишу Пробел. Свинцовый Реактивный Ранец - первый и худший уровень ранцев.
+academy.leadstonejetpack.text3=Мод Simply Jetpacks имеет несколько горячих клавиш, но клавиши по умолчанию конфликтуют с другими модами. В настройках управления поищите «Simply Jetpacks» с отмеченным поиском по категориям. Установите клавиши так, как вам удобно. Вы также можете использовать Ctrl и Shift в качестве модификаторов, например Shift+N.
+academy.leadstonejetpack.text4=Каждый реактивный ранец имеет режима зависания, который можно переключать. Это замедляет ваше падения, и каждый уровень ранца замедляет его всё сильнее.
+
+academy.armoredjetpacks.title=Бронированные реактивные ранцы
+academy.armoredjetpacks.desc=Сделайте бронированный Реактивный ранец
+academy.armoredjetpacks.text=Бронированные реактивные ранцы - это ранцы, которые дают вам броню. С кем бы теперь сразиться?
+academy.armoredjetpacks.task=Любой бронированный Реактивный ранец
+
+academy.otherjetpacks.title=Промежуточные, Ибо в каждом моде должны быть уровни
+academy.otherjetpacks.desc=Сделайте Реактивные Ранцы промежуточных уровней
+academy.otherjetpacks.text1=Каждый новый уровень, в основном, быстрее летает, хранит больше RF и лучше парит. Не более того.
+academy.otherjetpacks.text2=Усиленный Реактивный Ранец и последующие ранцы автоматически включают режим зависания, если вы собираетесь погибнуть от падения.
+
+academy.jetplate.title=Сигналовый Человек
+academy.jetplate.desc=Сделайте Флаксовый Реактивный Ранец
+academy.jetplate.text=Флаксовый Реактивный Ранец - лучший из этого мода. Он самый быстрый и хранит наибольшее количество RF, а также обеспечивает наибольшее количество брони. Кроме того, с помощью горячей клавиши можно включить зарядку от ранца предметов в вашем инвентаре.
+
+academy.teleportstaff.title=Вжуух
+academy.teleportstaff.desc=Сделайте Телепортирующий Посох
+academy.teleportstaff.text=Используйте Телепортирующий Посох для телепортации на блок, на который вы смотрите.
+
+academy.aadrill.title=Мега копание
+academy.aadrill.desc=Сделайте Дрель
+academy.aadrill.text1=Дрель использует RF и работает как кирка и лопата. Можно раскрасить в любой цвет.
+academy.aadrill.text2=Shift-ПКМ Дрелью, чтобы открыть ячейки для улучшения дрели. Увеличения Дрели имеют несколько уровней, и требуют, чтобы предыдущий уровень Увеличения тоже был вставлен в ячейку.
+academy.aadrill.task2=Любое Увеличение Дрели
+
+academy.greenhouseglass.title=Стеклянный сад
+academy.greenhouseglass.desc=Сделайте Тепличное Стекло
+academy.greenhouseglass.text=Парниковое стекло ускоряет рост растений под собой. Стекло должно быть под открытым небом.
+
+academy.itemrepairer.title=Виртуозный чинильщик
+academy.itemrepairer.desc=Сделайте Ремонтник Предмета
+academy.itemrepairer.text=Ремонтник Предмета использует RF для постепенного восстановления предметов.
+
+academy.spawnerchanger.title=Коробка с монстром
+academy.spawnerchanger.desc=Сделайте Переключатель Спавнера
+academy.spawnerchanger.text1=Используйте Переключатель Спавнера на монстре, чтобы забрать его в Переключатель. Затем используйте Переключатель на Рассаднике монстров, чтобы изменить тип монстра, который появляется из Рассадника.
+academy.spawnerchanger.text2=Вы можете проделать это до того, как превратите Рассадник в Стабилизированный Спаунер из Draconic Evolution. Таким образом, вам не надо будет добывать Душу Монстра.
+
+academy.playerinterface.desc=Сделайте Интерфейс Игрока
+academy.playerinterface.text1=Интерфейс игрока представляет ваш инвентарь в виде блока. Вы можете вставлять или доставать предметы с помощью труб. Если вы подадите RF на него - будут заряжать предметы в вашем инвентаре.
+academy.playerinterface.text2=Радиус его действия по умолчанию - 32 блока. Его можно увеличить до 256 блоков, если поместить 3 Фантомных лица на этот блок.
+academy.playerinterface.reward=Долг: 1 Призрачный Ускоритель
+
+academy.aaenergylaser2.desc=Сделайте Энергосберегающее Лазерное Реле
+academy.aaenergylaser2.text1=Энергосберегающее Лазерное Реле осуществляет беспроводную передачу до 10.000 RF в тик.
+academy.aaenergylaser2.text2=Если между лазерными реле высокого уровня будет установлено реле низкого уровня, то скорость передачи будет ограничена самым слабым реле.
+
+academy.aaenergylaser3.desc=Сделайте Экстремальная Энергия Лазерного Реле
+academy.aaenergylaser3.text=Экстремальная Энергия Лазерного Реле осуществляет беспроводную передачу до 100.000 RF в тик.
+
+academy.canola4.title=Усиленное масло, последний уровень
+academy.canola4.desc=Сделайте последний уровень Масла Канолы
+academy.canola4.text1=Усиленное масло является последним уровнем масла канолы, и генерирует 700.000 RF.
+academy.canola4.text2=Усиленное масло создается путем бросания Усиленных Семян Канола в Кристаллизованное Масло.
+academy.canola4.text3=И снова, вы, вероятно, захотите прочитать FTB Руководство для того, чтобы увидеть, как это автоматизировать.
+
+academy.numismatic.title=Куча бабла
+academy.numismatic.desc=Сделайте Нумизматический Генератор
+academy.numismatic.text1=Нумизматический генератор вырабатывает RF, используя в качестве топлива валюту. Монеты из любого металла или изумруды. Чем дороже, тем больше RF. Как это работает? Кто знает!
+academy.numismatic.text2=Расширение: Лапидарная Калибровка позволяет генератору использовать кристаллы вместо монет. Алмаз выдаст целых 1.200.000 RF!
+
+academy.ifbioreactor.title=Экологический
+academy.ifbioreactor.desc=Установите Генератор Биотоплива
+academy.ifbioreactor.text1=Генератор Биотоплива вырабатывает 640.000 RF из одного ведра Биотоплива.
+academy.ifbioreactor.text2=Биотопливо создаётся в Биореакторе из растений, с использованием RF. Чем разнообразнее набор растений в Биореакторе, тем больше выход Биотоплива.
+
+academy.ifprotein.title=Сочная, Мясистая Энергия
+academy.ifprotein.desc=Установите Протеиновый Генератор
+academy.ifprotein.text1=Протеиновый Генератор вырабатывает 1.280.000 RF из ведра Протеина.
+academy.ifprotein.text2=Протеин создаётся в Протеиновом Реакторе из материалов животного происхождения с использованием RF. Чем разнообразней исходный материал, тем эффективнее вырабатывается Протеин.
+
+academy.reactantdynamo.title=Противоположная реакция
+academy.reactantdynamo.desc=Сделайте Реагентный Генератор
+academy.reactantdynamo.text1=Реагентный Генератор вырабатывает RF из определённых комбинаций предметов и жидкостей. Комбинация, как правило, имеет некоторую логику, например, Пыль пиротеума и Ледяной креотеум.
+academy.reactantdynamo.text2=После применения набора обновления и выбора правильной реакции Вы сможете получать значительное количество RF из доступных материалов.
+
+academy.compactor.title=ЖМЁМ
+academy.compactor.desc=Сделайте Компактор
+academy.compactor.text1=Компактор сжимает предметы. Порошки из монстров сжимаются в стержни, слитки - в пластины.
+academy.compactor.text2=Если установить Расширение, то можно делать Монеты или Шестерни.
+
+academy.passivespawning.title=Ферма животных
+academy.passivespawning.desc=Создайте автономную ферму животных
+academy.passivespawning.text1=Кормушка Животных будет пытаться накормить животных в своей рабочей области предметами из своего инвентаря.
+academy.passivespawning.text2=Разделитель Животных будет перемещать детёнышей на противоположную сторону.
+academy.passivespawning.text3=Ферма животных должна быть разделена на две части: в первой части взрослые животные получают корм из Кормушки. Во второй части - зона для детёнышей, перемещаемых туда при помощи Разделителя.
+academy.passivespawning.text4=В этой зоне детёныши будут взрослеть и в дальнейшем забиваться либо при помощи Завод-Резня Мобов, если вам нужно Жидкое Мясо и Розовая Слизь. Альтернативный вариант - использовать для забоя Перемещатель Мобов, если вам нужны выпадающие предметы и Эссенция. Вы можете установить в каждую из машин Фильтр Взросления Животных, чтобы не происходил забой детёнышей.
+academy.passivespawning.text5=Рабочая область по умолчанию у обоих машин - 1 блок. Для увеличения рабочей области необходимо установить Улучшение Радиуса Действия.
+
+academy.mobslaughterfactory.title=Фаст-фуд
+academy.mobslaughterfactory.desc=Сделайте Завод-Резня Мобов
+academy.mobslaughterfactory.text1=Завод-Резня Мобов убьёт любого моба в своей рабочей области. Вместо выпадения предметов и опыта она будет наполнять внутренний резервуар Жидким Мясом. Также есть шанс создания Розовой Слизи.
+academy.mobslaughterfactory.text2=По умолчанию рабочая область машины - 1 блок. Для увеличения рабочей области необходимо установить Улучшение Радиуса Действия.
+
+academy.meatfeeder.title=Вливаем бутеры прямо в вены
+academy.meatfeeder.desc=Сделайте Питатель Мясом
+academy.meatfeeder.text=Если наполнить Питатель Жидким Мясом и положить в свой инвентарь, то он будет поддерживать вас сытым автоматически.
+
+academy.meatores.title=Самая невероятная обработка руды
+academy.meatores.desc=Настройте процесс утроения руды с помощью Жидкого Мяса
+academy.meatores.text1=Промывочный завод комбинирует Жидкое Мясо с рудой и создаёт Сырое Рудное Мясо.
+academy.meatores.text2=Станция Брожения ферментирует Сырое Рудное Мясо в Заброженное Рудное Мясо.
+academy.meatores.text3=Жидкостная Просеивательная Машина соединяет Заброженное Рудное Мясо с Песком для получения измельченной руды.
+academy.meatores.text4=Этот процесс создаёт 3 слитка из одного блока руды.
+
+academy.ifenergy1.desc=Сделайте Energy Upgrade I
+academy.ifenergy1.text=Вы можете вставить Energy Upgrade I в большинство машин Industrial Foregoing, чтобы уменьшить количество энергии, которую они используют.
+
+academy.ifenergy2.desc=Сделайте Energy Upgrade II
+academy.ifenergy2.text1=Машины из Industrial Foregoing с установленными Energy Upgrade I и II будут использовать еще меньше энергии.
+academy.ifenergy2.text2=Для своей работы Energy Upgrade II требует установленный Energy Upgrade I.
+
+academy.ifspeed1.desc=Сделайте Speed Upgrade I
+academy.ifspeed1.text=Вы можете вставить Speed Upgrade I в большинство машин Industrial Foregoing, чтобы ускорить их.
+
+academy.ifspeed2.desc=Сделайте Speed Upgrade II
+academy.ifspeed2.text1=Машины из Industrial Foregoing с установленными Speed Upgrade I и II будут работать еще быстрее.
+academy.ifspeed2.text2=Для своей работы Speed Upgrade II требует установленный Speed Upgrade I.
+
+academy.mobcrusher.desc=Сделайте Перемещатель Мобов
+academy.mobcrusher.text1=Перемещатель Мобов убивает любых мобов в своей рабочей области. Выпадающие предметы будут автоматически помещены в инвентарь Перемещателя, опыт будет превращен в Эссенцию.
+academy.mobcrusher.text2=По умолчанию рабочая область машины - 1 блок. Для увеличения рабочей области необходимо установить Улучшение Радиуса Действия.
+
+academy.mobduplicator.desc=Сделайте Дубликатор Мобов
+academy.mobduplicator.text=Дубликатор Мобов использует Эссенцию и Заключатель Мобов с мобом внутри для порождения мобов.
+
+academy.wyvernarmor.title=Почти супер броня
+academy.wyvernarmor.desc=Сделать полный набор брони Виверны
+academy.wyvernarmor.text1=Броня Виверны - это вторая лучшая броня в большинстве мод-паков. Уступает только своей улучшенной версии.
+academy.wyvernarmor.text2=Если надеть броню Виверна или Дракона, появятся новые элементы GUI. Верхняя панель показывает заряд Энергетического Щита - количество урона, которое может быть поглощено без повреждения игрока. Он падает когда вы получаете урон, и растёт обратно по мере заряда щита за счёт энергии в элементе брони.
+academy.wyvernarmor.text3=Маленькая зеленая полоса - это шкала Энтропии, которая увеличивается по мере получения урона и уменьшается со временем. При высокой энтропии заряд щита восстанавливается медленнее.
+academy.wyvernarmor.text4=Нижняя полоска - это количество RF в броне.
+
+academy.wyvernpickaxe.desc=Сделайте Кирку Виверны
+academy.wyvernpickaxe.text1=Кирка Виверны имеет регулируемую скорость добычи, улучшаемую область добычи и фильтр мусора.
+academy.wyvernpickaxe.text2=Для настройки инструментов Draconic Evolution нажмите C.
+
+academy.wyvernsword.desc=Сделайте Меч Виверны
+academy.wyvernsword.text1=Меч Виверны обладает регулируемым радиусом атаки и предоставляет возможность улучшения наносимого урона.
+academy.wyvernsword.text2=Для настройки инструментов Draconic Evolution нажмите C.
+
+academy.wyvernshovel.desc=Сделайте Лопату Виверны
+academy.wyvernshovel.text1=Лопата Виверны имеет регулируемую скорость добычи, улучшаемую область добычи и фильтр мусора.
+academy.wyvernshovel.text2=Для настройки инструментов Draconic Evolution нажмите C.
+
+academy.wyvernaxe.desc=Сделайте Топор Виверны
+academy.wyvernaxe.text1=Топор Виверны имеет регулируемую скорость добычи и улучшаемую область добычи.
+academy.wyvernaxe.text2=Для настройки инструментов Draconic Evolution нажмите C.
+
+academy.wyvernbow.desc=Сделайте Лук Виверны
+academy.wyvernbow.text1=Лук Виверны имеет регулируемое приближение, урон стрелою и скорость полёта стрелы, а также режим автоматической стрельбы и позволяет сделать стрелы взрывающимися.
+academy.wyvernbow.text2=Для настройки инструментов Draconic Evolution нажмите C.
+
+academy.energycore.desc=Сделайте Энергетическое Ядро
+academy.energycore.text1=Энергетическое ядро может хранить огромное количество RF. Инструкцию по сборке ядра смотрите в Информационном Планшете Draconic Evolution.
+academy.energycore.text2=Ядро первого уровня требует только блоки, необходимые для этого задания, и может хранить 45.500.000 RF.
+academy.energycore.text3=Для сравнения, Ядро максимального уровня может хранить 9.223.372.036.854.775.807 RF.
+
+academy.wyverncrystals.title=Вивернуться
+academy.wyverncrystals.desc=Сделайте Энергетические Кристаллы Виверны
+academy.wyverncrystals.text1=Энергетические Кристаллы Виверны могут вместить в 4 раза больше RF, чем Базовые Энергетические Кристаллы.
+academy.wyverncrystals.text2=Любые Энергетические Кристаллы передают бесконечное количество RF в тик.
+academy.wyverncrystals.task=Любые Энергетические Кристаллы Виверны
+
+academy.fusioncrafting.title=Еще один Несомненно Научный Алтарь Синтеза
+academy.fusioncrafting.desc=Постройте конструкцию для Слияния
+academy.fusioncrafting.text1=Установите Ядро Слияния, а затем разместите Инжекторы Слияния вокруг него, лицом к Ядру. Энергия в конструкцию подаётся через Инжекторы.
+academy.fusioncrafting.text2=Предмет в центре рецепта слияния помещается в Ядро Слияния, а предметы по сторонам рецепта помещаются на Инжекторы.
+academy.fusioncrafting.text3=Рецепты слияния требуют Инжекторы определённого уровня. Рецепт будет работать и с инжекторами более высокого уровня.
+academy.fusioncrafting.text4=Для начала крафта нажмите на кнопку "Старт" в Ядре Слияния.
+
+academy.wyverninjectors.desc=Сделайте Инжектор Слияния Виверны
+academy.wyverninjectors.text1=Инжекторы Слияния Виверны позволяют создавать больше предметов.
+academy.wyverninjectors.text2=Для рецептов, требующих инжекторы определенного уровня, каждый инжектор должен быть этого или более высокого уровня.
+
+academy.enderenergymanipulator.title=Пацифист
+academy.enderenergymanipulator.desc=Сделайте Манипулятор Эндер-Энергией
+academy.enderenergymanipulator.text=Используйте Манипулятор Эндер-Энергией в Энде на портале из Бедрока, пока Дракон жив. Он начнет убивать Эндерменов. По достижении определённого уровня манипулятор остановится и создаст Яйцо Дракона.
+
+academy.awakeneddraconium.title=Проснитесь, Владыки
+academy.awakeneddraconium.desc=Сделайте Пробуждённый Дракониевый Блок
+academy.awakeneddraconium.text=Инструменты и доспехи из Пробуждённого Дракония являются самым мощными в большинстве мод-паков.
+
+academy.upgradekeys.title=Улучшаем
+academy.upgradekeys.desc=Сделайте Ядро Улучшения
+academy.upgradekeys.text1=Ядро улучшения используется в рецептах Слияния для улучшения брони и инструментов. Наведите курсор на ядро и нажмите U, чтобы посмотреть рецепты.
+academy.upgradekeys.text2=Одно Ядро Улучшения используется в нескольких рецептах, так как улучшения имеют несколько уровней. Естественно, вы должны сначала сделать Базовое улучшение, а затем улучшения уровня Виверна, Дракон и Хаос.
+academy.upgradekeys.text3=При использовании Ядра Улучшения не уничтожаются, поэтому вам нужно будет сделать каждое Ядро только один раз.
+academy.upgradekeys.task=Любое Ядро Улучшения
+
+academy.hardenedupgrade.desc=Сделайте Усиленный Набор Обновления
+academy.hardenedupgrade.text1=Наборы обновления используются для увеличения уровня машины и генераторов из Thermal Expansion. Просто используйте набор на машине, чтобы улучшить машину предыдущего уровня до уровня набора.
+academy.hardenedupgrade.text2=Порядок наборов обновления:
+academy.hardenedupgrade.text3=•Основной
+academy.hardenedupgrade.text4=•Усиленный
+academy.hardenedupgrade.text5=•Укреплённый
+academy.hardenedupgrade.text6=•Синаловый
+academy.hardenedupgrade.text7=•Резонирующий
+
+academy.reinforcedupgrade.desc=Сделайте Укреплённый Набор Обновления
+academy.reinforcedupgrade.text1=Укреплённые машины - это машины второго уровня. Они имеют две ячейки для Расширений.
+academy.reinforcedupgrade.text2=Вы можете объединить несколько Наборов Обновления в Набор Преобразования, который сразу применит к машине все обновления, входящие в его состав.
+
+academy.regularaugments.desc=Сделайте обычное Расширение
+academy.regularaugments.text1=Расширения могут быть установлены в машинах и генераторы для их улучшения их работы. Количество слотов под расширения зависит от уровня машины.
+academy.regularaugments.text2=Вы можете установить несколько одинаковых Расширений для усиления эффекта от них.
+academy.regularaugments.task=Обычные Расширения
+
+academy.fastaugments.title=Я Скорость
+academy.fastaugments.desc=Сделайте эти Расширения
+academy.fastaugments.text1=Вспомогательные катушки увеличивают скорость работы машин и генераторов. Но не увеличивают эффективность.
+academy.fastaugments.text2=Машины произведут результат быстрее, но при этом используют то же самое количество RF, что увеличит потребление RF в тик.
+academy.fastaugments.text3=Генераторы ведут себя так же. Вырабатывается такое же количество RF, из такого же количества топлива, но за меньшее время. Что увеличивать производство RF в тик.
+
+academy.specializationaugments.desc=Сделайте Расширение со Специализацией.
+academy.specializationaugments.text1=Расширение со Специализацией коренным образом изменяет функцию машины или генератора.
+academy.specializationaugments.text2=В машину можно установить только одной Расширение со Специализацией.
+academy.specializationaugments.task=Расширение со Специализацией
+
+# Technology - Advanced
+
+academy.iflaserdrill.title=Пронзите Небеса
+academy.iflaserdrill.desc=Настройте лазерную дрель
+academy.iflaserdrill.text1=Лазерная дрель, по факту, превращает RF в руду.
+academy.iflaserdrill.text2=Разместите Базу Лазера. Затем разместите 4 Лазерных Дрели так, чтобы лазер попадал в Базу. Энергия подаётся в Дрели. В них же устанавливаются улучшения.
+academy.iflaserdrill.text3=В пользовательском интерфейсе Основания Лазера нажмите кнопки справа - и +, чтобы изменить высоту, с которой будет добываться руда. Вы можете проверить рецепты руды в JEI, чтобы определить оптимальную высоты добычи.
+academy.iflaserdrill.text4=Для увеличения шансов получения определенной руды поместите Лазерные линзы в 6 ячеек слева. В JEI указано, какие линзы нужны для определённой руды.
+
+academy.signalumupgrade.desc=Сделайте Синаловый Набор Обновления
+academy.signalumupgrade.text=Синаловый уровень машин - третий уровень для машин и генераторов.
+
+academy.resonantupgrade.desc=Сделайте Резонирующий Набор Обновления
+academy.resonantupgrade.text=Резонирующий уровень машин - это максимальный уровень, доступный в режиме выживания.
+
+academy.alchemyimbuer.title=Провизор
+academy.alchemyimbuer.desc=Сделайте Алхимическую Зельеварку
+academy.alchemyimbuer.text1=Алхимическая Зельеварка варит зелья и помещает их во внутренний резервуар, откуда их надо разливать по бутылкам.
+academy.alchemyimbuer.text2=Рекомендуется использовать несколько зельеварок, работающих последовательно. Таким образом вам не придется постоянно перегонять зелье из зельеварки и обратно.
+academy.alchemyimbuer.text3=Первая Зельеварка будет делать Мутное зелье, которое будет улучшено в последующих Зельеварках. На последнем этапе зелье стоит подать в Распределитель Жидкостей, который разольет его в Пузырьки. В качестве альтернативы мы можете подать зелье в Рассеиватель Отваров, который распылит зелье в определённой области.
+
+academy.alchemicalretort.title=Нужно больше сильных зелий
+academy.alchemicalretort.desc=Сделайте Расширение: Алхимическая Реторта
+academy.alchemicalretort.text=Установка Расширение: Алхимическая Реторта в Дистилятор позволит ему улучшать силу зелий. Объем улучшенного зелья будет на четверть меньше.
+
+academy.draconicfluxcap.desc=Сделайте Флаксовый Конденсатор Дракона
+academy.draconicfluxcap.text=Флаксовый Конденсатор Дракона обладает максимальным зарядом по сравнению с другими предметами. Без улучшений он вмещает 256.000.000 RF. Конденсатор, улучшенный до уровня Хаос - 768.000.000 RF.
+
+academy.draconicinjectors.desc=Сделайте Инжектор Слияния Дракона
+academy.draconicinjectors.text=Инжекторы Слияния Дракона могут создавать еще больше предметов.
+
+academy.draconiccrystals.title=Драконически
+academy.draconiccrystals.desc=Сделайте Энергетические Кристаллы Дракона
+academy.draconiccrystals.text=Энергетические Кристаллы Дракона могут вместить в 4 раза больше RF, чем Энергетические Кристаллы Виверны.
+academy.draconiccrystals.task=Любой Энергетический Кристалл Дракона
+
+academy.draconichelm.title=Клёвый клоунский парик
+academy.draconichelm.desc=Сделайте Шлем Дракона
+academy.draconichelm.text=Шлем Дракона даёт эффект Ночное Видение, убирает отрицательные эффекты от зелий, предотвращает утопление и убирает замедление копания под водой.
+
+academy.draconicchestplate.title=Сердце Дракона
+academy.draconicchestplate.desc=Сделайте Нагрудник Дракона
+academy.draconicchestplate.text=Нагрудник Дракона позволяет летать, убирает замедление копания в полёте и даёт иммунитет к огню.
+
+academy.draconicleggings.title=Чешуйчатые колготки
+academy.draconicleggings.desc=Сделайте Поножи Дракона
+academy.draconicleggings.text=Поножи Дракона дают настраиваемое увеличение скорости бега.
+
+academy.draconicboots.title=Готов к ходьбе
+academy.draconicboots.desc=Сделайте Ботинки Дракона
+academy.draconicboots.text=Ботинки Дракона защищают от урона при падении, увеличивают высоту прыжка и дают возможность авто-подъема на 1 блок.
+
+academy.draconicpickaxe.desc=Сделайте Кирку Дракона
+academy.draconicpickaxe.text=Кирку Дракона, по сути, является Киркой Виверны, улучшенной во всём.
+
+academy.draconicsword.desc=Сделайте Меч Дракона
+academy.draconicsword.text=Меч Дракона, по сути, является Мечом Виверны, улучшенным во всём.
+
+academy.draconicshovel.desc=Сделайте Лопату Дракона
+academy.draconicshovel.text=Лопату Дракона, по сути, является Лопатой Виверны, улучшенной во всём.
+
+academy.draconicaxe.desc=Сделайте Топор Дракона
+academy.draconicaxe.text=Топор Дракона, по сути, является Топором Виверны, улучшенным во всём.
+
+academy.draconicbow.desc=Сделайте Лук Дракона
+academy.draconicbow.text1=Лук Дракона, по сути, является Луком Виверны, улучшенным во всём.
+academy.draconicbow.text2=Но у него есть отличительные особенности. Стрелы Драконьего Огня позволяют стрелять чистой энергией, увеличивая урон на 10%. Ударная волна повреждает существ, но не блоки в зоне попадания.
+
+academy.draconicstaff.desc=Сделайте Посох Силы
+academy.draconicstaff.text=Посох Силы является самым сильным инструментом в игре. Он сочетает в себе кирку, лопату и меч.
+
+
+# Technology - Expert
+
+academy.chaosshard.desc=Победите Хранителя Хаоса
+academy.chaosshard.text1=В Энде, в координатах кратных 10.000 вы встретите самого сложного босса в мод-паке.
+academy.chaosshard.text2=Вам понадобится лучшее оружие и лучшая броня, чтобы победить Хранителя Хаоса. Постоянно перемещайтесь, иначе он покрошит ваши щиты за секунды.
+academy.chaosshard.text3=За исключением повышенной сложности, битва сильно похожа на битву с Драконом Края. Сначала уничтожьте кристаллы, которые лечат дракона. Потом самого дракона.
+academy.chaosshard.text4=После победы над Хранителем Хаоса прокопайтесь до центра острова и соберите Осколки Хаоса. Кстати, это запустит взрыв острова. Убегайте быстрее после сбора осколков.
+
+academy.chaosinjectors.desc=Сделайте Инжектор Слияния Хаоса
+academy.chaosinjectors.text=Инжекторы Слияния Хаоса - Инжекторы Слияния максимального уровня и могут создавать любой рецепт слияния.
+
+academy.draconicreactor.title=Очистка Базы
+academy.draconicreactor.desc=Соберите Дракониевый Реактор
+academy.draconicreactor.text1=Дракониевый Реактор является наиболее опасным блоком в мод-паке. Но и награда за риск высока. При правильном обращении вы можете получить безумное количество RF, но если он взорвётся, то уничтожит всё в радиусе 200 блоков.
+academy.draconicreactor.text2=Реактор сложен в обращении. Изучите статью в Информационном Планшете Draconic Evolution.
+
+# Botania
+academy.lexica.title=Хорошая книга – искренний друг
+academy.lexica.desc=Сделайте Лексика Botania
+academy.lexica.text=Лексика Ботания - это очень хорошее руководство по Botania. При первом использовании вам будет предложено пройти обучение. Не отказывайтесь! Задания дополняют обучение, но не заменяют его.
+academy.lexica.text2=Если положить Лексика Ботания в панель быстрого доступа, навести курсор на предмет и зажать Ctrl - откроется страница из Лексика Ботания, касающаяся этого предмета.
+
+academy.apothecary.title=Купель
+academy.apothecary.desc=Сделайте Лепестковый аптекарь
+academy.apothecary.text1=Лепестковый аптекарь используется для создания волшебных цветов. Наполните его водой, бросьте лепестки, согласно рецепта, затем бросьте семена, чтобы сделать цветок.
+academy.apothecary.text2=Вы можете посадить Мистический лепесток в землю и вырастить его при помощи Костной муки. Выросший высокий Мистический цветок можно собрать при помощи Ножниц.
+
+academy.pouch.desc=Сделайте Flower Pouch
+academy.pouch.text=Flower Pouch вмещает по 1 стопке лепестков каждого цвета. Лепестки попадают в Flower Pouch автоматически при подборе, если есть место.
+
+academy.forestwand.title=Магия природы
+academy.forestwand.desc=Сделайте Посох леса
+academy.forestwand.text=Посох леса - это универсальный инструмент. Он позволяет активировать и манипулировать определенными блоками в Botania.
+
+academy.daisy.title=Конкретно чисто
+academy.daisy.desc=Сделайте Чистую маргаритку
+academy.daisy.text1=Чистая маргаритка - это очень важный цветок, который превратит камень и дерево в Жизнекамень и Жизнедерево, если они находятся вокруг цветка.
+academy.daisy.text2=Жизнекамень и Жизнедерево используются во многих рецептах, поэтому было бы хорошей идеей автоматизировать их производство.
+
+academy.mana.title=Мана ванна
+academy.mana.desc=Сделайте Бассейн маны и Распространитель маны
+academy.mana.text1=Бассейн маны используется для хранения маны, созданной цветами. Вы можете привязать Действующую флору к нему, чтобы они могли использовать ману из бассейна.
+academy.mana.text2=Разместите Распространитель маны рядом с источником маны, например, Бассейн маны. Направьте Распространитель на блок, которому нужна ману с помощью Посоха леса. Он начнет передавать ману Всплесками маны в указанном направлении.
+academy.mana.text3=Вы также можете бросить вещи в Бассейн маны, чтобы изменить, превратить или зарядить их.
+
+academy.manaitems.title=Просто добавь "мана"!
+academy.manaitems.desc=Сделайте Слиток манастали, Жемчуг маны и Маналмаз
+academy.manaitems.text=Слиток манастали, Жемчуг маны и Маналмаз используются в большом количестве рецептов.
+
+academy.manatablet.title=Батарейка маны
+academy.manatablet.desc=Сделайте Планшет маны
+academy.manatablet.text1=Планшет маны может использоваться для ручной передачи маны без Распространителя маны, а также питает любые предметы в вашем инвентаре, которые нуждаются в мане.
+academy.manatablet.text2=Чтобы зарядить или разрядить Планшет маны, бросьте его в Бассейн маны. Активируйте бассейн Посохом леса, чтобы переключиться между зарядкой и разрядкой.
+
+academy.halo.title=Автоматический Круговой Верстак
+academy.halo.desc=Сделайте Автоматический Круговой верстак
+academy.halo.text1=Автоматический Круговой Верстак будет автоматически создавать предметы по заданным рецептам при наличии ингредиентов в вашем инвентаре.
+academy.halo.text2=Держите верстак в руке для появления интерфейса вокруг вас. Вы можете использовать сегмент с верстаком как обычно. Вы можете нажать на любом из сегментов для задания рецепта автоматического крафта.
+
+academy.alchemcat.title=Закон сохранения энергии
+academy.alchemcat.desc=Сделайте Алхимический катализатор
+academy.alchemcat.text1=Алхимический катализатор меняет функции Бассейна маны, если установить катализатор под бассейном.
+academy.alchemcat.text2=Катализатор изменяет рецепты бассейна. Наведите курсор на катализатор и нажмите U, чтобы увидеть новые рецепты.
+
+academy.endoflame.title=Дымком потянуло
+academy.endoflame.desc=Сделайте Пламя Края
+academy.endoflame.text1=Пламя Края сжигает топливо, пригодное для Печки, и генерирует ману в процессе сжигания. Выработанная мана поступит в ближайший Распространитель маны.
+academy.endoflame.text2=Это очень хороший источник маны на раннем этапе игры, масштабируемый и легко автоматизируемый.
+
+academy.runicaltar.title=从卂厶工匚 丂丫从乃口乚丂
+academy.runicaltar.desc=Сделайте Рунический алтарь
+academy.runicaltar.text1=Рунический алтарь используется для создания рун, что видно из его названия. Бросьте предметы на алтарь в соответствии с рецептом и подайте на него ману из Распространителя маны.
+academy.runicaltar.text2=Как только алтарь получит достаточное количество маны - бросьте Живокамень на алтарь и активируйте его Посохом леса.
+
+academy.soujourner.title=Быстрая красота
+academy.soujourner.desc=Сделайте Пояс странника
+academy.soujourner.text=Пояс странника, размещенный в слоте ремня на экране фенечек, и получающий достаточно маны, значительно ускоряет владельца.
+
+academy.lens.title=Очки маны
+academy.lens.desc=Сделайте Линзу маны
+academy.lens.text=Линзы маны меняют процесс работы Распространителя маны. Они могут cделать Всплески маны быстрее или позволят им передавать больше маны, или сделать так, чтобы Всплески взрывались при столкновении с другим блоком.
+
+academy.botaniamagnet.title=Притягивающая личность
+academy.botaniamagnet.desc=Сделайте Кольцо Магнетизма
+academy.botaniamagnet.text=Кольцо Магнетизма будет притягивать к вам предметы, будучи размещенным в ячейке Bauble.
+
+academy.botaniarods.title=Волшебная Палочка
+academy.botaniarods.desc=Сделайте любой жезл
+academy.botaniarods.text=Жезла расходуют ману на осуществление определённых действий. Например, установка Булыжника или Земли, полёт, переплавка блоков.
+
+academy.terrasteel.title=Огоньки
+academy.terrasteel.desc=Сделайте Террасталь
+academy.terrasteel.text1=Террасталь делается на Наземной агломерационной плите.
+academy.terrasteel.text2=Бросьте Манасталь, Маналмаз и Жемчуг на плиту. Также потребуется нефиговое количество маны, которое можно передать с помощью Искр из Бассейна Маны.
+academy.terrasteel.text3=Появятся огоньки, потанцуют, слетятся на брошенные предметы и превратят их в Террасталь.
+
+academy.elven.title=Ключ на старт!
+academy.elven.desc=Сделайте Портал в Эльфхейм
+academy.elven.text1=Портал в Эльфхейм - это мультиблок, который позволяет вам торговать с эльфами (на самом деле - нет). Бросьте предмет в портал и они бросят в ответ эльфийскую версию предмета.
+academy.elven.text2=Лексика Botania содержит руководство по строительству портала.
+
+academy.laputa.title=Небесный град
+academy.laputa.desc=Сделайте Осколок острова Лапута максимального размера
+academy.laputa.text1=Осколок острова Лапута позволяет поднять блоки с земли в небо, что дает вам крутой парящий остров!
+academy.laputa.text2=Чем выше уровень Осколка, тем больше будет остров.
+
+academy.flugel.title=Тиара - это шапка
+academy.flugel.desc=Сделайте Крылатую Тиару
+academy.flugel.text=Крылатая Тиара позволяет летать какое-то время. Если она на вас, то вы можете увидеть оставшееся время полёта над панелью с предметами.
+academy.flugel.text2=Мы можете ускоряться в полете. Но ускорение имеет время восстановления.
+academy.flugel.text3=Есть несколько различных видов Крылатой тиары, чтобы вы могли изменить её внешний вид.
+
+academy.lexica2.title=Эльфы говорят по-русски
+academy.lexica2.desc=Сделайте эльфийскую версию Лексика Botania
+academy.lexica2.text1=Если вы бросите Лексику Botania в Портал в Эльфхейм, то эльфы дополнят её своими знаниями.
+academy.lexica2.text2=Знания Эльфов будут зелеными.
+
+academy.farreach.title=Верхняя полка
+academy.farreach.desc=Сделайте Кольцо дальнего богатства
+academy.farreach.text=Кольцо дальнего богатства, как понятно из названия, позволяет увеличить расстояние, с которого доступны предметы.
+
+academy.luminizer.title=Прогулка под Солнцем
+academy.luminizer.desc=Сделайте Светлячка
+academy.luminizer.text1=Светлячки могут перемещать игроков и существ между друг другом дорогами света.
+academy.luminizer.text2=Разместите два Светлячка в пределах 20 блоков друг от друга. Shift-ПКМ на Светлячках Посохом Леса для создания односторонней связи. ПКМ на первом Светлячке для перемещения ко второму. Если второй связан с третьим - вы понесётесь дальше.
+
+academy.conjuration.desc=Сделайте Колдовской Катализатор
+academy.conjuration.text1=Если поместить Колдовской Катализатор под Бассейн Маны, то вы сможете удваивать некоторые предметы за счет использования маны.
+academy.conjuration.text2=Посмотрите в JEI варианты использования Колдовского Катализатора, нажав U на нём.
+
+academy.elvenspreader.desc=Сделайте Эльфийский Распространитель Маны
+academy.elvenspreader.text=Эльфийский Распространитель Маны посылает гораздо большие всплески Маны, хотя он и реже стреляет.
+
+academy.globetrotter.desc=Сделайте Кушак Пилигрима
+academy.globetrotter.text=Кушак Пилигрима это улучшенная версия Пояса Странника. Вы сможете бегать быстрее и прыгать выше. Кушать он вам не даст!
+
+academy.gaiaspreader.desc=Сделайте Распространитель Маны Гайи
+academy.gaiaspreader.text=Распространитель Маны Гайи является последним уровнем распространителей маны. Его всплески маны больше, и летят дальше.
+
+academy.gaia.title=Согнуть в бараний рог!
+academy.gaia.desc=Победите Стража Гайи
+academy.gaia.text=Вы должны построить поле битвы, чтобы вызвать Стража Гайи (см. Лексику Botania). После победы с него выпадет некоторое количество Духов Гайи и другие полезные вещи.
+
+academy.gaia2.title=Сундук с припасами
+academy.gaia2.desc=Победите более сильного Стража Гайи
+academy.gaia2.text1=Вы можете бросить вызов Стражу посильнее, чтобы получить награды получше. Используйте Слиток духа Гайи вместо слитка из террастали, чтобы начать битву.
+academy.gaia2.text2=Вторая битва будет намного сложнее. Хорошенько подготовьтесь к битве. В добыче будут Кости судьбы, которые можно превратить в 1 из 6 возможных легендарных реликвий.
+
+#Twilight Forest
+academy.twilightportal.title=Мир чистого воображения
+academy.twilightportal.desc=Войдите в Сумеречный Лес
+academy.twilightportal.text1=Сумеречный Лес - это совершенно новое измерение, полное чудес.
+academy.twilightportal.text2=У него строгая система прогресса, поэтому вы должны победить определенных боссов, прежде чем попасть в определенные биомы.
+academy.twilightportal.text3=Чтобы сделать портал в Сумеречный Лес, выкопайте яму 2х2 в траве и наполните её водой. Убедитесь, что на каждом блоке травы вокруг ямы есть какой-нибудь цветок, а затем киньте алмаз в воду.
+academy.twilightportal.task=Войдите в Сумеречный Лес
+
+academy.magicmap.title=Я карта!
+academy.magicmap.desc=Сделайте Пустую Магическую Карту
+academy.magicmap.text1=Магическая карта очень сильно поможет в навигации по Сумеречному Лесу.
+academy.magicmap.text2=Она крупномасштабная, каждый биом имеет уникальный цвет, а достопримечательности имеют значки, чтобы их было проще найти.
+
+academy.questingram.title=Радужный Баран
+academy.questingram.desc=Выполните задание Квестового Барана
+academy.questingram.text1=Квестовый Баран - это пассивное существо, которое рождается в биоме "Enchanted Forest".
+academy.questingram.text2=Дайте ему один блок шерсти каждого цвета, и он даст вам блоки всех металлов и драгоценных камней из оригинального Minecraft, а так же Рог.
+
+academy.naga.title=Змеебоязнь
+academy.naga.desc=Истребите Нагу
+academy.naga.text1=Поначалу, только основные биомы будут доступны.
+academy.naga.text2=Вы можете путешествовать как вам угодно, но недоступные биомы имеют свои собственные способы остановиться вас.
+academy.naga.text3=Чтобы открыть следующие биомы, найдите и победите Нагу. Вы можете найти его во дворе Наги в одном из лесных биомов.
+academy.naga.task=Достижение: Убийца наги
+
+academy.lich.title=Учебные приключения
+academy.lich.desc=Свергните Лича
+academy.lich.text1=Башня Лича откроется в лесных биомах после победы над Нагой. Заберитесь на вершину башни, чтобы одолеть Лича.
+academy.lich.text2=В FTB Руководстве, доступном по ссылке внизу, есть описание стратегии на каждого босса Сумеречного Леса.
+academy.lich.text3=После получения Посоха вам станут доступны биомы: Болото, Тёмный Лес и Снежный Лес.
+academy.lich.task=Достижение: Убить мёртвого
+
+academy.minoshroom.title=Тезей
+academy.minoshroom.desc=Победите Гриботавра
+academy.minoshroom.text1=В Болоте вы найдёте огромный подземный Лабиринт, полный монстров и сокровищ. На самом нижнем уровне вы найдёте Гриботавра.
+academy.minoshroom.text2=Для победы над Гриботавром не требуется специальная тактика, просто бейте его, пока не победите. Съешьте Суп из минотавра, чтобы разблокировать Огненное Болото.
+academy.minoshroom.task=Достижение: Могучий строганов
+
+academy.hydra.title=Подвиг Геракла
+academy.hydra.desc=Обезглавьте Гидру
+academy.hydra.text1=Гидра может быть найдена в Огненном Болоте. Лучше всего сражаться с ней на расстоянии, атакуя голову, когда рот открыт.
+academy.hydra.text2=Когда голова получит достаточно урона, она умрёт и заменится другой. Убейте все головы и Гидра будет побеждена.
+academy.hydra.text3=Огненная кровь, вместе с дропом с двух других боссов, нужна для доступа в Нагорья.
+academy.hydra.task=Достижение: Убийца гидры
+
+academy.knightphantom.title=Жуткие Скелеты
+academy.knightphantom.desc=Успокойте Рыцарей фантомов
+academy.knightphantom.text1=Бастион гоблинов-рыцарей находится в Тёмных лесах и наполнен монстрами и сокровищами. В одной из комнат есть шесть Рыцарей Фантомов, которых необходимо победить.
+academy.knightphantom.text2=Убейте всех Рыцарей Фантомов, чтобы войти в Темную Башню.
+academy.knightphantom.task=Достижение: Карминитовая акклиматизация
+
+academy.urghast.title=Плакса
+academy.urghast.desc=Доведите Ур-Гаста до слёз
+academy.urghast.text1=Тёмная башня может быть найдена в темных лесах. При подъеме на неё вам придется преодолеть много головоломок и сразиться со множеством монстров.
+academy.urghast.text2=Огненные слёзы, вместе с дропом с двух других боссов, нужны для доступа в Нагорья.
+academy.urghast.task=Достижение: Слёзы огня
+
+academy.yeti.title=Крутой парень
+academy.yeti.desc=Охладите Альфа-Йети
+academy.yeti.text1=Альфа Йети можно найти в Логове Йети в биоме Заснеженный Лес.
+academy.yeti.text2=Соберите с него мех, чтобы разблокировать Ледник.
+academy.yeti.task=Достижение: Тёплый мех
+
+academy.snowqueen.title=Цареубийство
+academy.snowqueen.desc=Сбросьте Снежную Королеву с трона
+academy.snowqueen.text1=Снежная Королева находится на верхнем этаже дворца Авроры на вершине Ледников.
+academy.snowqueen.text2=После победы над Снежной Королевой и получения трофеев у двух других боссов, вы можете войти в Нагорье.
+academy.snowqueen.task=Достижение: Чистое небо
+
+academy.cinders.title=Взломать и Зайти
+academy.cinders.desc=Ограбьте Гигантов прямо в их доме
+academy.cinders.text1=Под Нагорьями вы можете найти Пещеры Троллей, которые содержат как большие, так и небольшие обсидиановые хранилища, а также, очевидно, Троллей.
+academy.cinders.text2=Найдите Волшебные Бобы и используйте их чтобы добраться до Облачного Коттеджа. Убейте Гигантского Шахтера, заберите его Гигантскую кирку и вернитесь в Пещеры Троллей.
+academy.cinders.text3=Используйте Гигантскую Кирку чтобы забрать Лампу Огня из Гигантского Обсидианового Хранилища.
+academy.cinders.task=Достижение: Я желаю больше огня
+
+academy.castle.title=Неплохая база. Наверное
+academy.castle.desc=Исследуйте Финальный Замок
+academy.castle.text1=Используйте Лампу Огня чтобы пробраться сквозь Шипы и добраться до Финального Плато. На нём стоит Финальный Замок.
+academy.castle.text2=Мод не доделан, поэтому в Финальном Замке мало что работает. Нет босса и головоломки не работают. В настоящее время прогресс на этом завершается, но над модом продолжают работать.
+
+
+# Astral Sorcery
+
+academy.astraltome.title=Знания - сила
+academy.astraltome.desc=Сделайте Журнал Знаний
+academy.astraltome.text1=Журнал Знаний является лучшим источником информации об Astral Sorcery. Он имеет несколько глав, которые можно приблизить с помощью колеса прокрутки.
+academy.astraltome.text2=По началу единственной доступной вам главой будет Открытие. Больше глав откроется по мере игры в этот мод.
+
+academy.constellationpaper.desc=Найдите Свиток Созвездия
+academy.constellationpaper.text1=Созвездия - одна из наиболее важных частей мода. Свитки Созвездий могут быть найдены в Святынях. По началу вам будет доступно пять созвездий.
+academy.constellationpaper.text2=Shift-ПКМ Журналом Знаний чтобы добавить Свиток в него. Это создаст новую страницу в Журнале со списком созвездий, но, пока, без какой-либо важной информации.
+
+academy.reswand.title=Магический камертон
+academy.reswand.desc=Создайте Резонирующий Жезл
+academy.reswand.text1=Найдите Древнюю Святыню, чтобы начать прогресс в Astral Sorcery. Вы можете найти их в горных районах; это большие мраморные структуры с текущей водой.
+academy.reswand.text2=Докопайтесь до подвала Древней святыни, чтобы найти летающий кристалл. К нему еще придётся вернуться, но сейчас просто разместите Верстак поблизости. Это позволит вам создавать на этом верстаке предметы, которые требуют Звёздного Света.
+academy.reswand.text3=Если взять Резонирующий Жезл в руку и прогуляться по миру, то местами вы увидите белые искры, которые отмечают залежи Горной Кристальной Руды.
+
+academy.luminouscraftingtable.title=Ночной дозор
+academy.luminouscraftingtable.desc=Сделайте Светящийся Верстак
+academy.luminouscraftingtable.text1=Светящийся Верстак позволяет вам использовать рецепты, требующие Звёздного Света, без необходимости использования Летающего Кристалла. Светящийся Верстак должен быть расположен напрямую под ночным небом.
+academy.luminouscraftingtable.text2=Доступный объём Звёздного Света зависит от высоты и точки на карте.
+academy.luminouscraftingtable.text3=Для крафта на Светящемся Верстака убедитесь, что вам хватает Звёздного Света, а затем используйте Резонирующий Жезл для запуска процесса.
+academy.luminouscraftingtable.text4=После создания Светящегося Верстака в Журнале Знаний откроется глава Исследования.
+
+academy.sextant.title=Помощник по строительству
+academy.sextant.desc=Создайте Секстант
+academy.sextant.text1=Astral Sorcery имеет несколько многоблочных структур, которые могут быть сложными для постройки. Если использовать Секстант на основной части структуры, то он покажет, где надо размещать остальные блоки.
+academy.sextant.text2=Используйте Секстант ночью и посмотрите на звезды. Вы можете увидеть большую цветную звезду. Удерживайте Shift, чтобы разблокировать мышь. Перетащите правильную структуру на звезду, чтобы выбрать цель для Секстанта. Следуйте этой цели, чтобы найти выбранную структуру.
+
+academy.lookingglass.title=Смотрим в Телескоп
+academy.lookingglass.desc=Создайте Ручной Телескоп
+academy.lookingglass.text1=С помощью Телескопа можно найти на ночном небе созвездия, свитки с которыми вы уже нашли. Каждую ночь Телескоп покажет вам только одно созвездие. Может потребоваться несколько ночей, чтобы отобразилось нужное созвездие.
+academy.lookingglass.text2=Звезды, которые принадлежат созвездиям, будут больше и будут мигать. Если это созвездие, свиток которого вы уже нашли, то держите Shift, чтобы разблокировать мышь и проведите линии между звёздами созвездия согласно рисунку.
+
+academy.lightwell.title=Лунная Ванна
+academy.lightwell.desc=Сделайте Колодец Света
+academy.lightwell.text1=Колодцы света используются для создания Жидкого Звездного Света. Используйте Аквамарин или Горные Кристаллы на колодце, стоящим под ночным небом. Более качественные кристаллы позволят собрать больше Звездного света.
+academy.lightwell.text2=Если бросить Горный Кристалл в Жидкий Звёздный Свет, то он начнет постепенно увеличивать свой размер. Кристаллы большего размера позволят создать кристальные инструменты с большей прочностью.
+
+academy.fosicresonator.title=Конструктивное вмешательство
+academy.fosicresonator.desc=Сделайте Резонатор Света
+academy.fosicresonator.text1=В некоторых точках на карте Звёздного света больше, в других - меньше. Найти место с большим количеством Звёздного света может быть трудно.
+academy.fosicresonator.text2=Пройдитесь по окрестностям ночью, держа Резонатор Света в руках. Местами вы увидите синее свечение. Чем интенсивнее свечение, тем больше в этом месте Звёздного света.
+
+academy.spectralrelay.title=Усиление Звёздного Света
+academy.spectralrelay.desc=Создайте Реле Настройки
+academy.spectralrelay.text1=Если вы не смогли найти идеальное место - используйте реле Настройки для направления Звёздного света на ближайший алтарь. Постройте многоблочную структуру неподалёку от алтаря, и он повысит количество Звёздного света, доступного на алтаре.
+academy.spectralrelay.text2=Эффективность Реле настройки падает, если они расположены ближе, чем 16 блоков друг от друга.
+
+academy.illuminationpowder.title=Ночной режим
+academy.illuminationpowder.desc=Сделайте Осветительный Порошок
+academy.illuminationpowder.text1=Осветительный Порошок - великолепный источник света. Он не занимает место в блоке, его нельзя потрогать и он не нуждается в какой-либо опоре.
+academy.illuminationpowder.text2=Единственный способ его убрать - разместить на нем блок.
+
+academy.caveilluminator.desc=Сделайте Пещерный Осветитель
+academy.caveilluminator.text=Пещерный Осветитель будет неспешно освещать большую область под собой.
+
+academy.nocturnalpowder.title=Чёрный свет
+academy.nocturnalpowder.desc=Сделайте Ночной Порошок
+academy.nocturnalpowder.text=Если бросить Ночной Порошок, то он создаст тёмное облако, которое породит монстров.
+
+academy.grindstone.title=Качество важнее количества
+academy.grindstone.desc=Сделайте Точильный Камень
+academy.grindstone.text1=Точильный Камень может быть использован для заточки меча - это добавит 10% к урону.
+academy.grindstone.text2=Вы также можете использовать его для огранки Горных Кристаллов. Огранка уменьшит размер кристалла и увеличит урон/скорость создаваемых из этого кристалла инструментов.
+
+academy.starlightcraftingaltar.desc=Сделайте Алтарь Звёздного Света
+academy.starlightcraftingaltar.text1=Алтарь Звёздного Света - алтарь второго уровня. Когда вы будете создавать его на Светящемся Верстаке, то вместо создания нового предмета ваш верстак превратится в Алтарь Звёздного Света.
+academy.starlightcraftingaltar.text2=Для работы Алтаря Звёздного Света вам нужно будет построить структуру вокруг него. Вы можете использовать Секстант, чтобы увидеть, где размещать блоки.
+academy.starlightcraftingaltar.text3=После создания Алтаря Звёздного Света в Журнале Знаний откроется глава Настройки.
+
+academy.telescope.title=Я иду искать
+academy.telescope.desc=Сделайте Телескоп
+academy.telescope.text=Телескоп является продвинутой версией Ручного Телескопа. Для любования звездами сначала поставьте его. В остальном работает как Ручной Телескоп.
+
+academy.linkingtool.title=Эй, послушай!
+academy.linkingtool.desc=Сделайте Инструмент Связывания
+academy.linkingtool.text1=Инструмент Связывания позволяет создавать связь между Летающими Кристаллами и другими блоками. Shift-ПКМ инструментом на источнике Звёздного света, затем правой кнопкой мыши на все блоки, которые должны получать Звёздный свет.
+academy.linkingtool.text2=Некоторые блоки могут превратиться в другие блоки при попадании на них Звёздного света. Полный список доступен в JEI, см. использование Линзы.
+
+academy.starmetal.title=Рок-звезда
+academy.starmetal.desc=Сделайте Слиток Звёздного Металла
+academy.starmetal.text1=Если вы свяжете Летающий Кристалл и Блок Железной Руды, то он превратится в Блок Звёздного Металл.
+academy.starmetal.text2=Если вы планируете использовать для этого Летающий Кристалл из подземелья Древнего Святилища - убедитесь, что кристалл видит ночное небо.
+
+academy.astralsorcerylens.title=Линза перенаправления Звёздного Света
+academy.astralsorcerylens.desc=Сделайте Кристальную Линзу
+academy.astralsorcerylens.text1=Вы можете использовать Линзы для передачи Звёздного Света из источника в отдалённое место. Просто свяжите источник с Линзой, а затем свяжите Линзу с пунктом назначения. Вы можете иметь столько источников, сколько захотите, но только один пункт назначения.
+academy.astralsorcerylens.text2=Вы можете вставить Цветную Линзу в блок линз. Тогда проходящий через неё Звёздный свет будет выполнять определённое действие. Каждый цвет имеет своё действие, которое указано во всплывающей подсказке.
+
+academy.celestialgateway.title=Внутренний туризм
+academy.celestialgateway.desc=Сделайте Небесные Врата
+academy.celestialgateway.text1=Небесные Врата - это многоблочная структура, позволяющая телепортироваться к другим Небесным Вратам. Встаньте по центру платформы, окружающая обстановка исчезнет и вы сможете увидеть расположение других Небесных Врат. Используйте Shift, чтобы переместиться к Вратам, на которые смотрите.
+academy.celestialgateway.text2=Для облегчения навигации мы можете переименовать Небесные Врата на Наковальне.
+
+academy.impulsionwand.title=Крюк-кошка!
+academy.impulsionwand.desc=Сделайте Жезл Импульсов
+academy.impulsionwand.text=Используйте Жезл Импульсов для выстрела крюком. После попадания в цель он начнёт быстро притягивать вас к себе. Вы не получите урона от падения.
+
+academy.attunementaltar.title=По-видимому, Самая Крутая Штука
+academy.attunementaltar.desc=Сделайте Алтарь Настройки
+academy.attunementaltar.text1=Алтарь Настройки позволяет вам настроить себя или предметы на определённое созвездие. Это даст потрясающий эффект. Возьмите Свиток созвездия в руку, и поместите Реле Настройки в подсвеченные места. Если созвездие присутствует на ночном небе - вы или предмет на алтаре будете настроены на это созвездие.
+academy.attunementaltar.text2=Вы можете настроить такие предметы, как Горный кристаллы, но действительно интересная часть - это настроить ВАС на созвездие. При настройке на созвездие будет открыто массивное дерево умений. Вы будете получать опыт выполняя определённые действия, зависящие от темы созвездия.
+
+academy.shiftingstar.title=Передумал
+academy.shiftingstar.desc=Сделайте Изменчивую Звезду
+academy.shiftingstar.text=Если вы не довольны созвездием, на которое настроились или перками, которые вы выбрали, вы можете использовать Изменчивую Звезду для полного сброса прогресса ваших умений и настройки.
+
+academy.ritualpedestal.title=Массовый эффект
+academy.ritualpedestal.desc=Сделайте Ритуальный Пьедестал
+academy.ritualpedestal.text1=Ритуальные Пьедесталы работают как маяк, за исключением того, что вместо того чтобы давать эффект зелья они выполняют какое-то действие. Например, позволяют летать или предотвращают появление монстров на окружающей территории (территория зависит от размера и чистоты кристалла).
+academy.ritualpedestal.text2=Функция, которую они выполняют, зависит от созвездия, на которое настроен Кристалл, используемый на Пьедестале. На странице Созвездия вы можете увидеть, что каждое созвездие делает.
+academy.ritualpedestal.text3=Кроме того, вы можете повысить эффективность ритуала, направив Звёздный свет от Летающего Кристалла через Линзы на кристалл на Пьедестале. Кристалл отразит часть света, которые можно вернуть обратно с помощью Линз. Однако это сопряжено с риском уничтожения Кристалла на Пьедестале.
+
+academy.domicresonator.title=Куп, Куп, Куп!
+academy.domicresonator.desc=Сделайте Резонатор Купола
+academy.domicresonator.text1=Резонатор Купола - это улучшенный Резонатор Света. Shift-ПКМ для переключения между режимами работы.
+academy.domicresonator.text2=Резонатор Купола покажет зону действия ритуалов и других подобных конструкций. Используйте Резонатор на основном блоке конструкции (Ритуальном Пьедестале или Древесном Маяке) для отображения зоны действия.
+
+academy.celestialaltar.desc=Сделайте Небесный Алтарь
+academy.celestialaltar.text1=Небесный Алтарь - алтарь Третьего уровня. Когда вы будете создавать его на Алтаре Звёздного Света, то вместо создания нового предмета ваш алтарь превратится в Небесный Алтарь.
+academy.celestialaltar.text2=Небесный Алтарь не будет работать без новой, еще большей многоблочной структуры вокруг него. Вы можете использовать Секстант, чтобы увидеть место размещения новых блоков.
+academy.celestialaltar.text3=После создания Небесного Алтаря в Журнале Знаний откроется глава Созвездия.
+
+academy.starlightinfuser.title=Звездануть
+academy.starlightinfuser.desc=Сделайте Разливщик Звёздного Света
+academy.starlightinfuser.text1=Разливщик Звёздного Света - многоблочная структура, которая позволяет использовать Жидкий Звёздный Свет для изменения различных блоков и предметов. Периодически в сторону улучшения.
+academy.starlightinfuser.text2=В ходе своей работы Разливщик Звёздного Света имеет шанс использовать Жидкий Звёздный Свет. Его надо будет доливать для продолжения работы.
+academy.starlightinfuser.text3=Вы можете зарядить звёздным светом кристаллические инструменты для придания им специальных возможностей. Например, Заряженная кристальная кирка будет показывать расположение близлежащей руды.
+
+academy.treebeacon.title=Древесняк
+academy.treebeacon.desc=Сделайте Древесный Маяк
+academy.treebeacon.text1=Саженцы, выращенные рядом с Древесным Маяком, вырастут в специальные деревья, которые невозможно срубить, и с которых постепенно будут падать древесина и саженцы.
+academy.treebeacon.text2=Древесный Маяк работает только с обычными саженцами, с саженцами из Dynamic Trees не работает.
+
+academy.celestialcrystal.desc=Сделайте Небесный Кристалл
+academy.celestialcrystal.text1=Небесные Кристаллы сильнее и больше, чем Горные Кристаллы. Почти в любой ситуации, когда рецепт требует кристалла, Небесный кристалл будет лучше.
+academy.celestialcrystal.text2=Чтобы вырастить Небесные кристаллы, бросьте Звёздную пыль и Горный кристалл в Жидкий Звёздный свет и подождите некоторое время. В результате появится Небесный Кристальный Кластер, который будет расти какое-то время. Когда он начинает излучать белые частицы, его можно добыть киркой.
+
+academy.sextant2.desc=Сделайте Улучшенный Секстант
+academy.sextant2.text=Улучшенный Секстант позволит вам находить еще больше интересных вещей - Деревни, Подводные и Адские Крепости.
+academy.sextant2.task=Улучшенный Секстант
+
+academy.ritualanchor.title=Дистанционный ритуал
+academy.ritualanchor.desc=Сделайте пару Ритуальных Якорей
+academy.ritualanchor.text1=Конструкция с Ритуальным Пьедесталом большая и громоздкая, и будет трудно разместить несколько активных ритуалов в середине вашей базы. Ритуальные якоря позволяют иметь эффект от ритуала без необходимости иметь всю структуру в нужной точке.
+academy.ritualanchor.text2=Когда вы создадите пару Ритуальных Якорей, они свяжутся между собой навсегда. Поместите один из Якорей на 5 блоков выше Ритуального Пьедестала, а другой в том месте, в котором вы хотите получить эффект от ритуала.
+
+academy.stellarrefractiontable.desc=Сделайте Стол Преломления Звёздного Света
+academy.stellarrefractiontable.text1=Стол Преломления Звёздного Света позволяет зачаровывать предметы с помощью созвездий.
+academy.stellarrefractiontable.text2=Используйте Зачарованное Стекло и Пергамент на Столе, после чего откройте GUI стола. Перетащите до трёх созвездий на Пергамент, чтобы выгравировать созвездия на Зачарованном Стекле. Пергамент при этом будет израсходован.
+academy.stellarrefractiontable.text3=Используйте предмет, который хотите зачаровать на Столе, и он начнет зачаровывание, согласно выбранным созвездиям. Эти зачаровывания будут очень сильными.
+
+academy.illuminationwand.title=Призрачный свет
+academy.illuminationwand.desc=Сделайте Светящийся Жезл
+academy.illuminationwand.text1=Если использовать Светящийся Жезл на блоке, то он поместит на этот блок Осветительный порошок. Клик левой кнопкой мыши уберёт его. Можно изменить цвет огней, если совместить жезл с краской на Верстаке.
+academy.illuminationwand.text2=Shift-ПКМ на блоке сделает его светящимся, прозрачным и устойчивым к любому урону.
+
+academy.collectorcrystal.title=Мощь древних
+academy.collectorcrystal.desc=Сделайте Сборный Кристалл
+academy.collectorcrystal.text1=Использовать кристаллы, парящие в храмах легко и просто, но еще лучше, если бы вы могли сделать их самостоятельно. Если бы только это было возможно...
+academy.collectorcrystal.text2=Эти Сборные Кристаллы работают точно так же, как обычные, но вы можете поместить их где угодно!
+
+academy.celestialcollectorcrystal.desc=Сделайте Небесный Сборный Кристалл
+academy.celestialcollectorcrystal.text1=Так же как Небесные Кристаллы являются улучшенной версией Горных Кристаллов, Небесные Сборные Кристаллы, по существу, улучшенная версия обычных Сборных Кристаллов.
+academy.celestialcollectorcrystal.text2=Вы можете построить структуру для еще большего усиления кристалла, в результате вам больше не придется беспокоиться о силе Звёздного Света.
+
+academy.iridescentaltar.title=Абсолютное Сияние
+academy.iridescentaltar.desc=Сделайте Переливчатый Алтарь
+academy.iridescentaltar.text1=Переливчатый Алтарь является четвертым и последним уровнем верстаков, использующих Звёздный Свет. Когда вы создадите его на Небесном Алтаре, то, вместо создания нового предмета, ваш алтарь превратится в Переливчатый Алтарь.
+academy.iridescentaltar.text2=Переливчатый Алтарь не будет работать без новой, еще большей многоблочной структуры вокруг него. Вы можете использовать Секстант, чтобы увидеть место размещения новых блоков.
+academy.iridescentaltar.text3=После создания Переливчатого Алтаря в Журнале Знаний откроется глава Сияние.
+academy.iridescentaltar.text4=Существенное отличие Переливчатого Алтаря от предыдущих алтарей состоит в том, что вам необходимо будет поместить Реле Настройки на окружающие алтарь блоки Угольного мрамора. При крафте на алтаре на эти реле необходимо будет помещать соответствующие предметы. Кроме того, алтарь имеет специальную ячейку для настроенного кристалла.
+
+academy.containmentchalice.title=Живые жидкости
+academy.containmentchalice.desc=Сделайте Сдерживающую Чашу
+academy.containmentchalice.text1=Сдерживающая Чаша вмещает до 24 ведер жидкости. Звёздный свет из близлежащих Колодцев Света будет самостоятельно поступать в Чашу.
+academy.containmentchalice.text2=Если у вас есть несколько Сдерживающих Чаш, в которых содержатся жидкости, которые могут взаимодействовать (например, Вода и Лава), то маленькое количество жидкости будет лететь друг другу навстречу, создавая результат их комбинации (в данном случае, Камень, Булыжник или Обсидиан). Если есть несколько возможных результатов взаимодействия, то будет выбран случайный.
+academy.containmentchalice.text3=Разливщик Звёздного Света попытается использовать Звёздный свет из Чаши перед использованием Звёздного Света, расположенного в мире.
+
+academy.observatory.title=Планетарий
+academy.observatory.desc=Сделайте Обсерваторию
+academy.observatory.text1=Обсерваторию размещается в мире, а затем используется как Телескоп.
+academy.observatory.text2=Обсерватория - единственный способ обнаружить тусклые созвездия. Тусклые созвездия не обладают самостоятельным эффектом, но они меняют поведение настроенных кристаллов.
+
+academy.mantleofthestars.title=Великолепное Одеяние
+academy.mantleofthestars.desc=Сделайте Звёздную Мантию
+academy.mantleofthestars.text1=Звёздная Мантия может быть настроена на созвездие, чтобы получить особые способности.
+academy.mantleofthestars.text2=Мантия настраивается на созвездие на Переливчатом Алтарь, а не на Алтаре Настройки.
+
+academy.attunedreswands.title=Остролист и Перо Феникса, 11 дюймов, Тонкая и Гибкая
+academy.attunedreswands.desc=Сделайте Настроенный Резонирующий жезл
+academy.attunedreswands.text=Вы можете настроить Резонирующий Жезл на созвездие для получения специальных возможностей, например, полёт, или увеличение урона при повторных атаках по монстру.
+academy.attunedreswands.task=Любой Настроенный Резонирующий жезл
+
+academy.evershiftingfountain.desc=Сделайте Фонтан Перемен
+academy.evershiftingfountain.text1=Фонтан Перемен является частью многоблочной структуры. Однако он ничего не делает сам, ему нужно одно из ядер для того, чтобы функционировать. Ядро размещается под Фонтаном.
+academy.evershiftingfountain.text2=Оба ядра используют Жидкий Звёздный Свет в качестве топлива. Поместите Сдерживающую Чашу над Фонтаном и наполните её Жидким Звёздным Светом.
+
+academy.neromantic.title=Я ❤ Нерона
+academy.neromantic.desc=Сделайте Добывающее Ядро
+academy.neromantic.text1=Добывающее Ядро пробурит отверстие, шириной, примерно, с Фонтан Перемен, вниз до Бедрока, и начинает генерировать жидкость. Эта жидкость будет передана в Чашу поблизости.
+academy.neromantic.text2=Из различных мест можно добыть разные жидкости.
+
+academy.ichosic.title=Ищем воду!
+academy.ichosic.desc=Сделайте Резонатор Жидкости
+academy.ichosic.text1=Резонатор Жидкости это улучшенный Резонатор Света. Он может быть создан либо из Резонатора Света, либо из Резонатора Купола. Shift-ПКМ для переключения между режимами.
+academy.ichosic.text2=Резонатор Жидкости покажет расположение жидкости, добываемой при помощи Ядра Добычи. Прогуляйтесь с ним ночью по окрестностям и вы увидите маленькие фонтанчики, бьющие из земли. В этом месте будет добыта соответствующая жидкость.
+
+academy.fysallidic.title=Сила притяжения
+academy.fysallidic.desc=Сделайте Парализующее Ядро
+academy.fysallidic.text=Парализующее Ядро притянет существ, расположенных под ним в широком радиусе. И парализует их в воздухе чуть ниже себя.
+
+#Miscellaneous
+
+academy.fontunfucker.title=Исправление шрифтов
+academy.fontunfucker.desc=Узнайте, как изменить шрифт
+academy.fontunfucker.text1=FTB Академия содержит мод Smooth Font, которая делает шрифт Minecraft более четким. Также он меняет шрифт по умолчанию на Verdana, который не всем по вкусу.
+academy.fontunfucker.text2=По умолчанию, клавиша HOME откроет меню Smooth Font, где вы можете изменить все настройки шрифта. Вы также можете легко сбросить его в шрифт по умолчанию.
+
+academy.tesslocatorbad.title=Передача RF на расстояние
+academy.tesslocatorbad.desc=Узнайте, как передавать RF на большие расстояния без Tesslocator'ов
+academy.tesslocatorbad.text1=Advanced Energy Tesslocators являются довольно сложными в использовании, и включены не во все мод-паки. 
+academy.tesslocatorbad.text2=Перейдите по ссылке в FTB Руководство, чтобы научиться передавать RF на большие расстояния без них.
+
+academy.instrumentalmobs.title=Давайте соберём группу
+academy.instrumentalmobs.desc=Получите любой инструмент из мода Instrumental Mobs
+academy.instrumentalmobs.text=Instrumental Mobs добавляют свои версии монстров из оригинального Minecraft, но вместо того, чтобы убивать вас, они играют для вас музыку! Их инструменты оттолкнут вас, но не повредят вам. При убийстве монстра есть небольшой шанс выпадения инструмента.
+academy.instrumentalmobs.task=Любой инструмент из мода Instrumental Mobs
+
+academy.claimexplosions.title=Пзззз щас рванёт
+academy.claimexplosions.desc=Взорвите Крипера в чанке, занятом вами
+academy.claimexplosions.text1=Взрыв Крипера в занятом чанке не разрушает блоки. Но всё еще наносит повреждения вам.
+academy.claimexplosions.text2=Это также помешает Иссушителю повредить блоки с помощью взрывов, но не помешает ему ломать блоки вокруг себя при получении урона.
+
+academy.elevator.title=Едем вверх
+academy.elevator.desc=Сделайте Лифт
+academy.elevator.text=Если вы прыгнете на Лифте, то телепортируетесь на лифт над ним. Если вы пригнётесь на лифте, то телепоруетесь к тому, что ниже его. Цвет не имеет значения.
+academy.elevator.task=Любой Лифт
+
+academy.exchanging.title=Шило на мыло
+academy.exchanging.desc=Сделайте Exchanging Gadget
+academy.exchanging.text=Exchanging Gadget заменяет блоки в шаблонах, похожих на строительный гаджет. Shift-ПКМ на блок, который вы хотите заменить, установите режим и диапазон, а затем щелкните правой кнопкой мыши, чтобы заменить.
+
+academy.destructiongadget.title=Собрать и разобрать
+academy.destructiongadget.desc=Сделайте Destruction Gadget
+academy.destructiongadget.text=Destruction Gadget позволяет одновременно уничтожить огромное количество блоков. Разрушенные блоки не выпадают, они пропадают навсегда (хотя вы можете отменить действие, U по умолчанию).
+
+academy.copypaste.title=Внешний подряд
+academy.copypaste.desc=Сделайте Copy-Paste Gadget
+academy.copypaste.text=Copy-Paste Gadget позволит Вам скопировать район и разместить его где-то в другом месте, не разрушая оригинала. Вы также можете использовать шаблоны, созданные другими людьми!
+
+academy.buildinggadget.title=9x9 - легко
+academy.buildinggadget.desc=Сделайте Building Gadget
+academy.buildinggadget.text=Building Gadget позволяет быстро построить простые сооружения, такие как стены и лестницы.
+
+academy.wateringcan.title=Лейка
+academy.wateringcan.desc=Создайте лейку
+academy.wateringcan.text1=Лейка ускоряет рост растений в определенной области поливая их. Наполнить лейку можно с помощью Shift-ПКМ на блоке воды.
+academy.wateringcan.text2=Лейки более высокого уровня вмещают больше воды, поливают большую площадь и имеют больший шанс на рост растений.
+
+academy.mguspawnegg.title=Жуткие вещи
+academy.mguspawnegg.desc=Используйте Mob Swab для получения Яйца призыва
+academy.mguspawnegg.text1=Вы можете использовать Mob Grinding Utilities для получения Яйца Призыва. Это позволит задать тип существа, которые будет появляться из Рассадника монстров.
+academy.mguspawnegg.text2=Для начала, используйте Mob Swab на любом существе, для получения ДНК. Затем создайте GM Chicken Feed и скормите его курице. Курица отложит соответствующее Яйцо призыва.
+academy.mguspawnegg.text3=Ценой своей жизни.
+academy.mguspawnegg.task=Любое Яйцо Призыва
+
+academy.slimechannel.title=Желейно
+academy.slimechannel.desc=Сделайте Жёлоб из Слизи
+academy.slimechannel.text1=Желоб из Слизи будет толкать все объекты (предметы и существ) в соответствии с направленностью желоба. В том числе вверх и вдоль стен.
+academy.slimechannel.text2=They don't block mobs from spawning, so they go great with the Drop of Evil for mob grinders.
+academy.slimechannel.task=Любой Жёлоб из Слизи
+
+academy.craftingtableonastick.title=Верстак + Палка = ?
+academy.craftingtableonastick.desc=Сделайте Верстак на палочке
+academy.craftingtableonastick.text=Верстак на палочке - это верстак. На палочке.
+
+academy.tinytorch.title=Осветить!
+academy.tinytorch.desc=Сделайте Крошечный факел
+academy.tinytorch.text=Крошечный факел - дешевая альтернатива обычному Факелу. Но сила его света - 12, а у обычного факела - 14.
+
+academy.foodxl.title=О вкусах не спорят
+academy.foodxl.desc=Получите любой предмет из мода XL Food Mod
+academy.foodxl.text=XL Food Mod добавляет большое количество разнообразных продуктов. Всё, от чизбургера до макарон!
+academy.foodxl.task=Любой предмет из мода XL Food Mod
+
+academy.mobgrindingutils.title=Монстры - Легко!
+academy.mobgrindingutils.desc=Сделайте Mob Masher и Mob Fan
+academy.mobgrindingutils.text1=Мод Mob Grinding Utils добавляет разные полезные блоки для облегчения фарма монстров.
+academy.mobgrindingutils.text2=При получении Сигнала Красного Камня Mob Fan будут сдувать существ от себя. Кроме того, в них можно вставить улучшения для увеличения области действия.
+academy.mobgrindingutils.text3=При получении Сигнала Красного Камня Mob Masher начинает наносить повреждения всем существам перед собой. Также можно вставить улучшения на урон или добычу.
+academy.mobgrindingutils.reward1=Добыча
+academy.mobgrindingutils.reward2=Острота
+
+academy.solidifiedxp.title=Соответствует названию
+academy.solidifiedxp.desc=Получите Затвердевший Опыт
+academy.solidifiedxp.text1=Затвердевший Опыт имеет шанс выпадения с существ. По сути, это очки опыта в виде предмета. Используйте его, чтобы получить опыт.
+academy.solidifiedxp.text2=Shift-ПКМ, чтобы использовать сразу стопку Затвердевшего Опыта.
+
+academy.xpsolidifier.title=Заначка
+academy.xpsolidifier.desc=Сделайте Затвердитель Опыта
+academy.xpsolidifier.text1=Затвердитель Опыта позволяет превратить ваш опыт в Затвердевший Опыт. Вы можете хранить опыт в качестве предмета.
+academy.xpsolidifier.text2=Он также будет собирать Сферы опыта на земле в пределах 5 блоков от себя и превращать их в Затвердевший Опыт.
+
+academy.atmagnet.title=Животное притяжение
+academy.atmagnet.desc=Сделайте Кольцо Магнетизма
+academy.atmagnet.text1=Во включенном состоянии Кольцо Магнетизма использует RF для сбора предметов вокруг вас.
+academy.atmagnet.text2=Вы можете включить и выключить его, нажав Shift-ПКМ.
+
+academy.atgrowth.title=Садовник
+academy.atgrowth.desc=Сделайте Кольцо Роста
+academy.atgrowth.text=Во включенном состоянии Кольцо Роста использует RF для ускорения роста растений поблизости.
+
+# Tutorials
+
+academy.tutorial.jei.title=Обучение: Just Enough Items
+academy.tutorial.jei.1=Ваш инвентарь
+academy.tutorial.jei.2=Моды добавляют в игру множество блоков и предметов. Запомнить крафт всех - почти невозможно. Вам поможет мод "Just Enough Items".
+academy.tutorial.jei.3=JEI отображает список предметов справа от вашего инвентаря.
+academy.tutorial.jei.4=Поиск предметов
+academy.tutorial.jei.5=Вы можете отфильтровать список введя имя предмета в строку поиска.
+academy.tutorial.jei.6=Подсказка
+academy.tutorial.jei.7=При наведении на предмет отобразится подсказка с именем предмета.
+academy.tutorial.jei.8=Рецепты
+academy.tutorial.jei.9=Кликните на предмете или наведите курсор и нажмите кнопку R для просмотра рецепта.
+academy.tutorial.jei.10=Кликните правой кнопкой или наведите курсор и нажмите кнопку U для просмотра рецептов, в которых используется этот предмет.
+academy.tutorial.jei.11=Мод показывает все варианты крафта.
+academy.tutorial.jei.29=У некоторых предметов есть дополнительная закладка с полезной информацией.
+academy.tutorial.jei.12=Словарь руды
+academy.tutorial.jei.13=Некоторые крафты позволяют использовать подобные предметы в крафте, а не конкретный специфический предмет. Это делается через Словарь Руды.
+academy.tutorial.jei.14=При наведении курсора на ингредиент в рецепты вы увидите, какие подобные предметы могут быть использованы для крафта.
+academy.tutorial.jei.15=Мод показывает все варианты крафта.
+academy.tutorial.jei.16=Рецепты переработки
+academy.tutorial.jei.17=JEI не ограничивается показом только рецептов крафта, вы также можете увидеть, что вы получаете при плавке в печке, что выпадет с существ, расположение руд и многое другое!
+academy.tutorial.jei.18=Эти машины могут изготовить нужный предмет тем или иным образом.
+academy.tutorial.jei.19=Подстановка предметов рецепта
+academy.tutorial.jei.20=Если у вас есть все предметы, необходимые для создания предмета, то вы можете нажать кнопку +, чтобы автоматически переместить их в соответствующие ячейки в сетке крафта.
+academy.tutorial.jei.21=Подстановка предметов рецепта
+academy.tutorial.jei.22=Если вы находитесь в графическом интерфейсе Верстака, то предметы попадут на Верстак.
+academy.tutorial.jei.23=Закладки
+academy.tutorial.jei.24=Наведите курсор на предмет и нажмите A, чтобы добавить его в закладки, доступные слева от инвентаря. Для удаления из закладок - наведите курсор и нажмите А снова.
+academy.tutorial.jei.25=Чтобы скрыть закладки - нажмите на кнопку в левом нижнем углу.
+
+
+academy.tutorial.quests.title=Обучение: Задания
+academy.tutorial.quests.1=Открытие списка заданий
+academy.tutorial.quests.2=Этот мод-пак содержит множество заданий, чтобы помочь вам научиться играть.
+academy.tutorial.quests.3=Для открытия списка заданий кликните по кнопке в верхнем левом углу на экране инвентаря, или же используйте Quest Book.
+academy.tutorial.quests.4=Quest Book (Книга заданий)
+academy.tutorial.quests.5=Кнопка заданий
+academy.tutorial.quests.6=Экран задания
+academy.tutorial.quests.7=Кликните на задании, чтобы открыть подробную информацию.
+academy.tutorial.quests.8=Большинство заданий не видно, пока они не доступны. Темно-серые задания видны, даже если недоступны.
+academy.tutorial.quests.9=Информация о задании
+academy.tutorial.quests.14=Задачи
+academy.tutorial.quests.15=Для завершения задания надо завершить все задачи в этом задании.
+academy.tutorial.quests.16=Наведите на задачу, чтобы узнать, что нужно сделать.
+academy.tutorial.quests.17=Некоторые задания могут иметь награды за завершение. Кликните на награде, чтобы получить её.
+academy.tutorial.quests.18=Прогресс по заданиям
+academy.tutorial.quests.19=Следующее задание станет доступным после завершения текущего.
+academy.tutorial.quests.20=Разделы
+academy.tutorial.quests.21=Больше разделов станет доступно после завершения Школы.
+academy.tutorial.quests.22=Вы можете открыть их, нажав на них из списка глав слева от заданий.
+academy.tutorial.quests.23=Подразделы
+academy.tutorial.quests.24=Некоторые разделы могут содержать подразделы, которые вы можете открыть, наведя курсор на раздел, а затем кликнув на подразделе в выпадающем списке.
+academy.tutorial.quests.25=Не все разделы имеют подразделы.
+
+academy.tutorial.school.title=Обучение: Школа
+academy.tutorial.school.1=Сброс Школы
+academy.tutorial.school.2=Если вы застряли в Школе - нажмите кнопку "Reset School", чтобы начать сначала.
+academy.tutorial.school.3=Пропуск Школы
+academy.tutorial.school.4=Если вы уже всё знаете - нажмите на кнопку "Выйти из школы" чтобы сразу переместиться в Верхний мир и начать обычную игру.
+
+academy.tutorial.top.title=Обучение: The One Probe
+academy.tutorial.top.1=Блоки
+academy.tutorial.top.2=Мод "The One Probe" добавляет синий прямоугольник в верхнюю часть экрана.
+academy.tutorial.top.3=В этом прямоугольнике отображается информация о блоке, на который вы смотрите. Например: наименование блока, из какого он мода и каким инструментом ломается.
+academy.tutorial.top.4=Просмотр Инвентаря
+academy.tutorial.top.5=Вы можете нажать Shift для просмотра дополнительной информации о блоке, например, содержимое инвентаря.
+academy.tutorial.top.6=Резервуары
+academy.tutorial.top.7=При нажатии на Shift также может отобразиться текущее и максимальное количество жидкости.
+academy.tutorial.top.8=Генераторы
+academy.tutorial.top.9=Генераторы и машины покажут количество RF в них.
+academy.tutorial.top.10=Машины
+academy.tutorial.top.11=Некоторые блоки, например, Печка, покажут прогресс крафта.
+
+academy.tutorial.journeymap.title=Обучение: JourneyMap
+academy.tutorial.journeymap.1=Мини-карта
+academy.tutorial.journeymap.2=Мод "JourneyMap" добавляет мини-карту в правый верхний угол экрана.
+academy.tutorial.journeymap.3=Под мини-картой отображаются ваши текущие координаты и биом.
+academy.tutorial.journeymap.4=Метки
+academy.tutorial.journeymap.5=Вы можете нажать кнопку "Создать метку" (клавиша B) для открытия экрана создания метки.
+academy.tutorial.journeymap.6=Вы можете выбрать имя, координаты (по умолчанию подставятся ваши координаты), цвет и измерение, в котором показывать метку.
+academy.tutorial.journeymap.7=Расстояние в Нижнем миру в 8 раз меньше, чем расстояния в Верхнем мире. Метки, которые находятся в обоих мирах, будут автоматически пересчитываться. Это означает, что вы можете разместить точку в одном мире, построить портал в другом, и портал будет вести в нужное место!
+academy.tutorial.journeymap.8=Метки будут отображаться в мире в виде луча от Маяка. Если вы посмотрите непосредственно на метку, то увидите имя метки и расстояние до неё.
+academy.tutorial.journeymap.9=Они затухают когда вы приближаетесь к ним.
+academy.tutorial.journeymap.10=Полноэкранная карта
+academy.tutorial.journeymap.11=Вы можете нажать кнопку Полноэкранный карта (J по умолчанию), чтобы открыть полноэкранную карту.
+academy.tutorial.journeymap.12=Здесь вы можете увидеть места, в которых вы когда-либо были. Вы также можете увидеть метки, которые вы поставили, а также существ и игроков поблизости.
+academy.tutorial.journeymap.13=Кнопками наверху вы можете изменить внешний вид карты, а также переключить видимость определенных вещей.
+academy.tutorial.journeymap.14=С помощью кнопок внизу вы можете увидеть меню меток, настройки мода и т. д.
+academy.tutorial.journeymap.15=В одиночной игре вы можете использовать кнопку Авто-Карта, чтобы нарисовать карту тех мест, где вы еще не были.
+academy.tutorial.journeymap.16=Карта пещер
+academy.tutorial.journeymap.17=JourneyMap также рисует карту пещер.
+academy.tutorial.journeymap.18=Каждые 15 блоков по вертикали образуют свой слой карты. Вы можете перемещаться по слоям с помощью специальной кнопки в верхней части экрана.
+academy.tutorial.journeymap.19=Кнопка перемещения по слоям
+
+
+# Overlays
+
+academy.overlay.welcome.title=Добро пожаловать в FTB Academy!
+academy.overlay.welcome.1=Для начала Школы используйте Quest Book!
+
+academy.overlay.storage.title=Хранилище
+academy.overlay.storage.1=Отправляйтесь в комнату Storage
+academy.overlay.storage.2=Откройте сундуки и ящики
+academy.overlay.storage.3=Заберите "Улучшение из деревянного в железный сундук"
+academy.overlay.storage.4=Улучшите Сундук кликнув на нём улучшением
+academy.overlay.storage.5=Левый клик на ящике с булыжником, чтобы забрать булыжник
+academy.overlay.storage.6=Левый клик на ящике с деревом, чтобы забрать дерево
+academy.overlay.storage.7=Используйте Кусочек Железа на нижней правой ячейке Уплотняющего Ящика. Затем левый клик на верхней ячейке, чтобы забрать Блок Железа
+academy.overlay.storage.8=Откройте Привод и поместите Диск хранения в Привод
+academy.overlay.storage.9=Откройте Терминал и заберите Ведро
+academy.overlay.storage.10=Заберите Ведро из Терминала
+academy.overlay.storage.11=Правый клик Ведром на Резервуаре, чтобы набрать воды оттуда
+academy.overlay.storage.12=Поместите воду в пустой резервуар, кликнув по нему ведром с водой
+
+academy.overlay.tech.title=Технологии и Автоматизация
+academy.overlay.tech.1=Пройдите в комнату Technology & Automation
+academy.overlay.tech.2=Откройте Сундук слева и заберите оттуда по одной штуке каждой руды и Землю
+academy.overlay.tech.3=Настройте правый Фильтр на белый список, кликнув по треугольной кнопке слева. Затем поместите руду в ячейки фильтра
+academy.overlay.tech.4=Настройте средний Фильтр поместив Землю в ячейки фильтра
+academy.overlay.tech.5=Настройте левый фильтр на Черный список, кликнув по треугольной кнопке слева. Затем поместите руду и землю в ячейки фильтра
+academy.overlay.tech.6=Включите Рычаг
+academy.overlay.tech.7=Кликните правой кнопкой на резервуаре, держа в руке Серповидный Молот
+academy.overlay.tech.8=Кликните на Сервомеханизме под резервуаром и кликните на кнопке Красного камня в верхнем правом углу. Смените настройки Сигнала Красного Камня на "Игнорировать"
+academy.overlay.tech.9=Поместите Угольный Генератор на Блок Железа
+academy.overlay.tech.10=Поместите Уголь в генератор
+academy.overlay.tech.11=Поместите Свинцовую Флаксовую Трубу на Блок Сиреневой Шерсти
+academy.overlay.tech.12=Поместите Редстоуновую Печь на Блок Ляписа
+academy.overlay.tech.13=Заберите 4 Железной Руды из сундука и переплавьте её в Редстоуновой Печи
+
+academy.overlay.as.title=Astral Sorcery
+academy.overlay.as.1=Войдите в комнату Astral Sorcery
+academy.overlay.as.2=Заберите предметы из сундука
+academy.overlay.as.3=Поместите Верстак на Блок Шерсти
+academy.overlay.as.4=Сделайте Резонирующий Жезл (см. рецепты в JEI)
+academy.overlay.as.5=Сделайте Светящийся Верстак (см. рецепты в JEI)
+academy.overlay.as.6=Поместите Светящийся Верстак на Блок Резного Кварца
+academy.overlay.as.7=Сделайте Осветительный порошок (см. рецепты в JEI)
+academy.overlay.as.8=Кликните правой кнопкой мыши на Светящемся Верстаке, держа в руках Резонирующий Жезл
+
+academy.overlay.botania.title=Botania
+academy.overlay.botania.1=Отправляйтесь в комнату Botania
+academy.overlay.botania.2=Заберите предметы из сундука
+academy.overlay.botania.3=Превратите цветы в лепестки (см. рецепты в JEI)
+academy.overlay.botania.4=Наполните Лепестковый Аптекарь из ведра с водой
+academy.overlay.botania.5=Бросьте 1 серый, 1 красный и 2 коричневых лепестка в Лепестковый Аптекарь. Затем бросьте Семена Пшеницы
+academy.overlay.botania.5_5=Если вы бросили неправильный лепесток, то Shift-ПКМ пустой рукой на аптекаре, чтобы забрать его обратно
+academy.overlay.botania.6=Посадите Пламя Края на светлый Блок Травы
+academy.overlay.botania.7=Бросьте Уголь рядом с Пламенем Края
+academy.overlay.botania.8=Shift-ПКМ Посохом Леса на Распределителе Маны
+academy.overlay.botania.8.5=Shift-ПКМ Посохом Леса на Бассейне Маны, чтобы связать его с распространителем
+academy.overlay.botania.9=Бросьте Слиток Железа в Бассейн Маны для создания Слитков Манастали
+academy.overlay.botania.10=Бросьте два Слитка Манастали в Портал для получения Слитка Элементия
+
+tile.manaFlame.name=Вспышка Маны
