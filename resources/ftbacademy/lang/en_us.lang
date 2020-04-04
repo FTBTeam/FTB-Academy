@@ -911,7 +911,7 @@ academy.advenergytess.title=Way Better Than Pipes
 academy.advenergytess.desc=Make Advanced Energy Tesslocators
 academy.advenergytess.text1=Advanced Energy Tesslocators work like Basic ones, except they don't need to be in the same block space. This allows you to transfer them wirelessly, over any distance and between dimensions.
 academy.advenergytess.text2=Advanced Tesslocators are set by holding a dye in each hand and then right clicking on the Tesslocator. To toggle between input and output mode, hold sneak and right click with an empty hand on the Tesslocator. There is no visual indicator, but they default to input.
-academy.advenergytess.text3=Advanced Energy Tesslocators can store 40,000,000 RF, and can move the same amount per tick.
+academy.advenergytess.text3=Advanced Energy Tesslocators can store 40,000,000 RF, but can only wirelessly send 256 RF/t per "input" tesslocator. This is a known issue and will eventually be fixed.
 
 academy.plasticmaking.title=Flubber
 academy.plasticmaking.desc=Make some Plastic
