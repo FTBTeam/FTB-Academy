@@ -5,6 +5,8 @@ best as you're able. Thank you!
 Note: any external modifications to this modpack will render all support useless,
 ie; adding mods like optifine to the modpack! So please remove all added content, 
 re-test bug/issue and resubmit!
+If you are using Twitch, please try using the new FTB Launcher found here: https://www.feed-the-beast.com/,
+as we will not provide support otherwise.
 -->
 
 * **Modpack Version**: <!-- you must provide the version of the pack this issue happened -->
