@@ -1,3 +1,5 @@
+# Ok so I know it says desc where it should now be called subtitle, and it says text where it should be desc, but it wasn't like that when we started and I am NOT changing all those to fix it
+
 # Chapters
 
 academy.gettingstarted.title=Der Anfang in einer neuen Welt
@@ -54,16 +56,18 @@ academy.elevators.rewards=Aufzüge
 academy.meats.rewards=Fleisch
 academy.rangeaddons.rewards=Reichweitenverbesserungen
 academy.drillaugments.rewards=Bohrerverbesserungen
+academy.coins.rewards=Münzen
+academy.jetpacktrails.rewards=Kondensstreifen
 
 academy.swordenchants1.rewards=Schwertverzauberungen 1
 academy.looting1.reward=Plünderung II
 academy.sharpness1.reward=Schärfe III
-academy.reaper1.reward=Reaper II
+academy.reaper1.reward=Mörder II
 
 academy.swordenchants2.rewards=Schwertverzauberungen 2
 academy.looting2.reward=Plünderung IV
 academy.sharpness2.reward=Schärfe VI
-academy.reaper2.reward=Reaper 
+academy.reaper2.reward=Mörder V
 
 academy.bowenchants1.rewards=Bogenverzauberungen 1
 academy.power1.reward=Stärke III
@@ -131,6 +135,8 @@ academy.pinklens.reward=Heilung
 academy.bluelens.reward=Schub
 academy.purplelens.reward=Spektral
 
+academy.monsterspawneggs.rewards=Monsterspawneier
+
 #Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
 
 #Basics
@@ -191,7 +197,7 @@ academy.introfluidstorage.title=Flüssigkeitenspeicher
 academy.introfluidstorage.desc=Leere einen Wassereimer
 academy.introfluidstorage.text1=Es gibt Mods, die die Lagerung von Items ermöglichen, da können Mods, die die Lagerung von Flüssigkeiten ermöglichen nicht fehlen.
 academy.introfluidstorage.text2=Blöcke, die Flüssigkeiten speichern können haben meistens "Tank" im Namen, wodurch du sie durch die Suche nach "Tank" in JEI leicht finden kannst.
-academy.introfluidstorage.text3=Der Tragbare Tank hat mehrere Verbesserunsstufen, welche ihm ermöglichen mehr Flüssigkeit zu speichern.
+academy.introfluidstorage.text3=Der Tragbare Tank hat mehrere Verbesserungsstufen, welche ihm ermöglichen mehr Flüssigkeit zu speichern.
 academy.introfluidstorage.text4=Du kannst Flüssigkeiten in den Tank füllen und aus dem Tank entnehmen, indem du ihn mit einem befüllten oder leeren Eimer rechtsklickst.
 
 academy.introautomation.title=Einführung in die Automatisierungsmethoden
@@ -227,7 +233,7 @@ academy.introtech.task=Betrete den Technikraum
 academy.introgen.title=Energieproduktion
 academy.introgen.desc=Nutze einen Kohlegenerator
 academy.introgen.text1=Die meisten Technikmods nutzen RF (RedstoneFlux) oder FE (ForgeEnergy), was eigentlich einfach nur Strom ist.
-academy.introgen.text2=Generatoren sind Maschinen, wie Strom erzeugen. Der Kohlegenerator nutzt Ofentreibstoff, wie z.B. Kohle, um Strom zu erzeugen.
+academy.introgen.text2=Generatoren sind Maschinen, wie Strom erzeugen. Der Kohlegenerator nutzt Ofenbrennstoff, wie z.B. Kohle, um Strom zu erzeugen.
 academy.introgen.text3=Platziere den Kohlegenerator auf dem Eisenblock und befülle ihn mit etwas Kohle, um Strom zu erzeugen.
 academy.introgen.task=Baue den Kohlegenerator auf dem Eisenblock auf
 
@@ -296,7 +302,7 @@ academy.intromanagen.text4=Sobald du die Endoflamme hergestellt hast, platziere 
 academy.intromanatransfer.title=Mana bewegen und speichern
 academy.intromanatransfer.desc=Speichere Mana im Manabecken
 academy.intromanatransfer.text1=Manaverbreiter werden benutzt, um Mana zu transportieren; Manabecken dienen als Manaspeicher.
-academy.intromanatransfer.text2=SHIFT + Rechtsklicke (oder ggf. Schleichen + Rechtsklicke) mit dem "Stab des Waldes" auf den Manaverbreiter und mache das Selbe mit dem Manabecken, um den Verbreiter auf das Becken auszurichten.
+academy.intromanatransfer.text2=SHIFT + Rechtsklick (Schleichen + Rechtsklick) mit dem "Stab des Waldes" auf den Manaverbreiter und mache das Selbe mit dem Manabecken, um den Verbreiter auf das Becken auszurichten.
 academy.intromanatransfer.text3=Das gesamte Mana des Manaverbreiters wird nun in das Manabecken übertragen.
 academy.intromanatransfer.task=Fülle das Manabecken
 
@@ -334,8 +340,17 @@ academy.tinkering.text2=Du kannst in der Extraanleitung (Guide) im Bereich "Ausr
 
 academy.smeltery.title=Heiße Angelegenheit
 academy.smeltery.desc=Baue eine Schmelzerei
-academy.smeltery.text1=Die Schmelzerei erlaubt dir, Metalle zu schmelzen, damit du daraus Werkzeugteile, Blöcke, Barren und andere Items herzustellen.
+academy.smeltery.text1=Die Schmelzerei erlaubt dir, Metalle zu schmelzen, damit du daraus Werkzeugteile, Blöcke, Barren und andere Items herzustellen. Lies das Buch 'Materialien und du' oder schau im Guide nach, um herauszufinden, wie sie funktioniert.
 academy.smeltery.text2=Diese Blöcke werden benötigt, um eine Schmelzerei mit einem internen Speicher von 9 Blöcken zu bauen. Du musst alle 18 versengten Ziegel zugleich im Inventar haben!
+
+academy.ticoncasts.title=Metallmanipulation
+academy.ticoncasts.desc=Stelle je eine Gussform jeder Art her
+academy.ticoncasts.text1=Da du jetzt die Schmelzerei besitzt, benötigst du eine Methode, mit den geschmolzenen Metallen auch etwas anzufangen.
+academy.ticoncasts.text2=Metallene Werkzeugbauteile kannst du herstellen, indem du flüssiges Metall in Gussformen, welche hergestellt werden, indem du flüssiges Gold oder Ton auf ein Werkzeugteil fließen lasst, gießt.
+academy.ticoncasts.text3=Lehmgussformen sind deutlich billiger, halten jedoch nur einen Gussvorgang aus. Lehmgussformen sind dann sinnvoll, wenn du nur wenige Bauteile vom selben Typ benötigst.
+academy.ticoncasts.text4=Gold- (oder Duraluminum-) gussformen sind teurer, aber unzerstörbar. Dies ist vor allem für Barrengussformen nützlich.
+academy.ticoncasts.task1=Irgendeine Lehmgussform
+academy.ticoncasts.task2=Irgendeine normale Gussform
 
 academy.pickaxe.title=Ab in die Mine!
 academy.pickaxe.desc=Stelle eine Tinkers' Construct-Spitzhacke her
@@ -398,7 +413,7 @@ academy.naturescompass.desc=Stelle einen "Nature's Compass" (Naturkompass) her
 academy.naturescompass.text1=Einen schönen Platz zum Bauen zu finden, ist der wichtigste Bestandteil eines guten Zuhauses. Der "Nature's Compass" wird dir dabei helfen, das Richtige Biom zu finden.
 academy.naturescompass.text2=Um ein Biom auszuwählen, musst du mit dem "Nature's Compass" rechtsklicken und dann das Biom aus der Liste auswählen. Du kannst "Search" (Suchen) anklicken, um das näheste Biom des gewünschten Typs zu finden, oder auf "Info" klicken, um mehr Information über das Biom zu erhalten.
 
-academy.slimesling.title=Sprung zu den Sternen
+academy.slimesling.title=Auf und Ab, weit, weit weg
 academy.slimesling.desc=Stelle eine "Slimesling" und Schleim-Stiefel her
 academy.slimesling.text1=Wenn du die "Slimesling" auflädst, indem du Rechtsklick gedrückt hältst, und dann Rechtsklick loslässt, während du auf den Boden schaust, wirst du in die entgegengesetzte Blickrichtung geschleudert.
 academy.slimesling.text2=Du wirst bei der Landung, wie ein Gummiball, wieder in die Luft geschleudert werden. Dabei erhältst du keinen Fallschaden. Deshalb ist es sehr sinnvoll, bei der Nutzung der "Slimesling" Schleim-Schuhe zu tragen.
@@ -420,7 +435,6 @@ academy.claimchunk.text2=Du kannst einen Chunk mit einem Linksklick beanspruchen
 academy.claimchunk.text3=Du kannst einen beanspruchten Chunk mit einem SHIFT (ggf. Schleichen) + Rechtsklick als "immer geladen" markieren. Solche Chunks werden nie entladen, auch wenn du nicht auf dem Server bist, oder sehr weit wegläufst.
 
 
-
 # Basic Storage
 
 academy.storagedrawers.title=Kompakte Itemlagerung
@@ -428,6 +442,16 @@ academy.storagedrawers.desc=Stelle irgendeine Schubfach her
 academy.storagedrawers.text1=Ein Standart-Schubfach kann 32 Stacks (32x 64 Items) eines einzelnen Typs speichern. Ein 1x2 Schubfach kann je 16 Stacks zweier Itemtypen speichern und ein 2x2 Schubfach je 8 Stacks von vier verschiedenen Itemtypen.
 academy.storagedrawers.text2=Du kannst in der Extraanleitung (Guide) mehr darüber lesen.
 academy.storagedrawers.task=Irgendein Schubfach
+
+academy.drawerstorageupgrade.title=Kompakteres Lager
+academy.drawerstorageupgrade.desc=Stelle ein Speicher-Upgrade her
+academy.drawerstorageupgrade.task=Irgendein Speicher-Upgrade
+academy.drawerstorageupgrade.text1=Speicher-Upgrades erhöhen die maximale Anzahl an Items, die in ein Schubfach passen. Du kannst die anzahl im tooltip sehen.
+academy.drawerstorageupgrade.text2=Du musst die vorhergehenden Stufen nicht eingebaut haben; das Maximum sind 7 Upgrades, du kannst maximal 7168 Stacks einlagern.
+
+academy.drawervoidupgrade.title=Viel zu viel
+academy.drawervoidupgrade.desc=Stelle ein Void-Upgrade her
+academy.drawervoidupgrade.text=Das Void-Upgrade löscht überschüssige Items, wenn das Schubfach voll ist. Dies ist vor allem dann nützlich, wenn du nicht willst, dass bestimmte Itemtypen dein System verstopfen.
 
 academy.drawercontroller.title=Fernzugriff
 academy.drawercontroller.desc=Stelle einen "Schubfach-Controller" (Schubfach-Steuerungseinheit) her.
@@ -447,7 +471,7 @@ academy.chestupgrade.title=Tiefere Taschen
 academy.chestupgrade.desc=Stelle ein Eisen-zu-Goldtruhen-Upgrade her
 academy.chestupgrade.text=Kisten-Upgrades (Verbesserungen) erlauben dir, die Kiste zu verbessern, ohne sie abbauen zu müssen. Du musst einfach mit dem "Upgrade" auf die entsprechende Kiste rechtsklicken.
 
-academy.endertank.title=Wassertresor
+academy.endertank.title=Flüssiportation
 academy.endertank.desc=Stelle einen Endertank her
 academy.endertank.text1=Endertanks synchronisieren immer ihren Inhalt mit allen anderen Endertanks mit der selben Farbeinstellung. Nutze einen Farbstoff auf einer der drei weißen Boxen auf der Oberseite des Tanks.
 academy.endertank.text2=Du kannst Endertanks auch personalisieren, indem du einen Diamant auf sein Ventil anwendest. Persönliche Endertanks verbinden sich NUR mit den persönlichen Endertanks der SELBEN Person.
@@ -464,6 +488,11 @@ academy.enderpouch.title=Bodenloser Beutel
 academy.enderpouch.desc=Stelle einen Enderbeutel her
 academy.enderpouch.text1=Der Enderbeutel greift auf das Inventar der Endertruhe mit der selben Farbkombination zu. SHIFT + Rechtsklicke (ggf. Schleichen + Rechtsklicke) auf eine Endertruhe von "EnderStorage", um die Farbkombination zu setzen.
 academy.enderpouch.text2=Du kannst eine Endertruhe in deinem Zuhause nutzen, um z.B. Items mit dem Enderbeutel direkt in dein Lagersystem zu lagern.
+
+academy.portabletank.title=Einfaches Flüssigkeitslager
+academy.portabletank.desc=Stelle einen Tragbaren Tank her
+academy.portabletank.text1=Der tragbare Tank ist der einfachste Weg, flüssigkeiten zu speichern. Klicke einfach mit einem befüllten/leeren Eimer auf ihn zu füllen/leeren
+academy.portabletank.text2=Der tragbare Tank hat 5 Stufen, welche die Kapazität von 20 auf bis zu 500 Eimer erhöhen. Verbessere ihn mit Upgrade-Bausätzen. Du kannst ihn auch mit Hält verzaubern, um die Kapazität bis auf das 3-fache zu steigern.
 
 academy.blackholeunit.title=Schwarzes Loch
 academy.blackholeunit.desc=Stelle eine "Black Hole Unit" her
@@ -531,7 +560,15 @@ academy.itemducts.text1=Itemdukte bewegen Items ihren Weg entlang. In alle Richt
 academy.itemducts.text2=Undurchsichtige Itemdukte funktionieren genau gleich, außer, dass du die coole Item-Animation nicht sehen kannst. Dies kann aber helfen, die Computerleistung (FPS) zu verbessern.
 academy.itemducts.task=Itemdukt
 
-academy.basicfluiducts.title=Aquedukt
+academy.densevacuum.title=Prioritätslieferung
+academy.densevacuum.desc=Stelle Vakuum Itemdukte und Dichte Itemdukte her
+academy.densevacuum.text1=Items werden standartmäßig von einem Servo zum nächsten Endpunkt geliefert, da Items immer versuchen werden, den kürzesten Weg zu nehmen (jedes Itemdukt erhöht die Länge um 1).
+academy.densevacuum.text2=Dichte Itemdukte erhöhen die Länge um 1000 -> Endpunkte hinter dem Itemdukt werden die niedrigste Priorität haben.
+academy.densevacuum.text3=Vakuum Itemdukte SENKEN die Länge um 1000 -> Endpunkte hinter dem Itemdukt werden die höchste Priorität haben. 
+academy.densevacuum.task1=Irgendein Dichtes Itemdukt
+academy.densevacuum.task2=Irgendein Vakuum Itemdukt
+
+academy.basicfluiducts.title=Aquädukt
 academy.basicfluiducts.desc=Stelle Temperierte Fluidukte her
 academy.basicfluiducts.text1=Fluidukte werden benutzt, um Flüssigkeiten zu transportieren. Temperierte Fluidukte können keine Flüssigkeiten transportieren, die extreme Temperaturen aufweisen (wie z.B. Lava, Kryotheum, usw.).
 academy.basicfluiducts.text2=Undurchsichtige Fluidukte funktionieren genau gleich, außer, dass du die coole Flüssigkeits-Animation nicht sehen kannst. Dies kann aber helfen, die Computerleistung (FPS) zu verbessern.
@@ -615,7 +652,7 @@ academy.longrange.text2=Platziere eine Strecke aus Langstreckenviadukten, baue a
 academy.dislocator.title=Der Transporter
 academy.dislocator.desc=Stelle einen Dislocator her
 academy.dislocator.text1=Der Dislocator erlaubt dir, dich, egal, wo du dich befindest, zu einer festgelegten Position zu teleportieren.
-academy.dislocator.text2=SHIFT + Rechtsklicke (ggf. Schleichen + Rechtsklicke), um deine derzeitige Position zu speichern.
+academy.dislocator.text2=SHIFT + Rechtsklick (Schleichen + Rechtsklick) mit dem Dislocator, um deine derzeitige Position zu speichern.
 academy.dislocator.text3=Der Dislocator kann nur 20 mal genutzt werden, und du nimmst bei jeder Nutzung ein klein wenig schaden.
 
 academy.disrep.title=Portal v2
@@ -632,7 +669,7 @@ academy.disped.text3=Wenn du ein Paar an ortsgebundenen Dislocatoren (Point to P
 academy.advdislocator.title=Portation
 academy.advdislocator.desc=Stelle einen "Advanced Dislocator" her
 academy.advdislocator.text1=Der "Advanced Dislocator" kann bis zu 100 Orte speichern und nutzt Enderperlen als Treibstoff, anstatt sich selbst zu beschödigen.
-academy.advdislocator.text2=SHIFT + Rechtsklicke (ggf. Schleichen + Rechtsklicke), um sein GUI zu öffnen, in dem du Treibstoff hinzufügen kannst und Orte festlegen kannst.
+academy.advdislocator.text2=SHIFT + Rechtsklick (Schleichen + Rechtsklick) mit dem Dislocator, um sein GUI zu öffnen, in dem du Treibstoff hinzufügen kannst und Orte festlegen kannst.
 academy.advdislocator.text3=Du kannst Schleichen und mit dem Mausrad scrollen, während du den "Advanced Dislocator" in der Hand hältst, um den Zielort zu ändern. Wenn du nun rechtsklickst, wirst du an den ausgewählten Ort teleportiert.
 
 academy.phantomface.title=Telekabel
@@ -690,7 +727,7 @@ academy.craftinggrid.text=Die Fertigungskonsole ist wie eine normale Konsole mit
 academy.fluidgrid.desc=Stelle eine Flüssigkeitskonsole her
 academy.fluidgrid.text1=Die Flüssigkeitskonsole ist eine Konsole, die Flüssigkeiten statt Items anzeigt.
 academy.fluidgrid.text2=Du kannst damit Flüssigkeitenbehälter in dein System leeren, oder sie aus deinem System füllen.
-academy.fluidgrid.text3=
+academy.fluidgrid.text3=Klicke eine Flüssigkeit an, während du einen leeren Eimer in deinem Inventar oder im System hast, um ihn mit dieser Flüssigkeit zu füllen.
 
 academy.cable.desc=Stelle Kable her
 academy.cable.text=Kabel werden benutzt, um Geräte an den Kontrollblock anzuschließen.
@@ -705,6 +742,18 @@ academy.extstorage.desc=Stelle einen Externen Speicher her
 academy.extstorage.text1=Platziere einen Externen Speicher an einen Block, und sein Inhalt wird in seinem System angezeigt.
 academy.extstorage.text2=Wenn ein Externer Speicher einere höhere Priorität als ein Laufwerk hat, werden Items priorisiert ausgelagert.
 
+academy.rsdetector.title=Itemzahlmanagement
+academy.rsdetector.desc=Stelle einen Detektor her
+academy.rsdetector.text1=Der Detektor erzeugt ein Redstonesignal anhand der Bedingungen, die du ihm gibst (basierend auf der Anzahl eines Items oder einer Flüssigkeit im System).
+academy.rsdetector.text2=Du kannst eine Item oder eine Flüssigkeit und eine Anzahl einstellen. Dann kannst du einstellen, ob ein Signal ausgegeben werden soll, wenn die Anzahl im System unter, über, oder den selben Wert hat.
+academy.rsdetector.text3=Du kannst dies zusammen mit Exportierern nutzen, um immer eine gewisse Anzahl von Items im System zu haben. Zum Beispiel: exportiere Redstonestaub in einen Magmatiegel nur, wenn ein Signal vorhanden ist platziere einen Detektor, der nur ein Signal ausgibt, wenn du über 50 Eimer Destabilisiertes Redstone im System hast. So wirst du immer mindestens 50 Eimer davon im System haben.
+
+academy.rsinterface.title=I+O
+academy.rsinterface.desc=Stelle eine Schnittstelle her
+academy.rsinterface.text1=Die Schnittstelle funktioniert ähnlich, wie Importierer und Exportierer.
+academy.rsinterface.text2=Items, die in sie gegeben werden, kommen automatisch ins System. Du kannst Geschwindigkeitsupgrades nutzen, um den Vorgang zu beschleunigen.
+academy.rsinterface.text3=Du kannst Items in die "Exportschnittstelle"-Slots legen und diese Items werden aus dem System exportiert. Du kannst diese Items mit jeglichen Kabeln aus dem Inventar exportieren.
+
 # Refined Storage - Advanced
 
 academy.patterngrid.desc=Stelle eine Vorlagenkonsole her
@@ -716,6 +765,7 @@ academy.patterngrid.text4=Wenn du OreDictionary aktivieren willst (dass du z.B. 
 academy.crafter.desc=Fertige einen Fertiger
 academy.crafter.text1=Platziere Vorlagen in einem Fertiger, und er wird die entsprechenden Items herstellen können.
 academy.crafter.text2=Du kannst einen Fertiger auch auf eine Maschine ausrichten (wie z.B. einen Ofen), um Verarbeitungsrezepte von der Maschine herstellen zu lasssen. Meistens wird auch noch ein Importierer benötigt, um das Hergestellte Item ins System zu importieren.
+academy.crafter.text3=Wenn mehrere Fertiger in einer Linie stehen, greifen alle auf die Maschine zu, auf die der letze Fertiger zeigt. Im Guide findest du ein Beispiel dazu.
 
 academy.craftmanager.desc=Stelle einen Fertigungsmanager her
 academy.craftmanager.text1=Der Fertigugnsmanager zeigt alle ans System angeschlossenen Fertiger und deren inhalt (Vorlagen) an.
@@ -751,561 +801,664 @@ academy.wirelessfluidgrid.text2=Um es mit deinem System zu verbinden, musst du m
 
 # Technology - Beginner
 
-academy.magmatic.title=The Core
-academy.magmatic.desc=Make a Magmatic Dynamo
-academy.magmatic.text1=The Magmatic Dynamo generates RF using hot fluids.
-academy.magmatic.text2=One bucket of Lava generates 120,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+academy.magmatic.title=Lavaverbrennungsenergie
+academy.magmatic.desc=Stelle einen Magmatischen Dynamo her
+academy.magmatic.text1=Der Magmatische Dynamo erzeugt RF aus heißen Flüssigkeiten.
+academy.magmatic.text2=Ein Lavaeimer erzeugt 120.000 RF. Du kannst Informationen über andere Treibstoffe in JEI bei den Nutzungsmöglichkeiten des Dynamos finden.
 
-academy.steam.title=Steam Powered
-academy.steam.desc=Make a Steam Dynamo
-academy.steam.text1=The Steam Dynamo generates RF using solid fuel and water.
-academy.steam.text2=One Coal generates 24,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+academy.steam.title=Dampfantrieb
+academy.steam.desc=Stelle einen Dampfdynamo her
+academy.steam.text1=Der Dampfdynamo stellt RF aus festen Brennstoffen und Wasser her.
+academy.steam.text2=Ein Kohlestück generiert 24.000 RF. Du kannst Informationen über andere Treibstoffe in JEI bei den Nutzungsmöglichkeiten des Dynamos finden.
 
-academy.coalgen.title=Old King Coal
-academy.coalgen.desc=Make a Coal Generator
-academy.coalgen.text1=The Coal Generator makes RF from Coal and other furnace fuel.
-academy.coalgen.text2=One Coal generates 48,000 RF.
+academy.coalgen.title=König Kohle
+academy.coalgen.desc=Stelle einen 'Coal Generator' (Kohlegenerator) her
+academy.coalgen.text1=Der Coal Generator erzeugt RF aus Kohle und anderen festen Brennstoffen.
+academy.coalgen.text2=Ein Kohlestück erzeugt 48.000 RF.
 
-academy.pitifulgen.title=Just Sad
-academy.pitifulgen.desc=Make a Pitiful Fuel Generator
-academy.pitifulgen.text1=The Pitiful Fuel Generator generates RF by burning Wood.
-academy.pitifulgen.text2=It generates 11,250 RF per Wooden Plank or Log.
+academy.canola1.title=Alles natürlich
+academy.canola1.desc=Baue eine einfachen Canolaöl-Generator
+academy.canola1.text1=Du kannst sehr einfach erneuerbare Energie aus 'Canola Oil' (Canolaöl) erstellen
+academy.canola1.text2='Canola Oil' hat 4 Stufen, die Erste erzeugt 80.000 RF, die Letzte 700.000 RF.
+academy.canola1.text3=Die 'Canola Press' nutzt Strom, um Öl aus Canola zu pressen, und gibt dieses automatisch an angrenzende Blöcke ab. 'Canola Oil' kann als Brennstoff im 'Oil Generator' und im Kompressionsdynamo genutzt werden. Dies erzeugt 80.000 RF.
 
-academy.petrifiedgen.title=Fossil Fuel
-academy.petrifiedgen.desc=Make a Petrified Fuel Generator
-academy.petrifiedgen.text1=The Petrified Fuel Generator generates RF by burning any furnace fuel.
-academy.petrifiedgen.text2=One Coal generates 60,000 RF.
+academy.canola2.title=Verfeinerter Geschmack
+academy.canola2.desc=Verfeinere 'Canola Oil'
+academy.canola2.text1='Refined Canola Oil' ist die 2. Stufe von 'Canola Oil' und erzeugt 200.000 RF.
+academy.canola2.text2='Refined Canola Oil' kann in der 'Fermenting Barrel' oder in der Fraktionsdistille hergestellt werden.
+academy.canola2.text3=Die 'Fermenting Barrel' benötigt keinen Strom und gibt das Öl an jeden angrenzenden Block ab (ACHTUNG, auch an deine Eingangsrohre). 
+academy.canola2.text4=Die Fraktionsdistille BENÖTIGT Strom, ist aber deutlich schneller. Du kannst auch Ein- und Ausgänge einstellen.
+academy.canola2.task=Einer davon
 
-academy.pulverizer.title=Dust to Dust
-academy.pulverizer.desc=Make a Pulverizer
-academy.pulverizer.text1=The Pulverizer uses RF to crush items like Stone and Ores.
-academy.pulverizer.text2=Ores will be crushed into two dusts each, which each smelt into an ingot each. There is also a chance of getting a secondary output.
-academy.pulverizer.text3=The Pulverizer can be upgraded and augmented to work faster or change the way it functions.
+academy.canola3.title=Ok, langsam wird's langweilig
+academy.canola3.desc=Kristallisiere 'Canola Oil'
+academy.canola3.text1='Crystallized Oil' ist die 3. Stufe von 'Canola Oil' und erzeugt 400.000 RF.
+academy.canola3.text2=Du kannst 'Crystallized Oil' herstellen, indem du 'Crystallized Canola Seeds' in 'Refined Canola Oil' wirfst.
+academy.canola3.text3=Hier wird die Automatisierung schon etwas schwerer, im Guide findest du eine genaue Anleitung dazu.
 
-academy.redstonefurnace.title=Microwave
-academy.redstonefurnace.desc=Make a Redstone Furnace
-academy.redstonefurnace.text1=The Redstone Furnace uses RF to smelt items.
-academy.redstonefurnace.text2=It really doesn't do much more than that, but upgrades and augments can make it a lot faster.
+academy.compressiondynamo.title=Unter Druck
+academy.compressiondynamo.desc=Stelle einen Kompressionsdynamo her
+academy.compressiondynamo.text1=Der Kompressionsdynamo verbindet Kühlmittel (wie Wasser; je kälter desto besser) und Flüssigtreibstoff, um Strom zu erzeugen. Du kannst 'U' drücken während du Inventar mit der Maus auf das Item fährst, um zu sehen, welche Treibstoffe genutzt werden können, und wie viel Strom sie erzeugen.
+academy.compressiondynamo.text2=Das Kühlmittel beeinflusst die Geschwindigkeit und den erzeugten Strom nicht. Kältere Mittel halten einfach länger. Und da Wasser unendlich ist...
+academy.compressiondynamo.text3=Allerdings existiert die Verbesserung 'Kühlung im geschlossenen Kreislauf' welche kältere Mittel mehr Strom erzeugen lässt. Geliertes Kryotheum (das einzige andere Kühlmittel in diesem Modpack) erzeugt dann 1,4 mal so viel, wie Wasser.
 
-academy.resourcefulfurnace.title=Experienced Cook
-academy.resourcefulfurnace.desc=Make a Resourceful Furnace
-academy.resourcefulfurnace.text1=The Resourceful Furnace uses RF to smelt items.
-academy.resourcefulfurnace.text2=It has 3 input slots, so you can smelt 3 stacks at once. It also generates a small amount of Essence when it's used, which can be turned into Experience.
+academy.pitifulgen.title=Einfach traurig
+academy.pitifulgen.desc=Stelle einen 'Pitiful Fuel Generator' (Bemitleidenswerter-Treibstoff Generator) her
+academy.pitifulgen.text1=Der Pitiful Fuel Generator stellt RF aus Holz her.
+academy.pitifulgen.text2=Er erzeugt 11.250 RF pro Holzbretterblock oder Holzblock.
 
-academy.atomicreconstructor.title=Technological Transmutation
-academy.atomicreconstructor.desc=Make an Atomic Reconstructor
-academy.atomicreconstructor.text1=The Atomic Reconstructor is a machine that uses RF to convert items into other items. It will shoot a laser that converts items on the ground around where it hits.
-academy.atomicreconstructor.text2=By default it will shoot whenever it has the power to. You can right click it with a Redstone Torch to make it only trigger when given a Redstone Signal.
+academy.petrifiedgen.title=Fossile Brennstoffe
+academy.petrifiedgen.desc=Stelle einen 'Petrified Fuel Generator' (Versteinerter-Treibstoff Generator) her
+academy.petrifiedgen.text1=Der Petrified Fuel Generator erzeugt RF indem er irgendeinen Ofenbrennstoff verbrennt.
+academy.petrifiedgen.text2=Ein Kohlestück erzeugt 60,000 RF.
 
-academy.crusher.title=The Crushinator
-academy.crusher.desc=Make a Crusher
-academy.crusher.text1=The Crusher uses RF to crush items.
-academy.crusher.text2=Ores will be crushed into two dusts each, which each smelt into an ingot each. There is also a chance of getting a secondary output, different from the Pulverizer's.
+academy.dynamoweirdness.title=Dynamos sind komisch...
+academy.dynamoweirdness.desc=Dynamos geben keinen Strom ab, außer sie können welchen erzeugen
+academy.dynamoweirdness.text=Dynamos geben keinen Strom ab, außer sie können welchen erzeugen. Wenn ein Dynamo Strom gespeichert hat, den du allerdings nicht bekommst, gib dem Dynamo etwas mehr Brennstoff.
 
-academy.doublecrusher.title=More of the Same
-academy.doublecrusher.desc=Make a Double Crusher
-academy.doublecrusher.text1=The Double Crusher works the same as the Crusher, but has 2 input slots.
-academy.doublecrusher.text2=You can set it so that items are split between them, effectively it work twice as fast.
+academy.pulverizer.title=Asche zu Asche, Staub zu Staub
+academy.pulverizer.desc=Stelle einen Pulverisierer her
+academy.pulverizer.text1=Der Pulverisierer nutzt RF, um Steine, Erze o.Ä. zu zermahlen.
+academy.pulverizer.text2=Erze werden in je 2 Staub-Items zermahlen, welche zu je 1 Barren geschmolzen werden können. Es gibt auch eine Chance auf ein Zusätzliches Item.
+academy.pulverizer.text3=Der Pulverisierer kann verbessert und modifiziert werden, um ihn schneller arbeiten zu lassen, oder seine Funktionen zu verändern.
 
-academy.poweredfurnace.title=Two for One Special
-academy.poweredfurnace.desc=Make a Powered Furnace
-academy.poweredfurnace.text1=The Powered Furnace uses RF to smelt items.
-academy.poweredfurnace.text2=It has 2 input slots, so you can smelt 2 stacks at once. You can also set it to split the input over both slots, making it effectively work twice as fast.
+academy.redstonefurnace.title=Mikrowelle
+academy.redstonefurnace.desc=Stelle einen Redstone-Ofen her
+academy.redstonefurnace.text1=Der Redstone-Ofen nutzt RF, um Items zu schmelzen.
+academy.redstonefurnace.text2=Er macht wirklich nicht viel mehr als das, aber Verbesserungen und Modifikatoren können ihm zu wirklich unheimlicher Geschwindigkeit verhelfen.
 
-academy.fluxducts1.title=Plug it In!
-academy.fluxducts1.desc=Make Leadstone Fluxducts
-academy.fluxducts1.text1=Fluxducts are used to transfer RF. Higher tiers can transfer RF faster.
-academy.fluxducts1.text2=Leadstone Fluxducts can transfer 1,000 RF/t per connection.
+academy.resourcefulfurnace.title=Meisterkock
+academy.resourcefulfurnace.desc=Stelle einen 'Resourceful Furnace' her
+academy.resourcefulfurnace.text1=Der Resourceful Furnace nutzt RF, um Items zu schmelzen.
+academy.resourcefulfurnace.text2=Er hat 3 Eingangsplätze -> du kannst 3 Stacks auf einmal schmelzen. Er erzeugt außerdem ein wenig 'Essenz', welche in XP umgewandelt werden kann.
 
-academy.fluxducts2.title=Better, Harder
-academy.fluxducts2.desc=Make Hardened Fluxducts
-academy.fluxducts2.text1=Hardened Fluxducts can transfer 4,000 RF/t per connection.
-academy.fluxducts2.text2=Fluxducts can connect to Fluxducts of other tiers.
+academy.atomicreconstructor.title=Technologische Transmutation
+academy.atomicreconstructor.desc=Stelle einen 'Atomic Reconstructor' her
+academy.atomicreconstructor.text1=Der Atomic Reconstructor nutzt RF, um Items in andere Items zu verwandeln. Er wird einen Laserstrahl abfeuern, der alle Items auf seinem Weg verwandelt.
+academy.atomicreconstructor.text2=Normalerweise feuert er immer dann, wenn er gerade genug Strom gespeicher hat. Du kannst dieses Verhalten verändern, indem du ihn mit einer Redstone Fackel rechtsklickst.
 
-academy.basicenergytess.title=Worse Than Pipes
-academy.basicenergytess.desc=Make Basic Energy Tesslocators
-academy.basicenergytess.text1=Basic Energy Tesslocators allow you to move RF over a distance of one block. Place Tesslocators in the same block space on all blocks where you want to move energy, and then right click to toggle between input and output.
-academy.basicenergytess.text2=Basic Energy Tesslocators can transfer 2048 RF/t, and can store up to 32,000 RF.
+academy.crusher.title=Der zeRmalMeR
+academy.crusher.desc=Stelle einen 'Crusher' her
+academy.crusher.text1=Der Crusher nutzt RF, um Items zu zermahlen.
+academy.crusher.text2=Erze werden in je 2 Staub-Items zermahlen, welche zu je 1 Barren geschmolzen werden können. Es gibt auch eine Chance auf ein Zusätzliches Item, welches sich jedoch von dem des Pulverisierers unterscheidet.
 
-academy.advenergytess.title=Way Better Than Pipes
-academy.advenergytess.desc=Make Advanced Energy Tesslocators
-academy.advenergytess.text1=Advanced Energy Tesslocators work like Basic ones, except they don't need to be in the same block space. This allows you to transfer them wirelessly, over any distance and between dimensions.
-academy.advenergytess.text2=Advanced Tesslocators are set by holding a dye in each hand and then right clicking on the Tesslocator. To toggle between input and output mode, hold sneak and right click with an empty hand on the Tesslocator.
-academy.advenergytess.text3=Advanced Energy Tesslocators can store 40,000,000 RF, and can move the same amount per tick.
+academy.doublecrusher.title=Mehr davon
+academy.doublecrusher.desc=Stelle einen 'Double Crusher' her
+academy.doublecrusher.text1=Der Double Crusher funktioniert wie der Crusher, hat aber 2 Eingangsplätze.
+academy.doublecrusher.text2=Du kannst ihn so einstellen, dass er die Items auf beide Plätze aufteilt, was ihn doppelt so schnell arbeiten lässt.
+
+academy.poweredfurnace.title=1+1 Gratis
+academy.poweredfurnace.desc=Stelle einen 'Powered Furnace' her
+academy.poweredfurnace.text1=Der Powered Furnace nutzt RF, um Items zu schmelzen.
+academy.poweredfurnace.text2=Er hat 2 Eingangsplätze, wodurch du 2 Stacks auf einmal schmelzen kannst. Du kannst ihn auch so einstellen, dass er die Items auf beide Plätze aufteilt, was ihn doppelt so schnell arbeiten lässt.
+
+academy.fluxducts1.title=Steck es an!
+academy.fluxducts1.desc=Stelle Leadstone-Energiedukte (Bleistein-Energiedukte) her
+academy.fluxducts1.text1=Energiedukte können Strom (RF) transportieren. Je besser das Kabel, desto höher die Leistung.
+academy.fluxducts1.text2=Leadstone-Energiedukte können 1,000 RF/t pro Verbindung leiten.
+
+academy.fluxducts2.title=Besser, Härter
+academy.fluxducts2.desc=Stelle Gehärtete Energiedukte her
+academy.fluxducts2.text1=Gehärtete Energiedukte können 4,000 RF/t pro Verbindung leiten.
+academy.fluxducts2.text2=Energiedukte können sich immer mit anderen Energiedukten verbinden, auch, wenn sie unterschiedlich viel leiten können.
+
+academy.basicenergytess.title=Schlechter als Rohre
+academy.basicenergytess.desc=Stelle 'Basic Energy Tesslocators' her
+academy.basicenergytess.text1=Basic Energy Tesslocators ermöglichen dir, RF über die Distanz von einem Block zu leiten. Platziere Tesslocators in den selben Block, an alle Seiten, die du verbinden willst, und rechtsklicke sie dann, um zwischen Ein- und Ausgang zu wechseln.
+academy.basicenergytess.text2=Basic Energy Tesslocators können bis zu 2048 RF/t leiten, und bis zu 32,000 RF speichern.
+
+academy.advenergytess.title=Viel besser als Rohre
+academy.advenergytess.desc=Stelle 'Advanced Energy Tesslocators' her
+academy.advenergytess.text1=Advanced Energy Tesslocators funktionieren, wie ihre Basic Variante, nur, dass der Abstand zwischen den Tesslocators egal ist. Das heißt, dass du kabellose Energie immer und überall haben kannst. Sogar über Dimensionen verteilt.
+academy.advenergytess.text2=Advanced Tesslocators werden verbunden, indem du sie mit Farbstoffen in BEIDEN Händen rechtsklickst. Um zwischen Ein- und Ausgang zu wechseln, muss du sie mit einer leeren Hand SHIFT (Schleichen) + rechtsklicken. Es gibt keinen visuellen Indikator, aber standartmäßig sind sie auf Eingang gestellt.
+academy.advenergytess.text3=Advanced Energy Tesslocators können 40,000,000 RF speichern und gleich viel pro Tick leiten.
 
 academy.plasticmaking.title=Flubber
-academy.plasticmaking.desc=Make some Plastic
-academy.plasticmaking.text1=The Tree Fluid Extractor will generate Latex whenever there is a log block in front of it. It does not work with Dynamic Trees logs, so you will have to place regular logs instead. Logs will slowly be used up until they break, and will need to be replaced.
-academy.plasticmaking.text2=The Latex Processing Unit will convert 75mB of Latex and 1000mB of Water into 1 Tiny Dry Rubber. Crafting 9 together will create Dry Rubber, which can be smelted to make Plastic.
+academy.plasticmaking.desc=Stelle etwas 'Plastic' (Plastik) her
+academy.plasticmaking.text1=Der 'Tree Fluid Extractor' erzeugt 'Latex', wenn ein Holzblock vor ihm steht. Das Holz wird langsam zerstört und muss nach einiger Zeit ersetzt werden.
+academy.plasticmaking.text2=Die 'Latex Processing Unit' erzeugt aus 75mB Latex und 1000mB Wasser ein 'Tiny Dry Rubber'. Aus 9 davon kann 'Dry Rubber' hergestellt werden, welched dann zu Plastic geschmolzen werden kann.
 
-academy.energycell.title=Saved for a Rainy Day
-academy.energycell.desc=Make an Energy Cell
-academy.energycell.text1=Energy Cells are used to store RF. Like all other Thermal Expansion machines, it comes in six tiers.
-academy.energycell.text2=The first tier can store 2,000,000 RF, and then the highest can store 50,000,000 RF.
+academy.energycell.title=Reserve für einen schlechten Tag
+academy.energycell.desc=Stelle eine Energiezelle her
+academy.energycell.text1=Energiezellen speichern RF. Wie bei allen anderen Thermal Expansion Maschinen gibt es 6 Verbesserungsstufen.
+academy.energycell.text2=Die normale Energiezelle kann 2,000,000 RF, und die beste 50,000,000 RF speichern. Du kannst sie auch mit Hält verzaubern, um die Kapazität bis auf das 3-fache zu steigern.
+academy.energycell.text3=Jede Seite des Blocks hat einen Farbcode: Blau -> Energie wird angenommen, Orange -> Energie wird abgegeben, Gelb -> an der Seite passiert garnichts. Du kannst die Farben im Konfigurationsmenü in ihrem Inventar verändern.
 
-academy.AAbook.title=Actually Information
-academy.AAbook.desc=Make the Actually Additions Manual
-academy.AAbook.text=The Actually Additions Manual has all the information on blocks and items added by the mod.
+academy.AAbook.title=Tatsächliche Information
+academy.AAbook.desc=Stelle das 'Actually Additions Manual' her
+academy.AAbook.text=Das Actually Additions Manual beinhaltet allerlei Informationen über die Modifikation.
 
-academy.IFbook.title=IF You Wish Upon a Star
-academy.IFbook.desc=Make Industrial Foregoing's Manual
-academy.IFbook.text=The Industrial Foregoing's Manual has all the information on blocks and items added by the mod.
+academy.IFbook.title=GreIF nach den Sternen
+academy.IFbook.desc=Stelle ein 'Industrial Foregoing's Manual' her
+academy.IFbook.text=Das Industrial Foregoing's Manual beinhaltet allerlei Informationen über die Modifikation.
 
-academy.DEinfotab.title=We Made a Guide for Their Guide
-academy.DEinfotab.desc=Make the Draconic Evolution Information Tablet
-academy.DEinfotab.text=The Draconic Evolution Information Tablet has all the information on blocks and items added by the mod.
+academy.DEinfotab.title=Wir haben eine Anleitung für deren Anleitung
+academy.DEinfotab.desc=Stelle das 'Draconic Evolution Information Tablet' her
+academy.DEinfotab.text=Das Draconic Evolution Information Tablet beinhaltet allerlei Informationen über die Modifikation.
 
-academy.autobreaker.desc=Make an Auto-Breaker
-academy.autobreaker.text1=The Auto-Breaker automatically breaks the block it is facing, inserting the drops into its internal inventory.
-academy.autobreaker.text2=By default it works as often as it can. You can right click it with a Redstone Torch to set it to only work when given a Redstone pulse.
+academy.autobreaker.desc=Stelle einen 'Auto-Breaker' her
+academy.autobreaker.text1=Der Auto-Breaker zerstört automatisch den Block vor sich und speichert ihn in seinem Inventar.
+academy.autobreaker.text2=Normalerweise arbeitet er so oft er kann. Du kannst durch einen Rechtsklick mit einer Redstone Fackel auf den Block die Redstonesteuerung verändern.
 
-academy.autoplacer.desc=Make an Auto-Placer
-academy.autoplacer.text1=The Auto-Placer automatically places blocks from its inventory in the direction it is facing.
-academy.autoplacer.text2=By default it works as often as it can. You can right click it with a Redstone Torch to set it to only work when given a Redstone pulse.
+academy.autoplacer.desc=Stelle einen 'Auto-Placer' her
+academy.autoplacer.text1=Der Auto-Placer Platziert Blöcke aus seinem Inventar vor sich.,
+academy.autoplacer.text2=Normalerweise arbeitet er so oft er kann. Du kannst durch einen Rechtsklick mit einer Redstone Fackel auf den Block die Redstonesteuerung verändern.
 
-academy.aafarmer.title=Factory Farming
-academy.aafarmer.desc=Make a Farmer
-academy.aafarmer.text=The Farmer will till dirt in a 9x9 area in front of it and attempt to plant seeds of any type from the left slots in its inventory. It will also harvest fully grown crops from the area, replanting the seeds and putting the crops in the right slots.
+academy.aafarmer.title=Fabriksreifes Farmen
+academy.aafarmer.desc=Stelle einen 'Farmer' her
+academy.aafarmer.text=Der Farmer wird Erde in einem 9x9 Feld vor sich mit den Samen in den linken Plätzen seines Inventars bepflanzen. Er erntet außerdem schon ausgewachsene Pflanzen ab.
 
-academy.rangedcollector.title=Pick-Me-Up
-academy.rangedcollector.desc=Make a Ranged Collector
-academy.rangedcollector.text1=The Ranged Collector will collect items dropped within 6 blocks of itself, according to its filter.
-academy.rangedcollector.text2=Open it up and set the filter in the 12 slots on the left. You can set if it is a whitelist or a blacklist, if it matches metadata and NBT, and all that other good stuff that filters usually have.
+academy.rangedcollector.title=Nimm mich mit
+academy.rangedcollector.desc=Stelle einen 'Ranged Collector' her
+academy.rangedcollector.text1=Der Ranged Collector sammelt Items (je nach Filtereinstellung) in einem 6 Block Radius ein.
+academy.rangedcollector.text2=Du kannst den Filter in den 12 linken Plätzen seines GUIs setzen. Du kannst den Filter außerdem als White- oder Blacklist definieren, einstellen, ob Metadaten und NBT berücksichtigt werden sollen und auch alles andere machen, was gute Filter so können.
 
-academy.aalens.title=Technomancic Refraction
-academy.aalens.desc=Make any Lens for the Atomic Reconstructor
-academy.aalens.text1=Lens can be placed on the Atomic reconstructor to change its function in some way, such as making the laser color blocks or kill mobs. 
-academy.aalens.text2=See the Actually Additions Manual for more information.
-academy.aalens.task=Any Lens
+academy.aalens.title=Technische, überkompliziete Lichtbrechung
+academy.aalens.desc=Stelle irgendeine 'Lens' (Linse) für den Atomic Reconstructor her
+academy.aalens.text1=Linsen können an den Atomic Reconstructor platziert werden, um seine Funktion zu verändern.
+academy.aalens.text2=Schau in das Actually Additions Manual für weiteres.
+academy.aalens.task=Irgendeine 'Lens'
 
-academy.aaenergylaser1.desc=Make Basic Energy Laser Relays
-academy.aaenergylaser1.text1=Energy Laser Relays can wirelessly transfer up to 1,000 RF/t.
-academy.aaenergylaser1.text2=Place an Energy Laser Relay on the block you want to pull RF from and the block you want to push RF into, as well as anywhere along the way for you to connect them.
-academy.aaenergylaser1.text3=To connect Laser Relays, right click one with a Laser Wrench and then the other.
-academy.aaenergylaser1.text4=To toggle between input, output, and both ways, right click it with a Compass.
+academy.aaenergylaser1.desc=Stelle ein 'Energy Laser Relay' her
+academy.aaenergylaser1.text1='Energy Laser Relays' können bis zu 1,000 RF/t kabellos transferieren.
+academy.aaenergylaser1.text2=Platziere Energy Laser Relays an die beiden Blöcke, die du verbinden willst, und eines mitten auf der Strecke, um sie zu verbinden.
+academy.aaenergylaser1.text3=Um sie schlussendlich zu verbinden rechtsklicke zuerst eines, dann ein anderes Relay mit einer 'Laser Wrench'
+academy.aaenergylaser1.text4=Um zwischen Ein- und Ausgang oder beidem zugleich zu wechseln, rechtsklicke das Relay mit einem Kompass.
 
-academy.ifpump.title=Stone Ocean
-academy.ifpump.desc=Make a Fluid Pump
-academy.ifpump.text1=The Fluid Pump will check the fluid directly underneath it and then pump all of that fluid in the working area into its internal tank, where it can be piped out. Pumped fluids will be replaced with Cobblestone.
-academy.ifpump.text2=Like all Industrial Foregoing machines, its default range is 1 block. You will have to use Range Addons to increase the working area. Do this before providing it with power.
+academy.ifpump.title=Steinozean
+academy.ifpump.desc=Stelle eine 'Fluid Pump' (Flüssigkeitspumpe) her
+academy.ifpump.text1=Die Fluid Pump wird die gesamte Flüssigkeit des Typs direkt unter der Pumpe in ihrem Arbeitsbereich in ihren internen Tank aufnehmen und die abgepumpte Flüssigkeit mit Bruchstein ersetzen.
+academy.ifpump.text2=Wie bei allen Maschinen von Industrial Foregoing ist der standartmäßige Arbeitsbereich 1 Block. Du musst 'Range Addons' nutzen, um diesen Bereich zu vergrößern. Mache das, bevor du die Pumpe mit Strom versorgst.
 
-academy.rangeaddon.title=Bigger, Better
-academy.rangeaddon.desc=Make a Range Addon
-academy.rangeaddon.text=By default, all Industrial Foregoings have a range of 1 block. Range Addons are used to increase this. A Range +2 Addon adds 2 to the range, so it would be 3x3.
-academy.rangeaddon.task=Any Range Addon
+academy.rangeaddon.title=Größer, Besser
+academy.rangeaddon.desc=Stelle ein 'Range Addon' (Reichweitenverbesserung) her
+academy.rangeaddon.text=Normalerweise haben alle Industrial Foregoing-Maschinen haben einen Arbeitsbereich von 1 Block. Range Addons können diesen Wert erhöhen. Ein +2 Range Addon würde den Bereich auf 3x3 erhöhen, da 1+2=3.
+academy.rangeaddon.task=Irgenein Range Addon
 
-academy.DEgrinder.title=Kill-Box
-academy.DEgrinder.desc=Make a Mob Grinder
-academy.DEgrinder.text=The Mob Grinder uses RF to instantly kill every non-player mob in a 7x7 area in front of it, including Withers. Items and experience will drop as normal, and will not be collected.
+academy.DEgrinder.title=Todesbox
+academy.DEgrinder.desc=Stelle einen Fleischwolf her
+academy.DEgrinder.text=Der Fleischwolf nutzt RF, um ALLE (ja, sogar Bosse) nicht-Spieler-Mobs in einer 7x7 Fläche vor sich sofort zu töten. Items und XP werden nicht automatisch aufgesammelt.
 
-academy.DEbasic.title=Basically
-academy.DEbasic.desc=Make Basic Energy Crystals
-academy.DEbasic.text1=Energy Crystals allow you to wirelessly transfer RF. To link Crystals, sneak right click one Crystal with the Crystal Binder, then right click on all other Crystals you want to connect it to.
-academy.DEbasic.text2=RF enters and exits a system through Energy I/O Crystals, but they can only connect to a couple other Crystals.
-academy.DEbasic.text3=Energy Relay Crystals are what should connect other Crystals, as they have the most connections.
-academy.DEbasic.text4=Wireless Energy Crystals can power machines without needing an I/O Crystal. Simply bind it to a Crystal that has RF, and then bind it to every machine you want to power.
-academy.DEbasic.task=Any Basic Energy Crystal
+academy.DEbasic.title=Zu allererst...
+academy.DEbasic.desc=Stelle 'Basic Energy Crystals' her
+academy.DEbasic.text1=Energy Crystals können kabellos RF leiten. Um Kristalle zu verbinden, musst du einen mit einem 'Crystal Binder' SHIFT (ggf. Schleichen) + rechtsklicken, und dann alle anderen Kristalle, die du zu diesem einenen verbinden willst, rechtsklicken.
+academy.DEbasic.text2=Das System kann RF durch 'Energy I/O Crystals' aufnehmen/abgeben, aber diese können nur zu wenigen anderen Kristallen verbunden werden.
+academy.DEbasic.text3='Energy Relay Crystals' werden benutzt, um andere Kristalle zu verbinden, da sie die meisten Verbindungen zulassen.
+academy.DEbasic.text4='Wireless Energy Crystals' können Strom an Maschinen abgeben, ohne dafür einen I/O Crystal zu benötigen. Du musst diesen Kristall einfach mit deinem System und allen Maschinen, die du versorgen willst, verbinden.
+academy.DEbasic.task=Irgendein Basic Energy Crystal
 
-academy.stabilizedspawner.title=Bent to Your Will
-academy.stabilizedspawner.desc=Stabilize a Monster Spawner
-academy.stabilizedspawner.text1=Right clicking a Core on a Monster Spawner will Stabilize it. There are 4 tiers, corresponding with the 4 Core tiers. Once you've stabilized a Spawner, it will turn into an item so you can place it somewhere else.
-academy.stabilizedspawner.text2=You can right click a Stabilized Spawner with a Mob Soul to make it spawn that mob. Mining the Stabilized Spawner will empty the Soul but not destroy the Spawner itself.
-academy.stabilizedspawner.text3=Each tier is better than the last, spawning more mobs at a time and doing it more often. Higher tiers also have less restrictions for how to spawn mobs. See the Draconic Evolution Information Tablet for more details.
-academy.stabilizedspawner.task=Any Stabilized Spawner
+academy.stabilizedspawner.title=Nach deinem Willen...
+academy.stabilizedspawner.desc=Stabilisiere einen Monsterspawner
+academy.stabilizedspawner.text1=Rechtsklicke einen Monsterspawner mit einem 'Core'. Es gibt 4 Stufen, die den jeweiligen Cores entsprechen. Sobald du einen Monsterspawner stabilisierst, verwandelt er sich in ein Item, sodass du ihn irgendwohin mitnehmen kannst.
+academy.stabilizedspawner.text2=Du kannst einen 'Stabilized Mob Spawner' mit einer Seele (Mob Soul) rechtsklicken, um zu verändern, was er spawnen soll. Wenn du den Spawner abbaust, wird die Seele im Spawner gelöscht, der Spawner bleibt jedoch erhalten.
+academy.stabilizedspawner.text3=Je höher die Stufe des Spawners, desto öfter und mehr Mobs spawnt er. Höhere Stufen haben außerdem weniger Beschränkungen in dem, was sie spawnen können. Du kannst im Draconic Evolution Information Tablet mehr dazu finden.
+academy.stabilizedspawner.task=Irgendein Stabilized Mob Spawner
 
-academy.DEsouls.title=Soul Eater
-academy.DEsouls.desc=Collect a Soul
-academy.DEsouls.text1=Mob Souls have a chance of dropping when using a Draconic Evolution weapons and/or the Reaper enchantment. If you are using neither, Mob Souls will never drop.
-academy.DEsouls.text2=A Mob Soul's main use is to be inserted into Stabilized Spawners to set it to spawn that mob, however you can sneak right click them on the ground to spawn the mob (which will use up the Soul).
-academy.DEsouls.task=Any Soul
+academy.DEsouls.title=Seelenfresser
+academy.DEsouls.desc=Sammle eine 'Soul' (Seele)
+academy.DEsouls.text1='Mob Souls' können von Mobs gedropped werden, wenn du eine Waffe von Draconic Evolution nutzt, und/oder die Waffe mit 'Mörder' verzaubert ist. Wenn du nichts davon nutzt, wird nie auch nur eine Mob Soul gedropped werden.
+academy.DEsouls.text2=Der häufigste Anwendungszweck ist das einstellen eines Stabilized Mob Spawners, du kannst jedoch auch den Boden mit der Seele SHIFT (ggf. Schleichen) + rechtsklicken, um das Mob zu spawnen (die Seele geht dabei verloren).
+academy.DEsouls.task=Irgendeine Soul
 
-academy.celestialmanipulator.title=Weather Report
-academy.celestialmanipulator.desc=Make a Celestial Manipulator
-academy.celestialmanipulator.text=The Celestial Manipulator uses RF to allow you to change the current time and weather.
+academy.celestialmanipulator.title=Wetterbericht
+academy.celestialmanipulator.desc=Stelle einen 'Celestial Manipulator' her
+academy.celestialmanipulator.text=Wolltest du schon immer einmal das Wetter beeinflussen können? Der Celestial Manipulator nutzt RF, um Zeit und Wetter nach deinem Willen zu verändern. (Außerdem ist die Animation echt cool)
 
-academy.disenchanter.title=elbaT tnemtnahcnE
-academy.disenchanter.desc=Make a Disenchanter
-academy.disenchanter.text=The Disenchanter allows you to move enchantments from tools to books.
+academy.disenchanter.title=hcsitrebuaZ
+academy.disenchanter.desc=Stelle einen 'Disenchanter' her
+academy.disenchanter.text=Der Disenchanter ermöglicht dir, Verzauberungen von Werkzeugen, etc. in Büchern zu speichern.
 
 # Technology - Intermediate
 
-academy.magmacrucible.title=Meltdown
-academy.magmacrucible.desc=Make a Magma Crucible
-academy.magmacrucible.text=The Magma Crucible is a machine that melts blocks and items into fluids.
+academy.magmacrucible.title=Kernschmelze
+academy.magmacrucible.desc=Stelle einen Magmatiegel her
+academy.magmacrucible.text=Der Magmatiegel kann Blöcke und Items in Flüssigkeiten einschmelzen.
 
-academy.fluidtransposer.title=Bucket Filler
-academy.fluidtransposer.desc=Make a Fluid Transposer
-academy.fluidtransposer.text=The Fluid Transposer combines fluids and items.
+academy.fluidtransposer.title=Kübelfüller
+academy.fluidtransposer.desc=Stelle einen Fluidtransposer her
+academy.fluidtransposer.text=Der Fluidtransposer kombiniert Flüssigkeiten mit Items.
 
-academy.fluxducts3.desc=Make Redstone Energy Fluxducts
-academy.fluxducts3.text=Redstone Energy Fluxducts can transfer 9,000 RF/t per connection.
+academy.fluxducts3.desc=Stelle Redstone-Energiedukte her
+academy.fluxducts3.text=Redstone-Energiedukte können 9.000 RF/t pro Verbindung leiten.
 
-academy.fluxducts4.desc=Make Signalum Fluxducts
-academy.fluxducts4.text=Signalum Fluxducts can transfer 16,000 RF/t per connection.
+academy.fluxducts4.desc=Stelle Signalum Fluxdukte her
+academy.fluxducts4.text=Signalum Fluxdukte können 16.000 RF/t pro Verbindung leiten.
 
-academy.fluxducts5.desc=Make Enderium Fluxducts
-academy.fluxducts5.text=Enderium Fluxducts can transfer 25,000 RF/t per connection.
+academy.fluxducts5.desc=Stelle Resonante Energiedukte her
+academy.fluxducts5.text=Resonante Energiedukte können 25.000 RF/t pro Verbindung leiten.
 
-academy.fluxducts6.desc=Make Cryo-Stabilized Fluxducts
-academy.fluxducts6.text=Cryo-Stabilized Fluxducts can transfer an infinite amount of RF/t per connection.
+academy.fluxducts6.desc=Stelle Kryotheum-Stabilisierte Energiedukte her
+academy.fluxducts6.text=Kryotheum-Stabilisierte Energiedukte können unendlich viel Strom leiten. Sie können allerdings keinen Speichern, was zu Problemen führen KANN.
 
-academy.empowerer.title=A Certain Scientific Infusion Altar
-academy.empowerer.desc=Make an Empowerer
-academy.empowerer.text1=The Empowerer is used to upgrade crystals.
-academy.empowerer.text2=Place the Empowerer down and then place a Display Stand in all 4 directions with 2 blocks between it and the Empowerer, and then provide them power.
+academy.empowerer.title=ENERGIEEEEE
+academy.empowerer.desc=Stelle einen 'Empowerer' her
+academy.empowerer.text1=Der Empowerer wird benutzt, um Kristalle zu verbessern.
+academy.empowerer.text2=Platziere den Empowerer und die 4 'Display Stands' in einem Abstand von 2 Blöcken zum Empowerer in alle 4 Himmelsrichtungen, und versorge diese mit Strom.
 
-academy.powerfiller.title=Filled with Power
-academy.powerfiller.desc=Make a machine that can fill items with RF
-academy.powerfiller.text1=The Energizer simply uses the RF it is given to power the item inside it.
-academy.powerfiller.text2=The Energetic Infuser does the same, but it can be upgraded and augmented to fill items at roughly 1,000,000 RF per second.
-academy.powerfiller.text3=The Energy Infuser is much more expensive, but it can fill items at up to 1,000,000 RF/t (which is 20,000,000 RF per second).
-academy.powerfiller.task=Make any of these machines
+academy.verticaldigger.title=Einsamer Gräber
+academy.verticaldigger.desc=Stelle einen 'Vertical Digger' her
+academy.verticaldigger.text1=Der 'Vertical Digger' nutzt Strom, um blöcke abzubauen. Du kannst einstellen, dass er nur Erze abbaut.
+academy.verticaldigger.text2=Standartmäßig gräbt er ein 5x5 großes Loch bis zum Grundgestein. Du kannst bis zu 3 'Phantom Booster' an ihn bauen, um ihn ein maximal 33x33 großes Loch graben zu lassen.
 
-academy.inventorybatteries.title=Portable Charger
-academy.inventorybatteries.desc=Make an item that can store RF
-academy.inventorybatteries.text1=Actually Addition's Batteries are the cheapest to make. The first tier can store 200,000 RF, and the final tier can store 2,000,000 RF.
-academy.inventorybatteries.text2=Thermal Expansion's Flux Capacitors are a bit more expensive but can store more. The first tier can store 1,000,000 RF, and the final tier can store 25,000,000 RF. You can also enchant them with Holding, which will multiply their max storage by up to 3x.
-academy.inventorybatteries.text3=Draconic Evolution's Flux Capacitors are the most expensive and can hold the most. The first tier can store 64,000,000 RF, and the final tier can store 256,000,000 RF. You can upgrade the final tier to store 640,000,000 RF.
-academy.inventorybatteries.task=Make any of these items
+academy.powerfiller.title=Von KRAFT erfüllt
+academy.powerfiller.desc=Stelle eine Maschine, die Items mit RF versorgen kann, her
+academy.powerfiller.text1=Der 'Energizer' nuzt RF, um das Item in seinem Inventar aufzuladen.
+academy.powerfiller.text2=Der 'Energieinfundierer' macht das Selbe, nur dass er auf bis zu 1MRF / Sekunde verbessert werden kann.
+academy.powerfiller.text3=Der 'Energy Infuser' ist viel teurer, nur dass er Items mit bis zu 1MRF / Tick, was 20MRF / Sekunde ist, aufladen kann.
+academy.powerfiller.task=Stelle eine dieser Maschinen her
 
-academy.teleportstaff.title=Vwoop
-academy.teleportstaff.desc=Make a Teleport Staff
-academy.teleportstaff.text=The Teleprot Staff will teleport you to the block you are looking at when used.
+academy.inventorybatteries.title=Batterie
+academy.inventorybatteries.desc=Stelle ein Item her, das RF speichern kann
+academy.inventorybatteries.text1=Batterien von Actually Additions sind die Billigsten. Die schwächste kann 200kRF und die beste 2MRF speichern.
+academy.inventorybatteries.text2='Flux Capacitors' von Thermal Expansion sind etwas teurer, können aber auch mehr speichern. Der Schwächste von ihnen kann 1MRF und der stärkste 25MRF speichern. Du kannst sie auch mit 'Hält' verzaubern, um den Speicherplatz auf bis zu ein 3-faches der Kapazität zu verbessern.
+academy.inventorybatteries.text3='Flux Capacitors' von Draconic Evolution sind die Teuersten, aber auch die Besten. Der Schwächste kann 64MRF speichern, und der Stärkste 256MRF. Den Stärksten kannst du auch noch auf bis zu 640MRF verbessern.
+academy.inventorybatteries.task=Stelle eines dieser Items her
 
-academy.aadrill.desc=Make a Drill
-academy.aadrill.text1=The Drill works as a pickaxe and shovel that uses RF. It can be dyed to any color.
-academy.aadrill.text2=You can sneak right click the Drill to insert up to 5 Drill Augments, such as Speed or Fortune. Augments that come in multiple tiers need the previous tier to be able to function.
-academy.aadrill.task2=Any Drill Augment
+academy.leadstonejetpack.title=Auf zu den Sternen
+academy.leadstonejetpack.desc=Stelle ein 'Leadstone Jetpack' her
+academy.leadstonejetpack.text1=Weißt du, was besser als gehen ist? Fliegen!
+academy.leadstonejetpack.text2=Jetpacks werden wie eine Brustplatte ausgerüstet und erlauben dir zu fliegen, wenn du die Leertaste hältst. Das 'Leadstone Jetpack' auf der niedrigsten und schlechtesten Stufe.
+academy.leadstonejetpack.text3=Simply Jetpacks hat mehrere Tastenbelegungen, wobei die Standarttasten im Konflikt mit anderen Mods stehen. Suche im Steuerung-Menü nach 'Simply Jetpacks' und klicke 'Category' an. Stelle beliebige Tasten ein. Du kannst auch Strg oder Shift als modifikatoren eingeben z.B. Shift + N.
+academy.leadstonejetpack.text4=Jedes Jetpack hat einen 'hover mode' (Schwebemodus), der mit einer Taste eingeschalten werden kann. Dadurch wirst du, der Stufe entsprechend, langsamer fallen.
 
-academy.greenhouseglass.title=Garden of Glass
-academy.greenhouseglass.desc=Make Greenhouse Glass
-academy.greenhouseglass.text=When Greenhouse Glass is placed above a crop and is able to see the daytime sky, the crops will grow much faster.
+academy.armoredjetpacks.title=Jetpack + Rüstung
+academy.armoredjetpacks.desc=Stelle ein 'Armored Jetpack' her
+academy.armoredjetpacks.text=Wer hätt's gedacht? 'Armored Jetpacks' sind einfach Jetpacks, die dir Rüstung geben.
+academy.armoredjetpacks.task=Irgendein 'Armored Jetpack'
 
-academy.itemrepairer.title=Virtute Reparavit
-academy.itemrepairer.desc=Make an Item Repairer
-academy.itemrepairer.text=The Item Repairer uses RF to slowly repair items.
+academy.otherjetpacks.title=Die Mittleren, weil jeder Mod Stufen braucht
+academy.otherjetpacks.desc=Stelle die mittelmäßigen Jetpacks her
+academy.otherjetpacks.text1=Jede höhere Stufe ist einfach schneller, kann mehr Strom speichern und hat einen besseren 'hover mode'. ...das wär's eigentlich schon.
+academy.otherjetpacks.text2='Reinforced' und besser aktivieren automatisch den 'hover mode', wenn du an fallschaden sterben würdest.
 
-academy.spawnerchanger.title=Monster Box
-academy.spawnerchanger.desc=Make a Spawner Changer
-academy.spawnerchanger.text1=Right click a mob with the Spawner Changer to set it to that mob, killing it. Then right click the Spawner Changer on a Mob Spawner, and it will change to spawn that mob.
-academy.spawnerchanger.text2=You can use this to set the type of mob to spawn before turning it into a Draconc Evolution Stabilized Spawner so you don't have to rely on Mob Souls.
+academy.jetplate.title=Signalum-mann
+academy.jetplate.desc=Stelle eine 'Flux-Infused JetPlate' her
+academy.jetplate.text=Die 'Flux-Infused JetPlate' das beste Jetpack in diesem Mod. Es ist am schnellsten, kann mit Abstand am meisten Strom speichern und gibt am meisten Rüstung. Es kann auch Items in deinem Inventar aufladen, wenn du eine Taste drückst.
 
-academy.playerinterface.desc=Make a Player Interface
-academy.playerinterface.text1=The Player Interface allows you to interact with your inventory as if it were any other block. You can pipe items in and out, and if you give it RF it will charge items in your inventory.
-academy.playerinterface.text2=It has a range of 32 blocks which can be increased by placing up to 3 Phantom Boosters on top of it, increasing the range to 256 blocks.
+academy.teleportstaff.title=Woosh
+academy.teleportstaff.desc=Stelle einen 'Teleport Staff' her
+academy.teleportstaff.text=Der Teleprot Staff teleportiert dich zu dem Block, den du ansiehst, wenn du ihn benutzt.
 
-academy.aaenergylaser2.desc=Make Advanced Energy Laser Relays
-academy.aaenergylaser2.text1=Advanced Energy Laser Relays can wirelessly transfer up to 10,000 RF/t.
-academy.aaenergylaser2.text2=If you have an Energy Laser Relay of a lower tier between two higher tiers, the lowest speed will be used.
+academy.aadrill.title=Riesenborher
+academy.aadrill.desc=Stelle einen 'Drill' her
+academy.aadrill.text1=Der Drill funktioniert als Schaufel und Spitzhacke und kann dazu auch noch eingefärbt werden.
+academy.aadrill.text2=Du kannst mit dem Bohrer SHIFT (ggf. Schleichen) + Rechtsklicken, um bis zu 5 Verbesserungen zu installieren. Verbesserungen mit mehreren Stufen benötigen immer auch die vorhergehenden Stufen.
+academy.aadrill.task2=Irgendein 'Drill Augment'
 
-academy.aaenergylaser3.desc=Make Extreme Energy Laser Relays
-academy.aaenergylaser3.text=Extreme Energy Laser Relays can wirelessly transfer up to 100,000
+academy.greenhouseglass.title=Gläserner Garten
+academy.greenhouseglass.desc=Stelle 'Greenhouse Glass' her
+academy.greenhouseglass.text=Wenn Greenhouse Glass über einer Pflanze im Sonnenlicht platziert wird, wächst diese viel schneller.
 
-academy.mobslaughterfactory.title=Fast Food
-academy.mobslaughterfactory.desc=Make a Mob Slaughter Factory
-academy.mobslaughterfactory.text1=The Mob Slaughter Factory will kill any mobs in its working area. Instead of dropping items and experience, it will instead produce Liquid Meat in its internal tank. It also has a chance of producing Pink Slime.
-academy.mobslaughterfactory.text2=Its default range is 1 block. You will have to use Range Addons to increase the working area.
+academy.itemrepairer.title=Haltbarkeit++;
+academy.itemrepairer.desc=Stelle einen 'Item Repairer' her
+academy.itemrepairer.text=Der Item Repairer nutzt RF, um Items zu reparieren.
 
-academy.meatfeeder.title=Injecting Burger Directly Into Your Veins
-academy.meatfeeder.desc=Make a Meat Feeder
-academy.meatfeeder.text=When filled with Liquid Meat, the Meat Feeder will keep you fed from anywhere in your inventory automatically.
+academy.spawnerchanger.title=Monsterbox
+academy.spawnerchanger.desc=Stelle einen 'Spawner Changer' her
+academy.spawnerchanger.text1=Rechtsklicke ein Monster mit einem 'Spawner Changer' um es auszuwählen und es dabei zu töten. Danach musst du einen Monsterspawner mit dem Spawner Changer rechtsklicken, um den Spawner auf das gewählte Monster zu setzen.
+academy.spawnerchanger.text2=Du kannst damit auch den Monstertyp eines Spawners setzen, bevor du ihn in einen Stabilized Spawner von Draconic Evolution umbaust, damit du nicht von Mob Souls abhängig bist.
 
-academy.meatores.title=The Strangest Ore Processing Ever
-academy.meatores.desc=Make a Fluid Sieving Machine, Fermentation Station, and Washing Factory
-academy.meatores.text1=The Washing Factory combines Liquid Meat with Ores to create Raw Ore Meat.
-academy.meatores.text2=The Fermentation Station will ferment Raw Ore Meat into Fermented Raw Ore Meat.
-academy.meatores.text3=The Fluid Sieving Machine will combine Fermented Ore Meat and Sand to create dust for that ore.
-academy.meatores.text4=This process creates 3 ingots per ore.
+academy.playerinterface.desc=Stelle ein 'Player Interface' her
+academy.playerinterface.text1=Durch das 'Player Interface' kannst du mit deinem Inventar wie mit jedem anderen Block interagieren. Du kannst Items in und aus deinem Inventar pumpen und wenn du dem Block Strom gibst, werden Items in deinem Inventar geladen.
+academy.playerinterface.text2=Es hat eine 32-Block Reichweite, welche mit bis zu 3 'Phantom Boosters' auf 256 Blöcke erhöht werden kann.
+academy.playerinterface.reward=1 'Phantom Booster'
 
-academy.ifenergy1.desc=Make an Energy Upgrade I
-academy.ifenergy1.text=You can insert an Energy Upgrade I into most Industrial Foregoing machines to lower the amount of energy they use.
+academy.aaenergylaser2.desc=Stelle 'Advanced Energy Laser Relays' her
+academy.aaenergylaser2.text1='Advanced Energy Laser Relays' können bis zu 10.000 RF/t kabellos übertragen.
+academy.aaenergylaser2.text2=Wenn du ein 'Energy Laser Relay' einer niedrigeren Stufe zwischen zwei einer höheren Stufe nutzt, wird die niedrigste Geschwindigkeit genutzt.
 
-academy.ifenergy2.desc=Make an Energy Upgrade II
-academy.ifenergy2.text1=An Industrial Foregoing machine with Energy I and II will use even less energy.
-academy.ifenergy2.text2=You need to use both tiers for it to function.
+academy.aaenergylaser3.desc=Stelle 'Extreme Energy Laser Relays' her
+academy.aaenergylaser3.text='Extreme Energy Laser Relays' bis zu 100.000 RF/t übertragen.
 
-academy.ifspeed1.desc=Make a Speed Upgrade I
-academy.ifspeed1.text=You can insert a Speed Upgrade I into most Industrial Foregoing machines to lower the amount of time they need.
+academy.canola4.title='Empowered Canola Oil' Wer braucht denn nicht noch mehr Stufen?
+academy.canola4.desc=Stelle die finale Stufe von Canolaöl her
+academy.canola4.text1='Empowered Oil' ist die finale Stufe von 'Canola Oil' und erzeugt 700.000 RF.
+academy.canola4.text2='Empowered Oil' entsteht, wenn du 'Empowered Canola Seeds' in 'Crystallized Oil' wirfst.
+academy.canola4.text3=Wahrscheinlich willst du den Guide lesen, um herauszufinden, wie du das automatisieren kannst.
 
-academy.ifspeed2.desc=Make a Speed Upgrade II
-academy.ifspeed2.text1=An Industrial Foregoing machine with Speed I and II will take even less time.
-academy.ifspeed2.text2=You need to use both tiers for it to function.
+academy.numismatic.title=Waren für Geld
+academy.numismatic.desc=Stelle einen Numismatischen Dynamo her
+academy.numismatic.text1=Der Numismatische Dynamo erzeugt Strom aus Geld. Das heißt, aus Münzen aus Metall und Smaragden. Umso teurer, desto mehr Strom. Wie funktioniert's? Wer weiß?
+academy.numismatic.text2=Die 'Lapidary Calibration'-Verbesserung erlaubt dem Dynamo, Edelsteine statt Geld anzunehmen. Damit erzeugt ein Diamant 1.200.000 RF!
 
-academy.mobcrusher.desc=Make a Mob Crusher
-academy.mobcrusher.text1=The Mob Crusher will kill any mobs in its working area. Their drops will automatically go into the Mob Crusher's inventory, and experience will be converted into Essence.
-academy.mobcrusher.text2=Its default range is 1 block. You will have to use Range Addons to increase the working area.
+academy.ifbioreactor.title=Umweltfreundlich
+academy.ifbioreactor.desc=Baue einen 'Biofuel Generator' auf
+academy.ifbioreactor.text1=Der 'Biofuel Generator' erzeugt 640.000 RF pro Eimer mit 'Biofuel'.
+academy.ifbioreactor.text2='Biofuel' wird im 'Bioreactor' produziert, indem dieser Strom und Pflanzenmaterial bekommt. Der Reaktor läuft effizienter, wenn sich mehr verschiedene Pflanzenitems in ihm befinden.
 
-academy.mobduplicator.desc=Make a Mob Duplicator
-academy.mobduplicator.text=The Mob Duplicator will use Essence and a filled Mob Imprisonment Tool to spawn that mob.
+academy.ifprotein.title=Saftige, Fleischige Energie
+academy.ifprotein.desc=Baue einen 'Protein Generator' auf
+academy.ifprotein.text1=Der 'Protein Generator' erzeugt 1.280.000 RF pro Eimer mit 'Protein'.
+academy.ifprotein.text2='Protein' wird im 'Protein Reactor' produziert, indem dieser Strom und Tiermaterial bekommt. Der Reaktor läuft effizienter, wenn sich mehr verschiedene Tieritems in ihm befinden.
 
-academy.wyvernarmor.title=Penultimate Armor
-academy.wyvernarmor.desc=Make a full set of Wyvern armor
-academy.wyvernarmor.text1=Wyvern armor is the second best armor in most modpacks, behind its upgraded version.
-academy.wyvernarmor.text2=When wearing Wyvern or Draconic armor, a new GUI element will appear. The top bar shows the Shield Points, the amount of damage that can be absorbed without hurting the player. It drops when it takes damage, and it goes back up when it has power.
-academy.wyvernarmor.text3=The small green bar is the Entropy meter, which increases as you take damage and decreases over time. At high entropy, the shield points regenerate slower.
-academy.wyvernarmor.text4=The bottom bar is the amount of RF that is stored in the armor.
+academy.reactantdynamo.title=Gegenreaktion
+academy.reactantdynamo.desc=Stelle einen Reaktordynamo her
+academy.reactantdynamo.text1=Der Reaktordynamo erzeugt Strom anhand der Flüssigkeit und des Items, das du ihm gibst. Die Kombinationen sind normalerweise irgendwie verbunden, wie Kryotheum und Pyrotheum.
+academy.reactantdynamo.text2=Sobald Verbessert und mit den richtigen Reaktionen kannst du sehr viel Strom mit billigen Materialien erzeugen.
 
-academy.wyvernpickaxe.desc=Make a Pickaxe of the Wyvern
-academy.wyvernpickaxe.text1=The Pickaxe of the Wyvern has an adjustable mining speed, an upgradable area of effect, and a junk filter.
-academy.wyvernpickaxe.text2=To configure Draconic Evolution tools, hit C.
+academy.compactor.title=QUEEEETSCH!
+academy.compactor.desc=Stelle einen Kompaktor her
+academy.compactor.text1=Der Kompactor erlaubt dir, Items zu pressen, also ihre Form zu verändern. Du kannst die meisten Mob-Stäube zu Ruten und die meisten Metallbarren zu Platten pressen.
+academy.compactor.text2=Mit Verbesserungen kannst du Barren auch zu Zahnrädern oder Münzen pressen.
 
-academy.wyvernsword.desc=Make a Sword of the Wyvern
-academy.wyvernsword.text1=The Sword of the Wyvern has an adjustable attack radius and an upgradable attack damage.
-academy.wyvernsword.text2=To configure Draconic Evolution tools, hit C.
+academy.passivespawning.title=Tierfarm
+academy.passivespawning.desc=Baue eine Tierfarm auf
+academy.passivespawning.text1=Der 'Animal Feeder' füttert Mobs in seinem Bereich mit den Items in seinem Inventar.
+academy.passivespawning.text2=Der 'Animal Baby Separator' teleportiert Babys in seinem Bereich auf seine andere Seite.
+academy.passivespawning.text3=Die Mobfarm sollte in 2 Bereiche unterteilt sein: Einer sollte erwachsene Tiere und einen 'Animal Feeder' haben, der Andere sollte mit Babys vom 'Animal Baby Separator' befüllt sein.
+academy.passivespawning.text4=Dort werden die Babytiere wachsen und, sobald ausgewachsen, von einer 'Mob Slaughter Factory', wenn du 'Liquid Meat' und 'Pink Slime' benötigst, oder von einem 'Mob Crusher', wenn du ihre Drops und 'Essence' haben willst, getötet werden. Du kannst beiden Maschinen einen 'Adult Filter' geben, um sie davon abzuhalten, Babytiere zu töten.
+academy.passivespawning.text5=Beide Maschinen haben standartmäßig eine Reichweite von 1 Block, du musst 'Range Addons' nutzen, um diese zu erhöhen.
 
-academy.wyvernshovel.desc=Make a Shovel of the Wyvern
-academy.wyvernshovel.text1=The Shovel of the Wyvern has an adjustable mining speed, an upgradable area of effect, and a junk filter.
-academy.wyvernshovel.text2=To configure Draconic Evolution tools, hit C.
+academy.mobslaughterfactory.title=Fastfood
+academy.mobslaughterfactory.desc=Stelle eine 'Mob Slaughter Factory' her
+academy.mobslaughterfactory.text1=Die 'Mob Slaughter Factory' tötet alle Mobs in ihrer Reichweite. Anstatt Items und Erfahrung zu erzeugen, produziert sie 'Liquid Meat' in ihrem internen Tank. Es besteht auch eine Chance, dass sie 'Pink Slime' erzeugt.
+academy.mobslaughterfactory.text2=Ihre standartmäßige Reichweite ist 1 Block, du musst 'Range Addons' nutzen, um diese zu erhöhen.
 
-academy.wyvernaxe.desc=Make an Axe of the Wyvern
-academy.wyvernaxe.text1=The Axe of the Wyvern has an adjustable mining speed and an upgradable area of effect.
-academy.wyvernaxe.text2=To configure Draconic Evolution tools, hit C.
+academy.meatfeeder.title=Injiziere Burger direkt in deine Adern
+academy.meatfeeder.desc=Stelle einen 'Meat Feeder' her
+academy.meatfeeder.text=Wenn der 'Meat Feeder' mit 'Liquid Meat' versorgt ist, wird er dich gesättigt halten, solange er sich in deinem Inventar befindet.
 
-academy.wyvernbow.desc=Make a Bow of the Wyvern
-academy.wyvernbow.text1=The Bow of the Wyvern has an adjustable magnification and arrow damage/velocity, as well as togglable auto-fire and explosive arrows.
-academy.wyvernbow.text2=To configure Draconic Evolution tools, hit C.
+academy.meatores.title=Die komischste Erzverarbeitung der Welt
+academy.meatores.desc=Baue eine Erzverdreifachung mit 'Liquid Meat' auf
+academy.meatores.text1=Die 'Washing Factory' kombiniert 'Liquid Meat' mit Erzen, um 'Raw Ore Meat' herzustellen.
+academy.meatores.text2=Die 'Fermentation Station' fermentiert 'Raw Ore Meat' zu 'Fermented Raw Ore Meat'.
+academy.meatores.text3=Die 'Fluid Sieving Machine' kombiniert 'Fermented Ore Meat' mit Sand, um den entsprechenden Erzstaub zu erzeugen.
+academy.meatores.text4=Dieser Vorgang erzeugt 3 Barren pro Erz.
 
-academy.energycore.desc=Make an Energy Storage Core
-academy.energycore.text1=The Energy Storage Core can store an extremely massive amount of RF. See the Draconic Evolution Information Tablet to see how to build it.
-academy.energycore.text2=The first tier requires only the blocks required for this quest, and can store 45,500,000 RF.
-academy.energycore.text3=To compare, the final tier can store 9,223,372,036,854,775,807 RF.
+academy.ifenergy1.desc=Stelle ein 'Energy Upgrade I' her
+academy.ifenergy1.text=Das 'Energy Upgrade I' verringert die benötigte Energie in den meisten 'Industrial Foregoing'-Maschinen.
 
-academy.wyverncrystals.title=Wyvernly
-academy.wyverncrystals.desc=Make Wyvern Energy Crystals
-academy.wyverncrystals.text1=Wyvern Energy Crystals can hold 4 times more RF than Basic Energy Crystals.
-academy.wyverncrystals.text2=All Energy Crystals of all tiers transfer effectively infinite RF/t.
-academy.wyverncrystals.task=Any Wyvern Energy Crystals
+academy.ifenergy2.desc=Stelle ein 'Energy Upgrade II' her
+academy.ifenergy2.text1=Eine 'Industrial Foregoing'-Maschine mit 'Energy I' und 'Energy II' benötigt noch weniger Strom.
+academy.ifenergy2.text2=Du benötigst beide Stufen, damit das funktioniert.
 
-academy.fusioncrafting.title=Another Certain Scientific Fusion Altar
-academy.fusioncrafting.desc=Set up Fusion Crafting
-academy.fusioncrafting.text1=Place the Fusion Crafting Core, and then place Fusion Crafting Injectors around it facing the Core. The setup is powered through the Fusion Crafting Injectors.
-academy.fusioncrafting.text2=For Fusion Crafting recipes, the item in the center needs to be in the Fusion Crafting Core, and the items on the sides need to be in Fusion Crafting Injectors.
-academy.fusioncrafting.text3=Recipes require certain tier Fusion Crafting Injectors. If it needs a specific tier, it also works with higher tiers.
-academy.fusioncrafting.text4=To begin the craft, click "Craft" in the Fusion Crafting Core.
+academy.ifspeed1.desc=Stelle ein 'Speed Upgrade I' her
+academy.ifspeed1.text=Das 'Speed Upgrade I' erhöht die Geschwindigkeit der meisten 'Industrial Foregoing'-Maschinen.
 
-academy.wyverninjectors.desc=Make Wyvern Fusion Crafting Injectors
-academy.wyverninjectors.text1=Wyvern Fusion Crafting Injectors allow you to craft more items.
-academy.wyverninjectors.text2=For recipes that require a certain tier, every Fusion Crafting Injector must be that tier or higher.
+academy.ifspeed2.desc=Stelle ein 'Speed Upgrade II' her
+academy.ifspeed2.text1=Eine 'Industrial Foregoing'-Maschine mit 'Energy I' und 'Energy II' arbeitet noch schneller.
+academy.ifspeed2.text2=Du benötigst beide Stufen, damit das funktioniert.
 
-academy.enderenergymanipulator.title=Pacifist
-academy.enderenergymanipulator.desc=Make an Ender Energy Manipulator
-academy.enderenergymanipulator.text=Right click the Ender Energy Manipulator on the Bedrock portal in the End while the Dragon is alive, and it will begin to kill as many Endermen as it can. Once it's reached a certain amount, it will stop and spawn a Dragon Egg.
+academy.mobcrusher.desc=Stelle einen 'Mob Crusher' her
+academy.mobcrusher.text1=Der 'Mob Crusher' tötet jegliche Mobs in seinem Arbeitsbereich. Deren Drops kommen automatisch in sein Inventar und Erfahrung wird zu 'Essence' konvertiert.
+academy.mobcrusher.text2=Seine standartmäßige Reichweite ist 1 Block, du musst 'Range Addons' nutzen, um diese zu erhöhen.
 
-academy.awakeneddraconium.title=Awaken, My Masters
-academy.awakeneddraconium.desc=Make Awakened Draconium
-academy.awakeneddraconium.text=Awakened Draconium tools and armor are the highest tier in most modpacks.
+academy.mobduplicator.desc=Stelle einen 'Mob Duplicator' her
+academy.mobduplicator.text=Der 'Mob Duplicator' nutzt 'Essence' ein gefülltes 'Mob Imprisonment Tool', um das eingefangene Mob zu spawnen.
 
-academy.upgradekeys.title=Upgrading
-academy.upgradekeys.desc=Make an Upgrade Key
-academy.upgradekeys.text1=Upgrade Keys are used with Fusion Crafting to upgrade tools and armor. Hit U to see the key's uses, and use that recipe with the tool you want to upgrade in the center.
-academy.upgradekeys.text2=Upgrade Keys have multiple recipes as they have multiple levels. Naturally, you have to upgrade with the Basic recipe, and then Wyvern, Draconic, and Chaotic.
-academy.upgradekeys.text3=Upgrade Keys are not destroyed when used, so you will only ever need to make each once.
-academy.upgradekeys.task=Any Upgrade Key
+academy.wyvernarmor.title=Mit der Macht der Wyvern
+academy.wyvernarmor.desc=Stelle ein vollständiges Wyvern-Rüstungsset her
+academy.wyvernarmor.text1=Wyvernrüstung ist die zweitbeste Rüstung in den meisten Modpacks - besser ist nur ihre verbesserte Form.
+academy.wyvernarmor.text2=Wenn du Wyvern- oder Draconic- Rüstung trägst, wird ein neues GUI Element auftauchen. Die obere Leiste zeigt Schildpunkte, also die Anzahl des Schadens, der Absorbiert werden kann, ohne dass der Spieler Schaden erleidet. Erlittener Schaden verbraucht Punkte, Strom füllt diese wieder auf.
+academy.wyvernarmor.text3=Die kleine grüne Leiste zeigt Zerstörung an, der Wert erhöht sich, wenn du Schaden nimmst und sinkt mit der Zeit wieder. Wenn dieser Wert hoch ist regenerieren Schildpunkte Langsamer.
+academy.wyvernarmor.text4=Die untere Leiste ist die gespeicherte Energie.
 
-academy.hardenedupgrade.desc=Make a Hardened Upgrade Kit
-academy.hardenedupgrade.text1=Upgrade Kits are used to increase the tier of a Thermal Expansion machine or dynamo. Simply right click the block with the Upgrade Kit to set it to that tier, as long as the machine is already the previous tier.
-academy.hardenedupgrade.text2=The order of tiers is:
-academy.hardenedupgrade.text3=•Basic
-academy.hardenedupgrade.text4=•Hardened
-academy.hardenedupgrade.text5=•Reinforced
+academy.wyvernpickaxe.desc=Stelle die 'Pickaxe of the Wyvern' her
+academy.wyvernpickaxe.text1=Die 'Pickaxe of the Wyvern' hat eine einstellbare Abbaugeschwindigkeit, einen verbesserbaren Abbaubereich und einen Müllfilter.
+academy.wyvernpickaxe.text2=Die Standarttaste für das Einstellungsmenü ist 'C'.
+
+academy.wyvernsword.desc=Stelle das 'Sword of the Wyvern' her
+academy.wyvernsword.text1=Das 'Sword of the Wyvern' einen einstellbaren Angriffsradius und verbesserbaren Angriffsschaden.
+academy.wyvernsword.text2=Die Standarttaste für das Einstellungsmenü ist 'C'.
+
+academy.wyvernshovel.desc=Stelle die 'Shovel of the Wyvern' her
+academy.wyvernshovel.text1=Die 'Shovel of the Wyvern' hat eine einstellbare Abbaugeschwindigkeit, einen verbesserbaren Abbaubereich und einen Müllfilter.
+academy.wyvernshovel.text2=Die Standarttaste für das Einstellungsmenü ist 'C'.
+
+academy.wyvernaxe.desc=Stelle die 'Axe of the Wyvern' her
+academy.wyvernaxe.text1=Die 'Axe of the Wyvern' hat eine einstellbare Abbaugeschwindigkeit und einen verbesserbaren Abbaubereich.
+academy.wyvernaxe.text2=Die Standarttaste für das Einstellungsmenü ist 'C'.
+
+academy.wyvernbow.desc=Stelle den 'Axe of the Wyvern' her
+academy.wyvernbow.text1=Der 'Bow of the Wyvern' hat einstellbaren Zoom und Pfeilschaden/-geschwindigkeit, sowie einschaltbares auto-schießen und explosive Pfeile.
+academy.wyvernbow.text2=Die Standarttaste für das Einstellungsmenü ist 'C'.
+
+academy.energycore.desc=Stelle einen Energiekern her
+academy.energycore.text1=Der Energiekern kann sehr viel Strom speichern. Im 'Draconic Evolution Information Tablet' siehst du, wie man ihn bauen kann.
+academy.energycore.text2=Die 1. Stufe benötigt nur die Blöcke für diese Quest, und kann bis zu 45.500.000 RF speichern.
+academy.energycore.text3=Als Vergleich: Die 8. und letzte Stufe kann 9.223.372.036.854.775.807 RF speichern.
+
+academy.wyverncrystals.title=Wyvernrgie
+academy.wyverncrystals.desc=Stelle 'Wyvern Energy Crystals' her
+academy.wyverncrystals.text1='Wyvern Energy Crystals' können 4x so viel Strom, wie 'Basic Energy Crystals' speichern.
+academy.wyverncrystals.text2=Alle Energiekristalle auf allen Stufen können nahezu unendlich RF/t transferieren.
+academy.wyverncrystals.task=Irgendein 'Wyvern Energy Crystal'
+
+academy.fusioncrafting.title='Another Certain Scientific Fusion Altar'
+academy.fusioncrafting.desc=Baue eine Fusionscraftinganlage auf
+academy.fusioncrafting.text1=Baue dein 'Fusion Crafting Core' auf und platziere danach 'Fusion Crafting Injectors' in Richtung des Kerns um ihn herum. Die Anlage erhält Strom über die 'Fusion Crafting Injectors'; der Kern benötigkt keinen Strom.
+academy.fusioncrafting.text2=Bei Fusionscraftingrezepten muss das Item in der Mitte im Kern liegen und alle anderen Items müssen in den Injektoren liegen.
+academy.fusioncrafting.text3=Einige Rezepte benötigen eine gewisse Stufe von 'Fusion Crafting Injectors'. Höhere Stufen funktionieren immer.
+academy.fusioncrafting.text4=Um den Vorgang zu beginnen, klicke im Kern auf 'Start'.
+
+academy.wyverninjectors.desc=Stelle 'Wyvern Fusion Crafting Injectors' her
+academy.wyverninjectors.text1='Wyvern Fusion Crafting Injectors' sind dei 2. Stufe der 'Fusion Crafting Injectors'.
+academy.wyverninjectors.text2=Bei Rezepten, die eine gewisse Stufe erfordern, müssen alle BENÜTZTEN 'Fusion Crafting Injectors' die geforderte oder eine höhere Stufe haben.
+
+academy.enderenergymanipulator.title=Pazifist
+academy.enderenergymanipulator.desc=Stelle einen 'Ender Energy Manipulator' her
+academy.enderenergymanipulator.text=Rechtsklicke mit dem 'Ender Energy Manipulator' auf das Grundgesteinportal im End während der Drache noch lebt und er wird beginnen, so viele Endermen wie möglich zu töten. Sobald eine gewisse Anzahl erreicht wurde, wird ein Drachenei Spawnen.
+
+academy.awakeneddraconium.title=Erwachet, meine Meister
+academy.awakeneddraconium.desc=Stelle 'Awakened Draconium' her
+academy.awakeneddraconium.text='Awakened Draconium' -werkzeuge und - rüstung sind die besten in den meisten Modpacks.
+
+academy.upgradekeys.title=Verbessern...
+academy.upgradekeys.desc=Stelle einen 'Upgrade Key' her
+academy.upgradekeys.text1='Upgrade Keys' werden im Fusionscrafting genutzt, um Rüstungen und Werkzeuge zu verbessern. Drücke 'U', um den Nutzen des 'Upgrade Keys' zu sehen und nutze das Rezept mit dem Werkzeug, das du verbessern willst in der Mitte.
+academy.upgradekeys.text2='Upgrade Keys' haben mehrere Rezepte, da sie mehrere Stufen haben. Natürlich müssen die Upgrades in der Reihenfolge 'Basic', 'Wyvern', 'Draconic' und schlussendlich 'Chaotic' durchgeführt werden.
+academy.upgradekeys.text3='Upgrade Keys' werden nie verbraucht, du wirst jeden nur einmal herstellen müssen.
+academy.upgradekeys.task=Irgendein 'Upgrade Key'
+
+academy.hardenedupgrade.desc=Stelle einen Gehärteten Upgrade-Bausatz her
+academy.hardenedupgrade.text1=Upgrade-Bausätze werden benutzt, um die Stufe einer 'Thermal Expansion' Maschine oder eines Dynamos zu erhöhen. Rechtsklicke einfach mit dem Bausatz auf den Block, um seine Stufe auf die des Bausatzes zu erhöhen. Die Maschine muss jedoch auf der vorhergehenden Stufe sein
+academy.hardenedupgrade.text2=Liste der Stufen:
+academy.hardenedupgrade.text3=•Basic (Einfach)
+academy.hardenedupgrade.text4=•Hardened (Gehärtet)
+academy.hardenedupgrade.text5=•Reinforced (Verstärkt)
 academy.hardenedupgrade.text6=•Signalum
 academy.hardenedupgrade.text7=•Resonant
 
-academy.reinforcedupgrade.desc=Make a Reinforced Upgrade Kit
-academy.reinforcedupgrade.text1=Reinforced machines are the second tier, and have room for 2 Augments.
-academy.reinforcedupgrade.text2=You can craft Upgrade Kits together to create a Conversion Kit, which will apply all the upgrades at once.
+academy.reinforcedupgrade.desc=Stelle einen Verstärtken Upgrade-Bausatz her
+academy.reinforcedupgrade.text1=Verstärkte Maschinen sind auf der 2. Stufe und haben platz für 2 Verbesserungen.
+academy.reinforcedupgrade.text2=Du kannst Upgrade-Bausätze zusammencraften, um einen Konversionsbausatz zu erhalten, welcher alle Verbesserungen auf einmal anwendet.
 
-academy.regularaugments.desc=Make a regular Augment
-academy.regularaugments.text1=Augments can be installed on machines and dynamos to upgrade them in some way. The amount of slots they have depends on the tier of the machine.
-academy.regularaugments.text2=You can have multiple of an Augment to stack its effectiveness.
-academy.regularaugments.task=Regular Augments
+academy.regularaugments.desc=Stelle eine reguläre Verbesserung her
+academy.regularaugments.text1=Verbesserungen können in Maschinen oder Dynamos eingebaut werden, um diese zu verbessern. Die Anzahl der Verbesserungsplätze hängt von der Stufe der Maschine ab.
+academy.regularaugments.text2=Du kannst die selbe Verbesserung mehrmals einbauen, um deren Effektitivität zu steigern.
+academy.regularaugments.task=Reguläre Verbsesserungen
 
-academy.specializationaugments.desc=Make a Specialization Augment.
-academy.specializationaugments.text1=Specialization Augments fundamentally change the function of a machine or dynamo.
-academy.specializationaugments.text2=You can only have one Specialization Augment per machine.
-academy.specializationaugments.task=Specialization Augments
+academy.fastaugments.title=Ich bin schnell
+academy.fastaugments.desc=Stelle diese Verbesserungen her
+academy.fastaugments.text1=Sekundärempfängerspulenverbesserungen erhöhen die Arbeitsgeschwindigkeit der Maschine / des Dynamos in die/den sie eingebaut wurden. Sie erhöhen die Effizienz jedoch nicht.
+academy.fastaugments.text2=Maschinen werden nicht so lange brauchen, um zu arbeiten, jedoch werden sie die selbe Menge an Strom benötigen -> mehr RF/t.
+academy.fastaugments.text3=Bei Dynamos ist es das Selbe: Sie erzeugen gleich viel RF für den Treibstoff, jedoch benötigen sie weniger zeit -> mehr RF/t.
 
+academy.specializationaugments.desc=Stelle eine Spezialisierungsverbesserung her
+academy.specializationaugments.text1=Spezialisierungsverbesserungen andern die Funktionsweise der Maschine / des Dynamos auf fundamentale Weise.
+academy.specializationaugments.text2=Du kannst nur eine solche Verbesserung pro Maschine nutzen.
+academy.specializationaugments.task=Spezialisierungsverbesserungen
 
 # Technology - Advanced
 
-academy.iflaserdrill.title=Pierce the Heavens
-academy.iflaserdrill.desc=Set up a Laser Drill
-academy.iflaserdrill.text1=The Laser Drill allows you to essentially turn RF into ores.
-academy.iflaserdrill.text2=Place down a Laser Base anywhere, and then place 4 Laser Drills around it so that the laser connects them. Power is provided through the Laser Drills.
-academy.iflaserdrill.text3=In the Laser Base's GUI, click the - and + buttons on the right to change the y level to get ores from. You can check JEI for the recipes of ores to see what the optimal levels to set for them.
-academy.iflaserdrill.text4=You can place Laser Lenses into the 6 slots on the left to increase the chances of certain ores generating. Again, you can check JEI to see what laser helps what ore.
+academy.iflaserdrill.title=Durchbohre den Himmel
+academy.iflaserdrill.desc=Baue einen 'Laser Drill' auf
+academy.iflaserdrill.text1=Der 'Laser Drill' ermöglicht dir, Strom in Erze zu wandeln.
+academy.iflaserdrill.text2=Baue eine 'Laser Base' irgendwohin und 4 'Laser Drills' um sie herum, sodass der Laser sich zur 'Base' verbidet. Die 'Laser Drills' müssen mit Strom versorgt werden und können auch verbessert werden.
+academy.iflaserdrill.text3=Im GUI der 'Laser Base' kannst du die + und - Knöpfe nutzen, um die y Ebene einzustellen, von der die Erze stammen sollen. In JEI siehst du, welches Erz wo am häufigsten vorkommt.
+academy.iflaserdrill.text4=Du kannst 'Laser Lenses' in die 6 Plätze links legen, um die Chancen für gewisse Erze zu erhöhen. Wiederum hilft JEI dabei, herauszufinden, welche Linse für welches Erz am besten ist.
 
-academy.signalumupgrade.desc=Make a Signalum Upgrade Kit
-academy.signalumupgrade.text=Signalum is the third tier for machines and dynamos.
+academy.signalumupgrade.desc=Stelle einen Signalum Upgrade-Bausatz her
+academy.signalumupgrade.text=Signalum ist die 3. Stufe für Maschinen und Dynamos.
 
-academy.resonantupgrade.desc=Make a Resonant Upgrade Kit
-academy.resonantupgrade.text=Resonant machines are the highest tier available in survival mode.
+academy.resonantupgrade.desc=Stelle einen Resonanten Upgrade-Bausatz her
+academy.resonantupgrade.text=Resonante Maschinen sind auf der höchsten Stufe, die im Überlebensmodus verfügbar ist.
 
-academy.alchemyimbuer.title=Apothecary
-academy.alchemyimbuer.desc=Make an Alchemical Imbuer
-academy.alchemyimbuer.text1=The Alchemical Imbuer works with fluids to create potions, which have to be bottled separately.
-academy.alchemyimbuer.text2=It is recommended to have multiple Alchemical Imbuers working in concert so you don't have to repeatedly pipe the fluid potions out of then back into the same machine.
-academy.alchemyimbuer.text3=The first Alchemical Imbuer make Awkward Potions, which would be sent to another Imbuer to upgrade it, and so on. At the end you would want to move the fluid to a Fluid Transposer to fill Glass Bottles. Alternatively you could pipe it to a Decoctive Diffuser which will spread that potion effect over an area.
+academy.alchemyimbuer.title=Apotheke
+academy.alchemyimbuer.desc=Stelle einen 'Alchemical Imbuer' her
+academy.alchemyimbuer.text1=Der 'Alchemical Imbuer' verarbeitet Flüssigkeiten zu Tränken, welche jedoch seperat abgefüllt werden müssen.
+academy.alchemyimbuer.text2=Es ist empfehlenswert, mehrere 'Alchemical Imbuers' zu haben, da du dann die Tränke nicht immer aus dem einen heraus und dann wieder in ihn hinein pumpen musst.
+academy.alchemyimbuer.text3=Beispiel: Der erste 'Alchemical Imbuer' erzeugt Seltsame Tränke, der 2. verbessert diese, usw. Am Ende wird der fertige Trank zu einem Fluidtransposer gepumpt, welcher diesen in Glasflaschen füllt. Als Alternative kann auch ein 'Decoctive Diffuser' genutzt werden, um den Trank nicht abzufüllen, sondern den Effekt über einen Bereich zu verteilen.
 
-academy.alchemicalretort.title=I Require Your Strongest Potions
-academy.alchemicalretort.desc=Make the Alchemical Retort Augment
-academy.alchemicalretort.text=You can upgrade a Fractionating Still with an Alchemical Retort to allow it to process potion fluids, increasing the effect by 1 but also decreasing the amount by a quarter.
+academy.alchemicalretort.title=Ich will der allerbeste sein...
+academy.alchemicalretort.desc=Stelle die Verbesserung 'Alchemical Retort' her
+academy.alchemicalretort.text=Du kannst eine Fraktionsdistille mit 'Alchemical Retort' verbessern, um ihr zu ermöglichen, Tränke zu verarbeiten. Dadurch wird ihr Effekt um 1 verstärkt, das Volumen jedoch um ein Viertel gesenkt.
 
-academy.draconicfluxcap.desc=Make a Draconic Flux Capacitor
-academy.draconicfluxcap.text=The Draconic Flux Capacitor can hold the most RF of any item by far. Unupgraded, it can hold 256,000,000 RF. At Chaotic level Flux Capacity, it can store 768,000,000 RF.
+academy.draconicfluxcap.desc=Stelle einen 'Draconic Flux Capacitor' her
+academy.draconicfluxcap.text=Der 'Draconic Flux Capacitor' kann von allen Items mit Abstand am meisten Strom speichern. Unverbessert kann er bis zu 256MRF, auf der Stufe 'Chaotic' bis zu 768MRF speichern.
 
-academy.draconicinjectors.desc=Make Draconic Fusion Crafting Injectors
-academy.draconicinjectors.text=Draconic Fusion Crafting Injectors can craft even more items.
+academy.draconicinjectors.desc=Stelle 'Draconic Fusion Crafting Injectors' her
+academy.draconicinjectors.text=Mit 'Draconic Fusion Crafting Injectors' kann man noch mehr craften.
 
-academy.draconiccrystals.title=Draconically
-academy.draconiccrystals.desc=Make Draconic Energy Crystals
-academy.draconiccrystals.text=Draconic Energy Crystals can hold 4 times more RF than Wyvern Energy Crystals.
-academy.draconiccrystals.task=Any Draconic Energy Crystals
+academy.draconiccrystals.title=Drakonisch
+academy.draconiccrystals.desc=Stelle 'Draconic Energy Crystals' her
+academy.draconiccrystals.text='Draconic Energy Crystals' 4x so viel Strom, wie 'Wyvern Energy Crystals' speichern.
+academy.draconiccrystals.task=Irgendein 'Draconic Energy Crystal'
 
-academy.draconichelm.title=The Coolest Clown Wig
-academy.draconichelm.desc=Make a Draconic Helm
-academy.draconichelm.text=The Draconic Helm has Night Vision, cures negative potion effects, prevents drowning, and allows you to mine quickly while underwater.
+academy.draconichelm.title=Die coolste Clownperrücke
+academy.draconichelm.desc=Stelle einen 'Draconic Helm' her
+academy.draconichelm.text=Der 'Draconic Helm' hat Nachtsicht, heilt negative Effekte, verhindert Ertrinken und erlaubt dir, unterwasser schneller abzubauen.
 
-academy.draconicchestplate.title=Heart of a Dragon
-academy.draconicchestplate.desc=Make a Draconic Chestplate
-academy.draconicchestplate.text=The Draconic Chestplate allows flight, quick mining in the air, and fire immunity.
+academy.draconicchestplate.title=Herz eines Drachen
+academy.draconicchestplate.desc=Stelle eine 'Draconic Chestplate' her
+academy.draconicchestplate.text=Die 'Draconic Chestplate' ermöglicht dir zu fliegen, in der Luft schnell abzubauen und Feuerimmunität.
 
-academy.draconicleggings.title=Scale Tights
-academy.draconicleggings.desc=Make Draconic Leggings
-academy.draconicleggings.text=Draconic Leggings give a configurable speed boost.
+academy.draconicleggings.title=Schuppenhose
+academy.draconicleggings.desc=Stelle 'Draconic Leggings' her
+academy.draconicleggings.text='Draconic Leggings' geben dir eine einstellbare Geschwindigkeitserhöhung.
 
-academy.draconicboots.title=Made for Walking
-academy.draconicboots.desc=Make Draconic Boots
-academy.draconicboots.text=Draconic Boots provide fall protection, a jump boost, and allow you to walk up single blocks without jumping.
+academy.draconicboots.title=Für's gehen gemacht
+academy.draconicboots.desc=Stelle 'Draconic Boots' her
+academy.draconicboots.text='Draconic Boots' verhindern Fallschaden, geben dir extra Sprungkraft und erlauben dir, einzelne Blöcke zu überwinden, ohne springen zu müssen.
 
-academy.draconicpickaxe.desc=Make a Draconic Pickaxe
-academy.draconicpickaxe.text=The Draconic Pickaxe is essentially the Pickaxe of the Wyvern, but better in every way.
+academy.draconicpickaxe.desc=Stelle eine 'Draconic Pickaxe' her
+academy.draconicpickaxe.text=Die 'Draconic Pickaxe' ist eigentlich die 'Pickaxe of the Wyvern', nur in jeglicher Hinsicht besser.
 
-academy.draconicsword.desc=Make a Draconic Sword
-academy.draconicsword.text=The Draconic Sword is essentially the Sword of the Wyvern, but better in every way.
+academy.draconicsword.desc=Stelle ein 'Draconic Sword' her
+academy.draconicsword.text=Das 'Draconic Sword' ist eigentlich das 'Sword of the Wyvern', nur in jeglicher Hinsicht besser.
 
-academy.draconicshovel.desc=Make a Draconic Shovel
-academy.draconicshovel.text=The Draconic Shovel is essentially the Shovel of the Wyvern, but better in every way.
+academy.draconicshovel.desc=Stelle eine 'Draconic Shovel' her
+academy.draconicshovel.text=Die 'Draconic Shovel' ist eigentlich die 'Shovel of the Wyvern', nur in jeglicher Hinsicht besser.
 
-academy.draconicaxe.desc=Make a Draconic Axe
-academy.draconicaxe.text=The Draconic Axe is essentially the Axe of the Wyvern, but better in every way.
+academy.draconicaxe.desc=Stelle eine 'Draconic Axe' her
+academy.draconicaxe.text=Die 'Draconic Axe' ist eigentlich die 'Axe of the Wyvern', nur in jeglicher Hinsicht besser.
 
-academy.draconicbow.desc=Make a Draconic Bow
-academy.draconicbow.text1=The Draconic Bow is essentially the Bow of the Wyvern, but better in every way.
-academy.draconicbow.text2=It also has a couple extra options. Arrows of Draconic Fire will allow it to shoot pure energy, increasing damage by 10%%. Shock Wave Power creates a shockwave that damages mobs in an area without damaging blocks.
+academy.draconicbow.desc=Stelle einen 'Draconic Bow' her
+academy.draconicbow.text1=Der 'Draconic Axe' ist eigentlich die 'Axe of the Wyvern', nur in jeglicher Hinsicht besser.
+academy.draconicbow.text2=Er hat auch einige Extraoptionen. Pfeile des Drakonischen Feuers (Arrow of Draconic Fire) erlauben dir, mit purer Energie zu schießen und damit den Schaden um 10%% zu erhöhen. 'Shock Wave Power' erzeugt eine Schockwelle, die Mobs in einem Bereich Schaden zufügt, aber keine Blöcke zerstört.
 
-academy.draconicstaff.desc=Make a Draconic Staff of Power
-academy.draconicstaff.text=The Draconic Staff of Power is the most powerful tool in the modpack. It combines the Draconic Pickaxe, Shovel, and Sword in one.
+academy.draconicstaff.desc=Stelle den 'Draconic Staff of Power' her
+academy.draconicstaff.text=Der 'Draconic Staff of Power' ist das stärkste Werkzeug in diesem Modpack. Er ist eine Kombination aus 'Draconic Sword', 'Pickaxe' und 'Shovel'.
 
 
 # Technology - Expert
 
-academy.chaosshard.desc=Defeat the Chaos Guardian
-academy.chaosshard.text1=In the End, you can find the hardest boss in the modpack at any locations where the X and Z coordinates are divisible by 10,000.
-academy.chaosshard.text2=The Chaos Guardian will require your absolute best weapons and armor. It can shred through your shields in moments, so you have to always stay moving.
-academy.chaosshard.text3=Aside from the difficulty, the fight is largely the same as the regular Ender Dragon; destroy the healing crystals and then attack the Chaos Guardian.
-academy.chaosshard.text4=Once you defeat the Chaos Guardian, dig under the center of the island and collect the Chaos Shards. This will cause the island to explode, so you should probably run away after you do so.
+academy.chaosshard.desc=Besiege den 'Chaos Guardian'
+academy.chaosshard.text1=Du kannst im End an allen Punkten, an denen die X und Z Koordinaten durch 10.000 teilbar sind, den schwersten Boss in diesem Modpack finden.
+academy.chaosshard.text2=Der 'Chaos Guardian' benötigt die beste Rüstung und die besten Waffen. Er kann deine Schilde in nur einem Moment aus der Existenz verbannen, weshalb du nie still stehen darfst.
+academy.chaosshard.text3=Mit Ausnahme der Schwierigkeit ist der Kampf dem normalen Enderdrachenkampf sehr ähnlich. Du musst die Heilkristalle zerstören und danach den Drachen angreifen.
+academy.chaosshard.text4=Nachdem du den 'Chaos Guardian' besiegt hast, grabe in der Mitte der Insel nach unten, und sammle die 'Chaos Shards' ein. Dadurch wird die Insel explodieren, also geniße deinen Sieg nicht zu lange!
 
-academy.chaosinjectors.desc=Make Chaotic Fusion Crafting Injectors
-academy.chaosinjectors.text=Chaotic Fusion Crafting Injectors are the highest tier and can craft any Fusion Crafting recipe.
+academy.chaosinjectors.desc=Stelle 'Chaotic Fusion Crafting Injectors' her
+academy.chaosinjectors.text='Chaotic Fusion Crafting Injectors' sind auf der höchsten Stufe und mit ihnen kann jedes Fusionscraftingrezept gecraftet werden.
 
-academy.draconicreactor.title=Base Cleanup
-academy.draconicreactor.desc=Set up a Draconic Reactor
-academy.draconicreactor.text1=The Draconic is the single most dangerous block in the modpack. It is the very definition of risk-reward. If you run it right you can get an insane amount of RF, but if it explodes it will destroy everything that's within 200 blocks of itself.
-academy.draconicreactor.text2=It is very complicated to run. Definitely too complicated to explain here, so read the Draconic Evolution Information Tablet to see more information.
+academy.draconicreactor.title=Frühjarhsputz
+academy.draconicreactor.desc=Baue einen 'Draconic Reactor' auf
+academy.draconicreactor.text1=Der 'Draconic Reactor' ist der Gefährlichste Bock im gesamten Modpack. Er ist der Inbegriff von 'wer nicht wagt, der nicht gewinnt'. Wenn du alles richtig machst, bekommst du unbeschreiblich viel Strom, aber wenn er explodiert wird er alles innerhalb eines 200-Block Radiuses vernichten.
+academy.draconicreactor.text2=Er ist sehr kompliziert zu betreiben. Definitiv zu kompliziert, um es hier zu beschreiben. Schau ins 'Draconic Evolution Inforamtion Tablet', um mehr Informationen zu erhalten.
 
 # Botania
-academy.lexica.title=Reading Rainbow
-academy.lexica.desc=Craft the Lexica Botania
-academy.lexica.text=The Lexica Botania is a really good guide for Botania. When you open it for the first time you have the option to go through a tutorial. We recommend going through that and using these quests to supplement it.
-academy.lexica.text2=When the Lexica Botania is in your hotbar, you can hold control while hovering over items from Botania in your inventory to see the page on that item.
+academy.lexica.title=Das Buch der Pflanzen
+academy.lexica.desc=Stelle das 'Lexica Botania' her
+academy.lexica.text=Das 'Lexica Botania' ist eigentlich ein guter Guide durch Botania. Leider ist es komplett in Englisch, weshalb du (falls du kein Englisch kannst) allein auf diese Quests vertrauen musst.
+academy.lexica.text2=Mit dem 'Lexica Botania' in deiner Schnellzugriffsleiste kannst du STRG halten, während du in deinem Inventar mit deiner Maus über Botania-Items fährst, um den Eintrag im 'Lexica Botania' dazu zu finden.
 
-academy.apothecary.title=Bird Bath
-academy.apothecary.desc=Make a Petal Apothecary
-academy.apothecary.text1=The Petal Apothecary is used to make magical flowers. Fill it with water, throw in Mystical Petals as dictated by the recipe, then throw in seeds to complete it.
-academy.apothecary.text2=You can plant Mystical Petals in the ground and grow them with Bone Meal to make Tall Mystical Flowers that can be harvested with Shears. This lets you farm Mystical Petals.
+academy.apothecary.title=Vogelbad
+academy.apothecary.desc=Stelle ein 'Petal Apothecary' her
+academy.apothecary.text1=Das 'Petal Apothecary' kann magische Blumen herstellen. Fülle es mit Wasser, wirf mystische Blumenblätter hinen (wie es das Rezept besagt) und wirf schlussendlich Weizensamen hinterher.
+academy.apothecary.text2=Du kannst mystische Blumenblätter anpflanzen und mit Knochenmehl wachsen lassen. Diese Blumen kannst du dann mit einer Schere abbauen. Auf diese Weise kannst du mystische Blütenblätter farmen.
 
-academy.pouch.desc=Make a Flower Pouch
-academy.pouch.text=The Flower Pouch will store up to a stack of each Mystical Flower. When one is picked up, it will automatically be stored in the Flower Pouch if there is room.
+academy.pouch.desc=Stelle einen 'Flower Pouch' her
+academy.pouch.text=Der 'Flower Pouch' speichert bis zu einem Stack jeder mystischen Blume. Wenn du eine aufhebst wird sie automatisch in ihm gespeichert, solange Platz ist.
 
-academy.forestwand.title=Nature Magic
-academy.forestwand.desc=Make a Wand of the Forest
-academy.forestwand.text=The Wand of the Forest is a bit of an all-in-one tool for Botania. It allows you to activate and manipulate certain blocks in the mod.
+academy.forestwand.title=Naturmagie
+academy.forestwand.desc=Stelle einen Stab des Waldes her
+academy.forestwand.text=Der Stab des Waldes ist quasi das Universalwerkzeug für Botania. Mit ihm kannst du verschiedene Botania-Blöcke aktivieren und verstellen.
 
-academy.daisy.title=Purification in Progress
-academy.daisy.desc=Make a Pure Daisy
-academy.daisy.text1=The Pure Daisy is a very important flower. It will convert Stone and Wood into Livingrock and Livingwood if they are within a 3x3 area surrounding it.
-academy.daisy.text2=Livingrock and Livingwood are used extremely often, so it would be a good idea to find a way to automate this.
+academy.daisy.title=Bereinigung in Arbeit
+academy.daisy.desc=Stelle ein Reines Gänseblümchen her
+academy.daisy.text1=Das Reine Gänseblümchen ist eine sehr wichtige Blume. Es erzeugt Lebstein aus Stein und Lebholz aus Holzstämmen, wenn diese sich in einem 3x3 Bereich um die Blume herum befinden.
+academy.daisy.text2=Lebstein und Lebholz wirst du sehr oft brauchen, weshalb eine Automatisierung keine schlechte Idee wäre.
 
 academy.mana.title=Mana Jacuzzi
-academy.mana.desc=Make a Mana Pool and Mana Spreader
-academy.mana.text1=The Mana Pool is used to store Mana created by flowers. You can bind other flowers to it so they can use the Mana it holds.
-academy.mana.text2=Place the Mana Spreader next to a source of Mana, like a Mana Pool, and point it at something else that can accept Mana using a Wand of the Forest. It will start to shoot Mana Bursts in that direction, emptying the Mana source.
-academy.mana.text3=You can also throw things into the Mana Pool to change them, either transmuting or charging them.
+academy.mana.desc=Stelle je ein Manabecken und Manaverbreiter her
+academy.mana.text1=Das Manabecken speichert Mana. Du kannst Blumen an das Manabecken binden, damit diese das gespeicherte Mana nutzen können.
+academy.mana.text2=Platziere einen Manaverbreiter neben eine Manaquelle, wie einen Manapool, und lass ihn auf etwas zeigen, das Mana annehmen kann, indem du den Stab des Waldes nutzt. Der Manaverbreiter wird dann beginnen Manasträhle in diese Richtung zu schießen, die Manaquelle wird dabei geleert.
+academy.mana.text3=Du kannst auch Items in das Manabecken werfen, um sie entweder zu laden oder zu verwandeln.
 
-academy.manaitems.title=Just Stick "Mana" in Front of It!
-academy.manaitems.desc=Make Manasteel, a Mana Pearl, and a Mana Diamond
-academy.manaitems.text=Manasteel, Mana Diamonds, and Mana Pearls are used in a lot of crafting recipes.
+academy.manaitems.title=Häng' einfach 'Mana' vorne dran!
+academy.manaitems.desc=Stelle Manastahl, Manaperlen und Manadiamanten her
+academy.manaitems.text=Manastahl, Manadiamanten udn Manaperlen werden oft für Rezepte benötigt.
 
-academy.manatablet.title=Mana Battery
-academy.manatablet.desc=Make a Mana Tablet
-academy.manatablet.text1=The Mana Tablet can be used to carry around Mana without a Mana Spreader, and also fuels any items in your inventory that need Mana.
-academy.manatablet.text2=To charge or discharge a Mana Tablet, throw it on a Mana Pool. Activate the Pool with a Wand of the Forest to switch between emptying and filling.
+academy.manatablet.title=Manabatterie
+academy.manatablet.desc=Stelle ein Manatablett her
+academy.manatablet.text1=Das Manatablett ermöglicht dir, Mana ohne Manaverteiler zu transportieren und betreibt auch Items in deinem Inventar, die Mana benötigen.
+academy.manatablet.text2=Um ein Manatablett zu laden oder entladen, wirf es in ein Manabecken. Rechtsklicke das Becken mit einem Stab des Waldes, um zwischen füllen und leeren zu wechseln.
 
-academy.halo.title=Manafactory Halo
-academy.halo.desc=Make a Manufacturing Halo
-academy.halo.text1=The Manufacturing Halo will automatically craft recipes that are set using items in your inventory.
-academy.halo.text2=Hold the Manufacturing Halo in your hand to see the interface appear. You can use the Crafting Table like you would normally, and you can click any of the other segments to set the Halo to automatically craft that recipe.
+academy.halo.title=Manafabriksring
+academy.halo.desc=Stelle einen 'Manufacturing Halo' her
+academy.halo.text1=Der 'Manufacturing Halo' craftet automatisch eingestellte Rezepte mit den Items in deinem Inventar.
+academy.halo.text2=Halte den 'Manufacturing Halo' in deiner Hand, um ein Menü zu sehen. Du kannst kannst die Werkbank wie normal benutzen und zusätzlich Rezepte für die Automatisierung einspeichern.
 
-academy.alchemcat.title=The Law of Equivalent Exchange
-academy.alchemcat.desc=Make an Alchemy Catalyst
-academy.alchemcat.text1=The Alchemy Catalyst is placed under a Mana Pool to change its functionality.
-academy.alchemcat.text2=It adds new recipes to the Mana Pool, so you can throw in an item to get a different item out. Hit U on the Alchemy Catalyst to see all of its recipes.
+academy.alchemcat.title=Das Energieerhaltungsgesetz
+academy.alchemcat.desc=Stelle einen Alchemiekatalysator her
+academy.alchemcat.text1=Der Alchemiekatalysator verändert die Funktionalität des Manabeckens, wenn er unter einem platziert wird.
+academy.alchemcat.text2=Er fügt dem Manabecken neue Rezepte hinzu, mit denen du ein Item in das Becken werfen kanns, um ein anderes herauszubekommen. Drücke 'U' auf einem Alchemiekatalysator, um alle Rezepte zu sehen.
 
-academy.endoflame.title=Smells like Burning
-academy.endoflame.desc=Make an Endoflame
-academy.endoflame.text1=The Endoflame will burn any furnace fuel dropped on the ground nearby and convert it into Mana and put it into a nearby Mana Spreader.
-academy.endoflame.text2=This is a very good early-game source of Mana that works better the more you have, and is very easily automatable.
+academy.endoflame.title=Riecht verbrannt
+academy.endoflame.desc=Stelle eine Endoflamme her
+academy.endoflame.text1=Die Endoflamme erzeugt Mana aus festen Brennstoffen. Dieses Mana wird an den nächsten Manaverbreiter weitergegeben.
+academy.endoflame.text2=Diese Blume ist für den Anfang sehr gut, da sie besser ist, wenn du mehr hast und sie leicht zu automatisieren ist.
 
-academy.runicaltar.title=从卂厶工匚 丂丫从乃口乚丂
-academy.runicaltar.desc=Make a Runic Altar
-academy.runicaltar.text1=The Runic Altar is used to create Runes, as the name implies. Throw the items on top of it according to the recipe and provide it with Mana from a Mana Spreader.
-academy.runicaltar.text2=Once it's full of Mana, throw a Livingrock on it and activate it with a Wand of the Forest to complete the craft.
+academy.runicaltar.title=从卂厶工丂匚北彐 丂丫从乃口乚彐
+academy.runicaltar.desc=Stelle einen Runenaltar her
+academy.runicaltar.text1=Wie der Name es schon sagt, kannst du mit dem Runenaltar Runen herstellen. Wirf die laut dem Rezept benötigten Items oben auf den Altar und versorge ihn mit Mana.
+academy.runicaltar.text2=Sobald der Altar mit Mana aufgeladen ist, wirf einen Lebstein oben auf ihn und rechtsklicke den Altar mit einem Stab des Waldes.
 
-academy.soujourner.title=Beauty Queen on Tour
-academy.soujourner.desc=Make a Soujourner's Sash
-academy.soujourner.text=The Soujourner's Sash, when worn in the Belt bauble slot and provided with Mana, will vastly increase the agility of the wearer.
+academy.soujourner.title=Schönheitskönigin auf Reisen
+academy.soujourner.desc=Stelle eine Schärpe des Reisenden her
+academy.soujourner.text=Die Schärpe des Reisen gewährt dem Träger mehr Agilität, wenn sie im Bauble-Platz für Gürtel getragen wird und mit Mana versorgt wird.
 
-academy.lens.title=Mana Glasses
-academy.lens.desc=Make a Mana Lens
-academy.lens.text=Mana Lenses are applied to Mana Spreaders to change how they work. They can do things like make Mana Bursts faster or hold more Mana, or make it so they explode when they hit a block.
+academy.lens.title=Manabrille
+academy.lens.desc=Stelle eine Manalinse her
+academy.lens.text=Manalinsen verändern die Funktionalität von Manaverteilern. Sie können zum Beispiel Manasträhle beschleunigen oder sie so verstärken, dass sie explodieren, wenn sie einen Block treffen.
 
-academy.botaniamagnet.title=Magnetic Personality
-academy.botaniamagnet.desc=Make a Ring of Magnetization
-academy.botaniamagnet.text=While worn in the Bauble slots, the Ring of Magnetization will draw dropped items towards the player.
+academy.botaniamagnet.title=Anziehende Persönlichkeit
+academy.botaniamagnet.desc=Stelle einen Ring des Magnetismus her
+academy.botaniamagnet.text=Während dieser Ring im passenden Baubles-Platz getragen wird, zieht er herumliegende Items zum Spieler.
 
-academy.botaniarods.title=Magic Wand
-academy.botaniarods.desc=Make any Rod
-academy.botaniarods.text=Rods allow you to use Mana from your inventory to perform certain actions, such as placing Cobblestone or Dirt, flying through the air, or smelt blocks.
+academy.botaniarods.title=Zauberstab
+academy.botaniarods.desc=Stelle einen Stab (Rod) her
+academy.botaniarods.text=Stäbe erlauben dir, Mana aus deinem Inventar in verschiedene Aktionen, wie z.B. Blöcke platzieren, durch die Luft zu fliegen oder Blöcke zu schmelzen, umzuwandeln.
 
-academy.terrasteel.title=Dancing Lights
-academy.terrasteel.desc=Make some Terrasteel
-academy.terrasteel.text1=The Terrestrial Agglomeration Plate is where you make Terrasteel.
-academy.terrasteel.text2=Throw a Manasteel Ingot, a Mana Diamond, and a Mana Pearl on the Plate and give it a couple metric butt-tons of Mana from a Mana Pool connected with Sparks.
-academy.terrasteel.text3=Some lights will dance around for a bit before converging on the items, turning them into a single Terrasteel Ingot.
+academy.terrasteel.title=Tanzende Lichter
+academy.terrasteel.desc=Stelle etwas Terrastahl her
+academy.terrasteel.text1=Mit 'Terrestrial Agglomeration Plate' stellst du Terrastahl her.
+academy.terrasteel.text2=Wirf einen Manastahlbarren, einen Manadiamant und eine Manaperele auf die Platte und gib ihr ein paar tausend Hektoliter an Mana mit Sparks, die zu einem Manabecken verbunden sind.
+academy.terrasteel.text3=Ein paar Lichter werden um die Platte herumtanzen bis die Items in einen einzigen Terrastahlbarren verwandelt werden.
 
 academy.elven.title=Link Start!
-academy.elven.desc=Make a portal to Alfheim
-academy.elven.text1=The portal to Alfheim is a multiblock that allows you to trade with elves (it's essentially another crafting mechanic). Throw an item into it and they'll throw the elven version back out.
-academy.elven.text2=The Lexica Botania has a building guide for the portal.
+academy.elven.desc=Baue ein Portal nach Alfheim
+academy.elven.text1=Das Portal nach Alfheim ist eine Struktur, die dir erlaubt, mit Elfen zu handeln (also einfach ein anderer Weg, zu craften). Wirf ein Item in das Portal und du bekommst die elfische Version zurück.
+academy.elven.text2=Das 'Lexica Botania' enthält informationen, wie das Portal aufzubauen ist.
 
-academy.laputa.title=Castle in the Sky
-academy.laputa.desc=Make a max size Shard of Laputa
-academy.laputa.text1=The Shard of Laputa will take blocks on the ground and move them up in the air, giving you a really cool floating island!
-academy.laputa.text2=The higher tiers create bigger islands.
+academy.laputa.title=Schloss der Lüfte
+academy.laputa.desc=Stelle den besten 'Shard of Laputa' her
+academy.laputa.text1=Der 'Shard of Laputa' nimmt Blöcke aus dem Boden und bewegt sie in die Luft. Dabei entsteht eine echt coole fliegende Insel!
+academy.laputa.text2=Je höher die Stufe, desto Größer die Insel.
 
-academy.flugel.title=It's Called an Umlaut
-academy.flugel.desc=Make a Flügal Tiara
+academy.flugel.title=Ein Umlaut im Englischen
+academy.flugel.desc=Stelle Flügel Tiara her
 academy.flugel.text=The Flügel Tiara allows you to fly for a period of time. When you're wearing one, you can see the time remaining above your hunger bar.
 academy.flugel.text2=You can also sprint in the air to dart forward. This has a cooldown.
 academy.flugel.text3=There are several different kinds of Flügal Tiara that you can make that allow you to change the way it looks.
@@ -1474,7 +1627,7 @@ academy.fosicresonator.text2=Explore the land at night while holding a Fosic Res
 
 academy.spectralrelay.title=Starlight Boost
 academy.spectralrelay.desc=Make a Spectral Relay
-academy.spectralrelay.text1=If you are unable to find the perfect spot, you can use Spectral Relays to give a boost to Starlight. Build the multiblock near the the structure you want to give Starlight to and it will boost it.
+academy.spectralrelay.text1=If you are unable to find the perfect spot, you can use Spectral Relays to give a boost to Starlight. Build the multiblock near the the structure you want to give Starlight to and place a Glass Lens inside, and it will boost it.
 academy.spectralrelay.text2=If Spectral Relays are within 16 blocks of each other, they will lose a lot of efficiency.
 
 academy.illuminationpowder.title=Night Light
@@ -1510,7 +1663,8 @@ academy.linkingtool.text2=Some blocks are changed into other blocks when connect
 
 academy.starmetal.title=Rock Star
 academy.starmetal.desc=Make Starmetal
-academy.starmetal.text=If you link a Floating Crystal to Iron Ore, it gets turned into Starmetal Ore.
+academy.starmetal.text1=If you link a Floating Crystal to Iron Ore, it gets turned into Starmetal Ore.
+academy.starmetal.text2=If using a Floating Crystal from an underground Ancient Shrine, dig a hole directly above it so it can see the night sky.
 
 academy.astralsorcerylens.title=Starlight Redirection Lens
 academy.astralsorcerylens.desc=Make a Lens
@@ -1642,6 +1796,16 @@ academy.fysallidic.text=The Fysallidic Prime will suck up all mobs beneath it in
 
 #Miscellaneous
 
+academy.fontunfucker.title=Fixing Fonts
+academy.fontunfucker.desc=Learn how to change the font
+academy.fontunfucker.text1=FTB Academy includes the mod Smooth Font, which makes Minecraft's font much clearer. However, it also changes the default font to Verdana which some people might not like.
+academy.fontunfucker.text2=By default, the HOME key will open the Smooth Font menu, where you can change all the font settings you want. You can also easily reset it to the default font there.
+
+academy.tesslocatorbad.title=RF Transfer Over Distance
+academy.tesslocatorbad.desc=Learn how to transfer RF over large distances without Tesslocators
+academy.tesslocatorbad.text1=Advanced Energy Tesslocators are fairly confusing to use, and aren't in a lot of modpacks. 
+academy.tesslocatorbad.text2=Click this Guide link to learn how to move RF over large distances without using them.
+
 academy.instrumentalmobs.title=Let's Make a Band
 academy.instrumentalmobs.desc=Get any instrument from Instrumental Mobs
 academy.instrumentalmobs.text=Instrumental Mobs adds versions of most vanilla monsters, but instead of killing you they play you music! Their instruments will push you back, but won't damage you. Killing them will have a small chance of dropping their instruments.
@@ -1649,7 +1813,7 @@ academy.instrumentalmobs.task=Anything from Instrumental Mobs
 
 academy.claimexplosions.title=Fizz Goes the Dynamite
 academy.claimexplosions.desc=Get a Creeper to explode in your claimed chunks
-academy.claimexplosions.text1=While in claimed chunks, explosions from Creepers will be completely disabled. They can still deal damage to you, but they won't break any blocks.
+academy.claimexplosions.text1=While in claimed chunks, explosions will be completely disabled. They can still deal damage to you, but they won't break any blocks. This applies to TNT as well.
 academy.claimexplosions.text2=This also prevents the Wither from damaging blocks with its explosions, but it does not stop it from breaking blocks around itself when taking damage.
 
 academy.elevator.title=Going Up
@@ -1677,6 +1841,13 @@ academy.wateringcan.title=Not Watering Can't
 academy.wateringcan.desc=Make a Watering Can
 academy.wateringcan.text1=Watering Cans speed up plant growth in an area when used, which takes Water. You can fill the Watering Can up by sneak right clicking on a Water source block.
 academy.wateringcan.text2=Higher tier Watering Cans can store more water, have a higher maximum area, and have a higher chance of growing plants.
+
+academy.mguspawnegg.title=Kind of Horrifying Actually
+academy.mguspawnegg.desc=Use a Mob Swab to get a Mob Spawn Egg
+academy.mguspawnegg.text1=You can use Mob Grinding Utilities to get Mob Spawn Eggs. This is especially useful for using on Mob Spawners, to set them to spawn that mob.
+academy.mguspawnegg.text2=To begin, right click a Mob Swab on any mob to get its DNA. Then, craft it into GM Chicken Feed and feed that to a Chicken. The Chicken will then lay a Mob Spawn Egg using the DNA.
+academy.mguspawnegg.text3=This kills the Chicken.
+academy.mguspawnegg.task=Any Mob Spawn Egg
 
 academy.slimechannel.title=Gelatinous
 academy.slimechannel.desc=Make a Slime Channel
