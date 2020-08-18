@@ -1837,7 +1837,8 @@ academy.celestialcrystal.text1=천상 수정(Celestial Crystal)은 일반 암수
 academy.celestialcrystal.text2=천상 수정을 만드려면 액상 별빛에 암수정을 담굴 때 추가로 스타더스트(stardust)를 넣고 기다리면 됩니다. 액상 별빛이 사라지고 그자리에 천상 수정 뭉치가 생성됩니다. 자라나는데에는 시간이 좀 걸리며, 흰색의 입자들이 퍼져나오면 곡괭이로 캐서 수확할 수 있습니다.
 
 academy.sextant2.desc=더욱 개선된 육분의를 만드세요
-academy.sextant2.text=개선된 육분의는 모드 내의 구조물뿐만 아니라 마을, 네더 포트리스 등의 바닐라 마인크래프트의 구조물이나 지형또한 보여줍니다.
+academy.sextant2.text1=개선된 육분의는 모드 내의 구조물뿐만 아니라 마을, 네더 포트리스 등의 바닐라 마인크래프트의 구조물이나 지형또한 보여줍니다.
+academy.sextant2.text2=하지만, 아쉽게도 퀘스트 시스템에서 아스트랄 소서리 아이템의 NBT를 읽어내는 일이 불가능해 개선된 육분의를 만들었는지 체크할 방법이 없습니다. 그래서 대신 그냥 체크마크를 누르시면 퀘스트가 완료되도록 만들었습니다.
 academy.sextant2.task=개선된 육분의
 
 # academy.ritualanchor.title=Remote Ritual
@@ -1894,7 +1895,8 @@ academy.mantleofthestars.text2=망토는 특이하게도 조율 제단이 아닌
 # 해리포터 지팡이 재료
 academy.attunedreswands.title=서양호랑가시나무와 불사조 깃털, 28센티미터
 academy.attunedreswands.desc=조율된 공명 완드를 만드세요
-academy.attunedreswands.text=별자리로 공명 완드를 조율하면 공기중을 걸어다닌다거나, 바라보는 방향으로 질주하거나, 공격할수록 추가 피해를 주는 등의 특별한 효과들을 부여할 수 있습니다.
+academy.attunedreswands.text1=별자리로 공명 완드를 조율하면 공기중을 걸어다닌다거나, 바라보는 방향으로 질주하거나, 공격할수록 추가 피해를 주는 등의 특별한 효과들을 부여할 수 있습니다.
+academy.attunedreswands.text2=아쉽지만, 퀘스트 시스템의 이상으로 인해 오직 Aevitas로 조율된 완드만이 퀘스트를 클리어할 수 있습니다. 사과합니다!
 academy.attunedreswands.task=아무 조율된 공명 완드
 
 academy.evershiftingfountain.desc=항시변화 분수대를 만드세요
@@ -2181,4 +2183,9 @@ academy.overlay.botania.8.5=숲의 지팡이를 들고 마나 웅덩이를 웅�
 academy.overlay.botania.9=마나 웅덩이에 철 주괴를 떨어뜨려 마나합금 주괴를 만드세요
 academy.overlay.botania.10=마나합금 주괴를 요정의 게이트에 떨어뜨려 엘레멘티움 주괴를 만드세요
 
+# Fixes broken TheOneProbe name in school
 tile.manaFlame.name=Mana Flash
+
+# This perk is broken when VanillaFixes is installed, and we aren't removing that. This will make it so hovering over it will show that it doesn't work.
+perk.astralsorcery.key_step_assist.name=하이킹 부츠 (작동하지 않음)
+perk.astralsorcery.key_step_assist.desc=오류로 이 퍽은 작동하지 않습니다. 미안해요 :( -아카데미 제작자 일동
