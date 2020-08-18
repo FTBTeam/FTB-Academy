@@ -55,6 +55,8 @@ academy.elevators.rewards=엘리베이터
 academy.meats.rewards=꼬기
 academy.rangeaddons.rewards=범위 에드온
 academy.drillaugments.rewards=드릴 업그레이드
+academy.coins.rewards=동전들
+academy.jetpacktrails.rewards=제트팩 시리즈
 
 academy.swordenchants1.rewards=검 인첸트1
 academy.looting1.reward=약탈 II
@@ -132,6 +134,7 @@ academy.pinklens.reward=재생
 academy.bluelens.reward=밀쳐내기
 academy.purplelens.reward=스펙트럼
 
+academy.monsterspawneggs.rewards=몬스터 스폰알
 
 #Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
 
@@ -291,10 +294,10 @@ academy.introbotania.task=보타니아 교실로 이동하기
 
 academy.intromanagen.title=마나 생산
 academy.intromanagen.desc=불먹이 꽃을 만드세요
-academy.intromanagen.text1=꽃잎 연금술기에서는 마법 꽃들을 제작할 수 있습니다. 물을 채우고, 알맞은 재료를 던저넣은 후, 마지막으로 씨앗을 던저넣어 불먹이 꽃(Endoflame)을 만들어봅시다.
+academy.intromanagen.text1=꽃잎 연금술기에서는 마법 꽃들을 제작할 수 있습니다. 물을 채우고, 알맞은 재료를 던져 넣은 후, 마지막으로 씨앗을 던져 넣어 불먹이 꽃(Endoflame)을 만들어봅시다.
 academy.intromanagen.text2=만약 아이템을 잘못 넣었다면 웅크린채로 우클릭해 마지막에 넣었던 아이템을 빼낼 수 있습니다.
 academy.intromanagen.text3=불먹이 꽃은 주변에 떨어진 아이템을 불태워 마나를 생산합니다. 주변에 마나 공급기가 있다면 자동으로 마나가 공급기로 이동합니다.
-academy.intromanagen.text4=불먹이 꽃을 만들었다면, 가장 밝은 잔디 위에 심어보세요. 그 후 석탄을 던져주면 마나를 생산하기 시작할겁니다.
+academy.intromanagen.text4=불먹이 꽃을 만들었다면, 가장 밝은 잔디 위에 심어보세요. 그 후 석탄을 던져 주면 마나를 생산하기 시작할겁니다.
 
 academy.intromanatransfer.title=마나의 운송과 저장
 academy.intromanatransfer.desc=마나를 마나 웅덩이에 저장하세요
@@ -305,13 +308,13 @@ academy.intromanatransfer.task=마나 웅덩이 채우기
 
 academy.intromanasteel.title=마나로 아이템 만들기
 academy.intromanasteel.desc=마나합금 주과를 만드세요
-academy.intromanasteel.text1=어떤 아이템들은 마나 웅덩이에 던저넣어 마나를 주입시킬 수 있습니다. 당연히 마나가 소모됩니다.
-academy.intromanasteel.text2=철 주괴를 웅덩이에 던저넣어 마나합금 주괴를 만들어봅시다.
+academy.intromanasteel.text1=어떤 아이템들은 마나 웅덩이에 던져 넣어 마나를 주입시킬 수 있습니다. 당연히 마나가 소모됩니다.
+academy.intromanasteel.text2=철 주괴를 웅덩이에 던져 넣어 마나합금 주괴를 만들어봅시다.
 
 academy.introelementium.title=엘프와의 거래
 academy.introelementium.desc=엘레멘티움 주괴를 만드세요
 academy.introelementium.text1=모드를 플레이하다보면 Alfheim으로 가는 포탈을 만들 수 있을 겁니다. 그 세계로 이동할수는 없지만, 마나 웅덩이처럼 아이템을 만드는데 사용할 수 있습니다.
-academy.introelementium.text2=해당되는 아이템들을 포탈에 던저넣으면, 엘프들이 그에 상응하는 보상을 줄 것입니다. 하지만 조합법에 없는 아이템을 던저넣는다면 아무것도 주지 않으니 조심하세요!
+academy.introelementium.text2=해당되는 아이템들을 포탈에 던져 넣으면, 엘프들이 그에 상응하는 보상을 줄 것입니다. 하지만 조합법에 없는 아이템을 던져 넣는다면 아무것도 주지 않으니 조심하세요!
 
 academy.introfinish.title=졸업이다!
 academy.introfinish.desc=오버월드로 가세요
@@ -341,6 +344,15 @@ academy.smeltery.title=화끈한 화제
 academy.smeltery.desc=용광로를 만드세요
 academy.smeltery.text1=용광로는 광물을 녹여 금속 부품, 블록, 주괴 등을 만들 수 있습니다.
 academy.smeltery.text2=보상으로 드리는 유리까지 합하면 총 27개의 블록을 한번에 녹일 수 있는 용광로를 만들 수 있습니다. 18개의 그을린 벽돌이 모두 인벤토리에 있어야만 퀘스트가 완료됩니다.
+
+academy.ticoncasts.title=Molten Metal Manipulation
+academy.ticoncasts.desc=금형을 종류별로 하나씩 만드세요
+academy.ticoncasts.text1=이제 용광로가 생기셨으니, 녹인 금속을 사용할 곳이 있어야겠죠.
+academy.ticoncasts.text2=금속 도구 부품은 금형에 녹은 금속을 부어 만들 수 있습니다. 금형은 아무 재료로 만들어진 부품에 녹은 점토나 금을 부어서 만들 수 있습니다.
+academy.ticoncasts.text3=점토 금형은 더 싸지만 한번밖에 사용하지 못합니다. 부품을 한두개만 만들 생각이라면 이만한 방법이 없죠.
+academy.ticoncasts.text4=금(또는 알루미늄황동) 금형은 비싸기는 하지만, 절대 부서질 일이 없습니다. 주괴 금형을 이걸로 만들면 유용하겠네요.
+academy.ticoncasts.task1=아무 점토 금형
+academy.ticoncasts.task2=아무 일반 금형
 
 academy.pickaxe.title=광질할 시간!
 academy.pickaxe.desc=팅커스 컨스트럭트 모드의 곡괭이를 만드세요
@@ -432,6 +444,20 @@ academy.storagedrawers.text1=Basic Drawer는 한 종류의 아이템을 32스택
 academy.storagedrawers.text2=가이드의 storage챕터에 Storage Drawers모드에 대한 더 자세한 설명이 있습니다.
 academy.storagedrawers.task=아무 드로워
 
+academy.drawerstorageupgrade.title=대용량 저장소
+academy.drawerstorageupgrade.desc=아무 Storage Upgrade나 만드세요
+academy.drawerstorageupgrade.task=아무 Storage Upgrade
+academy.drawerstorageupgrade.text1=Storage Upgrade들은 드로워의 용량을 늘려줍니다. 툴팁에서 얼마만큼 용량을 늘려주는지를 확인할 수 있습니다.
+academy.drawerstorageupgrade.text2=상위 등급의 업그레이드를 적용시키기 위해 하위 등급 업그레이드를 적용시키지 않아도 됩니다. 
+You don't need the previous tiers to be installed; you can have 7 max tier Storage Upgrades which allows you to store up to 7168 stacks per slot.
+
+# Todo: titie 적절히 번역하기
+# academy.drawervoidupgrade.title=Too Much of a Good Thing
+# 뭐든 많으면 독이됨 같은 느낌으로 번역하기
+academy.drawervoidupgrade.title=Too Much of a Good Thing
+academy.drawervoidupgrade.desc=Void Upgrade를 만드세요
+academy.drawervoidupgrade.text=Void Upgrade를 장착한 드로워가 가득 차면, 새로 드로워에 넣는 아이템들은 사라집니다. 저장되는 양보다는 드로워가 꽉 차서 아이템이 걸리는 등의 문제가 더 중요한 조약돌같은 아이템을 보관할 때 유용하겠네요.
+
 academy.drawercontroller.title=원격 접속
 academy.drawercontroller.desc=Drawer Controller를 만드세요
 academy.drawercontroller.text1=Drawer Controller를 사용하면 호퍼나 파이프 등의 운송 수단이 컨트롤러와 연결된 모든 드로워에 접근할 수 있습니다.
@@ -452,7 +478,7 @@ academy.chestupgrade.title=더 많은 저장공간
 academy.chestupgrade.desc="철 상자를 금 상자로 업그레이드" 아이템을 만드세요
 academy.chestupgrade.text=상자 업그레이드를 이용하면 상자를 부수지 않고도 상자를 업그레이드할 수 있습니다. 알맞은 상자에 오른쪽 클릭하면 적용됩니다.
 
-academy.endertank.title=방수기능 포함
+academy.endertank.title=액체용 포탈
 academy.endertank.desc=엔더 탱크를 만드세요
 academy.endertank.text1=엔더 탱크는 같은 색 조합을 가지는 다른 엔더 탱크와 연결되어 내용물을 공유합니다. 상단의 흰부분에 염료를 사용해 색 조합을 변경할 수 있습니다.
 academy.endertank.text2=다이아몬드를 들고 엔더 탱크의 밸브를 우클릭하면 개인용 엔더 탱크가 됩니다. 개인용 엔더 탱크는 자신의 다른 개인용 엔더 탱크들에만 연결됩니다.
@@ -471,6 +497,11 @@ academy.enderpouch.title=Bag of Holding
 academy.enderpouch.desc=엔더 파우치를 만드세요
 academy.enderpouch.text1=엔더 파우치는 같은 색 조합을 가지는 다른 엔더 체스트들과 연결되어 내용물을 공유합니다. 엔더 파우치를 엔더 체스트에 웅크린 채로 우클릭해 해당 엔더 체스트의 색 조합으로 변경합니다.
 academy.enderpouch.text2=엔더 체스트는 집에 놓고 다른 창고로 아이템을 수송하도록 만들어놓고 엔더 파우치를 들고다니면 인벤토리가 꽉 찰때마다 집으로 복귀하지 않아도 되겠죠?
+
+academy.portabletank.title=초간단 액체 저장소
+academy.portabletank.desc=휴대용 탱크를 만드세요
+academy.portabletank.text1=휴대용 탱크는 액체를 저장하는 가장 쉬운 방법입니다. 액체가 든 양동이로 우클릭해 액체를 저장할 수 있고, 빈 양동이로 우클릭해 액체를 빼낼 수 있습니다.
+academy.portabletank.text2=휴대용 탱크는 5등급으로 나뉘며, 20양동이에서 500양동이만큼의 액체를 저장할 수 있습니다. 업그레이드 키트를 사용해 업그레이드가 가능하고, 보유 인챈트를 부여하면 최대 3배까지 용량을 늘릴 수 있습니다.
 
 academy.blackholeunit.title=초거대 블랙홀
 academy.blackholeunit.desc=블랙홀 유닛을 만드세요
@@ -544,6 +575,14 @@ academy.itemducts.text1=아이템덕트는 연결된 길을 따라 모든 방향
 academy.itemducts.text2=불투명한 아이템덕트는 안의 아이템이 어떻게 움직이는지 볼 수는 없지만 랙을 방지하는데 도움이 될 수 있습니다.
 academy.itemducts.task=아이템덕트
 
+academy.densevacuum.title=우선순위 배송
+academy.densevacuum.desc=압축/단축 아이템덕트를 만드세요
+academy.densevacuum.text1=서보를 통해 끌려나온 아이템은 기본적으로는 가장 가까운 목적지로 이동합니다. 다른 말로 하면 가장 짧은 이동거리로 움직이려고 한다는 의미죠(아이템덕트 한칸당 해당 경로에 이동거리가 1씩 늘어납니다).
+academy.densevacuum.text2=압축 아이템덕트는 해당 경로에 이동거리를 1000씩 추가합니다. 이정도면 당연히 우선순위에서 밀리겠죠.
+academy.densevacuum.text3=단축 아이템덕트는 해당 경로에 이동거리를 1000씩 제거하여, 대부분의 경우에 해당 경로를 가장 높은 우선순위로 만들 수 있습니다.
+academy.densevacuum.task1=아무 압축 아이템덕트
+academy.densevacuum.task2=아무 단축 아이템덕트
+
 academy.basicfluiducts.title=덕트(물용)
 academy.basicfluiducts.desc=플루이덕트를 만드세요
 academy.basicfluiducts.text1=플루이덕트는 액체를 운송할때 사용됩니다. 일반 플루이덕트로 너무 뜨겁거나 차가운 액체를 운송하다가는 덕트가 터져버리고 말 겁니다(용암이나 혹한의 크라이오시움 등).
@@ -567,7 +606,6 @@ academy.signalumfluiduct.desc=전도 플루이덕트를 만드세요
 academy.signalumfluiduct.text=전도 플루이덕트는 이름 그대로 액체와 전기를 동시에 운송할 수 있습니다. 최대 4000 RF/t만큼의 에너지를 전송할 수 있습니다.
 academy.signalumfluiduct.task=전도 플루이덕트
 
-# Todo: 노래 제목 적절하게 번역하기
 # queen의 노래 Under Pressure
 academy.laminar.title=Under Pressure
 academy.laminar.desc=초층류 플루이덕트를 만드세요
@@ -663,7 +701,7 @@ academy.phantomface.desc=환상 전송기를 만드세요
 academy.phantomface.text1=환상 전송기는 연결된 블록의 저장공간에 접근할 수 있어서 환상 전송기를 통해 아이템을 집어넣거나 빼낼 수 있습니다.
 academy.phantomface.text2=환상 전송기를 연결하고싶은 블록의 16칸 이내에 설치하세요. 환영 연결장치를 해당 블록과 환상 전송기에 우클릭하면 두 블록이 연결됩니다.
 
-academy.phantombooster.title=부스터
+academy.phantombooster.title=부! 스터
 academy.phantombooster.desc=환상 강화장치를 만드세요
 academy.phantombooster.text=환상 전송기 위에 환상 강화장치를 최대 3개까지 쌓아올려 연결 범위를 늘릴 수 있습니다.
 
@@ -737,6 +775,19 @@ academy.extstorage.desc=외부 저장 포트를 만드세요
 academy.extstorage.text1=저장소와 다른 저장장치를 외부 저장포트로 연결하면 저장소에서 연결된 블록의 아이템들을 컨트롤할 수 있습니다.
 academy.extstorage.text2=만약 외부 저장 포트의 우선순위가 디스크 드라이브등의 다른 저장장치보다 높다면 아이템은 자동으로 해당 저장장치에 저장되려 할 것입니다.
 
+academy.rsdetector.title=재고 관리
+academy.rsdetector.desc=감지기를 만드세요
+academy.rsdetector.text1=감지기는 저장소 내부의 아이템/액체의 양에 따라 설정된 조건이 맞을 때 레드스톤 신호를 보냅니다.
+academy.rsdetector.text2=아이템이나 액체를 등록하고 양을 설정하세요. 이후 저장소 내부에 아이템이 수량보다 적거나, 많거나, 정확히 일치할 때 레드스톤 신호를 보내도록 설정하세요.
+academy.rsdetector.text3=출력 포트와 함께 사용하면 항상 일정 수량 이상의 아이템이 저장소에 남아있도록 조절할 수 있습니다. 예를 들어, 마그마 도가니로 레드스톤 신호가 전송되게 한 후 도가니의 레드스톤 조절을 높음으로 설정한 후 김자기를 불안정한 레드스톤이 50양동이 이하로 저장되있을 때만 신호를 보내도록 설정하세요. 그러면 저장소에 불안정한 레드스톤이 50양동이만큼 계속 유지될 것입니다.
+
+# 번역하지 않고 그대로 납두는게 좋을 듯
+academy.rsinterface.title=I+O
+academy.rsinterface.desc=인터페이스를 만드세요
+academy.rsinterface.text1=인터페이스는 입력 포트와 출력 포트를 합쳐놓은것처럼 동작합니다.
+academy.rsinterface.text2=인터페이스로 들어간 아이템들은 자동으로 저장소에 저장됩니다. 속도 업그레이드를 장착해 아이템 전송 속도를 높일 수 있습니다.
+academy.rsinterface.text3="인터페이스 출력" 슬롯에 아이템을 등록할 수 있으며, 그 아래 슬롯으로 해당 아이템이 설정된 개수만큼 저장소에서 빠져나옵니다. 아무 파이프나 연결해 이 아이템을 빼낼 수 있습니다.
+
 
 # Refined Storage - Advanced
 
@@ -749,6 +800,7 @@ academy.patterngrid.text4=광물 사전 기능을 이용하려면(아무 나무�
 academy.crafter.desc=조합기를 만드세요
 academy.crafter.text1=조합기에 조합법이 작성된 패턴을 넣으면 그리드에서 해당 아이템을 제작하라고 명령할 수 있습니다.
 academy.crafter.text2=조합기가 기계를 바라보도록 한다면(화로같은) 해당 기계를 사용하여 아이템을 제작할 것입니다. 기계를 사용하는 조합법의 경우 기계에서 제작된 아이템/액체을 입력 포트를 통해 저장소에 집어넣어야 조합이 완료됬다고 인식합니다.
+academy.crafter.text3= 조합기가 다른 조합기를 바라볼 때는 마지막 조합기가 바라보는 대상(기계나 허공)에 따라 기능이 결정됩니다. 아래 링크를 눌러 가이드에서 더 자세한 내용을 확인하세요.
 
 academy.craftmanager.desc=Crafter Manager를 만드세요
 academy.craftmanager.text1=Crafter Manager는 시스템과 연결된 모든 조합기를 한번에 관리할 수 있게 해줍니다.
@@ -800,7 +852,34 @@ academy.coalgen.desc=연료 발전기를 만드세요
 academy.coalgen.text1=연료 발전기(Coal generator)는 석탄같이 화로에 쓰이는 연료들로 RF를 생산합니다.
 academy.coalgen.text2=석탄 하나당 48,000 RF를 생산합니다.
 
-academy.pitifulgen.title=안습
+academy.canola1.title=100%% 유기농
+academy.canola1.desc=유채 발전 시스템을 준비하세요.
+academy.canola1.text1=카놀라유(Canola Oil)로 쉽고 재생 가능한 에너지를 생산할 수 있습니다!
+academy.canola1.text2=카놀라유은 4개의 등급이 있고, 제일 낮은 등급은 80,000 RF를, 가장 높은 등급은 700,000 RF를 생산합니다.
+academy.canola1.text3=유채 압착기(Canola Press)는 RF를 사용해 유채로 카놀라유를 만들고, 주변에 적절한 블록으로 카놀라유를 내보냅니다. 카놀라유는 오일 발전기(Oil Generator)나 압축 발전기(Compression Dynamo)의 연료로 사용할 수 있습니다. 이는 80,000 RF를 생산합니다.
+
+academy.canola2.title=정제된 맛
+academy.canola2.desc=카놀라유를 정제하세요
+academy.canola2.text1=정제된 카놀라유는 총 200,000 RF를 생산할 수 있는 두 번째 등급의 카놀라유입니다.
+academy.canola2.text2=정제된 카놀라유는 발효 통이나 분별기를 통해 만들 수 있습니다.
+academy.canola2.text3=발효 통은 RF 없이도 작동하고,주변에 적절한 블록으로 정제된 카놀라유를 내보냅니다. 카놀라유를 주입하는 파이프로도 내보낼 수 있으니 조심하세요!
+academy.canola2.text4=분별기는 아쉽게도 RF를 필요로 하지만, 상당히 빠른 속도로 카놀라유를 정제합니다. 보너스로 어느 방향으로 액체를 받고 내보낼 것인지도 설정할 수 있습니다.
+academy.canola2.task=둘 중 하나
+
+# academy.canola3.title=Ok, It's Getting a Bit Old Now
+academy.canola3.title=점점 어려워지는 거 같은데?
+academy.canola3.desc=카놀라유를 결정화하세요
+academy.canola3.text1=결정화된 오일은 총 400,000 RF를 생산할 수 있는 세 번째 등급의 카놀라유입니다.
+academy.canola3.text2=결정화된 오일은 결정화된 유채 씨를 정제된 카놀라유에 던져 넣으면 만들어집니다.
+academy.canola3.text3=이 과정은 오일 자동화를 어렵게 하는 요인 중 하나입니다. 아래 링크를 눌러 가이드북으로 들어가면, 각 단계마다 사진도 첨부된 자동화 방법에 대한 정보를 얻을 수 있습니다.
+
+academy.compressiondynamo.title=Under Pressure
+academy.compressiondynamo.desc=압축 발전기를 만드세요
+academy.compressiondynamo.text1=압축 발전기(Compression Dynamo)는 냉각재와 액체 연료로 RF를 생산합니다. 발전기에 커서를 올리고 U키를 눌러 사용 가능한 연료의 종류와 연료마다의 RF 발전량을 확인할 수 있습니다.
+academy.compressiondynamo.text2=냉각재는 RF의 생산 속도나 생산량에 영향을 주지 않습니다. 더 차가운 냉각재일수록 더 오래지속될 뿐입니다. 팁을 하나 드리자면 물은 무한합니다.
+academy.compressiondynamo.text3=하지만! 지속 냉각재 Augment(Closed-Loop Cooling Augment)를 적용시키면 더 차가운 냉각재일수록 더 많은 RF를 생산하도록 만들 수 있습니다! 혹한의 크라이오시움의 경우에는(이 모드팩에 있는 유일한 다른 냉각재이긴 하지만) 물을 사용할 때에 비해 1.4배나 더 많은 RF를 생산할 수 있습니다.
+
+academy.pitifulgen.title=그저 안습
 academy.pitifulgen.desc=Pitiful Fuel Generator를 만드세요
 academy.pitifulgen.text1=Pitiful Fuel Generator는 나무를 태워 RF를 생산합니다.
 academy.pitifulgen.text2=나무판자나 원목당 11,250 RF를 생산합니다.
@@ -809,6 +888,10 @@ academy.petrifiedgen.title=화석 연료
 academy.petrifiedgen.desc=석화 연료 발전기를 만드세요
 academy.petrifiedgen.text1=석화 연료 발전기(Petrified Fuel Generator)는 석탄같이 화로에 쓰이는 연료들로 RF를 생산합니다. 
 academy.petrifiedgen.text2=석탄 하나당 60,000 RF를 생산합니다.
+
+academy.dynamoweirdness.title=팁: 다이나모
+academy.dynamoweirdness.desc=다이나모들은 전기가 생산되지 않으면 저장된 전기도 빼낼 수 없습니다
+academy.dynamoweirdness.text=다이나모(써멀 모드의 발전기)들은 전기가 생산되지 않으면 저장된 전기도 빼낼 수 없습니다. 다이나모 안의 전기를 빼내고 싶다면 단지 연료를 조금 더 넣어주기만 하면 됩니다.
 
 # 장례식에서 진혼시에 자주 나오는 문구
 # academy.pulverizer.title=Dust to Dust
@@ -864,30 +947,30 @@ academy.fluxducts2.text2=플럭스덕트들은 다른 플럭스덕트들과도 �
 
 academy.basicenergytess.title=이런걸 왜 쓰는거죠?
 academy.basicenergytess.desc=Basic Energy Tesslocator를 만드세요.
-academy.basicenergytess.text1=Basic Energy Tesslocator는 RF를 한블록 거리만큼 빠르게 이동시킬 수 있습니다. Tesslocator들을 동일한 블록 공간에 설치하면 설치된 면들에서 에너지를 옮길 수 있게 되며, Tesslocator를 우클릭해 GUI를 열어 설정을 변경할 수 있습니다.
+academy.basicenergytess.text1=Basic Energy Tesslocator는 RF를 한블록 거리만큼 빠르게 이동시킬 수 있습니다. Tesslocator들을 동일한 블록 공간에 설치하면 설치된 면들에서 에너지를 옮길 수 있게 되며, Tesslocator를 빈손으로 우클릭해 입/출력 설정을 변경할 수 있습니다.
 academy.basicenergytess.text2=Basic Energy Tesslocator는 최대 2048 RF/t만큼의 에너지를 전송할 수 있고, 32,000 RF만큼의 에너지를 저장할 수 있습니다.
 
 academy.advenergytess.title=이정도면 쓸 수밖에 없겠네요
 academy.advenergytess.desc=Advanced Energy Tesslocator를 만드세요.
 academy.advenergytess.text1=Advanced Energy Tesslocator는 Basic버전과 거의 동일하게 작동하지만 같은 블록 공간에 설치하지 않아도 됩니다. 거리 제한도 없고, 심지어 다른 디멘션에 설치해도 작동합니다!
-academy.advenergytess.text2=양손에 염료를 들고 두 Advanced Energy Tesslocator를 우클릭하여 둘을 연결할 수 있습니다. Tesslocator를 우클릭해 GUI를 열어 입/출력 설정을 변경할 수 있습니다.
+academy.advenergytess.text2=양손에 염료를 들고 두 Advanced Energy Tesslocator를 우클릭하여 둘을 연결할 수 있습니다. Tesslocator를 빈손으로 우클릭해 입/출력 설정을 변경할 수 있습니다. 비주얼적인 차이가 없어서 입력인지 출력인지 알 수가 없지만, 처음 설치하면 기본적으로 입력 모드로 작동합니다.
 academy.advenergytess.text3=Advanced Energy Tesslocator는 40,000,000 RF를 저장할 수 있고, 같은 양만큼의 에너지를 전송할 수 있습니다.
 
 academy.plasticmaking.title=플러버
 academy.plasticmaking.desc=플라스틱을 만드세요
 academy.plasticmaking.text1=목유 추출기는 정면에 설치된 아무 통나무 블록에서나 라텍스를 추출할 수 있습니다. 나무는 천천히 금이 가다 부서지며, 주기적으로 나무를 다시 설치해줄 필요가  있습니다.
-academy.plasticmaking.text2=Latex Processing Unit은 라텍스 75mb과 물 1000mb으로 Tiny Dry Rubber 하나를 생산합니다. 해당 아이템을 9개 뭉치면 Dry Rubber를 만들 수 있으며, Dry Rubber를 구워 플라스틱을 만들 수 있습니다.
+academy.plasticmaking.text2=라텍스 생산 유닛은 라텍스 75mb과 물 1000mb으로 작은 마른 고무 하나를 생산합니다. 해당 아이템을 9개 뭉치면 마른 고무를 만들 수 있으며, 마른 고무를 구워 플라스틱을 만들 수 있습니다.
 
 academy.energycell.title=비올때를 대비하자
 academy.energycell.desc=에너지 셀을 만드세요
 academy.energycell.text1=에너지 셀은 RF를 저장할 수 있습니다. 다른 써멀 익스펜션의 기계들처럼 6개의 등급으로 나뉘어 있습니다.
-academy.energycell.text2=가장 낮은 등급은 2,000,000 RF, 가장 높은 등급은 50,000,000 RF 만큼의 에너지를 저장할 수 있습니다.
+academy.energycell.text2=제일 낮은 등급은 2,000,000 RF, 가장 높은 등급은 50,000,000 RF 만큼의 에너지를 저장할 수 있습니다. 보유 인챈트를 부여하면 최대 3배까지 용량을 늘릴 수 있습니다.
+academy.energycell.text3=블록 면의 색깔마다 기능이 다릅니다. 파란색은 에너지 입력, 주황색은 에너지 출력, 노란색은 아무것도 하지 않는 면임을 의미합니다. 에너지 셀을 우클릭해 각 면의 설정을 변경할 수 있습니다.
 
 academy.AAbook.title=진짜 정보
 academy.AAbook.desc=A.A 메뉴얼을 만드세요
 academy.AAbook.text=A.A 메뉴얼에는 해당 모드(Actually Additions)에서 추가한 모든 아이템들에 대한 설명이 들어있습니다.
 
-# Todo: 노래 제목 적절하게 번역하기
 # 디즈니 영화 시작할때 나오는 노래
 academy.IFbook.title=IF You Wish Upon a Star
 academy.IFbook.desc=전망 산업의 설명서을 만드세요
@@ -996,12 +1079,17 @@ academy.fluxducts5.desc=공진 플럭스덕트를 만드세요
 academy.fluxducts5.text=공진 플럭스덕트는 최대 25,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 
 academy.fluxducts6.desc=초냉각 플럭스덕트를 만드세요
-academy.fluxducts6.text=초냉각 플럭스덕트는 제한없이 RF를 전송할 수 있습니다.
+academy.fluxducts6.text=초냉각 플럭스덕트는 제한없이 RF를 전송할 수 있습니다. 하지만 다른 플럭스덕트들처럼 덕트 내부에 RF를 저장하지 않아 특정 아이템/블럭과 함께 사용하면 문제를 일으킬 수도 있습니다.
 
 academy.empowerer.title=마법이 아니라 과학이라구!
 academy.empowerer.desc=부여장치를 만드세요.
 academy.empowerer.text1=부여장치는 결정을 강화할 때 쓰입니다.
 academy.empowerer.text2=부여장치를 설치하고 전시 스탠드를 사방으로 2칸씩 띄워 설치하고 부여장치와 전시 스탠드 전부 전력을 공급해주면 됩니다.
+
+academy.verticaldigger.title=외로운 굴착기
+academy.verticaldigger.desc=수직 굴착기를 만드세요
+academy.verticaldigger.text1=수직 굴착기는 RF를 사용해 월드에 있는 블럭들을 굴착합니다. 오직 광물만을 캐도록 설정할 수도 있습니다.
+academy.verticaldigger.text2=기본적으로는 최대 5칸 크기의 사각형 모양으로 기반암 위치까지 굴착하지만, 환상 강화장치를 3개까지 블록 위에 쌓아올리면 최대 33x33크기의 사각형 모양으로 굴착할 수 있습니다.
 
 # academy.powerfiller.title=Filled with Power
 # 교회/성당용 책 이름인듯
@@ -1020,11 +1108,35 @@ academy.inventorybatteries.text2=Thermal Expansion모드의 플럭스 축전기�
 academy.inventorybatteries.text3=Draconic Evolution모드의 플럭스 축전기들은 가장 비싸지만 그만한 값을 합니다. 제일 낮은 등급은 64,000,000 RF를, 가장 높은 등급은 256,000,000 RF만큼의 에너지를 저장할 수 있습니다. 최종 등급의 아이템을 업그레이드하면 최대 640,000,000 RF까지 용량을 늘릴 수 있습니다.
 academy.inventorybatteries.task=세 아이템중 하나를 만드세요
 
+academy.leadstonejetpack.title=마치 하늘을 가로지르는 독수리처럼
+academy.leadstonejetpack.desc=Leadstone Jetpack을 만드세요
+academy.leadstonejetpack.text1=뛰는 놈 위에 누가 있는지 아시나요? 바로 나는 놈이죠!
+academy.leadstonejetpack.text2=제트팩을 흉갑 대신 착용하면 스페이스바를 눌러 날아다니게 해줍니다. Leadstone Jetpack은 가장 낮은(안좋은) 등급입니다.
+academy.leadstonejetpack.text3=Simply Jetpacks모드에는 여러 키들이 있는데, 기본 설정대로 사용하기에는 다른 모드 키들과 중복되는 키들이 많습니다. 설정에 조작 메뉴를 눌러 아래 검색창에 Category버튼을 클릭하고 "Simply Jetpacks"라고 검색하세요. 해당 모드의 키들만 가져와 보여주니 원하는 키들로 할당하면 됩니다. 키를 설정할때는 컨트롤키와 쉬프트, 알트 키 등을 함께 조합해 Shift+N과 같은 조합 키로 설정할 수도 있습니다.
+academy.leadstonejetpack.text4=모든 제트팩에는 Toggle Hover Mode키(기본 L)를 눌러 켜고 끌 수 있는 호버 모드가 있습니다. 조금씩 내려가긴 하지만, 등급이 높아질수록 문제가 해결됩니다.(*역주: 퀘스트 제목은 포탈 2의 글라도스 대사 'Like an Eagle, Piloting a Blimp' 이다)
+
+academy.armoredjetpacks.title=갑옷 제트팩
+academy.armoredjetpacks.desc=Armored Jetpack을 만드세요
+academy.armoredjetpacks.text=Armored Jetpack들은 방어도가 추가로 달린 제트팩입니다. 정말 무릎을 탁 치는 아이디어네요.
+academy.armoredjetpacks.task=아무 Armored Jetpack
+
+# Todo: title 적절히 번역하기
+academy.otherjetpacks.title=The Middle Ones, Because Every Mod Needs Tiers
+academy.otherjetpacks.desc=중간 등급의 제트팩들을 만드세요
+academy.otherjetpacks.text1=등급이 높아질수록 더 빨라지고, 더 많은 RF를 저장할 수 있으며, 호버링 능력이 더 좋아집니다. 뭔가 더 추가될 필요는 없죠.
+academy.otherjetpacks.text2=강화 등급(Reinforced) 이상의 제트팩들은 떨어질 때 자동으로 호버모드로 전환되어 낙사할 걱정이 없습니다.
+
+academy.jetplate.title=시그날륨 맨
+academy.jetplate.desc=Flux-Infused JetPlate를 만드세요
+academy.jetplate.text=Flux-Infused JetPlate은 이 모드의 가장 높은 등급의 제트팩 겸 흉갑입니다. 가장 빠르고, 가장 많은 RF를 저장할 수 있으며, 방어력도 가장 높습니다. Toggle JetpPlate Charger키(기본 P)를 등록하면 인벤토리의 아이템들을 충전할 수도 있습니다.
+
 # 엔더맨 텔레포트 소리 의성어
 academy.teleportstaff.title=뿌슝!
 academy.teleportstaff.desc=텔레포트 스태프를 만드세요
 academy.teleportstaff.text=텔레포트 스태프를 사용하면 바라보는 블록으로 텔레포트할 수 있습니다.
 
+# 누군가 그렌라간 팬이 있다
+academy.aadrill.title=기가 드릴 브레이크!!
 academy.aadrill.desc=드릴을 만드세요
 academy.aadrill.text1=드릴은 RF를 사용해 곡괭이나 삽처럼 사용할 수 있습니다. 염료를 이용해 색을 칠할수도 있습니다.
 academy.aadrill.text2=웅크린채로 우클릭해 속도강화나 행운강화등의 드릴 업그레이드를 장착할 수 있습니다. 업그레이드는 여러 등급으로 나뉘기도 하며 상위 등급의 업그레이드를 적용시키려면 이전 등급의 업그레이드들이 모두 적용되어있어야 합니다.
@@ -1050,6 +1162,7 @@ academy.spawnerchanger.text2=드라코닉 에볼루션의 안정화된 몹 스�
 academy.playerinterface.desc=플레이어 인터페이스를 만드세요
 academy.playerinterface.text1=플레이어 인터페이스는 다른 블록이 내 인벤토리와 상호작용할 수 있도록 해줍니다. 파이프를 연결해 아이템을 넣거나 꺼낼 수 있으며, RF를 주입하면 인벤토리 내부의 아이템들을 충전할 수 있습니다.
 academy.playerinterface.text2=기본적으로는 32칸 내에서만 작동하지만 환상 강화장치를 3개까지 블록 위에 쌓아올리면 거리가 최대 256칸까지 늘어납니다.
+academy.playerinterface.reward=차용증: 환상 강화장치 1개
 
 academy.aaenergylaser2.desc=발전된 에너지 레이저 중계기를 만드세요
 academy.aaenergylaser2.text1=발전된 에너지 레이저 중계기는 10,000 RF/t만큼의 에너지를 무선으로 전송할 수 있습니다.
@@ -1057,6 +1170,48 @@ academy.aaenergylaser2.text2=낮은 등급의 에너지 레이저 중계기와 �
 
 academy.aaenergylaser3.desc=극한의 에너지 레이저 중계기를 만드세요
 academy.aaenergylaser3.text=극한의 에너지 레이저 중계기는 100,000 RF/t만큼의 에너지를 무선으로 전송할 수 있습니다.
+
+# Todo: Title 적절히 번역하기
+academy.canola4.title=Empowered Canola Oil Who Don't Need No More Tiers
+academy.canola4.desc=최종 등급의 카놀라유를 만드세요
+academy.canola4.text1=강화된 오일은 총 700,000 RF를 생산할 수 있는 최종 등급의 카놀라유입니다.
+academy.canola4.text2=강화된 오일은 강화된 유채 씨를 결정화된 오일에 던져 넣으면 만들어집니다.
+academy.canola4.text3=아래 링크를 눌러 가이드에서 당신이 원하는 자동화 방법을 확인하세요.
+
+# 노래제목
+academy.numismatic.title=Lods of Emone
+academy.numismatic.desc=광석 발전기를 만드세요
+academy.numismatic.text1=광석 발전기(Numismatic Dynamo)는 화폐를 연료로 RF를 생산합니다. 여기서 화폐란 아무 금속으로나 만든 동전을 말합니다(에메랄드도 포함됩니다). 더 희귀한 재료로 만들어진 동전일수록 더 많은 RF를 생산합니다. 그걸 기계가 어떻게 아냐구요? 그걸 제가 어떻게 알까요!
+academy.numismatic.text2=눈금 조정기 Augment(Lapidary Calibration Augment)를 설치하면 동전 대신 보석으로 전기를 만들어냅니다. 다이아몬드 하나에 1,200,000 RF라니! 한번 시도해볼 만하겠네요.
+
+academy.ifbioreactor.title=친환경
+academy.ifbioreactor.desc=바이오 연료 발전을 준비하세요
+academy.ifbioreactor.text1=바이오 연료 발전기는 바이오 연료 한 양동이당 640,000 RF를 생산합니다.
+academy.ifbioreactor.text2=바이오 원자로(Bioreactor)에 RF와 식물/염료 등을 사용해 바이오 연료를 생산합니다. 다양한 종류의 아이템을 채워넣으면 아이템당 생산되는 바이오 연료의 양이 증가합니다. (*역주: 바이오 원자로의 원 번역명은 바이오 원자'료'인데 오타인듯 해서 임의로 수정함)
+
+academy.ifprotein.title=육즙이 가득한 고기의 힘
+academy.ifprotein.desc=단백질 발전을 준비하세요
+academy.ifprotein.text1=단백질 발전기는 단백질 한 양동이당 1,280,000 RF를 생산합니다.
+academy.ifprotein.text2=단백질 원자로(Protein Reactor)에 RF와 동물성 물질(고기, 머리, 달걀 등)을 사용해 단백질을 생산합니다. 다양한 종류의 아이템을 채워넣으면 아이템당 생산되는 단백질의 양이 증가합니다.
+
+academy.reactantdynamo.title=상극 반응
+academy.reactantdynamo.desc=공명 발전기를 만드세요
+academy.reactantdynamo.text1=공명 발전기(Reactant Dynamo)는 특정 아이템과 액체로 RF를 생산합니다. 연료로 사용되는 조합은 서로 어떤 식으로든 연관이 있습니다. 크라이오시움과 파이로시움처럼요.
+academy.reactantdynamo.text2=제대로 사용하기만 한다면 얻기 쉬운 재료로 엄청난 양의 RF를 생산해낼 수 있습니다.
+
+# 그대로 냅둬도 될듯
+academy.compactor.title=SQUEEEEEZE
+academy.compactor.desc=압축기를 만드세요
+academy.compactor.text1=압축기는 RF를 사용해 아이템을 특정 형태로 압축합니다. 여러 몹 가루를 막대로 변환하거나, 대부분의 금속 주괴를 판으로 변환할 수 있습니다.=
+academy.compactor.text2=Augment들을 적용시키면 금속 주괴를 동전이나 톱니바퀴로 만들 수 있습니다.
+
+academy.passivespawning.title=동물농징
+academy.passivespawning.desc=중립 동물 농장을 준비하세요
+academy.passivespawning.text1=동물 사육기는 범위 내의 몬스터에게 블록 내부에 들어있는 아이템을 먹입니다.
+academy.passivespawning.text2=아기 동물 분리기는 아기 동물을 반대쪽 구역으로 전송시킵니다.
+academy.passivespawning.text3=동물 농장은 성인 동물에게 음식을 공급해 아기 동물을 생산하는 구역과 아기 동물 분리기를 통해 아기 동물이 분리되는 구역으로 나뉘어야 합니다.
+academy.passivespawning.text4=자라난 아기 동물들은 몹 분해기로 액체 고기와 분홍색 슬라임 액체를 생산하거나, 몹 파쇄기로 드롭 아이템과 숨결을 얻는 데에 사용될 수 있습니다. 기계에 성인 필터를 적용시키면 아기 동물들은 놔두고 다 자란 동물들만 처리하도록 만들 수도 있습니다.
+academy.passivespawning.text5=두 기계의 기본 범위는 한칸이지만, 다른 Industrial Foregoing모드의 기계들처럼 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다.
 
 academy.mobslaughterfactory.title=패스트푸드
 academy.mobslaughterfactory.desc=몹 분해기를 만드세요
@@ -1071,7 +1226,7 @@ academy.meatfeeder.desc=고기 공급기를 만드세요
 academy.meatfeeder.text=액체 고기가 채워진 고기 공급기가 인벤토리에 있다면 배고픔이 줄어들 때마다 자동으로 액체 고기를 사용해 배고픔을 채워줄 것입니다.
 
 academy.meatores.title=가장 기괴한 광물 정제 시스템
-academy.meatores.desc=발효기, 액체 정화기, 세척기를 만드세요
+academy.meatores.desc=액체 고기를 이용한 광물 3배 정제 시스템을 준비하세요
 academy.meatores.text1=세척기는 액체 고기와 광물을 혼합해 생 광석 고기를 생산합니다.
 academy.meatores.text2=발효기는 생 광석 고기를 발효시켜 발효된 광석 고기로 만듭니다.
 academy.meatores.text3=액체 정화기는 발효된 광석 고기와 모래를 섞어 해당 광석 가루를 생산합니다.
@@ -1182,6 +1337,12 @@ academy.regularaugments.text1=Augment들을 사용하면 기계나 발전기를 
 academy.regularaugments.text2=평범한 Augment는 같은 종류를 여러번 적용시킬 수도 있습니다.
 academy.regularaugments.task=아무 평범한 Augment
 
+academy.fastaugments.title=I Am Speed
+academy.fastaugments.desc=이 Augment 둘을 만드세요
+academy.fastaugments.text1=보조 수신/변속 코일 Augment(Auxiliary Reception/Transmission Coil Augment)들이 설치된 기계/다이나모는 작동 속도가 빨라집니다. 작동 속도가 빨라진다고 효율이 증가하지는 않습니다.
+academy.fastaugments.text2=기계들은 더 빨리 일을 마치지만 이전과 동일한 양의 RF를 소비합니다. 결과적으로는 틱당 RF 요구량이 증가합니다.
+academy.fastaugments.text3=다이나모들은 동일한 양의 RF를 더 빠른 속도로 생산하기에, 결과적으로는 틱당 RF 생산량이 증가합니다.
+
 academy.specializationaugments.desc=특징 Augment를 만드세요
 academy.specializationaugments.text1=특징 Augment들은 기계나 발전기의 근본적인 기능을 바꿔버립니다.
 academy.specializationaugments.text2=하나의 기계에는 특징 Augment를 단 하나만 적용시킬 수 있습니다.
@@ -1195,7 +1356,7 @@ academy.specializationaugments.task=아무 특징 Augment
 academy.iflaserdrill.title=천국으로
 academy.iflaserdrill.desc=레이저 드릴을 통해 광물을 생산하세요
 academy.iflaserdrill.text1=레이저 드릴은 RF를 사용해 광물을 생성합니다.
-academy.iflaserdrill.text2=레이저 베이스를 원하는 곳에 설치하고, 레이저들이 베이스로 모이도록 레이저 드릴을 사방으로 1칸 띄워서 설치하세요. 레이저 드릴들에 전력을 공급하면 작동합니다.
+academy.iflaserdrill.text2=레이저 베이스를 원하는 곳에 설치하고, 레이저들이 베이스로 모이도록 레이저 드릴을 사방으로 1칸 띄워서 설치하세요. 레이저 드릴들에 전력을 공급하면 작동합니다. 업그레이드는 레이저 드릴에 적용할 수 있습니다.
 academy.iflaserdrill.text3=레이저 베이스의 GUI를 보면 -와 +버튼으로 광물을 채취할 y 좌표를 설정할 수 있습니다. JEI로 사용법을 보면 광물마다의 적정 높이를 확인할 수 있습니다.
 academy.iflaserdrill.text4=베이스에 레이저 렌즈를 최대 6개까지 장착할 수 있고, 각각의 렌즈는 특정 광물의 생성 확률을 늘려줍니다. 역시나 JEI를 확인해 각 광물의 확률을 올려주는 렌즈를 알 수 있습니다.
 
@@ -1314,7 +1475,7 @@ academy.mana.title=마나 풀장
 academy.mana.desc=마나 웅덩이와 마나 공급기를 만드세요
 academy.mana.text1=마나 웅덩이는 꽃에서 생산된 마나를 저장하는데에 사용됩니다. 다른 꽃들을 연결해 마나를 공급해줄 수도 있습니다.
 academy.mana.text2=마나 공급기를 마나 웅덩이나 마나가 생산되는 꽃 주변에 설치하고, 숲의 지팡이로 마나를 공급할 곳을 바라보도록 설정하세요. 마나가 동날 때까지 바라보는 방향으로 마나를 쏘아보낼겁니다.
-academy.mana.text3=마나가 차있는 웅덩이에 아이템을 던저넣어 다른 아이템으로 변환하거나 아이템에 마나를 충전할 수 있습니다.
+academy.mana.text3=마나가 차있는 웅덩이에 아이템을 던져 넣어 다른 아이템으로 변환하거나 아이템에 마나를 충전할 수 있습니다.
 
 # academy.manaitems.title=Just Stick "Mana" in Front of It!
 # in front of -> 앞에, 앞면에
@@ -1397,7 +1558,7 @@ academy.flugel.text3=티아라와 여러 종류의 석영을 결합하면 티아
 
 academy.lexica2.title=영어라도 할줄 알아서 다행이네
 academy.lexica2.desc=보타니아 사전에 요정들의 지식을 추가하세요
-academy.lexica2.text1=보타니아 사전을 알프헤임으로 연결된 포탈에 던져넣으면, 엘프들이 그들의 지식을 책에 적어 돌려줄 것입니다.
+academy.lexica2.text1=보타니아 사전을 알프헤임으로 연결된 포탈에 던지면, 엘프들이 그들의 지식을 책에 적어 돌려줄 것입니다.
 academy.lexica2.text2=엘프들의 지식은 초록색으로 표기됩니다.
 
 academy.farreach.title=까치발
@@ -1443,7 +1604,7 @@ academy.twilightportal.title=순수한 상상 속의 세계
 academy.twilightportal.desc=황혼의 숲에 도착하세요!
 academy.twilightportal.text1=황혼의 숲은 완전히 새로운 차원입니다. 탐험하기 좋겠군요!
 academy.twilightportal.text2=그곳에는 엄격한 규칙이 작용하고 있습니다. 그렇기 때문에 숲의 여러 지역들을 탐험하기 위해선 먼저 그 지역의 보스를 물리쳐야 합니다.
-academy.twilightportal.text3=포탈을 만들기 위해선, 최소한 땅을 2X2 크기로 판 후 물로 가득 채워야 합니다. 그다음 모든 테두리에 꽃이나 묘목 등 식물이 있는지 확인하고, 물 안으로 다이아몬드를 던져주세요. 
+academy.twilightportal.text3=포탈을 만들기 위해선, 최소한 땅을 2X2 크기로 판 후 물로 가득 채워야 합니다. 그다음 모든 테두리에 꽃이나 묘목 등 식물이 있는지 확인하고, 물 안으로 다이아몬드를 던지세요. 
 academy.twilightportal.task=황혼의 숲에 도착하세요!
 
 academy.magicmap.title=나는 지도야!
@@ -1608,7 +1769,8 @@ academy.linkingtool.text2=어떤 블록들은 별빛을 받으면 다른 블록�
 
 academy.starmetal.title=락스타
 academy.starmetal.desc=스타메탈을 만드세요
-academy.starmetal.text=수집 수정체를 철 광석에 연결하면 스타메탈 광석(Starmetal Ore)으로 변합니다.
+academy.starmetal.text1=수집 수정체를 철 광석에 연결하면 스타메탈 광석(Starmetal Ore)으로 변합니다.
+academy.starmetal.text2=고대 성지 지하의 수집 수정체를 사용할 때는 수집 수정체가 밤하늘을 볼 수 있도록 천장을 뚫어줘야 합니다.
 
 academy.astralsorcerylens.title=별빛 전환 렌즈
 academy.astralsorcerylens.desc=렌즈를 만드세요
@@ -1662,10 +1824,11 @@ academy.starlightinfuser.text1=별빛 주입기(Starlight Infuser)는 특정 아
 academy.starlightinfuser.text2=별빛 주입기를 사용하면 확률적으로 설치된 액상 별빛을 소모합니다. 소모된 액상 별빛을 채워줘야 별빛 주입기를 계속 사용할 수 있습니다.
 academy.starlightinfuser.text3=수정 도구들에 액상 별빛을 주입해 특별한 능력을 가지도록 업그레이드할 수 있습니다. 예시로 주입된 수정 곡괭이는 우클릭시 주변 광물의 위치를 보여줍니다.
 
+# Todo: Title 적절히 번역하기
 # academy.treebeacon.title=Treacon
 # 단어 두개 합친 개드립임
 # 적당히 아이템 효과에 맞게 새로 작성함
-academy.treebeacon.title=친환경
+academy.treebeacon.title=Treacon
 academy.treebeacon.desc=나무 신호기를 만드세요
 academy.treebeacon.text1=나무 신호기(Tree beacon) 주변의 묘묙이 자라면 부술 수 없지만 지속적으로 나무 원목과 묘묙을 떨어뜨리는 특별한 나무가 됩니다.
 academy.treebeacon.text2=나무 신호기는 Dynamic Trees모드의 묘묙에는 반응하지 않습니다.
@@ -1757,6 +1920,16 @@ academy.fysallidic.text=파이살리딕 프라임(Fysallidic Prime)은 수평 �
 
 #Miscellaneous
 
+academy.fontunfucker.title=폰트 수정하기
+academy.fontunfucker.desc=폰트를 변경하는 방법에 대해 알아봅시다.
+academy.fontunfucker.text1=FTB Academy에는 마인크래프트의 폰트를 더 선명하게 만들어주는 Smooth Font모드도 포함되어 있습니다. 하지만 기본 마인크래프트 폰트를 변경해버리기 때문에 별로 마음에 들지 않으실 수도 있습니다.
+academy.fontunfucker.text2=Open Config GUI(기본 home키)를 누르면 폰트 설정을 변경할 수 있는 메뉴를 열 수 있습니다. 여기서 기본 마인크래프트 폰트로 변경하실 수도 있습니다.
+
+academy.tesslocatorbad.title=장거리 RF 전송
+academy.tesslocatorbad.desc=Tesslocator없이도 먼 거리로 RF를 전송하는 방법에 대해 배워봅시다.
+academy.tesslocatorbad.text1=Advanced Energy Tesslocator는 매우 좋은 아이템이 틀림없지만 사용하기가 좀 까다롭습니다. 다른 모드팩에는 대부분 포함되어 있지 않기도 하고요.
+academy.tesslocatorbad.text2=아래 링크를 눌러 가이드북에서 Tesslocator없이 멀리 떨어진 곳에 RF를 전송하는 방법에 대해 배워보세요.
+
 # academy.instrumentalmobs.title=Let's Make a Band
 academy.instrumentalmobs.title=브레멘 음악대
 academy.instrumentalmobs.desc=악기를 들고 있는 몬스터에게서 악기를 빼앗으세요
@@ -1798,6 +1971,13 @@ academy.buildinggadget.text=Bulding Gadget을 사용하면 벽이나 계단같�
 academy.wateringcan.desc=물뿌리개를 만드세요
 academy.wateringcan.text1=물뿌리개는 사용하는 범위 내의 작물의 성장을 촉진시킵니다. 물 원천 블록에 웅크린채로 우클릭해 물을 채울 수 있습니다.
 academy.wateringcan.text2=높은 등급의 물뿌리개는 더 많은 양의 물을 저장할 수 있고, 더 넓은 범위에 물을 뿌릴 수 있으며, 더 높은 확률로 작물을 성장시킵니다.
+
+academy.mguspawnegg.title=으- 조금 징그럽긴 하네요
+academy.mguspawnegg.desc=Mob Swab을 사용해 몬스터 스폰알을 얻으세요
+academy.mguspawnegg.text1=Mob Grinding Utilities모드를 이용하면 몬스터 스폰알을 얻을 수 있습니다. 몬스터 스포너에 스폰알을 우클릭해 원하는 몬스터를 스폰하도록 변경할 수도 있어 매우 유용합니다.
+academy.mguspawnegg.text2=Mob Swab으로 원하는 몬스터를 우클릭해 DNA 샘플을 채취하세요. Fluid XP가 담긴 양동이와 씨앗을 DNA가 묻은 Mob Swab과 함께 조합해 GM Chicken Feed를 만들고, 닭에게 먹이세요. 잠시 후 닭은 몬스터 스폰알을 남기고 장렬히 전사할 것입니다.
+academy.mguspawnegg.text3=닭이 한마리 줄겠지만, 결과물에 비하면 그정도는 별것도 아니죠.
+academy.mguspawnegg.task=아무 몬스터 스폰알
 
 academy.slimechannel.title=끈적끈적
 academy.slimechannel.desc=슬라임 물길을 만드세요
@@ -1994,7 +2174,7 @@ academy.overlay.botania.2=상자에서 아이템들을 꺼내세요
 academy.overlay.botania.3=연금술기에서 꽃을 제작하세요 (JEI에서 조합법을 확인하세요)
 academy.overlay.botania.4=꽃잎 연금술기에 물을 채우세요
 academy.overlay.botania.5=밝은 회색 꽃잎 하나, 빨강색 꽃잎 하나, 갈색 꽃잎 두개를 꽃잎 연금술기에 던져넣고, 씨앗을 던져넣어 불먹이 꽃을 만드세요
-academy.overlay.botania.5_5=만약 꽃잎을 잘못 던져넣었다면, 빈손으로 연금술기를 우클릭해 마지막으로 넣은 아이템을 꺼낼 수 있습니다
+academy.overlay.botania.5_5=만약 꽃잎을 잘못 던져 넣었다면, 빈손으로 연금술기를 우클릭해 마지막으로 넣은 아이템을 꺼낼 수 있습니다
 academy.overlay.botania.6=불먹이 꽃을 가장 밝은 잔디블록 위에 심으세요
 academy.overlay.botania.7=석탄을 불먹이 꽃 주변에 떨어뜨리세요
 academy.overlay.botania.8=숲의 지팡이를 들고 마나 공급기를 웅크린채로 우클릭하세요
