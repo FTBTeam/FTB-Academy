@@ -162,7 +162,7 @@ academy.introstorage.task=저장소 교실로 이동하기
 
 academy.introgenstorage.title=일반적인 저장소
 academy.introgenstorage.desc=여러 종류의 상자와 저장상자를 열어봅시다
-academy.introgenstorage.text1=Iron Chest모드의 상자들과 Actually Additions모드의 저장상자들은 많은 양의 아이템들을 보관하기에 적합합니다. 이것들은 나무 상자와 비슷하지만, 훨씬 많이 보관할 수 있습니다.
+academy.introgenstorage.text1=Iron Chest 모드의 상자들과 Actually Additions 모드의 저장상자들은 많은 양의 아이템들을 보관하기에 적합합니다. 이것들은 나무 상자와 비슷하지만, 훨씬 많이 보관할 수 있습니다.
 academy.introgenstorage.text2=둘 다 등급이 존재합니다. 대게 등급이 높을수록 재료가 비싸지만, 더 많은 양을 보관할 수 있습니다.
 academy.introgenstorage.task1=나무 상자 열기
 academy.introgenstorage.task2=다이아몬드 상자 열기
@@ -174,8 +174,8 @@ academy.introupgradechest.desc=나무 상자를 철 상자로 업그레이드 �
 academy.introupgradechest.text=오른쪽의 나무 상자를 열어 업그레이드 아이템을 꺼내세요. 나무 상자에 우클릭하여 철 상자로 업그레이드하세요.
 
 academy.introbulkstorage.title=대용량 저장소
-academy.introbulkstorage.desc=Storage Drawers모드에 대해 알아봅시다
-academy.introbulkstorage.text1=Storage Drawers모드는 한 종류의 아이템을 대량으로 저장하기에 좋습니다.
+academy.introbulkstorage.desc=Storage Drawers 모드에 대해 알아봅시다
+academy.introbulkstorage.text1=Storage Drawers 모드는 한 종류의 아이템을 대량으로 저장하기에 좋습니다.
 academy.introbulkstorage.text2=드로워(Drawer)를 우클릭하여 들고있는 아이템을 저장할 수 있고, 우클릭을 꾹 눌러 인벤토리에 있는 해당 아이템 전부를 보관할수도 있습니다.
 academy.introbulkstorage.text3=드로워를 좌클릭하면 아이템을 한개 꺼낼 수 있고, 웅크린채로 좌클릭하면 한 묶음의 아이템을 꺼내게 됩니다.
 academy.introbulkstorage.text4=tasks에 커서를 올려 무엇을 해야하는지를 알 수 있습니다.
@@ -184,8 +184,8 @@ academy.introbulkstorage.task2=중앙의 Basic Drawer에서 나무 꺼내기
 academy.introbulkstorage.task3=철 조각을 좌측의 Compacting Drawer에 넣은 후, 철 블록을 꺼내기
 
 academy.introdigitalstorage.title=디지털 저장소
-academy.introdigitalstorage.desc=Refined Storage모드에 대해 알아봅시다
-academy.introdigitalstorage.text1=Refined Storage모드를 잘 이용하면 엄청나게 많은 아이템들을 보관할 수 있습니다.
+academy.introdigitalstorage.desc=Refined Storage 모드에 대해 알아봅시다
+academy.introdigitalstorage.text1=Refined Storage 모드를 잘 이용하면 엄청나게 많은 아이템들을 보관할 수 있습니다.
 academy.introdigitalstorage.text2=아이템들은 디스크 드라이브에 들어있는 디스크들에 저장되고, 그리드를 열어 디스크에 접근할 수 있습니다.
 academy.introdigitalstorage.text3=인벤토리 칸 수에 제한을 받아 저장할 수 있는 아이템의 종류가 한정된 아날로그식 저장소들과는 달리, 디스크에 저장되있는 아이템들은 디스크 용량이 남아있다면, 얼마든지 더 아이템을 저장할 수 있습니다.
 academy.introdigitalstorage.text4=마지막 퀘스트는 지급된 디스크를 디스크 드라이브에 넣고, 저장되있던 양동이를 꺼내면 됩니다.
@@ -231,7 +231,7 @@ academy.introtech.task=기술 모드 교실로 이동하기
 
 academy.introgen.title=에너지 생산
 academy.introgen.desc=연료 발전기를 사용해봅시다
-academy.introgen.text1=대부분의 기술모드들은 RF라고 불리는 에너지 체계를 사용합니다. 그냥 전기라고 생각하시면 됩니다.
+academy.introgen.text1=대부분의 기술 모드들은 RF라고 불리는 에너지 체계를 사용합니다. 그냥 전기라고 생각하시면 됩니다.
 academy.introgen.text2=이 RF를 생산하는 기계들을 발전기라고 부릅니다. 연료 발전기(Coal generator)는 석탄같은 연료들을 사용해서 RF를 생산합니다.
 academy.introgen.text3=연료 발전기를 철블록 위에 설치하고 석탄을 넣어 전기를 생산하게 해봅시다.
 academy.introgen.task=철 블록 위에 석탄 발전기 설치하기
@@ -399,7 +399,7 @@ academy.chisel.desc=Chisel을 만드세요
 academy.chisel.text1=Chisel 모드는 수많은 치장용 블록들을 추가합니다.
 academy.chisel.text2=Chisel을 만들고, 우클릭으로 메뉴을 열고, 블록을 삽입하면 만들 수 있는 다른 텍스처의 블록들을 보여줍니다.
 academy.chisel.text3=세 종류의 Chisel이 있는데, 재료가 비싼 치슬은 더 향샹되고 다양한 기능을 가지고 있습니다(이미 설치된 블록의 텍스처 변경 등).
-academy.chisel.text4=JEI에 "@Chisel"이라고 검색하면 Chisel모드에서 추가한 블록들을 확인해볼 수 있습니다.
+academy.chisel.text4=JEI에 "@Chisel"이라고 검색하면 Chisel 모드에서 추가한 블록들을 확인해볼 수 있습니다.
 academy.chisel.task=아무 치슬
 
 academy.builderswands.title=더 나은 건축
@@ -441,7 +441,7 @@ academy.claimchunk.text3=등록된 청크를 다시 쉬프트클릭하면 항상
 academy.storagedrawers.title=압축 저장소
 academy.storagedrawers.desc=드로워를 만드세요
 academy.storagedrawers.text1=Basic Drawer는 한 종류의 아이템을 32스택만큼 저장할 수 있습니다. 1x2 Drawer는 두 종류의 아이템을 16스택만큼, 2x2 Drawer는 4종류의 아이템을 8스택만큼 보관할 수 있습니다. 업그레이드를 적용시켜 더 많이 보관하도록 만들수도 있죠.
-academy.storagedrawers.text2=가이드의 storage챕터에 Storage Drawers모드에 대한 더 자세한 설명이 있습니다.
+academy.storagedrawers.text2=가이드의 storage챕터에 Storage Drawers 모드에 대한 더 자세한 설명이 있습니다.
 academy.storagedrawers.task=아무 드로워
 
 academy.drawerstorageupgrade.title=대용량 저장소
@@ -469,7 +469,7 @@ academy.compactingdrawer.text2=저장 용량은 블록을 기준으로 계산되
 
 academy.ironchests.title=창고가 너무 부족할때
 academy.ironchests.desc=철 상자를 만드세요
-academy.ironchests.text=Iron Chest모드는 다양한 크기의 상자들을 추가해줍니다. 등급이 올라갈수록 어떻게 될지는 아시죠?
+academy.ironchests.text=Iron Chest 모드는 다양한 크기의 상자들을 추가해줍니다. 등급이 올라갈수록 어떻게 될지는 말 안해도 아시죠?
 
 # academy.chestupgrade.title=Deeper pocket
 # 저장공간이 많다는 의미 & 돈이 많을거라는 의미
@@ -513,7 +513,7 @@ academy.blackholtank.text=블랙홀 탱크는 한 종류의 액체를 무려 2,1
 academy.blackholecontroller.title=초거대 컨트롤러?
 academy.blackholecontroller.desc=Black Hole Controller v2.0을 만드세요
 academy.blackholecontroller.text1=Black Hole Controller v2.0은 12개의 블랙홀 유닛이나 블랙홀 탱크를 보관할 수 있고, 호퍼나 파이프 등을 안에 들어있는 블록들과 연결해줍니다.
-academy.blackholecontroller.text2=Refined Storage모드의 외부 저장 포트와 같이 사용한다면 매우 유용합니다.
+academy.blackholecontroller.text2=Refined Storage 모드의 외부 저장 포트와 같이 사용한다면 매우 유용합니다.
 
 academy.blackholelabel.title=초거대 드로워
 academy.blackholelabel.desc=블랙홀 라벨을 만드세요
@@ -721,7 +721,7 @@ academy.xpteleporter.text3=텔레포터가 연결되면, 연결된 텔레포터�
 # 국제 영리 기관?
 academy.controller.title=싱크 탱크
 academy.controller.desc=컨트롤러를 만드세요
-academy.controller.text1=컨트롤러는 Refined Storage모드로 만드는 디지털 저장소 시스템의 심장입니다.
+academy.controller.text1=컨트롤러는 Refined Storage 모드로 만드는 디지털 저장소 시스템의 심장입니다.
 academy.controller.text2=시스템 내의 모든 블록은 어떤 방식으로든(케이블을 통하거나 인접해 있거나) 컨트롤러와 연결되어있어야 합니다.
 academy.controller.text3=디지털 저장소 시스템은 컨트롤러에 공급되는 RF를 전력으로 구동됩니다.
 academy.controller.text4=하나의 시스템에 컨트롤러가 두개일 필요는 없겠죠?
@@ -1016,11 +1016,11 @@ academy.aaenergylaser1.text4=입/출력 설정을 변경하려면 나침반으�
 academy.ifpump.title=조약돌 바다
 academy.ifpump.desc=액체 펌프를 만드세요
 academy.ifpump.text1=액체 펌프는 아래에 액체가 있는지 확인하고 그 액체들을 끌어올려 블록 내부에 저장합니다. 액체가 사라진 공간은 조약돌로 대체됩니다.
-academy.ifpump.text2=다른 Industrial Foregoing모드의 기계들처럼, 기본 범위는 1블록입니다. 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다. 전력을 공급하기 전에 애드온을 적용시키세요.
+academy.ifpump.text2=다른 Industrial Foregoing 모드의 기계들처럼, 기본 범위는 1블록입니다. 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다. 전력을 공급하기 전에 애드온을 적용시키세요.
 
 academy.rangeaddon.title=클수록 좋지
 academy.rangeaddon.desc=범위 애드온를 만드세요
-academy.rangeaddon.text=모든 Industrial Foregoing모드의 기계들의 기본 범위는 1블록입니다. 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다. Range: +2면 범위가 2칸 증가에 총 3x3만큼의 범위를 가집니다.
+academy.rangeaddon.text=모든 Industrial Foregoing 모드의 기계들의 기본 범위는 1블록입니다. 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다. Range: +2면 범위가 2칸 증가에 총 3x3만큼의 범위를 가집니다.
 academy.rangeaddon.task=아무 범위 애드온
 
 academy.DEgrinder.title=킬존
@@ -1101,16 +1101,16 @@ academy.powerfiller.task=세 기계중 하나를 만드세요
 
 academy.inventorybatteries.title=보조배터리
 academy.inventorybatteries.desc=RF를 저장할 수 있는 아이템을 만드세요
-academy.inventorybatteries.text1=Actually Additions모드의 배터리들은 재료가 가장 저렴합니다. 제일 낮은 등급은 200,000 RF를, 가장 높은 등급은 2,000,000 RF만큼의 에너지를 저장할 수 있습니다.
-academy.inventorybatteries.text2=Thermal Expansion모드의 플럭스 축전기들은 조금 더 비싸지만 더 많은 양을 저장할 수 있습니다. 제일 낮은 등급은 1,000,000 RF를, 가장 높은 등급은 25,000,000 RF만큼의 에너지를 저장할 수 있고, 보유 인챈트를 부여하면 최대 3배까지 용량을 늘릴 수 있습니다.
-academy.inventorybatteries.text3=Draconic Evolution모드의 플럭스 축전기들은 가장 비싸지만 그만한 값을 합니다. 제일 낮은 등급은 64,000,000 RF를, 가장 높은 등급은 256,000,000 RF만큼의 에너지를 저장할 수 있습니다. 최종 등급의 아이템을 업그레이드하면 최대 640,000,000 RF까지 용량을 늘릴 수 있습니다.
+academy.inventorybatteries.text1=Actually Additions 모드의 배터리들은 재료가 가장 저렴합니다. 제일 낮은 등급은 200,000 RF를, 가장 높은 등급은 2,000,000 RF만큼의 에너지를 저장할 수 있습니다.
+academy.inventorybatteries.text2=Thermal Expansion 모드의 플럭스 축전기들은 조금 더 비싸지만 더 많은 양을 저장할 수 있습니다. 제일 낮은 등급은 1,000,000 RF를, 가장 높은 등급은 25,000,000 RF만큼의 에너지를 저장할 수 있고, 보유 인챈트를 부여하면 최대 3배까지 용량을 늘릴 수 있습니다.
+academy.inventorybatteries.text3=Draconic Evolution 모드의 플럭스 축전기들은 가장 비싸지만 그만한 값을 합니다. 제일 낮은 등급은 64,000,000 RF를, 가장 높은 등급은 256,000,000 RF만큼의 에너지를 저장할 수 있습니다. 최종 등급의 아이템을 업그레이드하면 최대 640,000,000 RF까지 용량을 늘릴 수 있습니다.
 academy.inventorybatteries.task=세 아이템중 하나를 만드세요
 
 academy.leadstonejetpack.title=마치 하늘을 가로지르는 독수리처럼
 academy.leadstonejetpack.desc=Leadstone Jetpack을 만드세요
 academy.leadstonejetpack.text1=뛰는 놈 위에 누가 있는지 아시나요? 바로 나는 놈이죠!
 academy.leadstonejetpack.text2=제트팩을 흉갑 대신 착용하면 스페이스바를 눌러 날아다니게 해줍니다. Leadstone Jetpack은 가장 낮은(안좋은) 등급입니다.
-academy.leadstonejetpack.text3=Simply Jetpacks모드에는 여러 키들이 있는데, 기본 설정대로 사용하기에는 다른 모드 키들과 중복되는 키들이 많습니다. 설정에 조작 메뉴를 눌러 아래 검색창에 Category버튼을 클릭하고 "Simply Jetpacks"라고 검색하세요. 해당 모드의 키들만 가져와 보여주니 원하는 키들로 할당하면 됩니다. 키를 설정할때는 컨트롤키와 쉬프트, 알트 키 등을 함께 조합해 Shift+N과 같은 조합 키로 설정할 수도 있습니다.
+academy.leadstonejetpack.text3=Simply Jetpacks 모드에는 여러 키들이 있는데, 기본 설정대로 사용하기에는 다른 모드 키들과 중복되는 키들이 많습니다. 설정에 조작 메뉴를 눌러 아래 검색창에 Category버튼을 클릭하고 "Simply Jetpacks"라고 검색하세요. 해당 모드의 키들만 가져와 보여주니 원하는 키들로 할당하면 됩니다. 키를 설정할때는 컨트롤키와 쉬프트, 알트 키 등을 함께 조합해 Shift+N과 같은 조합 키로 설정할 수도 있습니다.
 academy.leadstonejetpack.text4=모든 제트팩에는 Toggle Hover Mode키(기본 L)를 눌러 켜고 끌 수 있는 호버 모드가 있습니다. 조금씩 내려가긴 하지만, 등급이 높아질수록 문제가 해결됩니다.(*역주: 퀘스트 제목은 포탈 2의 글라도스 대사 'Like an Eagle, Piloting a Blimp' 이다)
 
 academy.armoredjetpacks.title=갑옷 제트팩
@@ -1122,7 +1122,7 @@ academy.armoredjetpacks.task=아무 Armored Jetpack
 academy.otherjetpacks.title=등급이 나뉘지 않은 모드는 없다
 academy.otherjetpacks.desc=중간 등급의 제트팩들을 만드세요
 academy.otherjetpacks.text1=등급이 높아질수록 더 빨라지고, 더 많은 RF를 저장할 수 있으며, 호버링 능력이 더 좋아집니다. 뭔가 더 추가될 필요는 없죠.
-academy.otherjetpacks.text2=강화 등급(Reinforced) 이상의 제트팩들은 떨어질 때 자동으로 호버모드로 전환되어 낙사할 걱정이 없습니다.
+academy.otherjetpacks.text2=강화 등급(Reinforced) 이상의 제트팩들은 떨어질 때 자동으로 호버 모드로 전환되어 낙사할 걱정이 없습니다.
 
 academy.jetplate.title=시그날륨 맨
 academy.jetplate.desc=Flux-Infused JetPlate를 만드세요
@@ -1207,12 +1207,12 @@ academy.passivespawning.text1=동물 사육기는 범위 내의 몬스터에게 
 academy.passivespawning.text2=아기 동물 분리기는 아기 동물을 반대쪽 구역으로 전송시킵니다.
 academy.passivespawning.text3=동물 농장은 성인 동물에게 음식을 공급해 아기 동물을 생산하는 구역과 아기 동물 분리기를 통해 아기 동물이 분리되는 구역으로 나뉘어야 합니다.
 academy.passivespawning.text4=자라난 아기 동물들은 몹 분해기로 액체 고기와 분홍색 슬라임 액체를 생산하거나, 몹 파쇄기로 드롭 아이템과 숨결을 얻는 데에 사용될 수 있습니다. 기계에 성인 필터를 적용시키면 아기 동물들은 놔두고 다 자란 동물들만 처리하도록 만들 수도 있습니다.
-academy.passivespawning.text5=두 기계의 기본 범위는 한칸이지만, 다른 Industrial Foregoing모드의 기계들처럼 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다.
+academy.passivespawning.text5=두 기계의 기본 범위는 한칸이지만, 다른 Industrial Foregoing 모드의 기계들처럼 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다.
 
 academy.mobslaughterfactory.title=패스트푸드
 academy.mobslaughterfactory.desc=몹 분해기를 만드세요
 academy.mobslaughterfactory.text1=몹 분해기는 범위 내의 몬스터를 죽입니다. 몬스터를 죽이면 아이템이나 경험치를 얻는 대신, 액체 고기를 생산합니다. 또한 낮은 확률로 분홍 슬라임 액체를 생산하기도 합니다.
-academy.mobslaughterfactory.text2=기본 범위는 한칸이지만, 다른 Industrial Foregoing모드의 기계들처럼 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다.
+academy.mobslaughterfactory.text2=기본 범위는 한칸이지만, 다른 Industrial Foregoing 모드의 기계들처럼 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다.
 
 # academy.meatfeeder.title=Injecting Burger Directly Into Your Veins
 # Vein: 정맥인듯 광맥이란 뜻도 포함해 이중적인 의미로 사용?
@@ -1229,22 +1229,22 @@ academy.meatores.text3=액체 정화기는 발효된 광석 고기와 모래를 
 academy.meatores.text4=이 과정을 통하면 광물당 3개의 주괴를 얻을 수 있습니다.
 
 academy.ifenergy1.desc=Energy Upgrade I을 만드세요
-academy.ifenergy1.text=대부분의 Industrial Foregoing모드 기계에 Energy Upgrade I을 적용시키면 에너지 사용량이 줄어듭니다.
+academy.ifenergy1.text=대부분의 Industrial Foregoing 모드 기계에 Energy Upgrade I을 적용시키면 에너지 사용량이 줄어듭니다.
 
 academy.ifenergy2.desc=Energy Upgrade II를 만드세요
-academy.ifenergy2.text1=Energy Upgrade II까지 적용된 Industrial Foregoing모드 기계들은 더욱 에너지를 적게 쓸 것입니다.
+academy.ifenergy2.text1=Energy Upgrade II까지 적용된 Industrial Foregoing 모드 기계들은 더욱 에너지를 적게 쓸 것입니다.
 academy.ifenergy2.text2=Energy Upgrade II을 적용시키려면 Energy Upgrade I이 적용되어 있어야 합니다.
 
 academy.ifspeed1.desc=Speed Upgrade I를 만드세요
-academy.ifspeed1.text=대부분의 Industrial Foregoing모드 기계에 Speed Upgrade I을 적용시키면 작동 속도가 빨라집니다.
+academy.ifspeed1.text=대부분의 Industrial Foregoing 모드 기계에 Speed Upgrade I을 적용시키면 작동 속도가 빨라집니다.
 
 academy.ifspeed2.desc=Speed Upgrade II를 만드세요
-academy.ifspeed2.text1=Speed Upgrade II까지 적용된 Industrial Foregoing모드 기계들은 더욱 빠른 속도로 작동할 것입니다.
+academy.ifspeed2.text1=Speed Upgrade II까지 적용된 Industrial Foregoing 모드 기계들은 더욱 빠른 속도로 작동할 것입니다.
 academy.ifspeed2.text2=Speed Upgrade II을 적용시키려면 Speed Upgrade I이 적용되어 있어야 합니다.
 
 academy.mobcrusher.desc=몹 파쇄기를 만드세요
 academy.mobcrusher.text1=몹 파쇄기는 범위 내의 몬스터를 죽입니다. 죽은 몬스터가 떨어뜨린 아이템과 경험치는 몹 파쇄기에 저장됩니다. 경험치는 숨결로 변환되 저장됩니다.
-academy.mobcrusher.text2=기본 범위는 한칸이지만, 다른 Industrial Foregoing모드의 기계들처럼 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다.
+academy.mobcrusher.text2=기본 범위는 한칸이지만, 다른 Industrial Foregoing 모드의 기계들처럼 범위 애드온을 적용시켜 작동 범위를 늘릴 수 있습니다.
 
 academy.mobduplicator.desc=몹 복제기를 만드세요
 academy.mobduplicator.text=몹 복제기는 숨결을 사용해 몹 구속 도구에 저장된 몬스터를 복제해 소환합니다.
@@ -1260,23 +1260,23 @@ academy.wyvernarmor.text4=하단 바는 갑옷에 저장된 RF 총량을 나타�
 
 academy.wyvernpickaxe.desc=와이번 곡괭이를 만드세요
 academy.wyvernpickaxe.text1=와이번 곡괭이는 채굴 속도 조절, 범위 채굴 업그레이드, 쓰레기 필터링 등이 가능합니다.
-academy.wyvernpickaxe.text2=Draconic Evolution모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
+academy.wyvernpickaxe.text2=Draconic Evolution 모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
 
 academy.wyvernsword.desc=와이번 검을 만드세요
 academy.wyvernsword.text1=와이번 검은 공격 범위 조절, 공격력 업그레이드 등이 가능합니다.
-academy.wyvernsword.text2=Draconic Evolution모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
+academy.wyvernsword.text2=Draconic Evolution 모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
 
 academy.wyvernshovel.desc=와이번 삽을 만드세요
 academy.wyvernshovel.text1=와이번 삽은 채굴 속도 조절, 범위 채굴 업그레이드, 쓰레기 필터링 등이 가능합니다.
-academy.wyvernshovel.text2=Draconic Evolution모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
+academy.wyvernshovel.text2=Draconic Evolution 모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
 
 academy.wyvernaxe.desc=와이번 도끼를 만드세요
 academy.wyvernaxe.text1=채굴 속도 조절, 범위 채굴 업그레이드 등이 가능합니다.
-academy.wyvernaxe.text2=Draconic Evolution모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
+academy.wyvernaxe.text2=Draconic Evolution 모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
 
 academy.wyvernbow.desc=와이번 활을 만드세요
 academy.wyvernbow.text1=와이번 활은 확대/화살 속도/공격력 조절, 키고 끌 수 있는 자동발사/폭발 화살 등이 가능합니다.
-academy.wyvernbow.text2=Draconic Evolution모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
+academy.wyvernbow.text2=Draconic Evolution 모드 도구들의 기능을 조정하려면 GUI 도구 및 갑옷 환경설정(기본 c)키를 누르세요.
 
 academy.energycore.desc=에너지 코어를 만드세요
 academy.energycore.text1=에너지 코어는 방대한 양의 RF를 저장할 수 있습니다. 드라코닉 에볼루션 안내책자를 참고해 어떻게 만드는지 확인하세요.
@@ -1826,7 +1826,7 @@ academy.starlightinfuser.text3=수정 도구들에 액상 별빛을 주입해 �
 academy.treebeacon.title=Treacon
 academy.treebeacon.desc=나무 신호기를 만드세요
 academy.treebeacon.text1=나무 신호기(Tree beacon) 주변의 묘묙이 자라면 부술 수 없지만 지속적으로 나무 원목과 묘묙을 떨어뜨리는 특별한 나무가 됩니다.
-academy.treebeacon.text2=나무 신호기는 Dynamic Trees모드의 묘묙에는 반응하지 않습니다.
+academy.treebeacon.text2=나무 신호기는 Dynamic Trees 모드의 묘묙에는 반응하지 않습니다.
 
 academy.celestialcrystal.desc=천상 수정을 만드세요.
 academy.celestialcrystal.text1=천상 수정(Celestial Crystal)은 일반 암수정에 비해 더 크고 강력합니다. 일반 암수정이 사용되는 거의 모든 조합법에서 천상 수정을 대신 사용할 수 있으며, 대부분 더 좋은 결과를 냅니다.
@@ -1919,7 +1919,7 @@ academy.fysallidic.text=파이살리딕 프라임(Fysallidic Prime)은 수평 �
 
 academy.fontunfucker.title=폰트 수정하기
 academy.fontunfucker.desc=폰트를 변경하는 방법에 대해 알아봅시다.
-academy.fontunfucker.text1=FTB Academy에는 마인크래프트의 폰트를 더 선명하게 만들어주는 Smooth Font모드도 포함되어 있습니다. 하지만 기본 마인크래프트 폰트를 변경해버리기 때문에 별로 마음에 들지 않으실 수도 있습니다.
+academy.fontunfucker.text1=FTB Academy에는 마인크래프트의 폰트를 더 선명하게 만들어주는 Smooth Font 모드도 포함되어 있습니다. 하지만 기본 마인크래프트 폰트를 변경해버리기 때문에 별로 마음에 들지 않으실 수도 있습니다.
 academy.fontunfucker.text2=Open Config GUI(기본 home키)를 누르면 폰트 설정을 변경할 수 있는 메뉴를 열 수 있습니다. 여기서 기본 마인크래프트 폰트로 변경하실 수도 있습니다.
 
 academy.tesslocatorbad.title=장거리 RF 전송
@@ -1930,8 +1930,8 @@ academy.tesslocatorbad.text2=아래 링크를 눌러 가이드북에서 Tessloca
 # academy.instrumentalmobs.title=Let's Make a Band
 academy.instrumentalmobs.title=브레멘 음악대
 academy.instrumentalmobs.desc=악기를 들고 있는 몬스터에게서 악기를 빼앗으세요
-academy.instrumentalmobs.text=Instrumental Mobs모드는 대부분의 바닐라 몬스터들의 악기를 들고있는 버전을 추가시켜 줍니다! 그들은 당신을 죽이는 대신 옆에서 시끄럽게 악기를 연주할 것입니다. 그들을 죽이면 낮은 확률로 들고있던 악기를 떨굽니다.
-academy.instrumentalmobs.task=Instrumental Mobs모드에서 추가한 아무 악기
+academy.instrumentalmobs.text=Instrumental Mobs 모드는 대부분의 바닐라 몬스터들의 악기를 들고있는 버전을 추가시켜 줍니다! 그들은 당신을 죽이는 대신 옆에서 시끄럽게 악기를 연주할 것입니다. 그들을 죽이면 낮은 확률로 들고있던 악기를 떨굽니다.
+academy.instrumentalmobs.task=Instrumental Mobs 모드에서 추가한 아무 악기
 
 # academy.claimexplosions.title=Fizz Goes the Dynamite
 academy.claimexplosions.title=치이익 소리가 난 후에는...
@@ -1971,7 +1971,7 @@ academy.wateringcan.text2=높은 등급의 물뿌리개는 더 많은 양의 물
 
 academy.mguspawnegg.title=으- 조금 징그럽긴 하네요
 academy.mguspawnegg.desc=Mob Swab을 사용해 몬스터 스폰알을 얻으세요
-academy.mguspawnegg.text1=Mob Grinding Utilities모드를 이용하면 몬스터 스폰알을 얻을 수 있습니다. 몬스터 스포너에 스폰알을 우클릭해 원하는 몬스터를 스폰하도록 변경할 수도 있어 매우 유용합니다.
+academy.mguspawnegg.text1=Mob Grinding Utilities 모드를 이용하면 몬스터 스폰알을 얻을 수 있습니다. 몬스터 스포너에 스폰알을 우클릭해 원하는 몬스터를 스폰하도록 변경할 수도 있어 매우 유용합니다.
 academy.mguspawnegg.text2=Mob Swab으로 원하는 몬스터를 우클릭해 DNA 샘플을 채취하세요. Fluid XP가 담긴 양동이와 씨앗을 DNA가 묻은 Mob Swab과 함께 조합해 GM Chicken Feed를 만들고, 닭에게 먹이세요. 잠시 후 닭은 몬스터 스폰알을 남기고 장렬히 전사할 것입니다.
 academy.mguspawnegg.text3=닭이 한마리 줄겠지만, 결과물에 비하면 그정도는 별것도 아니죠.
 academy.mguspawnegg.task=아무 몬스터 스폰알
@@ -1991,13 +1991,13 @@ academy.tinytorch.desc=작은 횃불을 만드세요
 academy.tinytorch.text=작은 횃불은 일반 횃불의 더 값싼 대용품입니다. 하지만 일반 횃불의 밝기가 14인것에 비해 작은 횃불의 밝기는 12입니다.
 
 academy.foodxl.title=다채로움이야말로 인생을 살아가는 이유죠
-academy.foodxl.desc=XL Food모드의 아이템을 하나 얻으세요
-academy.foodxl.text=XL Food모드는 매우 다채로운 음식들을 추가해 줍니다. 치즈버거부터 스파게티까지 없는 게 없습니다!
-academy.foodxl.task=XL Food모드의 아무 아이템
+academy.foodxl.desc=XL Food 모드의 아이템을 하나 얻으세요
+academy.foodxl.text=XL Food 모드는 매우 다채로운 음식들을 추가해 줍니다. 치즈버거부터 스파게티까지 없는 게 없습니다!
+academy.foodxl.task=XL Food 모드의 아무 아이템
 
 academy.mobgrindingutils.title=3분 몬스터
 academy.mobgrindingutils.desc=Mob Masher와 Mob Fan을 만드세요
-academy.mobgrindingutils.text1=Mob Grinding Utils모드는 몬스터 농장을 만들 때 유용한 블록들을 여럿 추가해줍니다.
+academy.mobgrindingutils.text1=Mob Grinding Utils 모드는 몬스터 농장을 만들 때 유용한 블록들을 여럿 추가해줍니다.
 academy.mobgrindingutils.text2=Mob Fan은 레드스톤 신호가 들어오면 설치된 방향으로 몬스터를 날려보냅니다. 업그레이드를 적용시켜 작동 범위를 늘릴 수 있습니다.
 academy.mobgrindingutils.text3=Mob Masher는 레드스톤 신호가 들어오면 닿는 몬스터에게 피해를 줍니다. 업그레이드를 적용시켜 더 많은 피해를 주거나 약탈 인챈트 효과를 부여할 수 있습니다.
 academy.mobgrindingutils.reward1=약탈
@@ -2030,7 +2030,7 @@ academy.atgrowth.text=활성화되면 RF를 사용해 주변의 식물의 성장
 
 academy.tutorial.jei.title=튜토리얼: Just Enough Items
 academy.tutorial.jei.1=당신의 인벤토리
-academy.tutorial.jei.2=모드는 게임에 많은 블록과 아이템을 추가하기 때문에, 모든 조합법을 기억한다는 것은 불가능에 가깝습니다. 그래서 Just Enough Items(JEI)모드가 만들어졌죠.
+academy.tutorial.jei.2=모드는 게임에 많은 블록과 아이템을 추가하기 때문에, 모든 조합법을 기억한다는 것은 불가능에 가깝습니다. 그래서 Just Enough Items(JEI) 모드가 만들어졌죠.
 academy.tutorial.jei.3=JEI는 인벤토리 오른쪽에 아이템 리스트를 보여줍니다.
 academy.tutorial.jei.4=아이템 찾기
 academy.tutorial.jei.5=검색 창에 아이템 이름을 입력해 원하는 아이템을 찾을 수 있습니다.
@@ -2088,7 +2088,7 @@ academy.tutorial.school.4=만약 튜토리얼을 진행하는 게 지루하다�
 
 academy.tutorial.top.title=튜토리얼: The One Probe
 academy.tutorial.top.1=블록
-academy.tutorial.top.2=The One Probe모드는 화면 상단에 푸른 박스를 추가해줍니다.
+academy.tutorial.top.2=The One Probe 모드는 화면 상단에 푸른 박스를 추가해줍니다.
 academy.tutorial.top.3=이름이나 어떤 모드에서 추가되었는지, 어떤 도구로 캘 수 있는 등의 바라보는 블록에 대한 자세한 정보를 알려줄 것입니다.
 academy.tutorial.top.4=인벤토리 확인
 academy.tutorial.top.5=블록을 바라본채로 웅크리면 들어있는 아이템 등의 추가적인 정보들을 알 수 있습니다.
@@ -2101,7 +2101,7 @@ academy.tutorial.top.11=화로나 기계같은 블록을 바라보면 무슨 일
 
 academy.tutorial.journeymap.title=튜토리얼: JourneyMap
 academy.tutorial.journeymap.1=미니맵
-academy.tutorial.journeymap.2=JourneyMap모드는 우측 상단에 미니맵을 추가해줍니다.
+academy.tutorial.journeymap.2=JourneyMap 모드는 우측 상단에 미니맵을 추가해줍니다.
 academy.tutorial.journeymap.3=그 밑에는 내 위치의 좌표와 바이옴이 표기됩니다.
 academy.tutorial.journeymap.4=경유지
 academy.tutorial.journeymap.5=경유지 생성 버튼(기본 B키)을 눌러 새로운 경유지를 생성하는 창을 열 수 있습니다.
