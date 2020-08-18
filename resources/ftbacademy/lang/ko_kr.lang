@@ -2134,7 +2134,7 @@ academy.overlay.storage.title=저장소
 academy.overlay.storage.1=저장소 교실로 이동하세요
 academy.overlay.storage.2=여러 저장블록들을 열어보세요
 academy.overlay.storage.3=상자에서 나무 상자를 철 상자로 업그레이드하는 아이템을 꺼내세요
-academy.overlay.storage.4=업그레이드 아이템을 들고 상자에 우클릭해 철 상자로 업그레이드하세요
+#(unused) academy.overlay.storage.4=업그레이드 아이템을 들고 상자에 우클릭해 철 상자로 업그레이드하세요
 academy.overlay.storage.5=조약돌이 들어있는 드로워를 때려 아이템을 꺼내세요
 academy.overlay.storage.6=나무가 들어있는 드로워를 때려 아이템을 꺼내세요
 academy.overlay.storage.7=철 조각을 압축 서랍 오른쪽 아래에 우클릭해 저장한 후, 위쪽 슬롯을 때려 철 블록을 꺼내세요
@@ -2157,7 +2157,7 @@ academy.overlay.tech.9=연료 발전기를 철 블록 위에 설치하세요
 academy.overlay.tech.10=석탄을 발전기 안에 넣으세요
 academy.overlay.tech.11=납 플럭스덕트를 자홍색 양털 위에 설치하세요
 academy.overlay.tech.12=레드스톤 화로를 청금석 블록 위에 설치하세요
-academy.overlay.tech.13=철광석 4개를 뒤의 상자에서 꺼내 레드스톤 화로에 구우세요
+academy.overlay.tech.13=철광석 몇개를 뒤의 상자에서 꺼내 레드스톤 화로에 구우세요
 
 academy.overlay.as.title=아스트랄 소서리
 academy.overlay.as.1=아스트랄 소서리 교실로 이동하세요
@@ -2182,6 +2182,9 @@ academy.overlay.botania.8=숲의 지팡이를 들고 마나 공급기를 웅크�
 academy.overlay.botania.8.5=숲의 지팡이를 들고 마나 웅덩이를 웅크린채로 우클릭해 마나 공급기의 방향을 마나 웅덩이쪽으로 조정하세요.
 academy.overlay.botania.9=마나 웅덩이에 철 주괴를 떨어뜨려 마나합금 주괴를 만드세요
 academy.overlay.botania.10=마나합금 주괴를 요정의 게이트에 떨어뜨려 엘레멘티움 주괴를 만드세요
+
+academy.overlay.finished_school.title=축하합니다!
+academy.overlay.finished_school.1=드디어 튜토리얼을 끝마치셨습니다! 보상을 클릭하면 오버월드로 이동됩니다.
 
 # Fixes broken TheOneProbe name in school
 tile.manaFlame.name=Mana Flash
