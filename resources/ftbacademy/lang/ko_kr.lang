@@ -345,7 +345,7 @@ academy.smeltery.desc=용광로를 만드세요
 academy.smeltery.text1=용광로는 광물을 녹여 금속 부품, 블록, 주괴 등을 만들 수 있습니다.
 academy.smeltery.text2=보상으로 드리는 유리까지 합하면 총 27개의 블록을 한번에 녹일 수 있는 용광로를 만들 수 있습니다. 18개의 그을린 벽돌이 모두 인벤토리에 있어야만 퀘스트가 완료됩니다.
 
-academy.ticoncasts.title=Molten Metal Manipulation
+academy.ticoncasts.title=녹은 금속 다루기
 academy.ticoncasts.desc=금형을 종류별로 하나씩 만드세요
 academy.ticoncasts.text1=이제 용광로가 생기셨으니, 녹인 금속을 사용할 곳이 있어야겠죠.
 academy.ticoncasts.text2=금속 도구 부품은 금형에 녹은 금속을 부어 만들 수 있습니다. 금형은 아무 재료로 만들어진 부품에 녹은 점토나 금을 부어서 만들 수 있습니다.
@@ -1697,7 +1697,7 @@ academy.reswand.text1=아스트랄 소서리를 시작하기 위해서는 월드
 academy.reswand.text2=고대 성지 아래에는 수집 수정체(Collector Crystal)가 하나씩 존재합니다. 나중에 요긴하게 쓰이지만, 지금은 단지 주변에 조합대를 설치해보세요. 별빛을 필요로하는 조합법들을 제작 가능하게 해줍니다.
 academy.reswand.text3=공명 완드(Resonating Wand)를 손에 들고 오버월드를 돌아다니다 보면, 지하 깊숙히 생성된 암수정 광석(Rock Crystal Ore)의 위치를 알려주는 흰색 입자들이 피어오를 것입니다.
 
-academy.luminouscraftingtable.title=야근
+academy.luminouscraftingtable.title=행복 끝 야근 시작
 academy.luminouscraftingtable.desc=야광 제작대를 만드세요
 academy.luminouscraftingtable.text1=야광 제작대(Luminous Crafting Table)는 수집 수정체 없이도 별빛을 필요로하는 조합법들을 제작할 수 있지만, 밤하늘을 볼 수 있도록 천장이 열려있어야 합니다.
 academy.luminouscraftingtable.text2=제작대에 차오르는 별빛의 양은 설치된 위치나 고도의 영향을 받습니다.
