@@ -170,7 +170,7 @@ academy.introgenstorage.task3=작은 저장상자 열기
 academy.introgenstorage.task4=큰 저장상자 열기
 
 academy.introupgradechest.title=상자 업그레이드
-academy.introupgradechest.desc=나무 상자를 철 상자로 업그레이드 하자
+academy.introupgradechest.desc=나무 상자를 철 상자로 업그레이드 하세요
 academy.introupgradechest.text=오른쪽의 나무 상자를 열어 업그레이드 아이템을 꺼내세요. 나무 상자에 우클릭하여 철 상자로 업그레이드하세요.
 
 academy.introbulkstorage.title=대용량 저장소
@@ -193,7 +193,7 @@ academy.introdigitalstorage.task1=디스크 드라이브 열기
 academy.introdigitalstorage.task2=조합 그리드를 열어 양동이 꺼내기
 
 academy.introfluidstorage.title=액체 저장소
-academy.introfluidstorage.desc=물 양동이 비우기
+academy.introfluidstorage.desc=물 양동이를 비우세요
 academy.introfluidstorage.text1=아이템을 저장하는 방법을 추가한 모드들이 있는 것처럼, 액체를 저장하는 방법을 추가한 모드들도 있습니다.
 academy.introfluidstorage.text2=보통 액체를 저장하는 블록들은 이름에 탱크가 붙기 때문에, JEI에 "탱크"(Tank)를 검색해 그것들을 모두 찾아볼 수 있습니다.
 academy.introfluidstorage.text3=휴대용 탱크는 등급이 나뉘어 있습니다. 당연히 등급이 올라갈수록 액체를 더 많이 저장할 수 있습니다.
@@ -325,7 +325,7 @@ academy.introfinish.reward=오버월드로!
 #Getting Started
 
 academy.overworld.title=게임을 시작하지!
-academy.overworld.desc=진짜로 게임을 시작합시다.
+academy.overworld.desc=진짜로 게임을 시작합시다
 academy.overworld.text=이제 기본은 익혔으니, 본격적으로 모드팩을 즐길 차례입니다.
 academy.overworld.reward=JourneyMap 튜토리얼 읽기
 
