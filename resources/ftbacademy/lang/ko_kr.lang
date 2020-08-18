@@ -954,7 +954,7 @@ academy.advenergytess.title=이정도면 쓸 수밖에 없겠네요
 academy.advenergytess.desc=Advanced Energy Tesslocator를 만드세요.
 academy.advenergytess.text1=Advanced Energy Tesslocator는 Basic버전과 거의 동일하게 작동하지만 같은 블록 공간에 설치하지 않아도 됩니다. 거리 제한도 없고, 심지어 다른 디멘션에 설치해도 작동합니다!
 academy.advenergytess.text2=양손에 염료를 들고 두 Advanced Energy Tesslocator를 우클릭하여 둘을 연결할 수 있습니다. Tesslocator를 빈손으로 우클릭해 입/출력 설정을 변경할 수 있습니다. 비주얼적인 차이가 없어서 입력인지 출력인지 알 수가 없지만, 처음 설치하면 기본적으로 입력 모드로 작동합니다.
-academy.advenergytess.text3=Advanced Energy Tesslocator는 40,000,000 RF를 저장할 수 있고, 같은 양만큼의 에너지를 전송할 수 있습니다.
+academy.advenergytess.text3=Advanced Energy Tesslocator는 40,000,000 RF를 저장할 수 있습니다. 원래는 같은 양만큼의 에너지를 전송할 수 있어야 하지만 버그로 입력 Tesslocator당 256 RF/t만큼의 에너지만을 전송할 수 있습니다. 아마 다음 업데이트에서 해결될겁니다.
 
 academy.plasticmaking.title=플러버
 academy.plasticmaking.desc=플라스틱을 만드세요
