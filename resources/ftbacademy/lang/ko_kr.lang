@@ -1178,8 +1178,7 @@ academy.canola4.text1=강화된 오일은 총 700,000 RF를 생산할 수 있는
 academy.canola4.text2=강화된 오일은 강화된 유채 씨를 결정화된 오일에 던져 넣으면 만들어집니다.
 academy.canola4.text3=아래 링크를 눌러 가이드에서 당신이 원하는 자동화 방법을 확인하세요.
 
-# 노래제목
-academy.numismatic.title=Lods of Emone
+academy.numismatic.title=돈은 물건이나 서비스와 교환할 수 있죠
 academy.numismatic.desc=광석 발전기를 만드세요
 academy.numismatic.text1=광석 발전기(Numismatic Dynamo)는 화폐를 연료로 RF를 생산합니다. 여기서 화폐란 아무 금속으로나 만든 동전을 말합니다(에메랄드도 포함됩니다). 더 희귀한 재료로 만들어진 동전일수록 더 많은 RF를 생산합니다. 그걸 기계가 어떻게 아냐구요? 그걸 제가 어떻게 알까요!
 academy.numismatic.text2=눈금 조정기 Augment(Lapidary Calibration Augment)를 설치하면 동전 대신 보석으로 전기를 만들어냅니다. 다이아몬드 하나에 1,200,000 RF라니! 한번 시도해볼 만하겠네요.
@@ -1731,7 +1730,7 @@ academy.fosicresonator.text2=밤에 포식 공명기(Fosic Resonator)를 들고 
 
 academy.spectralrelay.title=별빛 강화
 academy.spectralrelay.desc=스펙트럼 중계기를 만드세요
-academy.spectralrelay.text1=적당한 장소를 찾지 못하셨더라도 너무 슬퍼하지 마세요. 스펙트럼 중계기(Spectral Relay)를 사용해 별빛을 더 모을 수 있습니다. 별빛을 모으고싶은 블록 주변에 멀티블록 구조물을 건설하고 별빛을 끌어모으세요!
+academy.spectralrelay.text1=적당한 장소를 찾지 못하셨더라도 너무 슬퍼하지 마세요. 스펙트럼 중계기(Spectral Relay)를 사용해 별빛을 더 모을 수 있습니다. 별빛을 모으고싶은 블록 주변에 멀티블록 구조물을 건설하고 중계기에 유리 렌즈를 놓아 별빛을 끌어모으세요!
 academy.spectralrelay.text2=스펙트럼 중계기들이 16칸 내에 2개 이상 설치되어있다면 효율이 크게 떨어집니다.
 
 academy.illuminationpowder.title=은은한 불빛
@@ -1806,6 +1805,7 @@ academy.ritualpedestal.text1=의식 받침대(Ritual Pedestal)는 마치 바닐�
 academy.ritualpedestal.text2=의식의 효과는 어떤 별자리로 조율된 암수정이냐에 따라 달라집니다. 각각의 별자리 항목에서 어떤 효과를 가지는지 확인하세요.
 academy.ritualpedestal.text3=수정체나 렌즈를 사용해 별빛을 받침대에 직접 공급하면 의식의 효과를 강화할 수 있습니다. 그렇게 하면 공급된 별빛이 다른 방향으로 튕겨져나갈텐데, 이를 렌즈를 사용해 다시 받침대로 돌려보내면 더욱 효과를 강화할 수 있습니다. 하지만 별빛을 강제로 계속 주입한다면 점점 조율된 암수정에 금이 가 언젠가는 암수정이 깨져 없어질 것입니다. 암수정을 액상 별빛에 담궈 손상을 회복할 수 있습니다.
 
+# Todo: Title 적절히 번역하기
 academy.domicresonator.title=DOMA, DOMA DOMA DOMA!
 academy.domicresonator.desc=도믹 공명기를 만드세요
 academy.domicresonator.text1=도믹 공명기(Domic Resonator)는 포식 공명기를 업그레이드해 만들 수 있습니다. 웅크린채로 우클릭해 공명기의 모드를 바꿀 수 있습니다.
@@ -1817,7 +1817,6 @@ academy.celestialaltar.text2=천상 제단이 제대로 작동하려면 멀티�
 academy.celestialaltar.text3=천상 제단을 만들고나면 별 문헌의 성좌(Constellation) 챕터가 해금됩니다.
 
 # academy.starlightinfuser.title=Starlight, Star Bright
-# 아 또 노래제목이네
 academy.starlightinfuser.title=반짝반짝 작은 별
 academy.starlightinfuser.desc=별빛 주입기를 만드세요
 academy.starlightinfuser.text1=별빛 주입기(Starlight Infuser)는 특정 아이템이나 블록에 액상 별빛을 주입하는 멀티블록 구조물입니다. 나중에 업그레이드할 수 있습니다.
@@ -1939,7 +1938,7 @@ academy.instrumentalmobs.task=Instrumental Mobs모드에서 추가한 아무 악
 # academy.claimexplosions.title=Fizz Goes the Dynamite
 academy.claimexplosions.title=치이익 소리가 난 후에는...
 academy.claimexplosions.desc=크리퍼가 등록된 청크 내에서 터지도록 하세요
-academy.claimexplosions.text1=등록된 청크 내에서는 크리퍼의 폭팔을 비활성화합니다. 여전히 당신에게 피해를 입히기는 하지만, 블록이 안 터지는 것만 해도 어디인가요.
+academy.claimexplosions.text1=등록된 청크 내에서는 모든 폭팔을 비활성화합니다. 당연히 TNT로 인한 블럭 파괴도 막아줍니다. 여전히 당신에게 피해를 입히기는 하지만, 블록이 안 터지는 것만 해도 어디인가요.
 academy.claimexplosions.text2=또한 위더가 날린 폭팔물들이 블록을 부수지 못하게 합니다. 하지만 여전히 위더를 가로막는 블록은 모두 부숴버리니, 꼼수 쓸 생각하지 마세요!
 
 academy.elevator.title=더 위로
