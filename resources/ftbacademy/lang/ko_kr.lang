@@ -451,10 +451,9 @@ academy.drawerstorageupgrade.text1=Storage Upgrade들은 드로워의 용량을 
 academy.drawerstorageupgrade.text2=상위 등급의 업그레이드를 적용시키기 위해 하위 등급 업그레이드를 적용시키지 않아도 됩니다. 
 You don't need the previous tiers to be installed; you can have 7 max tier Storage Upgrades which allows you to store up to 7168 stacks per slot.
 
-# Todo: titie 적절히 번역하기
 # academy.drawervoidupgrade.title=Too Much of a Good Thing
 # 뭐든 많으면 독이됨 같은 느낌으로 번역하기
-academy.drawervoidupgrade.title=Too Much of a Good Thing
+academy.drawervoidupgrade.title=좋은 아이템도 너무 많으면 문제
 academy.drawervoidupgrade.desc=Void Upgrade를 만드세요
 academy.drawervoidupgrade.text=Void Upgrade를 장착한 드로워가 가득 차면, 새로 드로워에 넣는 아이템들은 사라집니다. 저장되는 양보다는 드로워가 꽉 차서 아이템이 걸리는 등의 문제가 더 중요한 조약돌같은 아이템을 보관할 때 유용하겠네요.
 
@@ -658,7 +657,6 @@ academy.ifconveyorbelts.text2=기본적으로는 몬스터나 플레이어, 땅�
 academy.ifconveyorbelts.text3=여러 다른 업그레이드들이 있으니 한번 둘러보세요. 플라스틱을 컨베이어 벨트에 우클릭하면 플레이어가 벨트 위의 아이템을 줍지 못합니다. 발광석 가루를 벨트에 우클릭하면 벨트의 운송 속도를 늘릴 수 있습니다.
 academy.ifconveyorbelts.task2=추출/삽입 컨베이어 업그레이드
 
-# Todo: 원문의 의미를 살려서 번역하기
 # academy.viaducts.title=New New York
 # 개드립인듯
 academy.viaducts.title=New New York
@@ -1120,8 +1118,8 @@ academy.armoredjetpacks.desc=Armored Jetpack을 만드세요
 academy.armoredjetpacks.text=Armored Jetpack들은 방어도가 추가로 달린 제트팩입니다. 정말 무릎을 탁 치는 아이디어네요.
 academy.armoredjetpacks.task=아무 Armored Jetpack
 
-# Todo: title 적절히 번역하기
-academy.otherjetpacks.title=The Middle Ones, Because Every Mod Needs Tiers
+# academy.otherjetpacks.title=The Middle Ones, Because Every Mod Needs Tiers
+academy.otherjetpacks.title=등급이 나뉘지 않은 모드는 없다
 academy.otherjetpacks.desc=중간 등급의 제트팩들을 만드세요
 academy.otherjetpacks.text1=등급이 높아질수록 더 빨라지고, 더 많은 RF를 저장할 수 있으며, 호버링 능력이 더 좋아집니다. 뭔가 더 추가될 필요는 없죠.
 academy.otherjetpacks.text2=강화 등급(Reinforced) 이상의 제트팩들은 떨어질 때 자동으로 호버모드로 전환되어 낙사할 걱정이 없습니다.
@@ -1171,8 +1169,7 @@ academy.aaenergylaser2.text2=낮은 등급의 에너지 레이저 중계기와 �
 academy.aaenergylaser3.desc=극한의 에너지 레이저 중계기를 만드세요
 academy.aaenergylaser3.text=극한의 에너지 레이저 중계기는 100,000 RF/t만큼의 에너지를 무선으로 전송할 수 있습니다.
 
-# Todo: Title 적절히 번역하기
-academy.canola4.title=Empowered Canola Oil Who Don't Need No More Tiers
+academy.canola4.title=진짜 최최종 버전
 academy.canola4.desc=최종 등급의 카놀라유를 만드세요
 academy.canola4.text1=강화된 오일은 총 700,000 RF를 생산할 수 있는 최종 등급의 카놀라유입니다.
 academy.canola4.text2=강화된 오일은 강화된 유채 씨를 결정화된 오일에 던져 넣으면 만들어집니다.
@@ -1823,10 +1820,9 @@ academy.starlightinfuser.text1=별빛 주입기(Starlight Infuser)는 특정 아
 academy.starlightinfuser.text2=별빛 주입기를 사용하면 확률적으로 설치된 액상 별빛을 소모합니다. 소모된 액상 별빛을 채워줘야 별빛 주입기를 계속 사용할 수 있습니다.
 academy.starlightinfuser.text3=수정 도구들에 액상 별빛을 주입해 특별한 능력을 가지도록 업그레이드할 수 있습니다. 예시로 주입된 수정 곡괭이는 우클릭시 주변 광물의 위치를 보여줍니다.
 
-# Todo: Title 적절히 번역하기
 # academy.treebeacon.title=Treacon
 # 단어 두개 합친 개드립임
-# 적당히 아이템 효과에 맞게 새로 작성함
+# 그대로 납둬도 될 듯
 academy.treebeacon.title=Treacon
 academy.treebeacon.desc=나무 신호기를 만드세요
 academy.treebeacon.text1=나무 신호기(Tree beacon) 주변의 묘묙이 자라면 부술 수 없지만 지속적으로 나무 원목과 묘묙을 떨어뜨리는 특별한 나무가 됩니다.
