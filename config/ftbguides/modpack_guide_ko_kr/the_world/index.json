@@ -1,0 +1,17 @@
+[
+  {
+    "id": "biomes",
+    "title": "지형",
+    "icon": "item:naturescompass:naturescompass"
+  },
+  {
+    "id": "structures",
+    "title": "구조물",
+    "icon": "item:astralsorcery:blockmarble 1 2"
+  },
+  {
+    "id": "ores",
+    "title": "광물",
+    "icon": "item:minecraft:iron_ore"
+  }
+]
