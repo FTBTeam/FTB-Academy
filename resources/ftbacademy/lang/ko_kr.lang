@@ -375,7 +375,7 @@ academy.bonsai.text2=Hopping Bonsai Pot으로 만들면 다 자란 나무를 자
 academy.ores.title=땅굴로!
 academy.ores.desc=광물을 캐세요
 academy.ores.text1=아무 종류의 바닐라 광물 16개와 써멀 파운데이션에서 추가한 광물을 16개를 캐세요.
-academy.ores.text2=광역 채굴 버튼(` 버튼)를 누른 상태로 블록을 캐면 인접한 동일한 종류의 블록이 전부 캐집니다. 당연히 캔 만큼 내구도를 소모하고, 추가로 배고픔도 소모합니다. 설마 공짜라고 생각하신건 아니죠?
+academy.ores.text2=광역 채굴 버튼(기본 ` 버튼)를 누른 상태로 블록을 캐면 인접한 동일한 종류의 블록이 전부 캐집니다. 당연히 블록을 캔 만큼 도구의 내구도를 소모합니다.
 academy.ores.text3=종류 상관없이 바닐라광물 16개와 써멀 파운데이션의 광물 16개만 캐면 자동으로 요구사항(Tasks)가 체크됩니다. 요구사항을 클릭하면 어떤 아이템이 필요한지 확인할 수 있습니다.
 academy.ores.text4=적당히 광물을 모으셨다면, 슬슬 기술 모드 관련 퀘스트와 가이드를 둘러보세요.
 academy.ores.vanillatask=바닐라 광물 16개
@@ -427,7 +427,7 @@ academy.simplybackpacks.desc=Common Backpack을 만드세요
 academy.simplybackpacks.text1=가방은 아이템을 보관하게 해줍니다. 역시나 등급이 올라갈수록 더 많이 보관할 수 있구요.
 academy.simplybackpacks.text2=또한 Open Backpack 키를 등록한 후 설정한 키를 누르면 버블즈 슬롯을 포함한 인벤토리 어디에 있든 가방을 바로 열 수 있습니다(버블즈 슬롯은 인벤토리 상단의 플레이어 캐릭터 오른쪽 위에 있는 링을 클릭하면 열립니다).
 academy.simplybackpacks.text3=Toggle Auto-pickup 키를 등록하면 주운 아이템이 자동으로 가방에 들어가도록 하는 기능을 켜고 끌 수 있습니다. 가방을 들고 웅크린 채로 우클릭하면 어떤 아이템을 자동으로 넣을지 설정할 수 있습니다.
-academy.simplybackpacks.task=아무가방
+academy.simplybackpacks.task=아무 가방
 
 academy.claimchunk.title=여긴 우리 구역이야!
 academy.claimchunk.desc=청크를 등록하세요
@@ -1079,7 +1079,7 @@ academy.fluxducts5.desc=공진 플럭스덕트를 만드세요
 academy.fluxducts5.text=공진 플럭스덕트는 최대 25,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 
 academy.fluxducts6.desc=초냉각 플럭스덕트를 만드세요
-academy.fluxducts6.text=초냉각 플럭스덕트는 제한없이 RF를 전송할 수 있습니다. 하지만 다른 플럭스덕트들처럼 덕트 내부에 RF를 저장하지 않아 특정 아이템/블럭과 함께 사용하면 문제를 일으킬 수도 있습니다.
+academy.fluxducts6.text=초냉각 플럭스덕트는 제한없이 RF를 전송할 수 있습니다. 하지만 다른 플럭스덕트들처럼 덕트 내부에 RF를 저장하지 않아 특정 아이템/블록과 함께 사용하면 문제를 일으킬 수도 있습니다.
 
 academy.empowerer.title=마법이 아니라 과학이라구!
 academy.empowerer.desc=부여장치를 만드세요.
@@ -1088,7 +1088,7 @@ academy.empowerer.text2=부여장치를 설치하고 전시 스탠드를 사방�
 
 academy.verticaldigger.title=외로운 굴착기
 academy.verticaldigger.desc=수직 굴착기를 만드세요
-academy.verticaldigger.text1=수직 굴착기는 RF를 사용해 월드에 있는 블럭들을 굴착합니다. 오직 광물만을 캐도록 설정할 수도 있습니다.
+academy.verticaldigger.text1=수직 굴착기는 RF를 사용해 월드에 있는 블록들을 굴착합니다. 오직 광물만을 캐도록 설정할 수도 있습니다.
 academy.verticaldigger.text2=기본적으로는 최대 5칸 크기의 사각형 모양으로 기반암 위치까지 굴착하지만, 환상 강화장치를 3개까지 블록 위에 쌓아올리면 최대 33x33크기의 사각형 모양으로 굴착할 수 있습니다.
 
 # academy.powerfiller.title=Filled with Power
@@ -1529,7 +1529,7 @@ academy.botaniamagnet.text=버블즈 슬롯에 장착하면, 땅에 떨어진 �
 academy.botaniarods.title=마법 지팡이
 academy.botaniarods.desc=아무 막대나 만드세요
 academy.botaniarods.text=막대들은 인벤토리에 있는 마나를 사용해 조약돌을 흙으로 바꾸거나 땅을 평탄화하거나 하늘로 날아가게 해주는 등의 여러 특정한 기능을 가지고 있습니다.
-academy.botaniarods.task=아무 막대
+academy.botaniarods.task=아무 보타니아 막대
 
 academy.terrasteel.title=춤추는 불빛
 academy.terrasteel.desc=테라스틸을 만들어보세요
@@ -1938,7 +1938,7 @@ academy.instrumentalmobs.task=Instrumental Mobs모드에서 추가한 아무 악
 # academy.claimexplosions.title=Fizz Goes the Dynamite
 academy.claimexplosions.title=치이익 소리가 난 후에는...
 academy.claimexplosions.desc=크리퍼가 등록된 청크 내에서 터지도록 하세요
-academy.claimexplosions.text1=등록된 청크 내에서는 모든 폭팔을 비활성화합니다. 당연히 TNT로 인한 블럭 파괴도 막아줍니다. 여전히 당신에게 피해를 입히기는 하지만, 블록이 안 터지는 것만 해도 어디인가요.
+academy.claimexplosions.text1=등록된 청크 내에서는 모든 폭팔을 비활성화합니다. 당연히 TNT로 인한 블록 파괴도 막아줍니다. 여전히 당신에게 피해를 입히기는 하지만, 블록이 안 터지는 것만 해도 어디인가요.
 academy.claimexplosions.text2=또한 위더가 날린 폭팔물들이 블록을 부수지 못하게 합니다. 하지만 여전히 위더를 가로막는 블록은 모두 부숴버리니, 꼼수 쓸 생각하지 마세요!
 
 academy.elevator.title=더 위로
