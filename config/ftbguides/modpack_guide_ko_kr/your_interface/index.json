@@ -1,0 +1,17 @@
+[
+  {
+    "id": "jei",
+    "title": "Just Enough Items",
+    "icon": "item:minecraft:chest"
+  },
+  {
+    "id": "ftb",
+    "title": "FTB 모드",
+    "icon": "item:ftbquests:book"
+  },
+  {
+    "id": "jm",
+    "title": "JourneyMap",
+    "icon": "item:minecraft:beacon"
+  }
+]
