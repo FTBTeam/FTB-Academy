@@ -11,7 +11,7 @@
 	},
 	{
 		"id": "smeltery",
-		"title": "용광로",
+		"title": "제련소",
 		"icon": "item:tconstruct:smeltery_controller"
 	},
 	{
