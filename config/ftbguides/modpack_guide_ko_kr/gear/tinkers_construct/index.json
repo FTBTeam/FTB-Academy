@@ -1,0 +1,22 @@
+[
+	{
+		"id": "making_tools",
+		"title": "도구 만들기",
+		"icon": "item:tconstruct:tooltables"
+	},
+	{
+		"id": "tools",
+		"title": "도구 종류",
+		"icon": "item:tconstruct:pickaxe 1 0 {TinkerData: {Materials: [\"wood\", \"iron\", \"cobalt\"]}}"
+	},
+	{
+		"id": "smeltery",
+		"title": "용광로",
+		"icon": "item:tconstruct:smeltery_controller"
+	},
+	{
+		"id": "misc",
+		"title": "기타 재미있는 내용들",
+		"icon": "item:tconstruct:slimesling"
+	}
+]

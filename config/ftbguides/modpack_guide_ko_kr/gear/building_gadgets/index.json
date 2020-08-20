@@ -1,0 +1,27 @@
+[
+	{
+		"id": "building",
+		"title": "Building Gadget",
+		"icon": "item:buildinggadgets:buildingtool"
+	},
+	{
+		"id": "exchanging",
+		"title": "Exchanging Gadget",
+		"icon": "item:buildinggadgets:exchangertool"
+	},
+	{
+		"id": "copypaste",
+		"title": "Copy-Paste Gadget",
+		"icon": "item:buildinggadgets:copypastetool"
+	},
+	{
+		"id": "destruction",
+		"title": "Destruction Gadgets",
+		"icon": "item:buildinggadgets:destructiontool"
+	},
+	{
+		"id": "paste",
+		"title": "Construction Paste",
+		"icon": "item:buildinggadgets:constructionpastecontainer"
+	}
+]
