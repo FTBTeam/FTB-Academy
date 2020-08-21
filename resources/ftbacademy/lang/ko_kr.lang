@@ -395,12 +395,12 @@ academy.beesandbats.text2=동물 번식을 자동화 하는방법은 매우 많�
 academy.beesandbats.text3=또는 자동화 여물통을 사용하여 자동화 시킬수도 있습니다. 자동화 여물통은 해당 블록의 인벤토리안에 있는 곡물들을 소모하여 해당 동물들을 번식시키게 합니다.
 
 academy.chisel.title=보기 좋은데?
-academy.chisel.desc=Chisel을 만드세요
-academy.chisel.text1=Chisel 모드는 수많은 치장용 블록들을 추가합니다.
-academy.chisel.text2=Chisel을 만들고, 우클릭으로 메뉴을 열고, 블록을 삽입하면 만들 수 있는 다른 텍스처의 블록들을 보여줍니다.
-academy.chisel.text3=세 종류의 Chisel이 있는데, 재료가 비싼 치슬은 더 향샹되고 다양한 기능을 가지고 있습니다(이미 설치된 블록의 텍스처 변경 등).
-academy.chisel.text4=JEI에 "@Chisel"이라고 검색하면 Chisel 모드에서 추가한 블록들을 확인해볼 수 있습니다.
-academy.chisel.task=아무 치슬
+academy.chisel.desc=끌을 만드세요
+academy.chisel.text1=치슬(Chisel) 모드는 수많은 치장용 블록들을 추가합니다.
+academy.chisel.text2=끌(Chisel)을 만들고, 우클릭으로 메뉴을 열고, 블록을 삽입하면 만들 수 있는 다른 텍스처의 블록들을 보여줍니다.
+academy.chisel.text3=세 종류의 끌이 있는데, 재료가 비싼 끌은 더 향샹되고 다양한 기능을 가지고 있습니다.
+academy.chisel.text4=JEI에 "@Chisel"이라고 검색하면 치슬 모드에서 추가한 블록들을 확인해볼 수 있습니다.
+academy.chisel.task=아무 끌
 
 academy.builderswands.title=더 나은 건축
 academy.builderswands.desc=Builder's Wand를 만드세요
@@ -448,8 +448,7 @@ academy.drawerstorageupgrade.title=대용량 저장소
 academy.drawerstorageupgrade.desc=아무 Storage Upgrade나 만드세요
 academy.drawerstorageupgrade.task=아무 Storage Upgrade
 academy.drawerstorageupgrade.text1=Storage Upgrade들은 드로워의 용량을 늘려줍니다. 툴팁에서 얼마만큼 용량을 늘려주는지를 확인할 수 있습니다.
-academy.drawerstorageupgrade.text2=상위 등급의 업그레이드를 적용시키기 위해 하위 등급 업그레이드를 적용시키지 않아도 됩니다. 
-You don't need the previous tiers to be installed; you can have 7 max tier Storage Upgrades which allows you to store up to 7168 stacks per slot.
+academy.drawerstorageupgrade.text2=상위 등급의 업그레이드를 적용시키기 위해 하위 등급 업그레이드를 적용시키지 않아도 됩니다.
 
 # academy.drawervoidupgrade.title=Too Much of a Good Thing
 # 뭐든 많으면 독이됨 같은 느낌으로 번역하기
@@ -559,13 +558,13 @@ academy.hopper.desc=호퍼를 만드세요
 academy.hopper.text1=아, 호퍼. 위에 있는 블록으로부터 아이템을 빼내고 끝부분이 향하는 곳으로 아이템을 이동시키죠. 이보다 더 좋은게 존재하긴 할까요?
 
 academy.basicitemtess.title=호퍼보단 낫네
-academy.basicitemtess.desc=Basic Item Tesslocator를 만드세요
-academy.basicitemtess.text1=Item Tesslocators는 아이템을 한블록 거리만큼 빠르게 이동시킬 수 있습니다. Tesslocator들을 동일한 블록 공간에 설치하면 설치된 면들에서 아이템을 옮길 수 있게 되며, Tesslocator를 우클릭해 GUI를 열어 설정을 변경할 수 있습니다.
+academy.basicitemtess.desc=기본 아이템 테스로케이터를 만드세요
+academy.basicitemtess.text1=기본 아이템 테스로케이터(Basic Item Tesslocator)는 아이템을 한블록 거리만큼 빠르게 이동시킬 수 있습니다. 테스로케이터들을 동일한 블록 공간에 설치하면 설치된 면들에서 아이템을 옮길 수 있게 되며, 테스로케이터를 우클릭해 GUI를 열어 설정을 변경할 수 있습니다.
 academy.basicitemtess.text2=중앙의 버튼을 눌러 입력, 출력, 입출력 모드로 변결할 수 있습니다(각각 input, output, input/output). 왼쪽 슬롯들에는 아이템이나 필터를 집어넣어 허용/금지 항목을 설정할 수 있고, 오른쪽 슬롯들에는 각각 발광석 가루와 다이아몬드를 집어넣어 더 빠르게 작동하도록 하거나 한번에 더 많은 양을 옮기도록 업그레이드할 수 있습니다.
 
 academy.basicfluidtess.title=액체용 호퍼
-academy.basicfluidtess.desc=Basic Fluid Tesslocator를 만드세요
-academy.basicfluidtess.text1=Fluid Tesslocator들은 운송 대상이 액체라는 점만 제외하면 기본적으로는 위의 Item Tesslocator와 완전히 동일합니다.
+academy.basicfluidtess.desc=기본 액체 테스로케이터를 만드세요
+academy.basicfluidtess.text1=기본 액체 테스로케이터(Basic Fluid Tesslocator)는 운송 대상이 액체라는 점만 제외하면 기본적으로는 위의 아이템 테스로케이터와 완전히 동일합니다.
 academy.basicfluidtess.text2=동일하게 GUI를 살펴보면, 중앙 버튼으로 입출력 모드를 설정할 수 있고, 왼쪽 슬롯에 허용/금지 항목을 설정할 수 있으며, 오른쪽 슬롯에 발광석 가루와 다이아몬드를 넣어 성능을 업그레이드할 수 있습니다.
 
 academy.itemducts.title=아이템을 운송하는 가장 혁신적인 방법
@@ -596,13 +595,13 @@ academy.hardenedfluiducts.task=경화 플루이덕트
 academy.servo.title=안되면 되게 하라
 academy.servo.desc=서보를 만드세요
 academy.servo.text1=서보는 블록에 들어있는 아이템이나 액체를 해당 덕트로 추출합니다. 서보를 연결부에 설치하고 레드스톤 신호를 주면(레드스톤 조절 항목에서 설정을 변경해도 됩니다) 작동하기 시작합니다.
-academy.servo.text2=아이템은 이동될 목적지가 있어야만 추출되지만 액체는 언제나 덕트로 이동합니다.=
+academy.servo.text2=아이템들은 도착지가 있어야만 추출되지만, 액체는 아무 조건 없이 항상 추출되어 덕트에 저장됩니다.
 academy.servo.text3=아이템은 가장 가까운 목적지로 이동하려 하지만, 액체는 채워질 수 있는 아무곳에나 들어갑니다.
 academy.servo.task=아무 서보
 
 academy.signalumfluiduct.title=풍부한 전해질
 academy.signalumfluiduct.desc=전도 플루이덕트를 만드세요
-academy.signalumfluiduct.text=전도 플루이덕트는 이름 그대로 액체와 전기를 동시에 운송할 수 있습니다. 최대 4000 RF/t만큼의 에너지를 전송할 수 있습니다.
+academy.signalumfluiduct.text=전도 플루이덕트는 이름 그대로 액체와 전기를 동시에 운송할 수 있습니다. 연결당 최대 4,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 academy.signalumfluiduct.task=전도 플루이덕트
 
 # queen의 노래 Under Pressure
@@ -615,7 +614,7 @@ academy.laminar.task=초층류 플루이덕트
 
 academy.signalumitemduct.title=아이템과 전기를 한번에
 academy.signalumitemduct.desc=전도 아이템덕트를 만드세요
-academy.signalumitemduct.text=전도 아이템덕트는 아이템덕트인 동시에 전기를 전달할 수 있습니다. 최대 4000 RF/t만큼의 에너지를 전송할 수 있습니다.
+academy.signalumitemduct.text=전도 아이템덕트는 아이템덕트인 동시에 전기를 전달할 수 있습니다. 연결당 최대 4,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 academy.signalumitemduct.task=전도 아이템덕트
 
 # academy.impulseitemduct.title=impulsive
@@ -628,7 +627,7 @@ academy.impulseitemduct.task=가속 아이템덕트
 
 academy.signalumimpulseitemduct.title=이 아이템은 가장 긴 이름을 가지고 있기에 퀘스트 이름도 길어질 수밖에 없었습니다.
 academy.signalumimpulseitemduct.desc=전도가속 아이템덕트를 만드세요
-academy.signalumimpulseitemduct.text=전도가속 아이템덕트(Signalum-Plated Impulse Itemduct)는 아이템을 운송하는 동시에 전기를 전달할 수 있습니다. 최대 4000 RF/t만큼의 에너지를 전송할 수 있습니다.
+academy.signalumimpulseitemduct.text=전도가속 아이템덕트(Signalum-Plated Impulse Itemduct)는 아이템을 운송하는 동시에 전기를 전달할 수 있습니다. 연결당 최대 4,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 academy.signalumimpulseitemduct.task=전도가속 아이템덕트
 
 academy.fluidlaser.title=초고속 유체 전송
@@ -740,7 +739,7 @@ academy.storagedisk.task=아무 크기의 저장 디스크
 academy.fluiddisk.title=이거 방수되는거 맞죠?
 academy.fluiddisk.desc=액체 저장 디스크를 만드세요
 academy.fluiddisk.text1=액체 저장 디스크는 액체를 저장한다는 점만 빼면 그냥 저장 디스크와 동일합니다.
-academy.fluiddisk.text2=64k 액체 저장 디스크는 총 64000mb(64양동이)만큼의 액체를 종류 상관없이 저장할 수 있습니다. 256k면 256000mb, 그 뒤는 말 안해도 아시죠?
+academy.fluiddisk.text2=64k 액체 저장 디스크는 총 64,000mb(64양동이)만큼의 액체를 종류 상관없이 저장할 수 있습니다. 256k면 256,000mb, 그 뒤는 말 안해도 아시죠?
 academy.fluiddisk.task=아무 크기의 액체 저장 디스크
 
 # 폰트 이름임
@@ -755,7 +754,7 @@ academy.craftinggrid.text=조합 그리드는 일반 그리드의 업그레이�
 
 academy.fluidgrid.desc=액체 그리드를 만드세요
 academy.fluidgrid.text1=액체 그리드는 일반 그리드에서는 보여주지 않는 액체들을 관리할 수 있습니다.
-academy.fluidgrid.text2=양동이 등의 액체가 들어있는 아이템을 메뉴에 가져다 놓으면 액체가 시스템에 저장됩니다. 액체가 든 아이템을 쉬프트클릭하면 안에 들어있는 액체가 최대 1000mb만큼씩 빠집니다.
+academy.fluidgrid.text2=양동이 등의 액체가 들어있는 아이템을 메뉴에 가져다 놓으면 액체가 시스템에 저장됩니다. 액체가 든 아이템을 쉬프트클릭하면 안에 들어있는 액체가 최대 1,000mb만큼씩 빠집니다.
 academy.fluidgrid.text3=인벤토리나 시스템 내부에 양동이가 있을 경우 시스템에 저장된 액체를 클릭하면 해당 액체로 가득 찬 양동이를 꺼낼 수 있습니다.
 
 academy.cable.desc=케이블을 만드세요
@@ -936,33 +935,33 @@ academy.poweredfurnace.text2=두개의 입력 슬롯이 있어 한번에 두개�
 academy.fluxducts1.title=코드를 꼽아!
 academy.fluxducts1.desc=납 플럭스덕트를 만드세요
 academy.fluxducts1.text1=플럭스덕트는 RF를 전송할 때 쓰입니다. 등급이 올라가면 RF 전송량이 증가합니다.
-academy.fluxducts1.text2=납 플럭스덕트는 최대 4000 RF/t만큼의 에너지를 전송할 수 있습니다.
+academy.fluxducts1.text2=납 플럭스덕트는 연결당 최대 1,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 
-academy.fluxducts2.title=Harder, Better, Faster
+academy.fluxducts2.title=Harder, Better
 academy.fluxducts2.desc=경화 플럭스덕트를 만드세요
-academy.fluxducts2.text1=경화 플럭스덕트는 최대 4000 RF/t만큼의 에너지를 전송할 수 있습니다.
+academy.fluxducts2.text1=경화 플럭스덕트는 연결당 최대 4,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 academy.fluxducts2.text2=플럭스덕트들은 다른 플럭스덕트들과도 연결됩니다.
 
 academy.basicenergytess.title=이런걸 왜 쓰는거죠?
-academy.basicenergytess.desc=Basic Energy Tesslocator를 만드세요.
-academy.basicenergytess.text1=Basic Energy Tesslocator는 RF를 한블록 거리만큼 빠르게 이동시킬 수 있습니다. Tesslocator들을 동일한 블록 공간에 설치하면 설치된 면들에서 에너지를 옮길 수 있게 되며, Tesslocator를 빈손으로 우클릭해 입/출력 설정을 변경할 수 있습니다.
-academy.basicenergytess.text2=Basic Energy Tesslocator는 최대 2048 RF/t만큼의 에너지를 전송할 수 있고, 32,000 RF만큼의 에너지를 저장할 수 있습니다.
+academy.basicenergytess.desc=기본 에너지 테스로케이터를 만드세요.
+academy.basicenergytess.text1=기본 에너지 테스로케이터(Basic Energy Tesslocator)는 RF를 한블록 거리만큼 빠르게 이동시킬 수 있습니다. 테스로케이터들을 동일한 블록 공간에 설치하면 설치된 면들에서 에너지를 옮길 수 있게 되며, 테스로케이터를 빈손으로 우클릭해 입/출력 설정을 변경할 수 있습니다.
+academy.basicenergytess.text2=기본 에너지 테스로케이터는 연결당 최대 2,048 RF/t만큼의 에너지를 전송할 수 있고, 32,000 RF만큼의 에너지를 저장할 수 있습니다.
 
 academy.advenergytess.title=이정도면 쓸 수밖에 없겠네요
-academy.advenergytess.desc=Advanced Energy Tesslocator를 만드세요.
-academy.advenergytess.text1=Advanced Energy Tesslocator는 Basic버전과 거의 동일하게 작동하지만 같은 블록 공간에 설치하지 않아도 됩니다. 거리 제한도 없고, 심지어 다른 디멘션에 설치해도 작동합니다!
-academy.advenergytess.text2=양손에 염료를 들고 두 Advanced Energy Tesslocator를 우클릭하여 둘을 연결할 수 있습니다. Tesslocator를 빈손으로 우클릭해 입/출력 설정을 변경할 수 있습니다. 비주얼적인 차이가 없어서 입력인지 출력인지 알 수가 없지만, 처음 설치하면 기본적으로 입력 모드로 작동합니다.
-academy.advenergytess.text3=Advanced Energy Tesslocator는 40,000,000 RF를 저장할 수 있습니다. 원래는 같은 양만큼의 에너지를 전송할 수 있어야 하지만 버그로 입력 Tesslocator당 256 RF/t만큼의 에너지만을 전송할 수 있습니다. 아마 다음 업데이트에서 해결될겁니다.
+academy.advenergytess.desc=개선된 에너지 테스로케이터를 만드세요.
+academy.advenergytess.text1=개선된 에너지 테스로케이터(Advanced Energy Tesslocator)는 기본버전과 거의 비슷하게 작동하지만 같은 블록 공간에 설치하지 않아도 됩니다. 거리 제한도 없고, 심지어 다른 디멘션에 설치해도 작동합니다!
+academy.advenergytess.text2=양손에 염료를 들고 두 개선된 에너지 테스로케이터를 우클릭하여 둘을 연결할 수 있습니다. 테스로케이터를 빈손으로 우클릭해 입/출력 설정을 변경할 수 있습니다. 비주얼적인 차이가 없어서 입력인지 출력인지 알 수가 없지만, 처음 설치하면 기본적으로 입력 모드로 작동합니다.
+academy.advenergytess.text3=개선된 에너지 테스로케이터는 40,000,000 RF만큼의 에너지를 저장할 수 있습니다. 원래는 같은 양만큼의 에너지를 전송할 수 있어야 하지만 버그로 입력 테스로케이터당 256 RF/t만큼의 에너지만을 전송할 수 있습니다. 아마 다음 업데이트에서 해결될겁니다.
 
 academy.plasticmaking.title=플러버
 academy.plasticmaking.desc=플라스틱을 만드세요
 academy.plasticmaking.text1=목유 추출기는 정면에 설치된 아무 통나무 블록에서나 라텍스를 추출할 수 있습니다. 나무는 천천히 금이 가다 부서지며, 주기적으로 나무를 다시 설치해줄 필요가  있습니다.
-academy.plasticmaking.text2=라텍스 생산 유닛은 라텍스 75mb과 물 1000mb으로 작은 마른 고무 하나를 생산합니다. 해당 아이템을 9개 뭉치면 마른 고무를 만들 수 있으며, 마른 고무를 구워 플라스틱을 만들 수 있습니다.
+academy.plasticmaking.text2=라텍스 생산 유닛은 라텍스 75mb과 물 1,000mb으로 작은 마른 고무 하나를 생산합니다. 해당 아이템을 9개 뭉치면 마른 고무를 만들 수 있으며, 마른 고무를 구워 플라스틱을 만들 수 있습니다.
 
 academy.energycell.title=비올때를 대비하자
 academy.energycell.desc=에너지 셀을 만드세요
 academy.energycell.text1=에너지 셀은 RF를 저장할 수 있습니다. 다른 써멀 익스펜션의 기계들처럼 6개의 등급으로 나뉘어 있습니다.
-academy.energycell.text2=제일 낮은 등급은 2,000,000 RF, 가장 높은 등급은 50,000,000 RF 만큼의 에너지를 저장할 수 있습니다. 보유 인챈트를 부여하면 최대 3배까지 용량을 늘릴 수 있습니다.
+academy.energycell.text2=제일 낮은 등급은 2,000,000 RF, 가장 높은 등급은 50,000,000 RF만큼의 에너지를 저장할 수 있습니다. 보유 인챈트를 부여하면 최대 3배까지 용량을 늘릴 수 있습니다.
 academy.energycell.text3=블록 면의 색깔마다 기능이 다릅니다. 파란색은 에너지 입력, 주황색은 에너지 출력, 노란색은 아무것도 하지 않는 면임을 의미합니다. 에너지 셀을 우클릭해 각 면의 설정을 변경할 수 있습니다.
 
 academy.AAbook.title=진짜 정보
@@ -1068,13 +1067,13 @@ academy.fluidtransposer.desc=유체 수송기를 만드세요
 academy.fluidtransposer.text=유체 수송기는 RF를 사용해 아이템에 액체를 주입하거나 아이템에서 액체를 추출합니다.
 
 academy.fluxducts3.desc=레드스톤 플럭스덕트를 만드세요
-academy.fluxducts3.text=레드스톤 플럭스덕트는 최대 9,000 RF/t만큼의 에너지를 전송할 수 있습니다.
+academy.fluxducts3.text=레드스톤 플럭스덕트는 연결당 최대 9,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 
 academy.fluxducts4.desc=시그날륨 플럭스덕트를 만드세요
-academy.fluxducts4.text=시그날륨 플럭스덕트는 최대 16,000 RF/t만큼의 에너지를 전송할 수 있습니다.
+academy.fluxducts4.text=시그날륨 플럭스덕트는 연결당 최대 16,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 
 academy.fluxducts5.desc=공진 플럭스덕트를 만드세요
-academy.fluxducts5.text=공진 플럭스덕트는 최대 25,000 RF/t만큼의 에너지를 전송할 수 있습니다.
+academy.fluxducts5.text=공진 플럭스덕트는 연결당 최대 25,000 RF/t만큼의 에너지를 전송할 수 있습니다.
 
 academy.fluxducts6.desc=초냉각 플럭스덕트를 만드세요
 academy.fluxducts6.text=초냉각 플럭스덕트는 제한없이 RF를 전송할 수 있습니다. 하지만 다른 플럭스덕트들처럼 덕트 내부에 RF를 저장하지 않아 특정 아이템/블록과 함께 사용하면 문제를 일으킬 수도 있습니다.
@@ -1923,9 +1922,9 @@ academy.fontunfucker.text1=FTB Academy에는 마인크래프트의 폰트를 더
 academy.fontunfucker.text2=Open Config GUI(기본 home키)를 누르면 폰트 설정을 변경할 수 있는 메뉴를 열 수 있습니다. 여기서 기본 마인크래프트 폰트로 변경하실 수도 있습니다.
 
 academy.tesslocatorbad.title=장거리 RF 전송
-academy.tesslocatorbad.desc=Tesslocator없이도 먼 거리로 RF를 전송하는 방법에 대해 배워봅시다.
-academy.tesslocatorbad.text1=Advanced Energy Tesslocator는 매우 좋은 아이템이 틀림없지만 사용하기가 좀 까다롭습니다. 다른 모드팩에는 대부분 포함되어 있지 않기도 하고요.
-academy.tesslocatorbad.text2=아래 링크를 눌러 가이드북에서 Tesslocator없이 멀리 떨어진 곳에 RF를 전송하는 방법에 대해 배워보세요.
+academy.tesslocatorbad.desc=테스로케이터없이도 먼 거리로 RF를 전송하는 방법에 대해 배워봅시다.
+academy.tesslocatorbad.text1=개선된 에너지 테스로케이터(Advanced Energy Tesslocator)는 매우 좋은 아이템이 틀림없지만 사용하기가 좀 까다롭습니다. 다른 모드팩에는 대부분 포함되어 있지 않기도 하고요.
+academy.tesslocatorbad.text2=아래 링크를 눌러 가이드북에서 테스로케이터 없이도 멀리 떨어진 곳에 RF를 전송하는 방법에 대해 배워보세요.
 
 # academy.instrumentalmobs.title=Let's Make a Band
 academy.instrumentalmobs.title=브레멘 음악대
