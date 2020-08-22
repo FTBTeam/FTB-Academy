@@ -1,0 +1,17 @@
+[
+	{
+		"id": "fluiducts",
+		"title": "플루이덕트",
+		"icon": "item:thermaldynamics:duct_16"
+	},
+	{
+		"id": "aa",
+		"title": "유체 레이저 중계기",
+		"icon": "item:actuallyadditions:block_laser_relay_fluids"
+	},
+	{
+		"id": "tesslocators",
+		"title": "액체 테스로케이터",
+		"icon": "item:tesslocator:basic_fluid_tesslocator"
+	}
+]

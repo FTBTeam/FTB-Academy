@@ -1,0 +1,17 @@
+[
+	{
+		"id": "itemducts",
+		"title": "아이템덕트",
+		"icon": "item:thermaldynamics:duct_32"
+	},
+	{
+		"id": "aa",
+		"title": "아이템 레이저 중계기",
+		"icon": "item:actuallyadditions:block_laser_relay_item"
+	},
+	{
+		"id": "tesslocators",
+		"title": "아이템 테스로케이터",
+		"icon": "item:tesslocator:basic_item_tesslocator"
+	}
+]

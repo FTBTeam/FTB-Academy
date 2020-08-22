@@ -1,0 +1,17 @@
+[
+	{
+		"id": "viaducts",
+		"title": "운송 덕트",
+		"icon": "item:thermaldynamics:duct_64"
+	},
+	{
+		"id": "structuralducts",
+		"title": "구조용 덕트",
+		"icon": "item:thermaldynamics:duct_48"
+	},
+	{
+		"id": "if_conveyors",
+		"title": "컨베이어 벨트",
+		"icon": "item:industrialforegoing:conveyor"
+	}
+]

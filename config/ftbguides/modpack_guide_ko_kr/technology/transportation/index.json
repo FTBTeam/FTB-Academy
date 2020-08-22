@@ -16,7 +16,7 @@
 	},
 	{
 		"id": "other",
-		"title": "기타 전송",
+		"title": "기타 전송장치",
 		"icon": "item:thermaldynamics:duct_64"
 	}
 ]

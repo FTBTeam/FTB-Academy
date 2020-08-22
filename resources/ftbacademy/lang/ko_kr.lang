@@ -565,7 +565,7 @@ academy.basicitemtess.text2=중앙의 버튼을 눌러 입력, 출력, 입출력
 academy.basicfluidtess.title=액체용 호퍼
 academy.basicfluidtess.desc=기본 액체 테스로케이터를 만드세요
 academy.basicfluidtess.text1=기본 액체 테스로케이터(Basic Fluid Tesslocator)는 운송 대상이 액체라는 점만 제외하면 기본적으로는 위의 아이템 테스로케이터와 완전히 동일합니다.
-academy.basicfluidtess.text2=동일하게 GUI를 살펴보면, 중앙 버튼으로 입출력 모드를 설정할 수 있고, 왼쪽 슬롯에 허용/금지 항목을 설정할 수 있으며, 오른쪽 슬롯에 발광석 가루와 다이아몬드를 넣어 성능을 업그레이드할 수 있습니다.
+academy.basicfluidtess.text2=동일하게 GUI를 살펴보면, 중앙 버튼으로 입출력 모드를 설정할 수 있고, 왼쪽 슬롯에 액체가 든 양동이나 필터를 집어넣어 허용/금지 항목을 설정할 수 있으며, 오른쪽 슬롯에 발광석 가루와 다이아몬드를 넣어 성능을 업그레이드할 수 있습니다.
 
 academy.itemducts.title=아이템을 운송하는 가장 혁신적인 방법
 academy.itemducts.desc=아이템덕트를 만드세요
