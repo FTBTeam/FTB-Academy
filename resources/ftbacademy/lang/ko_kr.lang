@@ -837,27 +837,27 @@ academy.wirelessfluidgrid.text2=저장소와 연결하려면 아이템을 들고
 academy.magmatic.title=핵심
 academy.magmatic.desc=용암 발전기를 만드세요
 academy.magmatic.text1=용암 발전기(Magmatic Dynamo)는 뜨거운 액체로 RF를 생산합니다.
-academy.magmatic.text2=용암 양동이 하나당 120,000 RF를 생산합니다. JEI로 해당 발전기의 사용법을 찾아보면 연료마다의 전력 생산량을 알 수 있습니다.
+academy.magmatic.text2=용암 양동이 하나당 총 120,000 RF만큼의 에너지를 생산합니다. JEI로 해당 발전기의 사용법을 찾아보면 연료마다의 전력 생산량을 알 수 있습니다.
 
 academy.steam.title=증기기관
 academy.steam.desc=증기 발전기를 만드세요
 academy.steam.text1=증기 발전기(Steam Dynamo)는 고체 연료와 물로 RF를 생산합니다.
-academy.steam.text2=석탄 하나당 24,000 RF를 생산합니다. JEI로 해당 발전기의 사용법을 찾아보면 연료마다의 전력 생산량을 알 수 있습니다.
+academy.steam.text2=석탄 하나당 총 24,000 RF만큼의 에너지를 생산합니다. JEI로 해당 발전기의 사용법을 찾아보면 연료마다의 전력 생산량을 알 수 있습니다.
 
 academy.coalgen.title=오래된 왕, 석탄
 academy.coalgen.desc=연료 발전기를 만드세요
 academy.coalgen.text1=연료 발전기(Coal generator)는 석탄같이 화로에 쓰이는 연료들로 RF를 생산합니다.
-academy.coalgen.text2=석탄 하나당 48,000 RF를 생산합니다.
+academy.coalgen.text2=석탄 하나당 총 48,000 RF만큼의 에너지를 생산합니다.
 
 academy.canola1.title=100%% 유기농
 academy.canola1.desc=유채 발전 시스템을 준비하세요.
 academy.canola1.text1=카놀라유(Canola Oil)로 쉽고 재생 가능한 에너지를 생산할 수 있습니다!
-academy.canola1.text2=카놀라유은 4개의 등급이 있고, 제일 낮은 등급은 80,000 RF를, 가장 높은 등급은 700,000 RF를 생산합니다.
+academy.canola1.text2=카놀라유은 4개의 등급이 있고, 제일 낮은 등급은 80,000 RF, 가장 높은 등급은 700,000 RF만큼의 에너지를 생산합니다.
 academy.canola1.text3=유채 압착기(Canola Press)는 RF를 사용해 유채로 카놀라유를 만들고, 주변에 적절한 블록으로 카놀라유를 내보냅니다. 카놀라유는 오일 발전기(Oil Generator)나 압축 발전기(Compression Dynamo)의 연료로 사용할 수 있습니다. 이는 80,000 RF를 생산합니다.
 
 academy.canola2.title=정제된 맛
 academy.canola2.desc=카놀라유를 정제하세요
-academy.canola2.text1=정제된 카놀라유는 총 200,000 RF를 생산할 수 있는 두 번째 등급의 카놀라유입니다.
+academy.canola2.text1=정제된 카놀라유는 총 200,000 RF만큼의 에너지를 생산할 수 있는 두 번째 등급의 카놀라유입니다.
 academy.canola2.text2=정제된 카놀라유는 발효 통이나 분별기를 통해 만들 수 있습니다.
 academy.canola2.text3=발효 통은 RF 없이도 작동하고,주변에 적절한 블록으로 정제된 카놀라유를 내보냅니다. 카놀라유를 주입하는 파이프로도 내보낼 수 있으니 조심하세요!
 academy.canola2.text4=분별기는 아쉽게도 RF를 필요로 하지만, 상당히 빠른 속도로 카놀라유를 정제합니다. 보너스로 어느 방향으로 액체를 받고 내보낼 것인지도 설정할 수 있습니다.
@@ -866,7 +866,7 @@ academy.canola2.task=둘 중 하나
 # academy.canola3.title=Ok, It's Getting a Bit Old Now
 academy.canola3.title=점점 어려워지는 거 같은데?
 academy.canola3.desc=카놀라유를 결정화하세요
-academy.canola3.text1=결정화된 오일은 총 400,000 RF를 생산할 수 있는 세 번째 등급의 카놀라유입니다.
+academy.canola3.text1=결정화된 오일은 총 400,000 RF만큼의 에너지를 생산할 수 있는 세 번째 등급의 카놀라유입니다.
 academy.canola3.text2=결정화된 오일은 결정화된 유채 씨를 정제된 카놀라유에 던져 넣으면 만들어집니다.
 academy.canola3.text3=이 과정은 오일 자동화를 어렵게 하는 요인 중 하나입니다. 아래 링크를 눌러 가이드북으로 들어가면, 각 단계마다 사진도 첨부된 자동화 방법에 대한 정보를 얻을 수 있습니다.
 
@@ -879,12 +879,12 @@ academy.compressiondynamo.text3=하지만! 지속 냉각재 Augment(Closed-Loop 
 academy.pitifulgen.title=그저 안습
 academy.pitifulgen.desc=Pitiful Fuel Generator를 만드세요
 academy.pitifulgen.text1=Pitiful Fuel Generator는 나무를 태워 RF를 생산합니다.
-academy.pitifulgen.text2=나무판자나 원목당 11,250 RF를 생산합니다.
+academy.pitifulgen.text2=나무판자나 원목당 총 11,250 RF만큼의 에너지를 생산합니다.
 
 academy.petrifiedgen.title=화석 연료
 academy.petrifiedgen.desc=석화 연료 발전기를 만드세요
 academy.petrifiedgen.text1=석화 연료 발전기(Petrified Fuel Generator)는 석탄같이 화로에 쓰이는 연료들로 RF를 생산합니다. 
-academy.petrifiedgen.text2=석탄 하나당 60,000 RF를 생산합니다.
+academy.petrifiedgen.text2=석탄 하나당 총 60,000 RF만큼의 에너지를 생산합니다.
 
 academy.dynamoweirdness.title=팁: 다이나모
 academy.dynamoweirdness.desc=다이나모들은 전기가 생산되지 않으면 저장된 전기도 빼낼 수 없습니다
@@ -1110,7 +1110,7 @@ academy.leadstonejetpack.desc=Leadstone Jetpack을 만드세요
 academy.leadstonejetpack.text1=뛰는 놈 위에 누가 있는지 아시나요? 바로 나는 놈이죠!
 academy.leadstonejetpack.text2=제트팩을 흉갑 대신 착용하면 스페이스바를 눌러 날아다니게 해줍니다. Leadstone Jetpack은 가장 낮은(안좋은) 등급입니다.
 academy.leadstonejetpack.text3=Simply Jetpacks 모드에는 여러 키들이 있는데, 기본 설정대로 사용하기에는 다른 모드 키들과 중복되는 키들이 많습니다. 설정에 조작 메뉴를 눌러 아래 검색창에 Category버튼을 클릭하고 "Simply Jetpacks"라고 검색하세요. 해당 모드의 키들만 가져와 보여주니 원하는 키들로 할당하면 됩니다. 키를 설정할때는 컨트롤키와 쉬프트, 알트 키 등을 함께 조합해 Shift+N과 같은 조합 키로 설정할 수도 있습니다.
-academy.leadstonejetpack.text4=모든 제트팩에는 Toggle Hover Mode키(기본 L)를 눌러 켜고 끌 수 있는 호버 모드가 있습니다. 조금씩 내려가긴 하지만, 등급이 높아질수록 문제가 해결됩니다.(*역주: 퀘스트 제목은 포탈 2의 글라도스 대사 'Like an Eagle, Piloting a Blimp' 이다)
+academy.leadstonejetpack.text4=모든 제트팩에는 Toggle Hover Mode키(기본 L)를 눌러 켜고 끌 수 있는 호버 모드가 있습니다. 조금씩 내려가긴 하지만, 등급이 높아질수록 문제가 해결됩니다.(*역주: 퀘스트 제목은 포탈 2의 글라도스 대사 'Like an Eagle, Piloting a Blimp' 입니다.)
 
 academy.armoredjetpacks.title=갑옷 제트팩
 academy.armoredjetpacks.desc=Armored Jetpack을 만드세요
@@ -1170,7 +1170,7 @@ academy.aaenergylaser3.text=극한의 에너지 레이저 중계기는 100,000 R
 
 academy.canola4.title=진짜 최최종 버전
 academy.canola4.desc=최종 등급의 카놀라유를 만드세요
-academy.canola4.text1=강화된 오일은 총 700,000 RF를 생산할 수 있는 최종 등급의 카놀라유입니다.
+academy.canola4.text1=강화된 오일은 총 700,000 RF만큼의 에너지를 생산할 수 있는 최종 등급의 카놀라유입니다.
 academy.canola4.text2=강화된 오일은 강화된 유채 씨를 결정화된 오일에 던져 넣으면 만들어집니다.
 academy.canola4.text3=아래 링크를 눌러 가이드에서 당신이 원하는 자동화 방법을 확인하세요.
 
@@ -1181,13 +1181,13 @@ academy.numismatic.text2=눈금 조정기 Augment(Lapidary Calibration Augment)�
 
 academy.ifbioreactor.title=친환경
 academy.ifbioreactor.desc=바이오 연료 발전을 준비하세요
-academy.ifbioreactor.text1=바이오 연료 발전기는 바이오 연료 한 양동이당 640,000 RF를 생산합니다.
-academy.ifbioreactor.text2=바이오 원자로(Bioreactor)에 RF와 식물/염료 등을 사용해 바이오 연료를 생산합니다. 다양한 종류의 아이템을 채워넣으면 아이템당 생산되는 바이오 연료의 양이 증가합니다. (*역주: 바이오 원자로의 원 번역명은 바이오 원자'료'인데 오타인듯 해서 임의로 수정함)
+academy.ifbioreactor.text1=바이오 연료 발전기는 바이오 연료 한 양동이당 총 640,000 RF만큼의 에너지를 생산합니다.
+academy.ifbioreactor.text2=바이오 원자로(Bioreactor)는 RF와 식물/염료 등을 사용해 바이오 연료를 생산합니다. 다양한 종류의 아이템을 채워넣으면 아이템당 생산되는 바이오 연료의 양이 증가합니다. (*역주: 바이오 원자로의 원 번역명은 바이오 원자'료'인데 오타인듯 해서 임의로 수정하였습니다.)
 
 academy.ifprotein.title=육즙이 가득한 고기의 힘
 academy.ifprotein.desc=단백질 발전을 준비하세요
-academy.ifprotein.text1=단백질 발전기는 단백질 한 양동이당 1,280,000 RF를 생산합니다.
-academy.ifprotein.text2=단백질 원자로(Protein Reactor)에 RF와 동물성 물질(고기, 머리, 달걀 등)을 사용해 단백질을 생산합니다. 다양한 종류의 아이템을 채워넣으면 아이템당 생산되는 단백질의 양이 증가합니다.
+academy.ifprotein.text1=단백질 발전기는 단백질 한 양동이당 총 1,280,000 RF만큼의 에너지를 생산합니다.
+academy.ifprotein.text2=단백질 원자로(Protein Reactor)는 RF와 동물성 물질(고기, 머리, 달걀 등)을 사용해 단백질을 생산합니다. 다양한 종류의 아이템을 채워넣으면 아이템당 생산되는 단백질의 양이 증가합니다.
 
 academy.reactantdynamo.title=상극 반응
 academy.reactantdynamo.desc=공명 발전기를 만드세요
