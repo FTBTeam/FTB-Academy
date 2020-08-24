@@ -1289,9 +1289,9 @@ academy.wyverncrystals.text2=참고로 모든 종류의 에너지 수정들은 �
 academy.wyverncrystals.task=아무 와이번 에너지 수정
 
 academy.fusioncrafting.title=과학 맞다니까?
-academy.fusioncrafting.desc=융합 제작을 준비하세요
+academy.fusioncrafting.desc=융합 조합을 준비하세요
 academy.fusioncrafting.text1=융합 조합 코어를 설치하고 융합 제조 주입기들을 코어를 바라보게 설치하세요. 융합 제조 주입기들에만 전력을 공급하면 됩니다.
-academy.fusioncrafting.text2=융합 제작을 하려면 조합법 중앙의 아이템을 융합 조합 코어에 넣고, 다른 주위에 있는 아이템들을 융합 제조 주입기들에 넣으면 됩니다.
+academy.fusioncrafting.text2=융합 조합을 하려면 조합법 중앙의 아이템을 융합 조합 코어에 넣고, 다른 주위에 있는 아이템들을 융합 제조 주입기들에 넣으면 됩니다.
 academy.fusioncrafting.text3=어떤 조합법들은 더 높은 등급의 융합 제조 주입기를 필요로 합니다. 물론 너무 높아서 아이템을 못만들거나 하지는 않습니다.
 academy.fusioncrafting.text4=조합을 시작하려면 융합 조합 코어를 열어 시작 버튼을 누르세요.
 
@@ -1309,7 +1309,7 @@ academy.awakeneddraconium.text=깨어난 드라코늄으로 만든 도구나 방
 
 academy.upgradekeys.title=강화!
 academy.upgradekeys.desc=업그레이드 키를 만드세요
-academy.upgradekeys.text1=업그레이드 키는 융합 제작을 통해 도구나 방어구를 업그레이드할 때 쓰입니다. 해당 업그레이드 키에 U키를 눌러 JEI로 어느 도구/방어구에 적용 가능한지를 확인할 수 있습니다.
+academy.upgradekeys.text1=업그레이드 키는 융합 조합을 통해 도구나 방어구를 업그레이드할 때 쓰입니다. 해당 업그레이드 키에 U키를 눌러 JEI로 어느 도구/방어구에 적용 가능한지를 확인할 수 있습니다.
 academy.upgradekeys.text2=업그레이드 키는 여러번 적용시킬 수 있는데, 적용시킬때마다 조합법이 비싸집니다. 업그레이드 조합법은 기본 융합 제조 주입기를 시작으로 와이번, 드라코닉, 카오틱 등급의 주입기를 요구합니다.
 academy.upgradekeys.text3=업그레이드 키는 사용시 사라지지 않으니 키당 하나씩만 만들어도 됩니다.
 academy.upgradekeys.task=아무 업그레이드 키
@@ -1428,7 +1428,7 @@ academy.chaosshard.text3=다른 어려운 점들을 제외하면, 보스는 엔�
 academy.chaosshard.text4=한번 카오스 가디언을 무찌르고 나면, 섬의 중앙을 파고 내려가 혼돈의 조각을 수집할 수 있습니다. 혼돈의 조각은 보스를 잡는 가장 주된 이유이므로, 까먹지 마세요.
 
 academy.chaosinjectors.desc=카오틱 융합 제조 주입기를 만드세요
-academy.chaosinjectors.text=카오틱 융합 제조 주입기는 가장 높은 등급의 아이템으로, 융합 제작으로 만드는 모든 아이템을 제작할 수 있습니다.
+academy.chaosinjectors.text=카오틱 융합 제조 주입기는 가장 높은 등급의 아이템으로, 융합 조합으로 만드는 모든 아이템을 제작할 수 있습니다.
 
 academy.draconicreactor.title=기지 대청소
 academy.draconicreactor.desc=드라코닉 원자로를 준비하세요
@@ -2008,8 +2008,8 @@ academy.solidifiedxp.text1=경험의 결정체는 몬스터를 잡으면 확률�
 academy.solidifiedxp.text2=웅크린채로 사용하면 손에 든 경험의 결정체를 한번에 사용할 수 있습니다.
 
 academy.xpsolidifier.title=저축 좀 하세요
-academy.xpsolidifier.desc=경험의 결정화장치를 만드세요
-academy.xpsolidifier.text1=경험의 결정화장치를 사용하면 경험치를 경험의 결정체로 변환해 아이템 형태로 저장할 수 있습니다.
+academy.xpsolidifier.desc=경험치 결정화장치를 만드세요
+academy.xpsolidifier.text1=경험치 결정화장치를 사용하면 경험치를 경험의 결정체로 변환해 아이템 형태로 저장할 수 있습니다.
 academy.xpsolidifier.text2=플레이어의 경험치뿐만 아니라 5칸 내의 경험치 구슬도 수집해 경험의 결정체로 변환합니다.
 
 # academy.atmagnet.title=Animal Magnetism
