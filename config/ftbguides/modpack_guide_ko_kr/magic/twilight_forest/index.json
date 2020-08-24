@@ -1,0 +1,12 @@
+[
+	{
+		"id": "bosses",
+		"title": "보스",
+		"icon": "item:twilightforest:miniature_structure 1 5"
+	},
+	{
+		"id": "questing_ram",
+		"title": "퀘스트를 주는 숫양",
+		"icon": "item:twilightforest:trophy 1 8"
+	}
+]
