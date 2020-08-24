@@ -1,4 +1,4 @@
-# 인더스트리얼 포고잉(Industrial Foregoing)
+# 인더스트리얼 포고잉
 
 ![Pitiful Fuel Generator](item:industrialforegoing:pitiful\_fuel\_generator)
 Pitiful Fuel Generator는 매우 쌉니다. 나무종류만 연료로 사용하며 나무판자나 원목 하나당 15 RF/t의 속도로 총 11,250 RF만큼의 에너지를 생산합니다. 막대기와 반블록은 더 적은 양의 RF를 생산합니다.

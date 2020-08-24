@@ -1,0 +1,17 @@
+[
+	{
+		"id": "spawning",
+		"title": "몬스터 생성",
+		"icon": "item:minecraft:spawn_egg 1 0 {EntityTag:{id:\"minecraft:creeper\"}}"
+	},
+	{
+		"id": "killing",
+		"title": "몬스터 처리",
+		"icon": "item:mob_grinding_utils:saw"
+	},
+	{
+		"id": "other",
+		"title": "기타 도움되는 블록들",
+		"icon": "item:mob_grinding_utils:ender_inhibitor_on"
+	}
+]
