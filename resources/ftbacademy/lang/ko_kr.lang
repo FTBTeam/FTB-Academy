@@ -1609,7 +1609,7 @@ academy.magicmap.text2=지도는 매우 축소되어 있고, 각각의 지형은
 
 academy.questingram.title=무지개맛 났어!
 academy.questingram.desc=램의 퀘스트를 완료하세요.
-academy.questingram.text1=마법이 걸린 숲에서 스폰 되는 커다란 램은 중립 보스입니다. 
+academy.questingram.text1=마법의 숲 지형에서 스폰 되는 커다란 램은 중립 보스입니다. 
 academy.questingram.text2=그 양에게 각기 다른 모든 색깔의 양털을 주면, 기본 마인크래프트의 광물들과 보석, 그리고 크럼블의 뿔을 얻을 수 있습니다. 
 
 academy.naga.title=뱀 공포증
@@ -1653,7 +1653,7 @@ academy.urghast.task=발전과제: 불의 눈물
 
 academy.yeti.title=쿨한 남자
 academy.yeti.desc=알파 예티를 얼음에 넣어버리세요
-academy.yeti.text1=알파 예티는 눈이오는 숲 바이옴의 설인의 둥지에서 발견할 수 있습니다.
+academy.yeti.text1=알파 예티는 눈덮인 숲 바이옴의 설인의 둥지에서 발견할 수 있습니다.
 academy.yeti.text2=빙하 지형을 잠금해제 하기 위해 설인의 털을 뜯으세요.
 academy.yeti.task=발전과제: 알파의 모피
 
