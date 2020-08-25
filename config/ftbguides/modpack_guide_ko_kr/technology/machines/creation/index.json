@@ -1,0 +1,17 @@
+[
+	{
+		"id": "complex",
+		"title": "유체 조합",
+		"icon": "item:thermalfoundation:material 1 167"
+	},
+	{
+		"id": "atomic_reconstructor",
+		"title": "원자 재조합기",
+		"icon": "item:actuallyadditions:block_atomic_reconstructor"
+	},
+	{
+		"id": "empowerer",
+		"title": "부여장치",
+		"icon": "item:actuallyadditions:block_empowerer"
+	}
+]
