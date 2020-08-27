@@ -1,0 +1,22 @@
+[
+	{
+		"id": "glossary",
+		"title": "용어",
+		"icon": "item:minecraft:book"
+	},	
+	{
+		"id": "graves",
+		"title": "무덤",
+		"icon": "item:minecraft:skull"
+	},
+	{
+		"id": "commands",
+		"title": "명령어",
+		"icon": "item:minecraft:command_block"
+	},
+	{
+		"id": "font",
+		"title": "폰트",
+		"icon": "item:minecraft:sign"
+	}
+]
