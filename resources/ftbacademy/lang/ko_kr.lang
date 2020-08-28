@@ -479,14 +479,14 @@ academy.chestupgrade.text=상자 업그레이드를 이용하면 상자를 부�
 academy.endertank.title=액체용 포탈
 academy.endertank.desc=엔더 탱크를 만드세요
 academy.endertank.text1=엔더 탱크는 같은 색 조합을 가지는 다른 엔더 탱크와 연결되어 내용물을 공유합니다. 상단의 흰부분에 염료를 사용해 색 조합을 변경할 수 있습니다.
-academy.endertank.text2=다이아몬드를 들고 엔더 탱크의 밸브를 우클릭하면 개인용 엔더 탱크가 됩니다. 개인용 엔더 탱크는 자신의 다른 개인용 엔더 탱크들에만 연결됩니다.
+academy.endertank.text2=다이아몬드를 들고 엔더 탱크의 밸브를 우클릭하면 개인용 엔더 탱크가 됩니다. 개인용 엔더 탱크는 같은 플레이어가 설치한 동일 색 조합의 개인용 엔더 탱크들에만 연결됩니다.
 academy.endertank.text3=밸브를 우클릭하여 탱크 밑면에서 자동으로 액체가 빠져나가도록 설정할 수 있습니다.
 academy.endertank.text4=하나만 있으면 별로 쓸모가 없겠죠?
 
 academy.enderchest.title=여분 차원
 academy.enderchest.desc=엔더 체스트를 만드세요(바닐리 엔더상자 아님)
 academy.enderchest.text1=엔더 체스트는 같은 색 조합을 가지는 다른 엔더 체스트들과 연결되어 내용물을 공유합니다. 상단의 흰부분에 염료를 사용해 색 조합을 변경할 수 있습니다.
-academy.enderchest.text2=상자의 걸쇠 부분에 다이아몬드를 우클릭하면 개인용 엔더 체스트가 됩니다. 개인용 엔더 체스트는 자신의 다른 개인용 엔더 체스트들에만 연결됩니다.
+academy.enderchest.text2=상자의 걸쇠 부분에 다이아몬드를 우클릭하면 개인용 엔더 체스트가 됩니다. 개인용 엔더 체스트는 같은 플레이어가 설치한 동일 색 조합의 개인용 엔더 체스트들에만 연결됩니다.
 academy.enderchest.text3=하나만 있으면 별로 쓸모가 없겠죠?
 
 # D&D 에 나오는 아이템
@@ -733,13 +733,13 @@ academy.diskdrive.text=디스크 드라이브는 저장 디스크들을 보관�
 academy.storagedisk.title=무단 복제는 안되요!
 academy.storagedisk.desc=저장 디스크를 만드세요
 academy.storagedisk.text1=저장 디스크는 아이템을 효율적으로 저장할 수 있게 해줍니다. 등급이 높아질수록 더 많이 저장할 수 있죠.
-academy.storagedisk.text2=1k 저장 디스크는 총 1000개의 아이템을 종류 상관없이 저장할 수 있습니다. 4k면 4000개, 그 뒤는 말 안해도 아시죠?
+academy.storagedisk.text2=1k 저장 디스크는 총 1000개의 아이템을 종류 상관없이 저장할 수 있습니다. 4k면 4000개인 식입니다.
 academy.storagedisk.task=아무 크기의 저장 디스크
 
 academy.fluiddisk.title=이거 방수되는거 맞죠?
 academy.fluiddisk.desc=액체 저장 디스크를 만드세요
 academy.fluiddisk.text1=액체 저장 디스크는 액체를 저장한다는 점만 빼면 그냥 저장 디스크와 동일합니다.
-academy.fluiddisk.text2=64k 액체 저장 디스크는 총 64,000mb(64양동이)만큼의 액체를 종류 상관없이 저장할 수 있습니다. 256k면 256,000mb, 그 뒤는 말 안해도 아시죠?
+academy.fluiddisk.text2=64k 액체 저장 디스크는 총 64,000mb(64양동이)만큼의 액체를 종류 상관없이 저장할 수 있습니다. 256k면 256,000mb인 식입니다.
 academy.fluiddisk.task=아무 크기의 액체 저장 디스크
 
 # 폰트 이름임
@@ -823,8 +823,8 @@ academy.wirelesstransmitter.desc=무선 송신기를 만드세요
 academy.wirelesstransmitter.text1=무선 송신기를 케이블 위에 설치하면 16칸 내에서 무선으로 저장소에 접근할 수 있습니다.
 academy.wirelesstransmitter.text2=만약 범위를 더 늘리고 싶다면, 무선 송신기를 원하는 위치에 설치하거나 범위 업그레이드를 적용시킬 수 있습니다.
 
-academy.wirelesscraftinggrid.desc=무선 제작 모니터를 만드세요
-academy.wirelesscraftinggrid.text1=무선 제작 모니터(Wireless Crafting Grid)는 조합 그리드와 동일하지만 무선이라는 장점이 있습니다.
+academy.wirelesscraftinggrid.desc=무선 조합 그리드를 만드세요
+academy.wirelesscraftinggrid.text1=무선 조합 그리드(Wireless Crafting Grid)는 조합 그리드와 동일하지만 무선이라는 장점이 있습니다.
 academy.wirelesscraftinggrid.text2=저장소와 연결하려면 아이템을 들고 컨트롤러에 웅크린채로 우클릭하면 됩니다.
 
 academy.wirelessfluidgrid.desc=무선 액체 그리드를 만드세요

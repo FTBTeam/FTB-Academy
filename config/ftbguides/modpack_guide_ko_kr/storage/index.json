@@ -1,0 +1,27 @@
+[
+	{
+		"id": "storage_drawers",
+		"title": "스토리지 드로워즈",
+		"icon": "item:storagedrawers:basicdrawers"
+	},
+	{
+		"id": "iron_chests",
+		"title": "아이언 체스트",
+		"icon": "item:ironchest:iron_chest"
+	},
+	{
+		"id": "refined_storage",
+		"title": "리파인드 스토리지",
+		"icon": "item:refinedstorage:grid"
+	},
+	{
+		"id": "other",
+		"title": "기타 다른 모드들",
+		"icon": "item:simplybackpacks:commonbackpack"
+	},
+	{
+		"id": "fluid",
+		"title": "액체 저장",
+		"icon": "item:thermalexpansion:tank"
+	}
+]
