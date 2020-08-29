@@ -12,7 +12,8 @@
 
 ![고성능 끌](item:chisel:chisel_hitech)
 고성능 끌(iChisel)은 조금 다른 방식으로 작동합니다. 블록을 치슬에 넣고 조각된 블록을 꺼내는 대신, 인벤토리에서 조각할 블록을 선택한 후 오른쪽 리스트에서 원하는 모양을 선택하세요. 왼쪽에는 블록의 생김새를 미리 볼 수 있습니다.
-The iChisel works slightly differently. Instead of inserting the block and taking the chiseled block out, you select the block you want to chisel from your inventory and then you choose what you want to turn it into on the right. On the left you can see what the block will looks like. You can change the shape of the blocks by pressing the button below. You can click Chisel to chisel the stack you have selected, or hole sneak and click to chisel all blocks of that type in your inventory at once. There are also more options for chiseling in the world.
+The iChisel works slightly differently. Instead of inserting the block and taking the chiseled block out, you select the block you want to chisel from your inventory and then you choose what you want to turn it into on the right. On the left you can see what the block will looks like.
+You can change the shape of the blocks by pressing the button below. You can click Chisel to chisel the stack you have selected, or hole sneak and click to chisel all blocks of that type in your inventory at once. There are also more options for chiseling in the world.
 ![](chisel3.png)
 
 ![엔더 오프셋 막대](item:chisel:offsettool)

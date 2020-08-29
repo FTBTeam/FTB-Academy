@@ -1,12 +1,12 @@
-#Copy-Paste Gadget
-![Copy-Paste Gadget](item:buildinggadgets:copypastetool)
-The Copy-Paste Gadget will allow you to copy an area and place it somewhere else, without destroying the original. You can also place structures other people have made online!
+# 복사-붙여넣기 가젯
+![복사-붙여넣기 가젯](item:buildinggadgets:copypastetool)
+복사-붙여넣기 가젯(Copy-Paste Gadget)을 이용하면 원본을 파괴하지 않고도 지정된 구역을 복사해 다른곳에 붙여넣을 수 있습니다. 다른 사람들이 올린 건축물들을 온라인에서 복사해올 수도 있습니다!
 
-Right click on one corner of the area you want to copy. This block is where it will be placed from later on. Sneak right click on the other corner to copy the rectangular area between them.
+먼저 원하는 구역의 한쪽 꼭지점을 우클릭하세요. 우클릭으로 지정한 꼭지점은 구조물을 붙여넣을 때 내가 바라보는 블록에 위치할 것입니다. 웅크린채로 다른 꼭지점을 우클릭해 육면체의 구역을 지정하세요.
 ![](copy.png)
 
-Hold G then change to Paste mode, and you will see a hologram of the blocks you copied. You can anchor it somewhere and then hold sneak and right click to adjust the structure's location manually, if it's off at all.
+Setting Menu 버튼(기본 X키)을 눌러 Paste 모드로 변경하고, 원하는 지점을 바라보면 복사될 구조물이 홀로그램으로 보여질 것입니다. 원하는 위치를 바라본 채로 Anchor를 설정한 후에 웅크린채로 우클릭하면 구조물의 좌표를 수동으로 세세하게 조정할 수 있습니다.
 ![](paste.png)
 
-You can save structures to Templates.
-If you don't want to have to get all the blocks for your structure, you can use Construction Paste instead!
+복사한 구조물을 탬플릿(Template)에 저장할 수도 있습니다.
+만약 구조물에 해당하는 모든 블록을 구하기 귀찮다면, 대신 건축용 페이스트를 사용할 수 있습니다!

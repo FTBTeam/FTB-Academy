@@ -1,8 +1,8 @@
-#Destruction Gadget
-![Destruction Gadget](item:buildinggadgets:destructiontool)
-The Destruction Gadget allows you to destroy a massive amount of blocks at once. Blocks destroyed are not dropped, they are gone forever (though you can undo with U by default).
+# 파괴 가젯
+![파괴 가젯](item:buildinggadgets:destructiontool)
+파괴 가젯(Destruction Gadget)을 사용하면 엄청난 양의 블록을 한번에 없애버릴 수 있습니다. 파괴된 블록은 뭔가를 떨어뜨리지 않고, 영원히 사라집니다. 사실 영원히 사라지진 않고 Undo 버튼(기본 U키)을 눌러 다시 되돌릴 수는 있습니다.
 
-Sneak right click it to set the area it will effect. Set the number in each direction to say how many blocks in that direction it will break.
+웅크린채로 우클릭해 파괴할 범위를 지정할 수 있습니다. 각 방향으로 얼만큼의 블록을 파괴할건지를 각각 설정할 수 있습니다.
 
-If you set it so that Up, Down, Left, and Right are each 1, it will break 1 block in each direction away from the center breaking a 3x3 area.
+만약 위, 아래, 왼쪽, 오른쪽 모두 1로 설정했다면, 바라보는 블록에서 각 방향으로 한칸씩 확장된, 총 3x3만큼의 블록을 파괴할 것입니다.
 ![](3x3.png)

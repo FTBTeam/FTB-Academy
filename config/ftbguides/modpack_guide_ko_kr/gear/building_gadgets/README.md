@@ -1,17 +1,18 @@
-#Building Gadgets
+# 빌딩 가젯
 
-Building Gadgets is a mod by Direwolf20 that adds several tools that make building in Minecraft very much easier.
-[You can read the official wiki for the mod by clicking here](https://github.com/Direwolf20-MC/BuildingGadgets/wiki)
-All Gadgets need RF to function.
+빌딩 가젯(Building Gadgets)은 Direwolf20가 만든 모드로서 마인크래프트의 건축을 편리하게 만들어주는 여러 도구들을 추가합니다.
+(*역주: Direwolf20는 주로 모드팩 생존기를 올리는 외국 마인크래프트 유튜버입니다.)
+[여기를 클릭해 모드의 공식 위키의 내용을 읽어볼 수 있습니다](https://github.com/Direwolf20-MC/BuildingGadgets/wiki)
+모든 가젯들은 작동하기 위해 RF를 필요로합니다.
 
 
-Hold the mods's Settings button (G by default) to open the radial menu:
+모드의 Setting Menu 버튼(기본 X키)를 눌러 원형의 메뉴를 열 수 있습니다.
 ![](radial.png)
-The radial menu has all the different settings for the Tools. On the Building Gadget, each of the buttons on the circle are a different building mode, the buttons on the right are options for that building mode, and the buttons on the left are for manipulating the world.
+원형 메뉴는 들고있는 도구에 따라 다른 설정들이 포함되어 있습니다. 빌딩 가젯(Building Gadget)의 경우에는 중앙 원형의 각각의 버튼은 건축 모드를, 오른쪽 버튼들은 선택된 건축 모드에 대한 옵션을, 왼쪽 버튼은 블록을 어떤 식으로 설치할지를 설정하는 버튼들이 있습니다.
 
 ![](/copypaste/paste.png)
-The Anchor button will keep the structure right where it was when the button was placed, so you can walk around it and make sure it's how you want it to be.
+앵커(Anchor) 버튼을 누르면 구조물이 바로 그 자리에 고정되어, 둘러보면서 구조물이 제대로 설치될 수 있는지 확인할 수 있습니다.
 
-Building Gadgets will remember the last 10 times it was used, and you can undo them with the Undo button.
+빌딩 가젯은 지난 10번까지의 사용이 기록되어 있어 Undo 버튼(기본 U키)를 눌러 사용하기 전으로 되돌릴 수 있습니다.
 
-The Rotate button will rotate the entire structure, or blocks within the structure like Stairs.
+회전(Rotate) 버튼을 누르면 전체 구조물이나 방향이 있는 블록(계단)들을 돌릴 수 있습니다.

@@ -1,29 +1,29 @@
-#Building Gadget
-![Building Gadget](item:buildinggadgets:buildingtool)
-The Bulding Gadget allows you to quickly build simple structures like walls and stairs. 
-Sneak right click on a block to set the Gadget to build that block, and right click to build where the hologram shows.
+# 빌딩 가젯
+![빌딩 가젯](item:buildinggadgets:buildingtool)
+빌딩 가젯(Bulding Gadget)을 이용하면 벽이나 계단같은 간단한 구조물들을 빠르게 설치할 수 있습니다.
+블록을 웅크린채로 우클릭해 설치할 블록으로 지정한 후, 우클릭시 홀로그램에 보여지는 대로 블록이 설치됩니다.
 
-Building Modes
+건축 모드
 ![](buildtome.png)
-The Build to Me mode will attempt to make a straight line of blocks from where you're pointing to you.
+Build to Me 모드는 바라보는 지점에서 당신이 서있는 위치까지 일직선으로 블록을 설치합니다.
 
 ![](grid.png)
-The Grid mode will make a grid of the block you set it in the area defined by the range.
+Grid 모드는 설정된 범위(range)에 따라 그리드 형태로 블록을 설치합니다.
 
 ![](verticalwall.png)
-The Vertical Wall mode will make a wall, with the length of each side defined by the range. 
+Vertical Wall 모드는 설정된 범위에 따라 정해지는 크기의 정사각형 벽을 설치합니다.
 
 ![](horizontalwall.png)
-The Horizontal Wall mode will make a floor, with the length defined by the range.
+Horizontal Wall 모드는 설정된 범위에 따라 정해지는 크기의 정사각형 바닥을 설치합니다.
 
 ![](surface.png)
-The Surface mode will place blocks on every block of the type you're looking at, with the area depending on the range. This mode has additional options. Enabling Fuzzy will allow it to work on all similar blocks instead of the exact same block, so for instance different wood types will both count as the same block. Connected Surface will require that all the blocks touch for them to be placed on.
+Surface 모드는 바라보는 면을 설정된 범위에 따라 확장시킵니다. 이 모드는 추가적인 옵션들을 더 설정할 수 있습니다. 오른쪽 Fuzzy 모드를 활성화하면 흙이나 잔디, 돌이나 안산암 등 정확히 바라보는 블록만이 아닌 비슷한 블록들도 같은 면으로 인식합니다. 따라서 이 모드를 키면 다른 종류의 나무 판자들로 이루어진 벽도 확장할 수 있습니다. Connected Surface 모드를 활성화하면 대각으로 연결된 블럭들도 한 면으로 인식합니다.
 
 ![](stairs.png)
-The Stairs mode will place blocks diagonally downward or upward, depending on if you're above or below the block.
+Stairs 모드는 바라보는 방향이 위냐 아래냐에 따라 아래/위로 이어지는 계단을 설치합니다.
 
-![The anchor was placed while on the right of the placed Fence block](horizontalcolumn.png)
-The Horizontal Column will place a row of blocks on the opposite side of the block you're looking at. 
+![오른쪽 끝에 설치된 울타리에 anchor가 고정된 상태입니다](horizontalcolumn.png)
+Horizontal Column 모드는 내가 바라보는 쪽으로 가로로 블록을 설치합니다.
 
 ![](verticalcolumn.png)
-The Vertical Column will place a pillar of blocks straight up or down.
+Vertical Column 모드는 위/아래 방향으로 기둥을 세웁니다.

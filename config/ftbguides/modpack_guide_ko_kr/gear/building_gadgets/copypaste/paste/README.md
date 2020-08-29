@@ -1,9 +1,9 @@
-#Construction Paste
-Construction Paste can take the appearance of any block, but it won't mimic any special features about it. Gadgets will use Construction Paste from your inventory if they do not have enough of the actual block.
+# 건축용 페이스트
+건축용 페이스트(Construction Paste)는 어떤 블록의 텍스쳐라도 흉내낼 수 있지만, 그 블록의 특성까지 따라할 수는 없습니다. 만약 가젯을 사용하는데 인벤토리에 충분한 양의 해당 블록이 없다면 자동으로 건축용 페이스트를 사용하게 됩니다.
 
-To get Construction Paste, place Construction Powder next to water and then break the resulting block. You can store it in a Paste Container by right clicking it while you have Paste in your inventory.
+건축용 페이스트를 얻으려면 먼저 물 주변에 건축용 블록 파우더(Construction Block Powder)를 설치하고 기다리면 굳는데, 이때 블록을 캐면 건축용 페이스트를 얻을 수 있습니다. 페이스트 컨테이너(Paste Container)를 허공에 우클릭해 인벤토리에 있는 건축용 페이스트들을 저장할 수 있습니다.
 
-When placed, it will start out as Construction Blocks and slowly transition to looking like the block. Even if it resembles a soft block, it needs a pickaxe to mine.
+건축용 페이스트가 설치되면, 서서히 해당 블록으로 텍스쳐가 바뀔 것입니다. 건축용 페이스트가 변환된 블록은 흙처럼 부드러운 블록의 텍스쳐를 따라했더라도, 부술때는 곡괭이가 필요합니다.
 
 ![](step1.png)
 ![](step2.png)

@@ -1,6 +1,6 @@
-#Exchanging Gadget
-![Exchanging Gadget](item:buildinggadgets:exchangertool)
-The Exchanging Gadget replaces blocks in patterns similar to the Building Gadget. Sneak right click on the block you want to replace to, set the mode and range, and then right click to replace.
+# 변환 가젯
+![변환 가젯](item:buildinggadgets:exchangertool)
+변환 가젯(Exchanging Gadget)은 빌딩 가젯과 비슷한 패턴으로 이미 설치된 블록을 교체합니다. 블록을 웅크린채로 우클릭해 설치할 블록으로 지정한 후, 모드와 범위를 설정하고 원하는 곳을 우클릭하면 홀로그램에 보여지는 대로 블록이 변환됩니다.
 ![](exchange.png)
 
-If you try to exchange a block that doesn't drop itself, like Grass or Stone, it will drop the block as if it were mined by a tool. You can enchant the Exchanging Gadget with Silk Touch and it will drop itself.
+잔디나 돌처럼 부서졌을 때 다른 아이템이 떨어지는 블록을 교체했을 때는 일반적인 도구로 해당 블록을 캔 것처럼 아이템을 얻습니다. 변환 가젯에 섬세한 손길 인챈트를 부여하면 블록 그대로를 얻을 수 있습니다.

@@ -1,27 +1,27 @@
 [
 	{
 		"id": "building",
-		"title": "Building Gadget",
+		"title": "빌딩 가젯",
 		"icon": "item:buildinggadgets:buildingtool"
 	},
 	{
 		"id": "exchanging",
-		"title": "Exchanging Gadget",
+		"title": "변환 가젯",
 		"icon": "item:buildinggadgets:exchangertool"
 	},
 	{
 		"id": "copypaste",
-		"title": "Copy-Paste Gadget",
+		"title": "복사-붙여넣기 가젯",
 		"icon": "item:buildinggadgets:copypastetool"
 	},
 	{
 		"id": "destruction",
-		"title": "Destruction Gadgets",
+		"title": "파괴 가젯",
 		"icon": "item:buildinggadgets:destructiontool"
 	},
 	{
 		"id": "paste",
-		"title": "Construction Paste",
+		"title": "건축용 페이스트",
 		"icon": "item:buildinggadgets:constructionpastecontainer"
 	}
 ]
