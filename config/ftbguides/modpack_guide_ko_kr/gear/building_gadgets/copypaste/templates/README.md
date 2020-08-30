@@ -13,6 +13,5 @@ Copy 버튼을 눌러 가젯에 저장된 구조물을 컴퓨터 클립보드에
 Paste 버튼을 눌러 컴퓨터 클립보드에 복사된 구조물을 종이나 탬플릿에 저장할 수 있어, 가젯으로 해당 구조물을 불러올 수 있습니다.
 
 [이 사이트에서 유저들이 복사한 구조물들을 살펴보세요!](https://www.reddit.com/r/9x9/)
-위의 페이지에 들어가 마음에 드는 구조물들을 찾아 페이지를 여세요. 
-xplore that page and find a structure you like and open the post it's in. The post should have a link pastebin.com, and at the bottom should be a text box that says "RAW Paste Data." Select everything in the box and copy it.
+위의 페이지에 들어가 마음에 드는 구조물들을 찾아 게시글을 여세요. 게시글에는 아마 pastebin.pastebin.comcom과 같은 형태의 링크를 포함할 것이고, 그 아래에 "RAW Paste Data."라고 쓰여진 아래에텟스트 박스가 있을 것입니다. 박스 내의 모든 내용을 복사하면 됩니다.
 ![](pastebin.png)

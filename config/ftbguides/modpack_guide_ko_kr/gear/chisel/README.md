@@ -11,17 +11,15 @@
 ![](chisel2.png)
 
 ![고성능 끌](item:chisel:chisel_hitech)
-고성능 끌(iChisel)은 조금 다른 방식으로 작동합니다. 블록을 치슬에 넣고 조각된 블록을 꺼내는 대신, 인벤토리에서 조각할 블록을 선택한 후 오른쪽 리스트에서 원하는 모양을 선택하세요. 왼쪽에는 블록의 생김새를 미리 볼 수 있습니다.
-The iChisel works slightly differently. Instead of inserting the block and taking the chiseled block out, you select the block you want to chisel from your inventory and then you choose what you want to turn it into on the right. On the left you can see what the block will looks like.
-You can change the shape of the blocks by pressing the button below. You can click Chisel to chisel the stack you have selected, or hole sneak and click to chisel all blocks of that type in your inventory at once. There are also more options for chiseling in the world.
+고성능 끌(iChisel)은 조금 다른 방식으로 작동합니다. 블록을 치슬에 넣고 조각된 블록을 꺼내는 대신, 인벤토리에서 조각할 블록을 선택한 후 오른쪽 리스트에서 원하는 모양을 선택하세요. 왼쪽에는 블록의 생김새를 미리 볼 수 있습니다. 미리보기 창 바로 아래의 버튼을 눌러 미리보기 모양을 바꿔볼 수도 있습니다. 새기기 버튼을 클릭해 선택한 블록 묶음을 조각하거나, 웅크리기 키를 누른채로  버튼을 누르면 인벤토리에 있는 같은 종류의 다른 모든 블록들을 한번에 조각할 수도 있습니다. 이미 설치된 블록을 조각하는 여러 옵션들도 있습니다.
 ![](chisel3.png)
 
 ![엔더 오프셋 막대](item:chisel:offsettool)
-Some blocks have textures that spawn multiple blocks. However, they might not be centered where you want them to be. The Ender Offset Wand helps with this.
+어떤 블록들은 여러 블록이 모여 하나의 텍스쳐를 이룹니다. 하지만 그 텍스쳐가 원하는 위치에 정렬되지 않을 수도 있습니다. 엔더 오프셋 막대(Ender Offset Wand)는 이럴 때 사용합니다.
 ![](offset1.png)
-Hold the Ender Offset Wand and look at the blocks. Click it in the direction you want to shift the textures in. So, if the texture is one block too high, click the bottom of the block.
+엔더 오프셋 막대를 들고 블록을 바라보세요. 텍스쳐를 이동시킬 방향을 클릭하세요. 만약 텍스쳐가 한칸 위로 밀렸다면 블록의 아래쪽을 클릭하면 됩니다.
 ![](offset2.png)
 
 ![자동 끌](item:chisel:auto_chisel)
-The Auto Chisel will automatically chisel blocks you insert into it. Place a Chisel into the middle slot, place the version of the block you want in the middle bottom slot, and then input the blocks into the left side and they will be output into the right side.
-![There's an RF bar, but it doesn't actually need RF. An energy requirement is a configurable option, which is disabled by default.](autochisel.png)
+자동 끌은 삽입된 블록을 자동으로 조각해줍니다. 중앙 슬롯에 끌을 넣고, 그 아래에 원하는 버전의 블록을 놓으세요. 왼쪽 슬롯에 조각할 블록이 들어오면 자동으로 블록을 선택된 모양으로 조각해 오른쪽 슬롯으로 배출할 것입니다.
+![RF 바가 있기는 하지만, 실제로 RF를 사용하지는 않습니다. 에너지 사용은 콘피그 옵션으로, 기본적으로는 비활성화되어 있습니다.](autochisel.png)
