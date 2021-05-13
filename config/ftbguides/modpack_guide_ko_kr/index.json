@@ -1,0 +1,42 @@
+[
+  {
+    "id": "quests",
+    "title": "퀘스트",
+    "icon": "item:ftbquests:book"
+  },
+  {
+    "id": "the_world",
+    "title": "세계",
+    "icon": "item:minecraft:grass"
+  },
+  {
+    "id": "your_interface",
+    "title": "인터페이스",
+    "icon": "item:minecraft:skull 1 3 {SkullOwner:\"Steve\"}"
+  },
+  {
+    "id": "gear",
+    "title": "장치, 무기, 도구",
+    "icon": "item:minecraft:iron_pickaxe"
+  },
+  {
+    "id": "storage",
+    "title": "저장소",
+    "icon": "item:minecraft:chest"
+  },
+  {
+    "id": "technology",
+    "title": "기술",
+    "icon": "item:thermalexpansion:machine"
+  },
+  {
+    "id": "magic",
+    "title": "마법",
+    "icon": "item:astralsorcery:itemshiftingstar 1 0 {astralsorcery: {starAttunement: \"astralsorcery.constellation.vicio\"}}"
+  },
+  {
+    "id": "misc",
+    "title": "기타 다른 정보들",
+    "icon": "item:minecraft:bookshelf"
+  }
+]

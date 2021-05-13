@@ -1,0 +1,17 @@
+[
+	{
+		"id": "actually_additions",
+		"title": "액츄얼리 에디션즈",
+		"icon": "item:actuallyadditions:block_farmer"
+	},
+	{
+		"id": "industrial_foregoing",
+		"title": "인더스트리얼 포고잉",
+		"icon": "item:industrialforegoing:crop_sower"
+	},
+	{
+		"id": "thermal_expansion",
+		"title": "써멀 익스펜션",
+		"icon": "item:thermalexpansion:machine 1 4"
+	}
+]

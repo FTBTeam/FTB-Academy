@@ -1,0 +1,22 @@
+[
+	{
+		"id": "resource_gathering",
+		"title": "자원 수집",
+		"icon": "item:minecraft:iron_ore"
+	},
+	{
+		"id": "processing",
+		"title": "광물 정제",
+		"icon": "item:thermalfoundation:material"
+	},
+	{
+		"id": "creation",
+		"title": "물질 가공",
+		"icon": "item:thermalfoundation:material 1 167"
+	},
+	{
+		"id": "crafting",
+		"title": "조합",
+		"icon": "item:draconicevolution:fusion_crafting_core"
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"id": "fluxducts",
+		"title": "플럭스덕트",
+		"icon": "item:thermaldynamics:duct_0 1 2"
+	},
+	{
+		"id": "aa_relays",
+		"title": "에너지 레이저 중계기",
+		"icon": "item:actuallyadditions:block_laser_relay"
+	},
+	{
+		"id": "de_crystals",
+		"title": "에너지 중계 수정",
+		"icon": "item:draconicevolution:energy_crystal 1 1"
+	},
+	{
+		"id": "tesslocators",
+		"title": "에너지 테스로케이터",
+		"icon": "item:tesslocator:basic_energy_tesslocator"
+	},
+	{
+		"id": "storage",
+		"title": "저장",
+		"icon": "item:thermalexpansion:cell"
+	},
+	{
+		"id": "distance",
+		"title": "장거리 전송",
+		"icon": "item:enderstorage:ender_storage"
+	}
+]

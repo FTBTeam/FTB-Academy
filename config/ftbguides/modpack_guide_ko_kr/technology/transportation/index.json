@@ -1,0 +1,22 @@
+[
+	{
+		"id": "energy",
+		"title": "에너지 전송",
+		"icon": "item:thermaldynamics:duct_0 1 2"
+	},
+	{
+		"id": "item",
+		"title": "아이템 전송",
+		"icon": "item:thermaldynamics:duct_32"
+	},
+	{
+		"id": "fluid",
+		"title": "액체 전송",
+		"icon": "item:thermaldynamics:duct_16 1 2"
+	},
+	{
+		"id": "other",
+		"title": "기타 전송장치",
+		"icon": "item:thermaldynamics:duct_64"
+	}
+]

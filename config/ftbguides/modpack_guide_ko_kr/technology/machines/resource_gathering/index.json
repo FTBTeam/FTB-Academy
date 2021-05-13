@@ -1,0 +1,27 @@
+[
+	{
+		"id": "ores_fluids",
+		"title": "광물과 액체 수집",
+		"icon": "item:minecraft:iron_ore"
+	},
+	{
+		"id": "farming",
+		"title": "식물 농사",
+		"icon": "item:minecraft:wheat"
+	},
+	{
+		"id": "plastic",
+		"title": "플라스틱",
+		"icon": "item:industrialforegoing:plastic"
+	},
+	{
+		"id": "mob_grinding",
+		"title": "몬스터 농장",
+		"icon": "item:minecraft:skull"
+	},
+	{
+		"id": "other",
+		"title": "기타",
+		"icon": "item:minecraft:cobblestone"
+	}
+]

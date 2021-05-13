@@ -1,0 +1,18 @@
+[
+	{
+		"id": "thermal_expansion",
+		"title": "써멀 익스펜션",
+		"icon": "item:thermalexpansion:dynamo"
+	},
+	{
+		"id": "actually_additions",
+		"title": "액츄얼리 에디션즈",
+		"icon": "item:actuallyadditions:block_oil_generator"
+	},
+	{
+		"id": "industrial_foregoing",
+		"title": "인더스트리얼 포고잉",
+		"icon": "item:industrialforegoing:petrified_fuel_generator"
+	}
+
+]

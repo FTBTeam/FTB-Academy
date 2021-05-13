@@ -1,0 +1,12 @@
+[
+	{
+		"id": "te",
+		"title": "제작 기계",
+		"icon": "item:thermalexpansion:machine 1 11"
+	},
+	{
+		"id": "de",
+		"title": "융합 조합",
+		"icon": "item:draconicevolution:fusion_crafting_core"
+	}
+]
