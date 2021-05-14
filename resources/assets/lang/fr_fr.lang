@@ -1,0 +1,1843 @@
+# Chapters
+
+academy.gettingstarted.title=Bien débuter
+academy.building.title=Construction
+
+academy.basics.title=Basiques
+
+academy.mainmagic.title=Magie
+academy.botania.title=Botania
+academy.twilightforest.title=Twilight Forest
+
+academy.mainstorage.title=Stockage
+academy.storage1.title=Stockage basique
+academy.refinedstorage1.title=Refined Storage - Débutant
+academy.refinedstorage2.title=Refined Storage - Confirmé
+academy.refinedstorage3.title=Refined Storage - Expert
+
+academy.maintechnology.title=Technologie
+academy.technology1.title=Technology - Débutant
+academy.technology2.title=Technology - Confirmé
+academy.technology3.title=Technology - Expert
+
+academy.misc.title=Quêtes diverses
+
+academy.clickthis.task=Cliquez-moi
+
+
+#Reward Tables
+academy.ticonmodifiers.rewards=Modificateurs de TiCon
+academy.ticonmodifiers.lapisreward=Modificateur de chance
+academy.ticonmodifiers.redstonereward=Modificateur de vitesse
+
+academy.ores.rewards=Minerais
+academy.mysticalpetals.rewards=Pétales mystiques
+academy.mobmasher.rewards=Modificateurs de Broyeur à Créatures
+academy.manamats.rewards=Matériaux Mana
+academy.elfmats.rewards=Matériaux Elfiques
+academy.ingots.rewards=Lingots
+academy.scepters.rewards=Sceptres
+academy.TFfirethings.rewards=Trucs en feux
+academy.fluiducts.rewards=Fluiducts
+academy.itemducts.rewards=Itemducts
+academy.iflenses.rewards=Lentilles pour Laser
+academy.passivemobs.rewards=Créatures Passives
+academy.impulseitemducts.rewards=Itemducts à Impulsion
+academy.signalumitemducts.rewards=Itemducts plaqués Signalum
+academy.signalumimpulse.rewards=Itemducts à Impulsion plaqués Signalum
+academy.hardenedfluiducts.rewards=Fluiducts renforcés
+academy.signalumfluiducts.rewards=Fluiducts plaqués Signalum
+academy.laminarfluiducts.rewards=Fluiducts super-laminaires
+academy.elevators.rewards=Ascenseur
+academy.meats.rewards=Viandes
+academy.rangeaddons.rewards=Modificateur de portée
+
+academy.swordenchants1.rewards=Enchantements d'épée 1
+academy.looting1.reward=Pillage II
+academy.sharpness1.reward=Tranchant III
+
+academy.swordenchants2.rewards=Enchantements d'épée 2
+academy.looting2.reward=Pillage IV
+academy.sharpness2.reward=Tranchant VI
+
+academy.bowenchants1.rewards=Enchantement d'Arc 1
+academy.power1.reward=Puissance III
+academy.punch1.reward=Frappe I
+
+academy.bowenchants2.rewards=Enchantement d'Arc 2
+academy.power2.reward=Puissance VI
+academy.punch2.reward=Frappe III
+
+academy.prot1.reward=Protection II
+academy.fireprot1.reward=Protection contre le Feu III
+academy.blastprot1.reward=Protection contre les Explosions III
+academy.projprot1.reward=Protection contre les Projectiles III
+academy.thorns1.reward=Épines II
+
+academy.helmenchants1.rewards=Enchantements de Casque 1
+academy.aquaaffin1.reward=Affinité Aquatique
+academy.resp1.reward=Respiration II
+
+academy.chestenchants1.rewards=Enchantements de Plastron
+
+academy.legenchants1.rewards=Enchantements de Jambières
+
+academy.bootenchants1.rewards=Enchantements de Bottes 1
+academy.depthstr1.reward=Marcheur des Profondeurs II
+academy.feathfall1.reward=Chute Amortie IV
+academy.frostwalk1.reward=Marcheur de Givre
+
+academy.prot2.reward=Protection IV
+academy.fireprot2.reward=Protection contre le Feu V
+academy.blastprot2.reward=Protection contre les Explosions V
+academy.projprot2.reward=Protection contre les Projectiles V
+academy.thorns2.reward=Épines IV
+
+academy.helmenchants2.rewards=Enchantements de Casque 2
+
+academy.chestenchants2.rewards=Enchantements de Plastron 2
+
+academy.legenchants2.rewards=Enchantement de Jambières 2
+
+academy.bootenchants2.rewards=Enchantements de Bottes 2
+academy.depthstr2.reward=Marcheur des Profondeurs IV
+academy.frostwalk2.reward=Marcheur de Givre III
+
+academy.brightconstellations.rewards=Bright Constellations
+academy.discidia.reward=Discidia
+academy.armara.reward=Armara
+academy.vicio.reward=Vicio
+academy.aevitas.reward=Aevitas
+academy.evorsio.reward=Evorsio
+
+academy.dimconstellations.rewards=Dim Constellations
+academy.bootes.reward=Bootes
+academy.fornax.reward=Fornax
+academy.horologium.reward=Horologium
+academy.lucerna.reward=Lucerna
+academy.mineralis.reward=Mineralis
+academy.octans.reward=Octans
+academy.pelotrio.reward=Pelotrio
+
+academy.faintconstellations.rewards=Faint Constellations
+academy.alcara.reward=Alcara
+academy.gelu.reward=Gelu
+academy.ulteria.reward=Ulteria
+academy.vorux.reward=Vorux
+
+academy.coloredlenses.rewards=Lentilles Colorées
+academy.orangelens.reward=Allumage
+academy.yellowlens.reward=Brisage
+academy.greenlens.reward=Croissance
+academy.redlens.reward=Dégâts
+academy.pinklens.reward=Régénération
+academy.bluelens.reward=Pousser
+academy.purplelens.reward=Spectral
+
+#Advancements
+
+academy.advancements.root.title=Bienvenue dans l'Académie FTB !
+academy.advancements.root.description=Commencer à jouer au pack de mods.
+
+academy.advancements.storage.title=Certificat en Stockage
+academy.advancements.storage.description=Apprendre les différentes méthodes de stockage des mods.
+
+academy.advancements.automation.title=Certificat en Automatisation
+academy.advancements.automation.description=Apprendre comment l'automatisation fonctionne.
+
+academy.advancements.tech.title=Certificat en Technologie
+academy.advancements.tech.description=Apprendre comment les mods technologiques fonctionnent.
+
+academy.advancements.as.title=Certificat en Sorcellerie Astrale
+academy.advancements.as.description=Apprendre comment fonctionne Astral Sorcery.
+
+academy.advancements.botania.title=Certificat en Botanique
+academy.advancements.botania.description=Apprendre comment utiliser Botania.
+
+academy.advancements.graduated.title=Doctorat
+academy.advancements.graduated.description=Terminer l'école et continuer dans l'Overworld.
+
+
+#Basics
+
+academy.welcome.title=Bienvenue dans l'Académie FTB !
+academy.welcome.desc=Apprendre comment les quêtes fonctionnent
+academy.welcome.text1=Bienvenue dans l'Académie FTB !
+academy.welcome.text2=Ce pack de mods a pour but d'apprendre aux nouveaux joueurs comment jouer à Minecraft moddé.
+academy.welcome.text3=Ces quêtes vous guideront pas-à-pas sur la façon de progresser dans les mods les plus communs. Cela fonctionne mieux avec le Guide, qui contiendra davantage d'informations sur le fonctionnement des mods.
+academy.welcome.reward=Lire le tutoriel de l'École
+
+academy.introJEI.title=Recherche d'Objets et de Recettes
+academy.introJEI.desc=Apprendre à utiliser JEI
+academy.introJEI.text1=Minecraft moddé propose beaucoup de nouveaux blocs et d'objets, ainsi il est difficile de se souvenir de toutes les recettes de craft. Heureusement, le mod "Just Enough Items" simplifie tout ça !
+academy.introJEI.text2=Sur le côté droit de l'inventaire se trouve une liste de tous les blocs et objets du pack de mods. Passer son curseur sur l'un d'eux et appuyer sur R affichera sa recette, et appuyer sur U affichera quelles recettes l'utilisent.
+academy.introJEI.text3=En bas de l'inventaire se trouve une barre de recherche, où vous pouvez entrer le nom d'un objet pour filtrer la liste d'objets.
+academy.introJEI.text4=Vous pouvez double-cliquer sur la barre de recherche pour rechercher l'objet en question dans les inventaires.
+academy.introJEI.reward=Lire le tutoriel de JEI
+
+academy.introstorage.title=Introduction au Stockage
+academy.introstorage.desc=Apprendre le Stockage
+academy.introstorage.text=Il existe une pléthore de mods vous permettant de stocker des objets facilement.
+academy.introstorage.task=Entrer dans la salle de stockage.
+
+academy.introgenstorage.title=Stockage Général
+academy.introgenstorage.desc=Ouvrir des Coffres et des Caisses de Stockage
+academy.introgenstorage.text1=Les coffres d'Iron Chests et les Caisses de Stockage permettent de stocker une grande quantité d'objets. Ils fonctionnent comme des coffres standards, mais leur contenance est bien supérieure.
+academy.introgenstorage.text2=Ils possèdent chacun plusieurs niveaux, les plus élevés offrant une plus grande capacité de stockage.
+academy.introgenstorage.task1=Ouvrir un Coffre en Fer
+academy.introgenstorage.task2=Ouvrir un Coffre en Diamant
+academy.introgenstorage.task3=Ouvrir un Petit Coffre de Stockage
+academy.introgenstorage.task4=Ouvrir une Grande Caisse de Stockage
+
+academy.introbulkstorage.title=Stockage de Masse
+academy.introbulkstorage.desc=Regarder des Casiers de Stockage
+academy.introbulkstorage.text1=Les Casiers de Stockages sont excellents pour stocker une grande quantité d'un seul objet.
+academy.introbulkstorage.text2=Effectuer un clic droit sur un Casier pour stocker l'item que vous tenez et maintenir le clic droit pour stocker l'intégralité du nombre de cet item présent dans votre inventaire.
+academy.introbulkstorage.text3=Effectuer un clic gauche sur le Casier pour récupérer un seul objet contenu et MAJ clic gauche pour récupérer un stack de cet objet.
+academy.introbulkstorage.task1=Regarder un Casier Compacteur
+academy.introbulkstorage.task2=Regarder un Casier Basique 1x2
+academy.introbulkstorage.task3=Regarder un Casier Basique
+
+academy.introdigitalstorage.title=Stockage Digital
+academy.introdigitalstorage.desc=Regarder le système Refined Storage
+academy.introdigitalstorage.text1=Refined Storage vous permet de stocker une quantité astronomique d'objets.
+academy.introdigitalstorage.text2=Les objets sont stockés dans des Disques, qui sont eux-mêmes stockés dans des Baies de Disques. Vous pouvez accéder aux objets contenus dans les disques par le biais d'une Grille.
+academy.introdigitalstorage.text3=Au lieu d'être limité par le nombre d'emplacements qu'un inventaire comporte, les objets stockés influent sur la capacité utilisée d'un Disque.
+academy.introdigitalstorage.text4=La dernière quête vous a donné un Disque de Stockage. Ouvrez la Baie à Disques et insérez le Disque de Stockage puis ouvrez la Grille et récupérez le seau d'eau à l'intérieur.
+academy.introdigitalstorage.task1=Ouvrez la Baie à Disques
+academy.introdigitalstorage.task2=Ouvrez la Grille d'Artisanat
+
+academy.introfluidstorage.title=Stockage de Fluides
+academy.introfluidstorage.desc=Videz un Seau d'Eau
+academy.introfluidstorage.text1=Comme il existe des mods pour ajouter de nouveaux moyens de stockage, il existe également des mods qui ajoute des moyens de stocker des fluides.
+academy.introfluidstorage.text2=Les blocs qui peuvent stocker des fluides ont souvent le mot "Réservoir" dans leur nom, pour que vous puissiez rentrer le mot "Réservoir" pour tous les trouver.
+academy.introfluidstorage.text3=Le Réservoir Portable possède plusieurs niveaux vous permettant de stocker plus de fluide.
+academy.introfluidstorage.text4=Vous pouvez transvaser des fluides d'un Seau jusqu'à un Réservoir et vice-versa en effectuant un clic droit avec le Seau en main sur le Réservoir.
+
+academy.introautomation.title=Introduction à l'Automatisation
+academy.introautomation.desc=Apprendre l'Automatisation
+academy.introautomation.text1=Juste stocker les objets et les fluides n'est pas suffisant, pour automatiser convenablement vous devez les déplacer automatiquement.
+academy.introautomation.text2=La méthode la plus simple pour déplacer des choses est les Ducts. Les objets sont déplacés via des Itemducts et les fluides par des Fluiducts.
+academy.introautomation.text3=Les Servos sont utilisés pour extraire depuis des blocs, et les objets/fluides iront automatiquement dans le bloc pouvant les contenir le plus proche.
+academy.introautomation.task=Entrer dans la salle d'Automatisation
+
+academy.introfilters.title=Filtrage
+academy.introfilters.desc=Mettre en place quelques Filtres
+academy.introfilters.text1=Les Filtres peuvent être utilisés pour spécifier ce qui est autorisé à entrer dans un bloc via le Duct. Vous pouvez l'ouvrir pour régler sa Liste Blanche ou Noire.
+academy.introfilters.text2=Les objets sur une Liste Blanche sont les seuls objets autorisés à entrer et les seuls à ne pas être autorisés dans une Liste Noire.
+academy.introfilters.text3=• Réglez le Filtre de droite pour autoriser les minerais dans la Liste Blanche.
+academy.introfilters.text4=• Réglez le Filtre central pour autoriser les blocs de terre dans la Liste Blanche.
+academy.introfilters.text5=• Régler le Filtre de gauche pour intégrer les minerais et les blocs de terre dans la Liste Noire.
+academy.introfilters.text6=Utilisez le levier pour activer le Servo et des objets seront extraits de la Caisse sur la gauche pour rentrer dans les Caisses adjacentes en fonction de la configuration des Filtres.
+academy.introfilters.task1=Régler le filtre Général
+academy.introfilters.task2=Régler le filtre Terre
+academy.introfilters.task3=Régler le filtre Minerai
+
+academy.introfluidtransfer.title=Transferts de Fluides
+academy.introfluidtransfer.desc=Transvaser de l'Eau
+academy.introfluidtransfer.text1=Les Itemducts déplacent des objets tandis que les Fluiducts déplacent des fluides.
+academy.introfluidtransfer.text2=Les Réservoirs Portables peuvent être configurés pour extraire automatiquement vers le bloc en-dessous d'eux. Utilisez le Marteau sur le dessus sur du Réservoir Portable afin de lui faire déplacer l'Eau dans le Réservoir en-dessous.
+academy.introfluidtransfer.text3=Vous pouvez régler les Servos pour fonctionner quand ils ne reçoivent aucun signal de redstone en l'ouvrant et en cliquant sur l'icône de Poudre de Redstone sur la droite. Faites donc ça ici et réglez le Servo pour qu'il ignore ou le signal ou un signal faible (ce qui équivaut à aucun signal).
+
+academy.introtech.title=Introduction à la Technologie
+academy.introtech.desc=Apprendre la Technologie
+academy.introtech.text1=Les mods technologiques jouent un rôle majeur dans les pack de mods FTB. Ces quêtes sont là pour vous apprendre les bases.
+academy.introtech.task=Entrez dans la salle technologique
+
+academy.introgen.title=Produire de l'Énergie
+academy.introgen.desc=Utiliser un Générateur à Charbon
+academy.introgen.text1=La plupart des mods technologiques utilisent des RF, ce qui basiquement de l'électricité.
+academy.introgen.text2=Les Générateurs sont des machines qui produisent des RF. Le Générateur à Charbon utilisent du combustible classique, comme le charbon, pour produire des RF.
+academy.introgen.text3=Placez le Générateur à Charbon sur le Bloc de Fer et alimentez-le avec du charbon pour lui permettre de produire des RF.
+academy.introgen.task=Placez le Générateur sur le Bloc de Fer
+
+academy.intropowertransfer.title=Acheminer de l'Énergie
+academy.intropowertransfer.desc=Placez des fluxducts
+academy.intropowertransfer.text1=Alors que vous pouvez techniquement vous en sortir avec des Générateurs connectés directement à vos machines, ce n'est pas la meilleure solution.
+academy.intropowertransfer.text2=Les Fluxducts et autres câbles d'alimentation vous permettent de connecter des générateurs à des machines quelque soit la distance.
+academy.intropowertransfer.text3=Placez les Fluxducts sur la Laine.
+academy.intropowertransfer.task=Placez les Fluxducts sur la Laine Magenta
+
+academy.intromachines.title=Utiliser l'Énergie
+academy.intromachines.desc=Utilisez un Four à Redstone
+academy.intromachines.text1=Les générateurs produisent de l'énergie, mais vous devez aussi l'utiliser. Beaucoup de machines utilisent des RF pour réaliser des actions variées.
+academy.intromachines.text2=Le Four à Redstone en particulier utilise des RF pour faire cuire ou fondre des objets. Il fonctionne quasiment de la même façon qu'un four classique, excepté qu'il consomme des RF au lieu de charbon.
+academy.intromachines.text3=Placez le Four à Redstone sur le Bloc de Lapis Lazuli et utilisez-le pour faire cuire du Fer Pulvérisé.
+academy.intromachines.task=Placez le Four à Redstone sur le Bloc de Lapis Lazuli
+
+academy.introenergystorage.title=Stockage d'Énergie
+academy.introenergystorage.desc=Placez et configurer une Cellule d'Énergie.
+academy.introenergystorage.text1=Les Cellules d'Énergie stockent des RF. Le mieux est de les placer entre vos générateurs et vos machines pour que ces dernières puissent avoir un réservoir d'énergie utilisable.
+academy.introenergystorage.text2=MAJ et clic droit avec le Marteau sur le Fluxduct central pour le casser, puis placez la Cellule d'Énergie à la place.
+academy.introenergystorage.text3=Ouvrez la Cellule d'Énergie and cliquez sur l'engrenage bleu sur la droite pour la configurer. Maintenant, vous pouvez sélectionner quels côtés sont en mode Entrée et quels côtés sont en mode Sortie.
+academy.introenergystorage.text4=Cliquez sur la face pour la passer en mode Entrée (Bleu), Sortie (Rouge) ou Aucun (Jaune). Vous pouvez maintenir MAJ et faire un clic gauche sur la face avant pour les passer en Jaune. Réglez celui-ci pour qu'ils reçoivent l'énergie du générateur et en envoie vers le Four à Redstone.
+academy.introenergystorage.task=Remplacez le Fluxduct central par une Cellule d'Énergie and configurez-la
+
+academy.introaugments.title=Amélioration des Machines
+academy.introaugments.desc=Améliorer le Four à Redstone
+academy.introaugments.text1=La plupart des mods technologiques vous permettent d'améliorer leurs marchines. Thermal Expansion fait cela par le biais de Niveaux de Machine et d'Augmentations.
+academy.introaugments.text2=Améliorez les machines de Thermal Expansion en effectuant un clic droit avec une Amélioration ou un Kit de Conversion en main, ce qui améliorera son niveau. Cela leur permettra d'utiliser plus d'énergie et ainsi de fonctionner plus rapidement.
+academy.introaugments.text3=Vous pouvez encore les améliorer en installant des Augmentations. Plus le niveau de la machine est élevé et plus vous pouvez installer d'Augmentations. Ouvrez l'interface de la Machine et cliquez sur le bouton en haut à droite, vous pouvez insérer des Augmentations dans ces emplacements.
+academy.introaugments.task=Améliorez le Four à Redstone et installez les Augmentations
+
+academy.introtechlast.title=Utiliser les Machines Améliorées
+academy.introtechlast.desc=Utiliser le Four à Redstone amélioré
+academy.introtechlast.text=Une fois que le Four à Redstone est complètement amélioré, faites cuire les Fer Pulvérisés et regardez à quel point ils sont plus rapides.
+
+academy.introastralsorcery.title=Introduction à Astral Sorcery
+academy.introastralsorcery.desc=Apprendre Astral Sorcery
+academy.introastralsorcery.text=Astral Sorcery est un mod qui se concentre sur la maîtrise des pouvoirs de la lumière des étoiles et des constellations.
+academy.introastralsorcery.task=Entrez dans la zone d'Astral Sorcery
+
+academy.introstarlight.title=Utiliser la Lumière d'Étoile
+academy.introstarlight.desc=Fabriquez une Baguette Résonante
+academy.introstarlight.text1=Beaucoup de recettes de ce mod nécessitent de la Lumière d'Étoile en plus d'objets. Lorsque vous débutez, le seul moyen d'en utiliser est de placer une Table de Fabrication classique près d'un Crystal Flottant.
+academy.introstarlight.text2=La Baguette Résonante est utilisée pour activer les blocs d'Astral Sorcery. En la gardant en main et en se déplaçant dans l'Overworld, vous pouvez trouver l'emplacement de minerais de Cristal de Roche sous terre.
+academy.introstarlight.text3=Placez l'atelier de fabrication sur le bloc de Laine près du Cristal Flottant et fabriquez la Baguette Résonante à l'intérieur. Vous pouvez trouver la recette en cherchant son nom dans JEI.
+
+academy.introlct.title=Collecter de la Lumière d'Étoile
+academy.introlct.desc=Fabriquez un Atelier de Fabrication Lumineux
+academy.introlct.text1=L'Atelier de Fabrication Lumineux vous permet de récupérer de la Lumière d'Étoile juste en ayant en visuel le cier étoilé, bien qu'elle puisse aussi être alimenté par un Cristal Flottant à proximité si possible.
+academy.introlct.text2=Pour fabriquer des objets avec l'Atelier de Fabrication Lumineux, vous devez avoir les objets mais aussi une certaine quantité de Lumière d'Étoile en fonction de la recette.
+academy.introlct.text3=Si l'Atelier de Fabrication contient les objets et la Lumière d'Étoile requis, effectuez un clic droit avec la Baguette Résonante pour fabriquer l'objet.
+
+academy.introilumpowder.title=Fabriquer des objets avec la Lumière d'Étoile
+academy.introilumpowder.desc=Créer de la Poudre d'Éclairage
+academy.introilumpowder.text1=La Poudre d'Illumination est l'un de nombreux objets fabricables avec de la Lumière d'Étoile. Vous pouvez la placer n'importe où et elle agira comme une source lumineuse mais ne prend pas l'espace d'un bloc.
+academy.introilumpowder.text2=Placez l'Atelier de Fabrication Lumineux sur le bloc de Quartz et fabriquez de la Poudre d'Éclairage selon sa recette.
+academy.introilumpowder.text3=Pour rappel, vous devez effectuer un clic droit avec la Baguette Résonante sur l'Atelier de Fabrication pour fabriquer l'objet.
+
+academy.introbotania.title=Introduction à Botania
+academy.introbotania.desc=Apprendre Botania
+academy.introbotania.text1=Botania est un mod technologique déguisé en mod magique.
+academy.introbotania.text2=Avec lui, vous pourrez utiliser des fleurs pour générer et manipuler de la mana, qui peut être utilisée pour diverses choses.
+academy.introbotania.task=Entrer dans la zone de Botania
+
+academy.intromanagen.title=Générer de la mana
+academy.intromanagen.desc=Fabriquer de l'Endoflame
+academy.intromanagen.text1=Les fleurs magiques sont créées dans l'Apothicaire à Pétales. Remplissez-le avec un seau d'eau puis créez des pétales avant de les jeter dedans selon la recette de l'Endoflame pour ensuite jeter une graine pour fabriquer la fleur.
+academy.intromanagen.text2=Vous pouvez soit les jeter sur l'Apothicaire à Pétales soit faire un clic droit avec l'objet pour les insérer. Maintenez MAJ et faites un clic droit pour récupérer le dernier objet inséré.
+academy.intromanagen.text3=L'Endoflame génère de la mana quand un objet consumable est jeté au sol à proximité. S'il est placé près d'un épandeur de mana, la mana se déplacera vers ce dernier.
+academy.intromanagen.text4=Une fois que vous avez fabriqué l'Endoflame, placez-la sur le bloc d'herbe le plus éclairé. Jetez du charbon à proximité et elle commencera à générer de la mana.
+
+academy.intromanatransfer.title=Moving and Storing Mana Déplacement et Stockage de Mana
+academy.intromanatransfer.desc=Stockez de la Mana dans la Piscine de Mana
+academy.intromanatransfer.text1=Les épandeurs de Mana sont utilisés pour transférer de la Mana et les Piscines de Mana pour la stocker.
+academy.intromanatransfer.text2=Accroupissez-vous et effectuez un clic droit avec la Baguette de la Forêt sur l'épandeur de Mana, puis faites pareil sur un épandeur de Mana pour faire pointer l'épandeur vers la Piscine.
+academy.intromanatransfer.text3=Any Mana inside the Mana Spreader will be sent to the Mana Pool. Toute mana stockée dans l'épandeur sera redirigée vers la Piscine de Mana.
+academy.intromanatransfer.task=Remplissez la Piscine de Mana
+
+academy.intromanasteel.title=Fabriquer avec de la Mana
+academy.intromanasteel.desc=Fabriquez de l'Acier de Mana
+academy.intromanasteel.text1=Certains objets peuvent être fabriqués en les jetant dans une Piscine de Mana qui contient de la Mana. Cela consommera de la Mana.
+academy.intromanasteel.text2=Jetez un Lingot de Fer dans de la Mana pour le transformer en Lingot d'Acier de Mana.
+
+academy.introelementium.title=Échange Elfique
+academy.introelementium.desc=Acquérez de l'Elementium
+academy.introelementium.text1=En progressant, vous pourrez créer un portail vers Alfheim. Cela fonctionnera de la même façon que la fabrication avec la Piscine de Mana.
+academy.introelementium.text2=Vous pouvez jeter des objets dans le Portail pour en recevoir d'autres. Les items ne faisant pas partie d'une recette seront perdus.
+
+academy.introfinish.title=L'École est finie !
+academy.introfinish.desc=Allez dans l'Overworld
+academy.introfinish.text=Maintenant que vous avez complété les tutoriels, vous pouvez vous rendre dans l'Overworld et commencez à jouer normalement !
+academy.introfinish.reward=Se téléporter dans l'Overworld
+
+#Bien débuter
+
+academy.overworld.title=Que Les Jeux Commencent !
+academy.overworld.desc=Commencer le pack de mods
+academy.overworld.text=Maintenant que vous avez terminé l'École, vous pouvez commencer à jouer au pack de mods sérieusement.
+academy.overworld.reward=Lire le tutoriel de Journey Map
+
+academy.timber.title=Bûcheronnage !
+academy.timber.desc=Ramasser du bois
+academy.timber.text1=Abattez un arbre. N'importe quel arbre fera l'affaire, cette quête accepte 4 bûches d'arbre.
+academy.timber.text2=Vous avez probablement remarqué que les arbres semblent très différents. Lisez "Le Monde" dans le Guide pour connaître toutes les différences apportées par les mods au monde.
+academy.timber.task=4x bûches
+
+academy.tinkering.title=Faisons du Tinker
+academy.tinkering.desc=Fabriquez les blocs requis de Tinker's Construct
+academy.tinkering.text=Ces blocs sont requis pour fabriquer des outils sophistiqués de Tinker's Construct !
+academy.tinkering.text2=Lisez la section "Fabriquer des outils" sur la page de Tinker's Construct dans le Guide pour avoir des informations sur leur fonctionnement.
+
+academy.smeltery.title=Sujet brûlant
+academy.smeltery.desc=Fabriquez une Fonderie
+academy.smeltery.text1=Les Fonderies vous permettent de faire fondre des métaux pour créer des parties d'outils métalliques, des blocs, lingots et d'autres encore.
+academy.smeltery.text2=Ces blocs sont requis pour créer une Fonderie pouvant contenir 9 blocs dans son stockage.
+
+academy.pickaxe.title=Il est temps de Miner
+academy.pickaxe.desc=Fabriquez une Pioche de Tinker's Construct
+academy.pickaxe.text1=Les Pioches de Tinker's Construct gagnent à être fabriquées en début de jeu, parce qu'à mesure que vous les utilisez, elles gagnent en expérience, ce qui vous permettra ainsi de les améliorer.
+academy.pickaxe.text2=This quest can accept a Pickaxe using any combination of parts. Cette quête accepte une Pioche utilisant n'importe quelle combinaison de partie d'outils.
+academy.pickaxe.task=N'importe quelle Pioche
+
+academy.toolforge.title=Poursuivons le Forgeage
+academy.toolforge.desc=Construisez une Forge à Outils
+academy.toolforge.text1=La Forge à Outils peut réaliser n'importe quel outil de Tinker's Construct.
+academy.toolforge.text2=Cette quête accepte une Forge à Outils fabriquée avec n'importe quel matériau.
+academy.toolforge.task=N'importe quelle Forge à Outil
+
+academy.bonsai.title=Heureux sont les Petits Arbres
+academy.bonsai.desc=Fabriquez un Pot à Bonsaï
+academy.bonsai.text1=Le Pot à Bonsaï fera grandir n'importe quelle pousse d'arbre que vous placerez à l'intérieur, à condition que le sol en-dessous soit correct. Récoltez-le en faisant un clic droit avec une hache.
+academy.bonsai.text2=Vous pouvez le transformer en Pot à Bonsaï Sautillant pour qu'il récolte l'arbre automatiquement et placent les blocs dans l'inventaire en-dessous de lui.
+
+academy.ores.title=Des p'tits trous, toujours des p'tits trous
+academy.ores.desc=Minez des Minerais
+academy.ores.text1=Récupérez 16 minerais du Vanilla et de Thermal Foundation.
+academy.ores.text2=Maintenez la touche d'Excavation (` par défaut) et minez un bloc pour miner les blocs adjacents du même type. La durabilité est consommée comme si vous aviez miné tous les blocs un par un.
+academy.ores.text3=Vous pouvez dérouler l'Objet de la Tâche pour voir tous les objets acceptés et vous combinez 16 de n'importe quel objet pour compléter la Tâche. Vous pouvez aussi cliquer sur la tâche pour voir les objets acceptés.
+academy.ores.text4=Une fois que vous avez un certain nombre de matériaux, vous pourrez commencer à regarder les quêtes Technologiques et le reste du Guide.
+academy.ores.vanillatask=16x minerais Vanilla
+academy.ores.thermaltask=16x minerais Thermal Foundation
+
+academy.seedyplace.title=Révolution Agricole
+academy.seedyplace.desc=Récoltez des plants
+academy.seedyplace.task=Avancement: Un Lieu Fertile
+academy.seedyplace.text1=One of the most important parts of a base is a steady source of food. The easiest way to get food is just by growing it!
+academy.seedyplace.text2=You can right click a fully grown crop to harvest it, automatically replanting the seed.
+
+academy.beesandbats.title=When a Mommy Mob and a Daddy Mob Love Each Other Very Much
+academy.beesandbats.desc=Breed some mobs
+academy.beesandbats.task=Advancement: The Parrots and the Bats
+academy.beesandbats.text1=Mobs can be a great source of food and other materials.
+academy.beesandbats.text2=There are a lot of ways to automatically breed animals. Mobs will automatically eat food that's been dropped on the ground, so you can automatically breed animals using only a Dispenser.
+academy.beesandbats.text3=You could also make the Automatic Feeder, which will automatically feed mobs in an area around itself using food in its inventory.
+
+academy.chisel.title=Lookin' Good
+academy.chisel.desc=Make a Chisel
+academy.chisel.text1=The Chisel mod adds a ton of decorative versions of blocks.
+academy.chisel.text2=Craft a Chisel, open its menu, and insert a block (like Cobblestone or Dirt) into it to see all the different versions you can make.
+academy.chisel.text3=There are three versions of the Chisel. The Chisel and Diamond Chisel are essentially the same except for the durability. The iChisel is a lot more advanced and has a lot more features.
+academy.chisel.text4=Chisel also adds a bunch of new blocks to decorate your base with. Search JEI for "@Chisel" for a list of them all.
+academy.chisel.task=Any Chisel
+
+academy.builderswands.title=Better Building
+academy.builderswands.desc=Make a Builder's Wand
+academy.builderswands.text1=Builder's Wands allow you to place multiple blocks at the same time quickly. 
+academy.builderswands.text2=Hold one in your hand, look at a block and you can right click to place that block on connected surfaces wherever you see a white outline.
+academy.builderswands.text3=Each tier can place more blocks at a time. The Stone and Iron Wands can only place blocks horizontally, but Diamond and above can place on the top and bottom of blocks too.
+academy.builderswands.task=Any Builder's Wand
+
+academy.naturescompass.title=Location, Location, Location
+academy.naturescompass.desc=Make a Nature's Compass
+academy.naturescompass.text1=Finding a nice spot to settle down is one of the most important parts of building a nice base. The Nature's Compass will help you find a specific biome to live in.
+academy.naturescompass.text2=To select a biome, right click the Nature's Compass and then find and click the biome out of the list. You can click Search to find the nearest instance of that biome or click Info to see information about that biome.
+
+academy.slimesling.title=Like an Eagle Piloting a Blimp
+academy.slimesling.desc=Make a Slime Sling and Slime Boots
+academy.slimesling.text1=When you charge the Slimesling and release while looking at the ground, you will be flung violently in the opposite direction.
+academy.slimesling.text2=You will bounce when landing while wearing Slime Boots, negating all fall damage. This makes them very useful to use in tandem with the Slimesling.
+academy.slimesling.text3=You can sneak to prevent yourself from bouncing, although you will get fall damage as normal.
+academy.slimesling.task1=Any Slimesling
+academy.slimesling.task2=Any Slime Boots
+
+academy.simplybackpacks.title=Packback
+academy.simplybackpacks.desc=Make a Common Backpack
+academy.simplybackpacks.text1=Backpacks store items in their inventories, each tier holding more than the last.
+academy.simplybackpacks.text2=There's an optional keybind you can set that allows you to open the Backpack from anywhere in your inventory, including the Bauble slot (which you access from the ring button at the top right of your player portrait in your inventory).
+academy.simplybackpacks.text3=There's another optional keybind that you can set that allows you to toggle item auto-pickup; when enabled, items will go straight to the backpack when picked up. You can hold sneak and right click the Backpack to set a whitelist or a blacklist.
+academy.simplybackpacks.task=Any Backpack
+
+
+# Basic Storage
+
+academy.storagedrawers.title=Compact Storage
+academy.storagedrawers.desc=Make any Drawer
+academy.storagedrawers.text1=A Basic Drawer can store 32 stacks of a single item. A 1x2 Drawer stores 16 stacks of two items, and a 2x2 Drawer holds 8 stacks of 4 items. You can add upgrades to them to store more.
+academy.storagedrawers.text2=Read the Guide for more information on Storage Drawers.
+academy.storagedrawers.task=Any Drawer
+
+academy.drawercontroller.title=Remote Access
+academy.drawercontroller.desc=Make a Drawer Controller
+academy.drawercontroller.text1=The Drawer Controller allows you to access all connected Drawers with Hoppers, pipes, or any other form of automation.
+academy.drawercontroller.text2=Drawers are connected when they are touching the Drawer Controller, even if there are other Drawers between them.
+
+academy.compactingdrawer.title=Nuggets and Ingots and Blocks, Oh My!
+academy.compactingdrawer.desc=Make a Compacting Drawer
+academy.compactingdrawer.text1=A Compacting Drawer will show items in its ingot, nugget, and block forms.
+academy.compactingdrawer.text2=The maximum storage depends on the block version, so this is really good for storing metals and gems.
+
+academy.ironchests.title=Storage Solution
+academy.ironchests.desc=Make an Iron Chest
+academy.ironchests.text=The mod Iron Chests adds a bunch of new chests that have expanded storage, each tier holding more items.
+
+academy.chestupgrade.title=Deeper Pockets
+academy.chestupgrade.desc=Make an Iron to Gold Chest Upgrade
+academy.chestupgrade.text=Chest Upgrades allow you to upgrade the tier of the Chest without having to break it. Simply right click the Chest Upgrade on the appropriate tier Chest.
+
+academy.endertank.title=Water-Safe
+academy.endertank.desc=Make an Ender Tank
+academy.endertank.text1=Ender Tanks will share their contents with all other Ender Tanks with the same color combination. Use a dye on one of the white spots on top to set the color.
+academy.endertank.text2=You can also use a Diamond on the valve to make it a personal Ender Tank. Personal Ender Tanks will only connect to other personal Ender Tanks placed by the same person.
+academy.endertank.text3=Right click the valve with an empty hand to toggle if it will automatically output to the block underneath.
+academy.endertank.text4=Obviously works best in pairs.
+
+academy.enderchest.title=Extradimensional
+academy.enderchest.desc=Make an Ender Chest
+academy.enderchest.text1=Ender Chests will share their contents with all other Ender Chests with the same color combination. Use a dye on one of the white spots on top to set the color.
+academy.enderchest.text2=You can also use a Diamond on the latch to make it a personal Ender Chest. Personal Ender Chests will only connect to other personal Ender Chests placed by the same person.
+academy.enderchest.text3=Obviously works best in pairs.
+
+academy.enderpouch.title=Bag of Holding
+academy.enderpouch.desc=Make an Ender Pouch
+academy.enderpouch.text1=The Ender Pouch will access the same inventory as the Ender Chest color combination it is linked to. Sneak right click the Ender Pouch on an Ender Chest to set the color combination.
+academy.enderpouch.text2=You can have an Ender Chest at your base with the contents automatically going into storage, and carry around an Ender Pouch linked to it to be able to store all your items without having to go back to your base.
+
+academy.blackholeunit.title=Supermassive Black Hole
+academy.blackholeunit.desc=Make a Black Hole Unit
+academy.blackholeunit.text=A Black Hole Unit can hold over 2 billion of a single item.
+
+academy.blackholtank.title=Black Hole Sun
+academy.blackholtank.desc=Make a Black Hole Tank
+academy.blackholtank.text=A Black Hole Tank can hold over 2 million buckets of a single fluid.
+
+academy.blackholecontroller.title=Messier 87
+academy.blackholecontroller.desc=Make a Black Hole Controller v2.0
+academy.blackholecontroller.text1=The Black Hole Controller v2.0 can hold 12 Black Hole Units/Tanks which can be accessed with Hoppers or pipes.
+academy.blackholecontroller.text2=Very useful to use in tandem with the External Storage from Refined Storage.
+
+academy.blackholelabel.title=Black Hole Drawer
+academy.blackholelabel.desc=Make a Black Hole Label
+academy.blackholelabel.text=You can place a Black Hole Label to make it funciton similar to a Storage Drawer.
+
+academy.storagecrate1.title=""Small""
+academy.storagecrate1.desc=Make a Small Storage Crate
+academy.storagecrate1.text1=A Small Storage Crate has 117 storage slots.
+academy.storagecrate1.text2=If it contains a Storage Crate Keeper, the Crate will hold its contents when destroyed. The Keeper is lost in this process.
+
+academy.storagecrate2.title=Double Trouble
+academy.storagecrate2.desc=Make a Medium Storage Crate
+academy.storagecrate2.text1=A Medium Storage Crate has 2 pages of 117 slots, for a total of 234 slots.
+academy.storagecrate2.text2=Click on the arrows on either side of the GUI to swap between the pages.
+
+academy.storagecrate3.title=The Ultimate Clutter Storage
+academy.storagecrate3.desc=Make a Large Storage Crate
+academy.storagecrate3.text=A Medium Storage Crate has 3 pages of 117 slots, for a total of 351 slots.
+
+# Going to leave this here just in case we eventually re-add /dank/null/
+# academy.dank.title=/dank/null/
+# academy.dank.desc=Make a /dank/null/
+# academy.dank.text1=The /dank/null/ allows you to hold a large amount of items in a single slot. It will automatically place specific items you pick up into itself, and you can place blocks from it. If a slot is full, it will delete items that try to go into it.
+# academy.dank.text2=Sneak right click to open its GUI and insert items you want to store.
+# academy.dank.text3=While holding in your hand, sneak and scroll to change what item you want to place.
+# academy.dank.text4=Higher tier /dank/null/s have more slots and store more per slot.
+# academy.dank.task=Any /dank/null/
+
+academy.dracchest.title=Dragon Hoard
+academy.dracchest.desc=Make a Draconium Chest
+academy.dracchest.text=The Draconium Chest has 260 slots, 5 upgradable furnace slots, a 3x3 crafting grid, and you can set specific slots to be able to come in and out of specific sides.
+
+# Transportation
+
+academy.hopper.title=Simple, Elegant, Beautiful
+academy.hopper.desc=Make a Hopper
+academy.hopper.text1=Ah, the Hopper. It takes things out of blocks above it, and inserts them into inventories it's pointing towards. Could there be anything better than this?
+
+academy.basicitemtess.title=Better Than Hoppers
+academy.basicitemtess.desc=Make a Basic Item Tesslocator
+academy.basicitemtess.text1=Item Tesslocators allow you to quickly move items over a distance of one block. Place Tesslocators in the same block space on all inventories you want to interact with and open its GUI to change the settings.
+academy.basicitemtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging items or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more than one stack at a time.
+
+academy.basicfluidtess.title=Fluid Hopper
+academy.basicfluidtess.desc=Make a Basic Fluid Tesslocator
+academy.basicfluidtess.text1=Fluid Tesslocators allow you to quickly move fluids over a distance of one block. Place Tesslocators in the same block space on all blocks you want to interact with and open its GUI to change the settings.
+academy.basicfluidtess.text2=With the middle button you can move between input, output, and input/output modes. With the left slots you can set input and output filters by dragging filled Buckets or Item Filters into them, and on the right you can add Glowstone to make it faster and Diamonds to make it move more at a time.
+
+academy.itemducts.title=Latest Innovation in Moving Items
+academy.itemducts.desc=Make Itemducts
+academy.itemducts.text1=Itemducts move items along their path, in all directions. Items move through them at 1 block per second.
+academy.itemducts.text2=Opaque Itemducts work exactly the same, except you can't see items flow through them. This can help prevent lag.
+academy.itemducts.task=Itemduct
+
+academy.basicfluiducts.title=Aqueduct
+academy.basicfluiducts.desc=Make Basic Fluiducts
+academy.basicfluiducts.text1=Fluiducts are used to transfer fluids. Basic Fluiducts can only transfer fluids that aren't extremely temperate, like Lava or Gelid Cryotheum.
+academy.basicfluiducts.text2=Opaque Fluiducts work exactly the same, except you can't see Fluids flow through them. This can help prevent lag.
+academy.basicfluiducts.task=Fluiduct
+
+academy.hardenedfluiducts.title=Lavaduct
+academy.hardenedfluiducts.desc=Make Hardened Fluiducts
+academy.hardenedfluiducts.text=Hardened Fluiducts can transfer any fluid.
+academy.hardenedfluiducts.task=Hardened Fluiduct
+
+academy.servo.title=Make it Work
+academy.servo.desc=Make a Servo
+academy.servo.text1=A Servo is used to extract items or fluids from an inventory or tank and move them to Itemducts or Fluiducts. Place the Servo on the connection and provide it with a Redstone signal (or set it to not need Redstone) and it will begin to extract items/fluids.
+academy.servo.text2=Items only extract if there is somewhere for them to go, but fluids will be extracted regardless.
+academy.servo.text3=Items will try to go to the nearest inventory it can enter, while fluids will just fill anything it can.
+academy.servo.task=Any Servo
+
+academy.signalumfluiduct.title=Electrolyte Rich
+academy.signalumfluiduct.desc=Make a Signalum-Plated Fluiduct
+academy.signalumfluiduct.text=Signalum-Plated Fluiducts work just like Hardened Fluiducts, except they can also transfer 4,000 RF/t per connection.
+academy.signalumfluiduct.task=Signalum-Plated Fluiduct
+
+academy.laminar.title=Under Pressure
+academy.laminar.desc=Make a Super-Laminar Fluiduct
+academy.laminar.text1=Super-Laminar Fluiducts can transfer at hundreds of buckets per second when fully pressurized.
+academy.laminar.text2=It takes a couple seconds to pressureize, during which the transfer rate speeds up.
+academy.laminar.text3=They work best when fluid is being pushed into it by the source rather than being pulled out with a Servo.
+academy.laminar.task=Super-Laminar Fluiduct
+
+academy.signalumitemduct.title=Item Energyducts
+academy.signalumitemduct.desc=Make Signalum-Plated Itemducts
+academy.signalumitemduct.text=Signalum-Plated Itemducts work just like regular Itmeducts, except they can also transfer 4,000 RF/t per connection.
+academy.signalumitemduct.task=Signalum-Plated Itemduct
+
+academy.impulseitemduct.title=Impulsive
+academy.impulseitemduct.desc=Make Impulsive Itemducts
+academy.impulseitemduct.text=Impulsive Itemducts move items much faster at 2 blocks per second.
+academy.impulseitemduct.task=Impulse Itemduct
+
+academy.signalumimpulseitemduct.title=This is the Longest Item Name, So It Has the Longest Quest Name
+academy.signalumimpulseitemduct.desc=Make Signalum-Plated Impulse Itemducts
+academy.signalumimpulseitemduct.text=Signalum-Plated Impulse Itemducts work just like regular Impulse Itemducts, except they can also transfer 4,000 RF/t per connection.
+academy.signalumimpulseitemduct.task=Signalum-Plated Impulse Itemduct
+
+academy.fluidlaser.title=Fast Fluid Ferrying
+academy.fluidlaser.desc=Make Fluid Laser Relays
+academy.fluidlaser.text1=Fluid Laser Relays can wirelesssly transfer an infinite amount of fluid instantly.
+academy.fluidlaser.text2=Place a Fluid Laser Relay on the block you want to pull from and on the block you want to push into, as well as anywhere along the way for you to connect them.
+academy.fluidlaser.text3=To connect Laser Relays, right click on one with a Laser Wrench and then the other.
+academy.fluidlaser.text4=To toggle between input and output, right click on it with a Compass.
+
+academy.itemlaser.title=Matter to Energy to Matter
+academy.itemlaser.desc=Make Item Laser Relays
+academy.itemlaser.text1=Item Laser Relays can wirelessly transfer items.
+academy.itemlaser.text2=Place Item Laser Relays on all inventories you wish to be part of the system.
+academy.itemlaser.text3=Place an Item Interface on the point where you want to insert or extract items from storage, and place an Item Laser Relay on it too. Connect all the Item Laser Relays with a Laser Wrench.
+academy.itemlaser.text4=Items that are inserted into or extracted from the Item Interface will be moved to/from the connected storage blocks. Inventories with the highest priority are used first. You can use a Compass to raise/lower the Relay's priorty.
+
+academy.advanceditemlaser.title=Sorting Lasers
+academy.advanceditemlaser.desc=Make Advanced Item Laser Relays
+academy.advanceditemlaser.text1=Advanced Item Laser Relays work similar to regular Item Laser Relays, except with a bit of added functionality.
+academy.advanceditemlaser.text2=In its GUI you can set a whitelist/blacklist for what is allowed to enter or exist that inventory. You can click the S button to set the list to whatever is currently in the inventory it is placed on.
+
+academy.ifconveyorbelts.title=Production Line
+academy.ifconveyorbelts.desc=Make Conveyor Belts
+academy.ifconveyorbelts.text1=Conveyor Belts can move items, entities, and fluids.
+academy.ifconveyorbelts.text2=By default, it can only push entities mobs, players, and dropped items. You can use Extraction and Insertion Conveyor Upgrades to make it push and pull from blocks.
+academy.ifconveyorbelts.text3=There are also several other Conveyor Upgrades that change their functionality. If you right click Plastic on a Conveyor Belt items won't be able to be picked up by players, and if you right click it with Glowstone Dust items will move much quicker.
+academy.ifconveyorbelts.task2=Insertion/Extraction Conveyor Upgrade
+
+academy.viaducts.title=New New York
+academy.viaducts.desc=Make Viaducts
+academy.viaducts.text1=Like other Ducts allow you to transfer items, energy, and fluids, Viaducts allow you to transfer yourself! Players move through Viaducts at 10 blocks per second.
+academy.viaducts.text2=Place Viaducts along the route players will move through, and right click on Viaducts you want to be destinations with a Crescent Hammer. Click on the opening to change its details, or select a destination to travel to it through the Viaducts.
+
+academy.longrange.title=Each and Every Highway
+academy.longrange.desc=Make Long Range Viaducts
+academy.longrange.text1=Long Range Viaducts are twice as fast as regular Viaducts, which make them very good for movement over long distances.
+academy.longrange.text2=Place a single path of Long Range Viaducts between two Long Range Linking Viaducts, and then connect regular Viaducts to them. Viaducts can connect from across the Long Range Viaducts.
+
+academy.dislocator.title=Transportalponder
+academy.dislocator.desc=Make a Dislocator
+academy.dislocator.text1=The Dislocator allows you to teleport from anywhere to a bound location.
+academy.dislocator.text2=Sneak right click to bind your current location to the Dislocator. Right click to teleport to that location from anywhere.
+academy.dislocator.text3=The Dislocator has only 20 uses, and you take a small amount of damage each time you use it.
+
+academy.disrep.title=Better Portals
+academy.disrep.desc=Make a Dislocator Receptacle
+academy.disrep.text1=You can make a frame made out of Infused Obsidian in any shape and size (so long as it's flat) and place a Dislocator Receptacle in its frame and insert a bound Dislocator, and it will act as a portal to the location the Dislocator was bound to.
+academy.disrep.text2=The Dislocator will not take damage when used like this.
+
+academy.disped.title=Portal Pedestal
+academy.disped.desc=Make a Dislocator Pedestal
+academy.disped.text1=If you right click on a Dislocator Pedestal with a bound Dislocator in it, you will be teleported to the bound location.
+academy.disped.text2=The Dislocator will not take damage when used like this.
+academy.disped.text3=If you have a pair of Bound Dislocators (Point to Point), using one will teleport you to the other. This is ideal for Dislocator Pedestals as they will act as a two-way teleporter.
+
+academy.advdislocator.title=Portation
+academy.advdislocator.desc=Make an Advanced Dislocator
+academy.advdislocator.text1=The Advanced Dislocator can have up to 100 bound location and uses Ender Pearls as fuel instead of taking durability damage.
+academy.advdislocator.text2=Sneak right click to open its GUI. Here you can add fuel and set and name locations.
+academy.advdislocator.text3=You can hold sneak and scroll while holding the Advanced Dislocator in your hand to change destinations, and then right click while not sneaking to teleport to it.
+
+academy.phantomface.title=Warp Pipe
+academy.phantomface.desc=Make a Phantomface
+academy.phantomface.text1=Phantomfaces simulate the inventory it is linked to, so you can insert items in and out of the inventory through the Phantomface.
+academy.phantomface.text2=Place the Phantomface within 16 blocks of the inventory you wish to link to. Right click the block you wish to connect to with the Phantom Connector, then right click the Phantomface.
+
+academy.phantombooster.title=BOOster
+academy.phantombooster.desc=Make Phantom Boosters
+academy.phantombooster.text=You can place up to 3 Phantom Boosters on top of Phantomfaces to increase their range.
+
+academy.phantomblocks.title=Ghostly Energy
+academy.phantomblocks.desc=Make an advanced Phantomface block
+academy.phantomblocks.text1=Phantom Energyfaces and Liquidfaces work exactly like regular Phantomfaces, but with energy and fluids instead.
+academy.phantomblocks.text2=Phantom Redstonefaces only work in one direction. That is, if the connected block has a Redstone signal, it will power the Phantom Redstoneface.
+academy.phantomblocks.task=Advanced Phantomface blocks
+
+academy.xpteleporter.desc=Make an XPTeleporter
+academy.xpteleporter.text1=Place down two XPTeleporters and link them with an XPT Link Card by right clicking it on both of them. Sneaking on one will teleport you to the other.
+academy.xpteleporter.text2=The further away the two XPTeleporters are, the more XP it costs.
+academy.xpteleporter.text3=Teleporters will display the coordinates of the linked teleporter above them. If you rename the XPTeleporter in an Anvil, it will display that instead.
+
+
+# Refined Storage - Beginner
+
+academy.controller.title=Think Tank
+academy.controller.desc=Make a Controller
+academy.controller.text1=The Controller is the heart and brain of a Refined Storage system.
+academy.controller.text2=Every block in the system must be connected to the Controller in some way, either with Cables or just touching it directly.
+academy.controller.text3=The Refined Storage system is powered using RF by piping it into the Controller.
+academy.controller.text4=You can only have one Controller per system.
+
+academy.diskdrive.desc=Make a Disk Drive
+academy.diskdrive.text=Disk Drives store Storage Disks, which store items. You can have up to 10 Storage Disks in the Disk Drive.
+
+academy.storagedisk.title=Don't Copy That Floppy
+academy.storagedisk.desc=Make a Storage Disk
+academy.storagedisk.text1=Storage Disks digitally store more items. Higher tiers store more items.
+academy.storagedisk.text2=The 1k Storage Disk can hold 1,000 items, the 4K Storage Disk can hold 4,000 items, and so on.
+academy.storagedisk.task=Any Storage Disk
+
+academy.fluiddisk.title=Waterproof
+academy.fluiddisk.desc=Make a Fluid Storage Disk
+academy.fluiddisk.text1=Fluid Storage Disks work like regular Storage Disks, but they store fluids instead of items.
+academy.fluiddisk.text2=A 64k Fluid Storage Disk can store 64,000mB of fluid, a 256k Fluid Storage Disk can store 256,000mB of fluid, and so on.
+academy.fluiddisk.task=Any Fluid Storage Disk
+
+academy.grid.title=Enter the Grid
+academy.grid.desc=Make a Grid
+academy.grid.text=The Grid is where you can manually interact with your storage system. Connect it to the system and give it power, and you can use it like you would any other chest.
+
+academy.craftinggrid.desc=Make a Crafting Grid
+academy.craftinggrid.text=The Crafting Grid is an upgraded version of the Grid. It works exactly the same, except it has a 3x3 crafting table built in to it.
+
+academy.fluidgrid.desc=Make a Fluid Grid
+academy.fluidgrid.text1=The Fluid Grid works like a normal Grid, except it shows fluids instead of items.
+academy.fluidgrid.text2=Drag and drop a full fluid container (like a Bucket) into the menu to empty it into the system. You can also click it while holding sneak.
+academy.fluidgrid.text3=Click a fluid in the system while you have an empty Bucket in your inventory or the system to fill it with that fluid.
+
+academy.cable.desc=Make Cables
+academy.cable.text=Cables are used to connect devices to the Controller.
+
+academy.io.title=I/O
+academy.io.desc=Make an Importer and an Exporter
+academy.io.text1=An Importer will pull items from the inventory it is placed on and insert them into the RS system.
+academy.io.text2=An Exporter will push specified items into the inventory it is placed on from the RS system.
+
+academy.extstorage.title=Backwards Compatible
+academy.extstorage.desc=Make an External Storage
+academy.extstorage.text1=Place the External Storage on an inventory and its contents will appear in the system.
+academy.extstorage.text2=If the External Storage has a higher priority than other storage blocks, like the Disk Drive, items will try to go into that inventory first.
+
+# Refined Storage - Advanced
+
+academy.patterngrid.desc=Make a Pattern Grid
+academy.patterngrid.text1=The first step to automatic crafting is the Pattern Grid.
+academy.patterngrid.text2=Place one down and give it a Pattern, and input the recipe you want to be able to autocraft.
+academy.patterngrid.text3=If it isn't a regular crafting recipe (that is, if it isn't done in a 3x3 crafting grid, like smelting), check the Processing box.
+academy.patterngrid.text4=If you want it to use the Ore Dictionary (like being able to use any Planks to make a Chest), check the OreDic box.
+
+academy.crafter.desc=Make a Crafter
+academy.crafter.text1=Place Patterns into a Crafter and you will be able to craft those recipes from your Grid.
+academy.crafter.text2=You can point the Crafter at a machine (like a Furnace) and processing recipes will try to use the machine. For processing recipes, you likely will have to use an Importer to take the finished product out of the machine.
+
+academy.craftmanager.desc=Make a Crafter Manager
+academy.craftmanager.text1=The Crafter Manager lists all Crafters in the system and what they're attached to, as well as showing the patterns inside them.
+academy.craftmanager.text2=You can rename Crafters to change what they show up as in the Crafter Manager.
+
+academy.craftmonitor.desc=Make a Crafting Monitor
+academy.craftmonitor.text=The Crafting Monitor will show a list of all crafting operations currently in progress in the system.
+
+academy.portablegrid.desc=Make a Portable Grid
+academy.portablegrid.text1=The Portable Grid acts like its own tiny RS system.
+academy.portablegrid.text2=Open it up and place a Storage Disk (fluid or item) in the top right slot, and you can use it is a kind of digital backpack.
+
+# Refined Storage - Expert
+
+academy.network.title=Long Distance Relationship
+academy.network.desc=Make a Network Transmitter, Receiver, and Card
+academy.network.text1=You can use the Network Transmitter, Receiver, and Card to wirelessly connect to your RS system with blocks over long distances.
+academy.network.text2=Place the Wireless Transmitter at your main system, a Wireless Receiver at the location you want to access it, and then sneak click a Network Card on the Receiver to link it. Insert the linked Network Card into the Transmitter to connect them.
+academy.network.text3=All components must be chunk loaded to work.
+
+academy.wirelesstransmitter.desc=Make a Wireless Transmitter
+academy.wirelesstransmitter.text1=Place a Wireless Transmitter on a Cable, and you'll be able to access it from Wireless Grids within 16 blocks.
+academy.wirelesstransmitter.text2=If you want to wirelessly access the system from farther away, place more Wireless Transmitters where you want to access it from or use Range Upgrades.
+
+academy.wirelesscraftinggrid.desc=Make a Wireless Crafting Grid
+academy.wirelesscraftinggrid.text1=The Wireless Crafting Grid works exactly like a Crafting Grid, except wireless.
+academy.wirelesscraftinggrid.text2=To bind it to the system, sneak right click it on the Controller.
+
+academy.wirelessfluidgrid.desc=Make a Wireless Fluid Grid
+academy.wirelessfluidgrid.text1=The Wireless Crafting Grid works exactly like a Fluid Grid, except wireless.
+academy.wirelessfluidgrid.text2=To bind it to the system, sneak right click it on the Controller.
+
+
+# Technology - Beginner
+
+academy.magmatic.title=The Core
+academy.magmatic.desc=Make a Magmatic Dynamo
+academy.magmatic.text1=The Magmatic Dynamo generates RF using hot fluids.
+academy.magmatic.text2=One bucket of Lava generates 120,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+
+academy.steam.title=Steam Powered
+academy.steam.desc=Make a Steam Dynamo
+academy.steam.text1=The Steam Dynamo generates RF using solid fuel and water.
+academy.steam.text2=One Coal generates 24,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+
+academy.coalgen.title=Old King Coal
+academy.coalgen.desc=Make a Coal Generator
+academy.coalgen.text1=The Coal Generator makes RF from Coal and other furnace fuel.
+academy.coalgen.text2=One Coal generates 48,000 RF.
+
+academy.pitifulgen.title=Just Sad
+academy.pitifulgen.desc=Make a Pitiful Fuel Generator
+academy.pitifulgen.text1=The Pitiful Fuel Generator generates RF by burning Wood.
+academy.pitifulgen.text2=It generates 11,250 RF per Wooden Plank or Log.
+
+academy.petrifiedgen.title=Fossil Fuel
+academy.petrifiedgen.desc=Make a Petrified Fuel Generator
+academy.petrifiedgen.text1=The Petrified Fuel Generator generates RF by burning any furnace fuel.
+academy.petrifiedgen.text2=One Coal generates 60,000 RF.
+
+academy.pulverizer.title=Dust to Dust
+academy.pulverizer.desc=Make a Pulverizer
+academy.pulverizer.text1=The Pulverizer uses RF to crush items like Stone and Ores.
+academy.pulverizer.text2=Ores will be crushed into two dusts each, which each smelt into an ingot each. There is also a chance of getting a secondary output.
+academy.pulverizer.text3=The Pulverizer can be upgraded and augmented to work faster or change the way it functions.
+
+academy.redstonefurnace.title=Microwave
+academy.redstonefurnace.desc=Make a Redstone Furnace
+academy.redstonefurnace.text1=The Redstone Furnace uses RF to smelt items.
+academy.redstonefurnace.text2=It really doesn't do much more than that, but upgrades and augments can make it a lot faster.
+
+academy.resourcefulfurnace.title=Experienced Cook
+academy.resourcefulfurnace.desc=Make a Resourceful Furnace
+academy.resourcefulfurnace.text1=The Resourceful Furnace uses RF to smelt items.
+academy.resourcefulfurnace.text2=It has 3 input slots, so you can smelt 3 stacks at once. It also generates a small amount of Essence when it's used, which can be turned into Experience.
+
+academy.atomicreconstructor.title=Technological Transmutation
+academy.atomicreconstructor.desc=Make an Atomic Reconstructor
+academy.atomicreconstructor.text1=The Atomic Reconstructor is a machine that uses RF to convert items into other items. It will shoot a laser that converts items on the ground around where it hits.
+academy.atomicreconstructor.text2=By default it will shoot whenever it has the power to. You can right click it with a Redstone Torch to make it only trigger when given a Redstone Signal.
+
+academy.crusher.title=The Crushinator
+academy.crusher.desc=Make a Crusher
+academy.crusher.text1=The Crusher uses RF to crush items.
+academy.crusher.text2=Ores will be crushed into two dusts each, which each smelt into an ingot each. There is also a chance of getting a secondary output, different from the Pulverizer's.
+
+academy.doublecrusher.title=More of the Same
+academy.doublecrusher.desc=Make a Double Crusher
+academy.doublecrusher.text1=The Double Crusher works the same as the Crusher, but has 2 input slots.
+academy.doublecrusher.text2=You can set it so that items are split between them, effectively it work twice as fast.
+
+academy.poweredfurnace.title=Two for One Special
+academy.poweredfurnace.desc=Make a Powered Furnace
+academy.poweredfurnace.text1=The Powered Furnace uses RF to smelt items.
+academy.poweredfurnace.text2=It has 2 input slots, so you can smelt 2 stacks at once. You can also set it to split the input over both slots, making it effectively work twice as fast.
+
+academy.fluxducts1.title=Plug it In!
+academy.fluxducts1.desc=Make Leadstone Fluxducts
+academy.fluxducts1.text1=Fluxducts are used to transfer RF. Higher tiers can transfer RF faster.
+academy.fluxducts1.text2=Leadstone Fluxducts can transfer 1,000 RF/t per connection.
+
+academy.fluxducts2.title=Better, Harder
+academy.fluxducts2.desc=Make Hardened Fluxducts
+academy.fluxducts2.text1=Hardened Fluxducts can transfer 4,000 RF/t per connection.
+academy.fluxducts2.text2=Fluxducts can connect to Fluxducts of other tiers.
+
+academy.basicenergytess.title=Worse Than Pipes
+academy.basicenergytess.desc=Make Basic Energy Tesslocators
+academy.basicenergytess.text1=Basic Energy Tesslocators allow you to move RF over a distance of one block. Place Tesslocators in the same block space on all blocks where you want to move energy, and then right click to toggle between input and output.
+academy.basicenergytess.text2=Basic Energy Tesslocators can transfer XXXX RF/t.
+
+academy.advenergytess.title=Way Better Than Pipes
+academy.advenergytess.desc=Make Advanced Energy Tesslocators
+academy.advenergytess.text1=Advanced Energy Tesslocators work like Basic ones, except they don't need to be in the same block space. This allows you to transfer them wirelessly, over any distance and between dimensions.
+academy.advenergytess.text2=Advanced Tesslocators are set by holding a dye in each hand and then right clicking on the Tesslocator. To toggle between input and output mode, hold sneak and right click with an empty hand on the Tesslocator.
+
+academy.plasticmaking.title=Flubber
+academy.plasticmaking.desc=Make some Plastic
+academy.plasticmaking.text1=The Tree Fluid Extractor will generate Latex whenever there is a log block in front of it. It does not work with Dynamic Trees logs, so you will have to place regular logs instead. Logs will slowly be used up until they break, and will need to be replaced.
+academy.plasticmaking.text2=The Latex Processing Unit will convert 75mB of Latex and 1000mB of Water into 1 Tiny Dry Rubber. Crafting 9 together will create Dry Rubber, which can be smelted to make Plastic.
+
+academy.energycell.title=Saved for a Rainy Day
+academy.energycell.desc=Make an Energy Cell
+academy.energycell.text1=Energy Cells are used to store RF. Like all other Thermal Expansion machines, it comes in six tiers.
+academy.energycell.text2=The first tier can store 2,000,000 RF, and then the highest can store 50,000,000 RF.
+
+academy.AAbook.title=Actually Information
+academy.AAbook.desc=Make the Actually Additions Manual
+academy.AAbook.text=The Actually Additions Manual has all the information on blocks and items added by the mod.
+
+academy.IFbook.title=IF You Wish Upon a Star
+academy.IFbook.desc=Make Industrial Foregoing's Manual
+academy.IFbook.text=The Industrial Foregoing's Manual has all the information on blocks and items added by the mod.
+
+academy.DEinfotab.title=We Made a Guide for Their Guide
+academy.DEinfotab.desc=Make the Draconic Evolution Information Tablet
+academy.DEinfotab.text=The Draconic Evolution Information Tablet has all the information on blocks and items added by the mod.
+
+academy.autobreaker.desc=Make an Auto-Breaker
+academy.autobreaker.text1=The Auto-Breaker automatically breaks the block it is facing, inserting the drops into its internal inventory.
+academy.autobreaker.text2=By default it works as often as it can. You can right click it with a Redstone Torch to set it to only work when given a Redstone pulse.
+
+academy.autoplacer.desc=Make an Auto-Placer
+academy.autoplacer.text1=The Auto-Placer automatically places blocks from its inventory in the direction it is facing.
+academy.autoplacer.text2=By default it works as often as it can. You can right click it with a Redstone Torch to set it to only work when given a Redstone pulse.
+
+academy.aafarmer.title=Factory Farming
+academy.aafarmer.desc=Make a Farmer
+academy.aafarmer.text=The Farmer will till dirt in a 9x9 area in front of it and attempt to plant seeds of any type from the left slots in its inventory. It will also harvest fully grown crops from the area, replanting the seeds and putting the crops in the right slots.
+
+academy.rangedcollector.title=Pick-Me-Up
+academy.rangedcollector.desc=Make a Ranged Collector
+academy.rangedcollector.text1=The Ranged Collector will collect items dropped within 6 blocks of itself, according to its filter.
+academy.rangedcollector.text2=Open it up and set the filter in the 12 slots on the left. You can set if it is a whitelist or a blacklist, if it matches metadata and NBT, and all that other good stuff that filters usually have.
+
+academy.aalens.title=Technomancic Refraction
+academy.aalens.desc=Make any Lens for the Atomic Reconstructor
+academy.aalens.text1=Lens can be placed on the Atomic reconstructor to change its function in some way, such as making the laser color blocks or kill mobs. 
+academy.aalens.text2=See the Actually Additions Manual for more information.
+academy.aalens.task=Any Lens
+
+academy.aaenergylaser1.desc=Make Basic Energy Laser Relays
+academy.aaenergylaser1.text1=Energy Laser Relays can wirelessly transfer up to 1,000 RF/t.
+academy.aaenergylaser1.text2=Place an Energy Laser Relay on the block you want to pull RF from and the block you want to push RF into, as well as anywhere along the way for you to connect them.
+academy.aaenergylaser1.text3=To connect Laser Relays, right click one with a Laser Wrench and then the other.
+academy.aaenergylaser1.text4=To toggle between input, output, and both ways, right click it with a Compass.
+
+academy.ifpump.title=Stone Ocean
+academy.ifpump.desc=Make a Fluid Pump
+academy.ifpump.text1=The Fluid Pump will check the fluid directly underneath it and then pump all of that fluid in the working area into its internal tank, where it can be piped out. Pumped fluids will be replaced with Cobblestone.
+academy.ifpump.text2=Like all Industrial Foregoing machines, its default range is 1 block. You will have to use Range Addons to increase the working area. Do this before providing it with power.
+
+academy.rangeaddon.title=Bigger, Better
+academy.rangeaddon.desc=Make a Range Addon
+academy.rangeaddon.text=By default, all Industrial Foregoings have a range of 1 block. Range Addons are used to increase this. A Range +2 Addon adds 2 to the range, so it would be 3x3.
+academy.rangeaddon.task=Any Range Addon
+
+academy.DEgrinder.title=Kill-Box
+academy.DEgrinder.desc=Make a Mob Grinder
+academy.DEgrinder.text=The Mob Grinder uses RF to instantly kill every non-player mob in a 7x7 area in front of it, including Withers. Items and experience will drop as normal, and will not be collected.
+
+academy.DEbasic.title=Basically
+academy.DEbasic.desc=Make Basic Energy Crystals
+academy.DEbasic.text1=Energy Crystals allow you to wirelessly transfer RF. To link Crystals, sneak right click one Crystal with the Crystal Binder, then right click on all other Crystals you want to connect it to.
+academy.DEbasic.text2=RF enters and exits a system through Energy I/O Crystals, but they can only connect to a couple other Crystals.
+academy.DEbasic.text3=Energy Relay Crystals are what should connect other Crystals, as they have the most connections.
+academy.DEbasic.text4=Wireless Energy Crystals can power machines without needing an I/O Crystal. Simply bind it to a Crystal that has RF, and then bind it to every machine you want to power.
+academy.DEbasic.task=Any Basic Energy Crystal
+
+academy.stabilizedspawner.title=Bent to Your Will
+academy.stabilizedspawner.desc=Stabilize a Monster Spawner
+academy.stabilizedspawner.text1=Right clicking a Core on a Monster Spawner will Stabilize it. There are 4 tiers, corresponding with the 4 Core tiers. Once you've stabilized a Spawner, it will turn into an item so you can place it somewhere else.
+academy.stabilizedspawner.text2=You can right click a Stabilized Spawner with a Mob Soul to make it spawn that mob. Mining the Stabilized Spawner will empty the Soul but not destroy the Spawner itself.
+academy.stabilizedspawner.text3=Each tier is better than the last, spawning more mobs at a time and doing it more often. Higher tiers also have less restrictions for how to spawn mobs. See the Draconic Evolution Information Tablet for more details.
+academy.stabilizedspawner.task=Any Stabilized Spawner
+
+academy.DEsouls.title=Soul Eater
+academy.DEsouls.desc=Collect a Soul
+academy.DEsouls.text1=Mob Souls have a chance of dropping when using a Draconic Evolution weapons and/or the Reaper enchantment. If you are using neither, Mob Souls will never drop.
+academy.DEsouls.text2=A Mob Soul's main use is to be inserted into Stabilized Spawners to set it to spawn that mob, however you can sneak right click them on the ground to spawn the mob (which will use up the Soul).
+academy.DEsouls.task=Any Soul
+
+academy.celestialmanipulator.title=Weather Report
+academy.celestialmanipulator.desc=Make a Celestial Manipulator
+academy.celestialmanipulator.text=The Celestial Manipulator uses RF to allow you to change the current time and weather.
+
+academy.disenchanter.title=elbaT tnemtnahcnE
+academy.disenchanter.desc=Make a Disenchanter
+academy.disenchanter.text=The Disenchanter allows you to move enchantments from tools to books.
+
+# Technology - Intermediate
+
+academy.magmacrucible.title=Meltdown
+academy.magmacrucible.desc=Make a Magma Crucible
+academy.magmacrucible.text=The Magma Crucible is a machine that melts blocks and items into fluids.
+
+academy.fluidtransposer.title=Bucket Filler
+academy.fluidtransposer.desc=Make a Fluid Transposer
+academy.fluidtransposer.text=The Fluid Transposer combines fluids and items.
+
+academy.fluxducts3.desc=Make Redstone Energy Fluxducts
+academy.fluxducts3.text=Redstone Energy Fluxducts can transfer 9,000 RF/t per connection.
+
+academy.fluxducts4.desc=Make Signalum Fluxducts
+academy.fluxducts4.text=Signalum Fluxducts can transfer 16,000 RF/t per connection.
+
+academy.fluxducts5.desc=Make Enderium Fluxducts
+academy.fluxducts5.text=Enderium Fluxducts can transfer 25,000 RF/t per connection.
+
+academy.fluxducts6.desc=Make Cryo-Stabilized Fluxducts
+academy.fluxducts6.text=Cryo-Stabilized Fluxducts can transfer an infinite amount of RF/t per connection.
+
+academy.empowerer.title=A Certain Scientific Infusion Altar
+academy.empowerer.desc=Make an Empowerer
+academy.empowerer.text1=The Empowerer is used to upgrade crystals.
+academy.empowerer.text2=Place the Empowerer down and then place a Display Stand in all 4 directions with 2 blocks between it and the Empowerer, and then provide them power.
+
+academy.powerfiller.title=Filled with Power
+academy.powerfiller.desc=Make a machine that can fill items with RF
+academy.powerfiller.text1=The Energizer simply uses the RF it is given to power the item inside it.
+academy.powerfiller.text2=The Energetic Infuser does the same, but it can be upgraded and augmented to fill items at roughly 1,000,000 RF per second.
+academy.powerfiller.text3=The Energy Infuser is much more expensive, but it can fill items at up to 1,000,000 RF/t (which is 20,000,000 RF per second).
+academy.powerfiller.task=Make any of these machines
+
+academy.inventorybatteries.title=Portable Charger
+academy.inventorybatteries.desc=Make an item that can store RF
+academy.inventorybatteries.text1=Actually Addition's Batteries are the cheapest to make. The first tier can store 200,000 RF, and the final tier can store 2,000,000 RF.
+academy.inventorybatteries.text2=Thermal Expansion's Flux Capacitors are a bit more expensive but can store more. The first tier can store 1,000,000 RF, and the final tier can store 25,000,000 RF. You can also enchant them with Holding, which will multiply their max storage by up to 3x.
+academy.inventorybatteries.text3=Draconic Evolution's Flux Capacitors are the most expensive and can hold the most. The first tier can store 64,000,000 RF, and the final tier can store 256,000,000 RF. You can upgrade the final tier to store 640,000,000 RF.
+academy.inventorybatteries.task=Make any of these items
+
+academy.teleportstaff.title=Vwoop
+academy.teleportstaff.desc=Make a Teleport Staff
+academy.teleportstaff.text=The Teleprot Staff will teleport you to the block you are looking at when used.
+
+academy.aadrill.desc=Make a Drill
+academy.aadrill.text1=The Drill works as a pickaxe and shovel that uses RF. It can be dyed to any color.
+academy.aadrill.text2=You can sneak right click the Drill to insert up to 5 Drill Augments, such as Speed or Fortune. Augments that come in multiple tiers need the previous tier to be able to function.
+academy.aadrill.task2=Any Drill Augment
+
+academy.greenhouseglass.title=Garden of Glass
+academy.greenhouseglass.desc=Make Greenhouse Glass
+academy.greenhouseglass.text1=When Greenhouse Glass is placed above a crop and is able to see the daytime sky, the crops will grow much faster.
+academy.greenhouseglass.text2=You can place multiple Greenhouse Glass on top of each other, and the effect will stack!
+
+academy.itemrepairer.title=Virtute Reparavit
+academy.itemrepairer.desc=Make an Item Repairer
+academy.itemrepairer.text=The Item Repairer uses RF to slowly repair items.
+
+academy.spawnerchanger.title=Monster Box
+academy.spawnerchanger.desc=Make a Spawner Changer
+academy.spawnerchanger.text1=Right click a mob with the Spawner Changer to set it to that mob, killing it. Then right click the Spawner Changer on a Mob Spawner, and it will change to spawn that mob.
+academy.spawnerchanger.text2=You can use this to set the type of mob to spawn before turning it into a Draconc Evolution Stabilized Spawner so you don't have to rely on Mob Souls.
+
+academy.playerinterface.desc=Make a Player Interface
+academy.playerinterface.text1=The Player Interface allows you to interact with your inventory as if it were any other block. You can pipe items in and out, and if you give it RF it will charge items in your inventory.
+academy.playerinterface.text2=It has a range of 32 blocks which can be increased by placing up to 3 Phantom Boosters on top of it, increasing the range to 256 blocks.
+
+academy.aaenergylaser2.desc=Make Advanced Energy Laser Relays
+academy.aaenergylaser2.text1=Advanced Energy Laser Relays can wirelessly transfer up to 10,000 RF/t.
+academy.aaenergylaser2.text2=If you have an Energy Laser Relay of a lower tier between two higher tiers, the lowest speed will be used.
+
+academy.aaenergylaser3.desc=Make Extreme Energy Laser Relays
+academy.aaenergylaser3.text=Extreme Energy Laser Relays can wirelessly transfer up to 100,000
+
+academy.mobslaughterfactory.title=Fast Food
+academy.mobslaughterfactory.desc=Make a Mob Slaughter Factory
+academy.mobslaughterfactory.text1=The Mob Slaughter Factory will kill any mobs in its working area. Instead of dropping items and experience, it will instead produce Liquid Meat in its internal tank. It also has a chance of producing Pink Slime.
+academy.mobslaughterfactory.text2=Its default range is 1 block. You will have to use Range Addons to increase the working area.
+
+academy.meatfeeder.title=Injecting Burger Directly Into Your Veins
+academy.meatfeeder.desc=Make a Meat Feeder
+academy.meatfeeder.text=When filled with Liquid Meat, the Meat Feeder will keep you fed from anywhere in your inventory automatically.
+
+academy.meatores.title=The Strangest Ore Processing Ever
+academy.meatores.desc=Make a Fluid Sieving Machine, Fermentation Station, and Washing Factory
+academy.meatores.text1=The Washing Factory combines Liquid Meat with Ores to create Raw Ore Meat.
+academy.meatores.text2=The Fermentation Station will ferment Raw Ore Meat into Fermented Raw Ore Meat.
+academy.meatores.text3=The Fluid Sieving Machine will combine Fermented Ore Meat and Sand to create dust for that ore.
+academy.meatores.text4=This process creates 3 ingots per ore.
+
+academy.ifenergy1.desc=Make an Energy Upgrade I
+academy.ifenergy1.text=You can insert an Energy Upgrade I into most Industrial Foregoing machines to lower the amount of energy they use.
+
+academy.ifenergy2.desc=Make an Energy Upgrade II
+academy.ifenergy2.text1=An Industrial Foregoing machine with Energy I and II will use even less energy.
+academy.ifenergy2.text2=You need to use both tiers for it to function.
+
+academy.ifspeed1.desc=Make a Speed Upgrade I
+academy.ifspeed1.text=You can insert a Speed Upgrade I into most Industrial Foregoing machines to lower the amount of time they need.
+
+academy.ifspeed2.desc=Make a Speed Upgrade II
+academy.ifspeed2.text1=An Industrial Foregoing machine with Speed I and II will take even less time.
+academy.ifspeed2.text2=You need to use both tiers for it to function.
+
+academy.mobcrusher.desc=Make a Mob Crusher
+academy.mobcrusher.text1=The Mob Crusher will kill any mobs in its working area. Their drops will automatically go into the Mob Crusher's inventory, and experience will be converted into Essence.
+academy.mobcrusher.text2=Its default range is 1 block. You will have to use Range Addons to increase the working area.
+
+academy.mobduplicator.desc=Make a Mob Duplicator
+academy.mobduplicator.text=The Mob Duplicator will use Essence and a filled Mob Imprisonment Tool to spawn that mob.
+
+academy.wyvernarmor.title=Penultimate Armor
+academy.wyvernarmor.desc=Make a full set of Wyvern armor
+academy.wyvernarmor.text1=Wyvern armor is the second best armor in most modpacks, behind its upgraded version.
+academy.wyvernarmor.text2=When wearing Wyvern or Draconic armor, a new GUI element will appear. The top bar shows the Shield Points, the amount of damage that can be absorbed without hurting the player. It drops when it takes damage, and it goes back up when it has power.
+academy.wyvernarmor.text3=The small green bar is the Entropy meter, which increases as you take damage and decreases over time. At high entropy, the shield points regenerate slower.
+academy.wyvernarmor.text4=The bottom bar is the amount of RF that is stored in the armor.
+
+academy.wyvernpickaxe.desc=Make a Pickaxe of the Wyvern
+academy.wyvernpickaxe.text1=The Pickaxe of the Wyvern has an adjustable mining speed, an upgradable area of effect, and a junk filter.
+academy.wyvernpickaxe.text2=To configure Draconic Evolution tools, hit C.
+
+academy.wyvernsword.desc=Make a Sword of the Wyvern
+academy.wyvernsword.text1=The Sword of the Wyvern has an adjustable attack radius and an upgradable attack damage.
+academy.wyvernsword.text2=To configure Draconic Evolution tools, hit C.
+
+academy.wyvernshovel.desc=Make a Shovel of the Wyvern
+academy.wyvernshovel.text1=The Shovel of the Wyvern has an adjustable mining speed, an upgradable area of effect, and a junk filter.
+academy.wyvernshovel.text2=To configure Draconic Evolution tools, hit C.
+
+academy.wyvernaxe.desc=Make an Axe of the Wyvern
+academy.wyvernaxe.text1=The Axe of the Wyvern has an adjustable mining speed and an upgradable area of effect.
+academy.wyvernaxe.text2=To configure Draconic Evolution tools, hit C.
+
+academy.wyvernbow.desc=Make a Bow of the Wyvern
+academy.wyvernbow.text1=The Bow of the Wyvern has an adjustable magnification and arrow damage/velocity, as well as togglable auto-fire and explosive arrows.
+academy.wyvernbow.text2=To configure Draconic Evolution tools, hit C.
+
+academy.energycore.desc=Make an Energy Storage Core
+academy.energycore.text1=The Energy Storage Core can store an extremely massive amount of RF. See the Draconic Evolution Information Tablet to see how to build it.
+academy.energycore.text2=The first tier requires only the blocks required for this quest, and can store 45,500,000 RF.
+academy.energycore.text3=To compare, the final tier can store 9,223,372,036,854,775,807 RF.
+
+academy.wyverncrystals.title=Wyvernly
+academy.wyverncrystals.desc=Make Wyvern Energy Crystals
+academy.wyverncrystals.text1=Wyvern Energy Crystals can hold 4 times more RF than Basic Energy Crystals.
+academy.wyverncrystals.text2=All Energy Crystals of all tiers transfer effectively infinite RF/t.
+academy.wyverncrystals.task=Any Wyvern Energy Crystals
+
+academy.fusioncrafting.title=Another Certain Scientific Fusion Altar
+academy.fusioncrafting.desc=Set up Fusion Crafting
+academy.fusioncrafting.text1=Place the Fusion Crafting Core, and then place Fusion Crafting Injectors around it facing the Core. The setup is powered through the Fusion Crafting Injectors.
+academy.fusioncrafting.text2=For Fusion Crafting recipes, the item in the center needs to be in the Fusion Crafting Core, and the items on the sides need to be in Fusion Crafting Injectors.
+academy.fusioncrafting.text3=Recipes require certain tier Fusion Crafting Injectors. If it needs a specific tier, it also works with higher tiers.
+academy.fusioncrafting.text4=To begin the craft, click "Craft" in the Fusion Crafting Core.
+
+academy.wyverninjectors.desc=Make Wyvern Fusion Crafting Injectors
+academy.wyverninjectors.text1=Wyvern Fusion Crafting Injectors allow you to craft more items.
+academy.wyverninjectors.text2=For recipes that require a certain tier, every Fusion Crafting Injector must be that tier or higher.
+
+academy.enderenergymanipulator.title=Pacifist
+academy.enderenergymanipulator.desc=Make an Ender Energy Manipulator
+academy.enderenergymanipulator.text=Right click the Ender Energy Manipulator on the Bedrock portal in the End while the Dragon is alive, and it will begin to kill as many Endermen as it can. Once it's reached a certain amount, it will stop and spawn a Dragon Egg.
+
+academy.awakeneddraconium.title=Awaken, My Masters
+academy.awakeneddraconium.desc=Make Awakened Draconium
+academy.awakeneddraconium.text=Awakened Draconium tools and armor are the highest tier in most modpacks.
+
+academy.upgradekeys.title=Upgrading
+academy.upgradekeys.desc=Make an Upgrade Key
+academy.upgradekeys.text1=Upgrade Keys are used with Fusion Crafting to upgrade tools and armor. Hit U to see the key's uses, and use that recipe with the tool you want to upgrade in the center.
+academy.upgradekeys.text2=Upgrade Keys have multiple recipes as they have multiple levels. Naturally, you have to upgrade with the Basic recipe, and then Wyvern, Draconic, and Chaotic.
+academy.upgradekeys.text3=Upgrade Keys are not destroyed when used, so you will only ever need to make each once.
+academy.upgradekeys.task=Any Upgrade Key
+
+academy.hardenedupgrade.desc=Make a Hardened Upgrade Kit
+academy.hardenedupgrade.text1=Upgrade Kits are used to increase the tier of a Thermal Expansion machine or dynamo. Simply right click the block with the Upgrade Kit to set it to that tier, as long as the machine is already the previous tier.
+academy.hardenedupgrade.text2=The order of tiers is:
+academy.hardenedupgrade.text3=•Basic
+academy.hardenedupgrade.text4=•Hardened
+academy.hardenedupgrade.text5=•Reinforced
+academy.hardenedupgrade.text6=•Signalum
+academy.hardenedupgrade.text7=•Resonant
+
+academy.reinforcedupgrade.desc=Make a Reinforced Upgrade Kit
+academy.reinforcedupgrade.text1=Reinforced machines are the second tier, and have room for 2 Augments.
+academy.reinforcedupgrade.text2=You can craft Upgrade Kits together to create a Conversion Kit, which will apply all the upgrades at once.
+
+academy.regularaugments.desc=Make a regular Augment
+academy.regularaugments.text1=Augments can be installed on machines and dynamos to upgrade them in some way. The amount of slots they have depends on the tier of the machine.
+academy.regularaugments.text2=You can have multiple of an Augment to stack its effectiveness.
+academy.regularaugments.task=Regular Augments
+
+academy.specializationaugments.desc=Make a pecialization Augment.
+academy.specializationaugments.text1=Specialization Augments fundamentally change the function of a machine or dynamo.
+academy.specializationaugments.text2=You can only have one Specialization Augment per machine.
+academy.specializationaugments.task=Specialization Augments
+
+
+# Technology - Advanced
+
+academy.iflaserdrill.title=Pierce the Heavens
+academy.iflaserdrill.desc=Set up a Laser Drill
+academy.iflaserdrill.text1=The Laser Drill allows you to essentially turn RF into ores.
+academy.iflaserdrill.text2=Place down a Laser Base anywhere, and then place 4 Laser Drills around it so that the laser connects them. Power is provided through the Laser Drills.
+academy.iflaserdrill.text3=In the Laser Base's GUI, click the - and + buttons on the right to change the y level to get ores from. You can check JEI for the recipes of ores to see what the optimal levels to set for them.
+academy.iflaserdrill.text4=You can place Laser Lenses into the 6 slots on the left to increase the chances of certain ores generating. Again, you can check JEI to see what laser helps what ore.
+
+academy.signalumupgrade.desc=Make a Signalum Upgrade Kit
+academy.signalumupgrade.text=Signalum is the third tier for machines and dynamos.
+
+academy.resonantupgrade.desc=Make a Resonant Upgrade Kit
+academy.resonantupgrade.text=Resonant machines are the highest tier available in survival mode.
+
+academy.alchemyimbuer.title=Apothecary
+academy.alchemyimbuer.desc=Make an Alchemical Imbuer
+academy.alchemyimbuer.text1=The Alchemical Imbuer works with fluids to create potions, which have to be bottled separately.
+academy.alchemyimbuer.text2=It is recommended to have multiple Alchemical Imbuers working in concert so you don't have to repeatedly pipe the fluid potions out of then back into the same machine.
+academy.alchemyimbuer.text3=The first Alchemical Imbuer make Awkward Potions, which would be sent to another Imbuer to upgrade it, and so on. At the end you would want to move the fluid to a Fluid Transposer to fill Glass Bottles. Alternatively you could pipe it to a Decoctive Diffuser which will spread that potion effect over an area.
+
+academy.alchemicalretort.title=I Require Your Strongest Potions
+academy.alchemicalretort.desc=Make the Alchemical Retort Augment
+academy.alchemicalretort.text=You can upgrade a Fractionating Still with an Alchemical Retort to allow it to process potion fluids, increasing the effect by 1 but also decreasing the amount by a quarter.
+
+academy.draconicfluxcap.desc=Make a Draconic Flux Capacitor
+academy.draconicfluxcap.text=The Draconic Flux Capacitor can hold the most RF of any item by far. Unupgraded, it can hold 256,000,000 RF. At Chaotic level Flux Capacity, it can store 768,000,000 RF.
+
+academy.draconicinjectors.desc=Make Draconic Fusion Crafting Injectors
+academy.draconicinjectors.text=Draconic Fusion Crafting Injectors can craft even more items.
+
+academy.draconiccrystals.title=Draconically
+academy.draconiccrystals.desc=Make Draconic Energy Crystals
+academy.draconiccrystals.text=Draconic Energy Crystals can hold 4 times more RF than Wyvern Energy Crystals.
+academy.draconiccrystals.task=Any Draconic Energy Crystals
+
+academy.draconichelm.title=La Meilleure Perruque de Clown
+academy.draconichelm.desc=Make a Draconic Helm
+academy.draconichelm.text=The Draconic Helm has Night Vision, cures negative potion effects, prevents drowning, and allows you to mine quickly while underwater.
+
+academy.draconicchestplate.title=Heart of a Dragon
+academy.draconicchestplate.desc=Make a Draconic Chestplate
+academy.draconicchestplate.text=The Draconic Chestplate allows flight, quick mining in the air, and fire immunity.
+
+academy.draconicleggings.title=Scale Tights
+academy.draconicleggings.desc=Make Draconic Leggings
+academy.draconicleggings.text=Draconic Leggings give a configurable speed boost.
+
+academy.draconicboots.title=Made for Walking
+academy.draconicboots.desc=Make Draconic Boots
+academy.draconicboots.text=Draconic Boots provide fall protection, a jump boost, and allow you to walk up single blocks without jumping.
+
+academy.draconicpickaxe.desc=Make a Draconic Pickaxe
+academy.draconicpickaxe.text=The Draconic Pickaxe is essentially the Pickaxe of the Wyvern, but better in every way.
+
+academy.draconicsword.desc=Make a Draconic Sword
+academy.draconicsword.text=The Draconic Sword is essentially the Sword of the Wyvern, but better in every way.
+
+academy.draconicshovel.desc=Make a Draconic Shovel
+academy.draconicshovel.text=The Draconic Shovel is essentially the Shovel of the Wyvern, but better in every way.
+
+academy.draconicaxe.desc=Make a Draconic Axe
+academy.draconicaxe.text=The Draconic Axe is essentially the Axe of the Wyvern, but better in every way.
+
+academy.draconicbow.desc=Make a Draconic Bow
+academy.draconicbow.text1=The Draconic Bow is essentially the Bow of the Wyvern, but better in every way.
+academy.draconicbow.text2=It also has a couple extra options. Arrows of Draconic Fire will allow it to shoot pure energy, increasing damage by 10%%. Shock Wave Power creates a shockwave that damages mobs in an area without damaging blocks.
+
+academy.draconicstaff.desc=Make a Draconic Staff of Power
+academy.draconicstaff.text=The Draconic Staff of Power is the most powerful tool in the modpack. It combines the Draconic Pickaxe, Shovel, and Sword in one.
+
+
+# Technology - Expert
+
+academy.chaosshard.desc=Defeat the Chaos Guardian
+academy.chaosshard.text1=In the End, you can find the hardest boss in the modpack at any locations where the X and Z coordinates are divisible by 10,000.
+academy.chaosshard.text2=The Chaos Guardian will require your absolute best weapons and armor. It can shred through your shields in moments, so you have to always stay moving.
+academy.chaosshard.text3=Aside from the difficulty, the fight is largely the same as the regular Ender Dragon; destroy the healing crystals and then attack the Chaos Guardian.
+academy.chaosshard.text4=Once you defeat the Chaos Guardian, dig under the center of the island and collect the Chaos Shards. This will cause the island to explode, so you should probably run away after you do so.
+
+academy.chaosinjectors.desc=Make Chaotic Fusion Crafting Injectors
+academy.chaosinjectors.text=Chaotic Fusion Crafting Injectors are the highest tier and can craft any Fusion Crafting recipe.
+
+academy.draconicreactor.title=Base Cleanup
+academy.draconicreactor.desc=Set up a Draconic Reactor
+academy.draconicreactor.text1=The Draconic is the single most dangerous block in the modpack. It is the very definition of risk-reward. If you run it right you can get an insane amount of RF, but if it explodes it will destroy everything that's within 200 blocks of itself.
+academy.draconicreactor.text2=It is very complicated to run. Definitely too complicated to explain here, so read the Draconic Evolution Information Tablet to see more information.
+
+# Botania
+academy.lexica.title=Reading Rainbow
+academy.lexica.desc=Craft the Lexica Botania
+academy.lexica.text=The Lexica Botania is a really good guide for Botania. When you open it for the first time you have the option to go through a tutorial. We recommend going through that and using these quests to supplement it.
+academy.lexica.text2=When the Lexica Botania is in your hotbar, you can hold control while hovering over items from Botania in your inventory to see the page on that item.
+
+academy.apothecary.title=Bird Bath
+academy.apothecary.desc=Make a Petal Apothecary
+academy.apothecary.text1=The Petal Apothecary is used to make magical flowers. Fill it with water, throw in Mystical Petals as dictated by the recipe, then throw in seeds to complete it.
+academy.apothecary.text2=You can plant Mystical Petals in the ground and grow them with Bone Meal to make Tall Mystical Flowers that can be harvested with Shears. This lets you farm Mystical Petals.
+
+academy.pouch.desc=Make a Flower Pouch
+academy.pouch.text=The Flower Pouch will store up to a stack of each Mystical Flower. When one is picked up, it will automatically be stored in the Flower Pouch if there is room.
+
+academy.forestwand.title=Nature Magic
+academy.forestwand.desc=Make a Wand of the Forest
+academy.forestwand.text=The Wand of the Forest is a bit of an all-in-one tool for Botania. It allows you to activate and manipulate certain blocks in the mod.
+
+academy.daisy.title=Purification in Progress
+academy.daisy.desc=Make a Pure Daisy
+academy.daisy.text1=The Pure Daisy is a very important flower. It will convert Stone and Wood into Livingrock and Livingwood if they are within a 3x3 area surrounding it.
+academy.daisy.text2=Livingrock and Livingwood are used extremely often, so it would be a good idea to find a way to automate this.
+
+academy.mana.title=Mana Jacuzzi
+academy.mana.desc=Make a Mana Pool and Mana Spreader
+academy.mana.text1=The Mana Pool is used to store Mana created by flowers. You can bind other flowers to it so they can use the Mana it holds.
+academy.mana.text2=Place the Mana Spreader next to a source of Mana, like a Mana Pool, and point it at something else that can accept Mana using a Wand of the Forest. It will start to shoot Mana Bursts in that direction, emptying the Mana source.
+academy.mana.text3=You can also throw things into the Mana Pool to change them, either transmuting or charging them.
+
+academy.manaitems.title=Just Stick "Mana" in Front of It!
+academy.manaitems.desc=Make Manasteel, a Mana Pearl, and a Mana Diamond
+academy.manaitems.text=Manasteel, Mana Diamonds, and Mana Pearls are used in a lot of crafting recipes.
+
+academy.manatablet.title=Mana Battery
+academy.manatablet.desc=Make a Mana Tablet
+academy.manatablet.text1=The Mana Tablet can be used to carry around Mana without a Mana Spreader, and also fuels any items in your inventory that need Mana.
+academy.manatablet.text2=To charge or discharge a Mana Tablet, throw it on a Mana Pool. Activate the Pool with a Wand of the Forest to switch between emptying and filling.
+
+academy.halo.title=Manafactory Halo
+academy.halo.desc=Make a Manufacturing Halo
+academy.halo.text1=The Manufacturing Halo will automatically craft recipes that are set using items in your inventory.
+academy.halo.text2=Hold the Manufacturing Halo in your hand to see the interface appear. You can use the Crafting Table like you would normally, and you can click any of the other segments to set the Halo to automatically craft that recipe.
+
+academy.alchemcat.title=The Law of Equivalent Exchange
+academy.alchemcat.desc=Make an Alchemy Catalyst
+academy.alchemcat.text1=The Alchemy Catalyst is placed under a Mana Pool to change its functionality.
+academy.alchemcat.text2=It adds new recipes to the Mana Pool, so you can throw in an item to get a different item out. Hit U on the Alchemy Catalyst to see all of its recipes.
+
+academy.endoflame.title=Smells like Burning
+academy.endoflame.desc=Make an Endoflame
+academy.endoflame.text1=The Endoflame will burn any furnace fuel dropped on the ground nearby and convert it into Mana and put it into a nearby Mana Spreader.
+academy.endoflame.text2=This is a very good early-game source of Mana that works better the more you have, and is very easily automatable.
+
+academy.runicaltar.title=????? ???????
+academy.runicaltar.desc=Make a Runic Altar
+academy.runicaltar.text1=The Runic Altar is used to create Runes, as the name implies. Throw the items on top of it according to the recipe and provide it with Mana from a Mana Spreader.
+academy.runicaltar.text2=Once it's full of Mana, throw a Livingrock on it and activate it with a Wand of the Forest to complete the craft.
+
+academy.soujourner.title=Beauty Queen on Tour
+academy.soujourner.desc=Make a Soujourner's Sash
+academy.soujourner.text=The Soujourner's Sash, when worn in the Belt bauble slot and provided with Mana, will vastly increase the agility of the wearer.
+
+academy.lens.title=Mana Glasses
+academy.lens.desc=Make a Mana Lens
+academy.lens.text=Mana Lenses are applied to Mana Spreaders to change how they work. They can do things like make Mana Bursts faster or hold more Mana, or make it so they explode when they hit a block.
+
+academy.botaniamagnet.title=Magnetic Personality
+academy.botaniamagnet.desc=Make a Ring of Magnetization
+academy.botaniamagnet.text=While worn in the Bauble slots, the Ring of Magnetization will draw dropped items towards the player.
+
+academy.botaniarods.title=Magic Wand
+academy.botaniarods.desc=Make any Rod
+academy.botaniarods.text=Rods allow you to use Mana from your inventory to perform certain actions, such as placing Cobblestone or Dirt, flying through the air, or smelt blocks.
+
+academy.terrasteel.title=Dancing Lights
+academy.terrasteel.desc=Make some Terrasteel
+academy.terrasteel.text1=The Terrestrial Agglomeration Plate is where you make Terrasteel.
+academy.terrasteel.text2=Throw a Manasteel Ingot, a Mana Diamond, and a Mana Pearl on the Plate and give it a couple metric butt-tons of Mana from a Mana Pool connected with Sparks.
+academy.terrasteel.text3=Some lights will dance around for a bit before converging on the items, turning them into a single Terrasteel Ingot.
+
+academy.elven.title=Link Start!
+academy.elven.desc=Make a portal to Alfheim
+academy.elven.text1=The portal to Alfheim is a multiblock that allows you to trade with elves (it's essentially another crafting mechanic). Throw an item into it and they'll throw the elven version back out.
+academy.elven.text2=The Lexica Botania has a building guide for the portal.
+
+academy.laputa.title=Castle in the Sky
+academy.laputa.desc=Make a max size Shard of Laputa
+academy.laputa.text1=The Shard of Laputa will take blocks on the ground and move them up in the air, giving you a really cool floating island!
+academy.laputa.text2=The higher tiers create bigger islands.
+
+academy.flugel.title=It's Called an Umlaut
+academy.flugel.desc=Make a Flügal Tiara
+academy.flugel.text=The Flügel Tiara allows you to fly for a period of time. When you're wearing one, you can see the time remaining above your hunger bar.
+academy.flugel.text2=You can also sprint in the air to dart forward. This has a cooldown.
+academy.flugel.text3=There are several different kinds of Flügal Tiara that you can make that allow you to change the way it looks.
+
+academy.lexica2.title=It's Lucky They Understand English
+academy.lexica2.desc=Get the elven Lexica Botania
+academy.lexica2.text1=If you throw the Lexica Botania into the portal to Alfheim, they'll write down all their Elven knowledge for you to read.
+academy.lexica2.text2=Elven knowledge will be green.
+
+academy.farreach.title=Top Shelf
+academy.farreach.desc=Make a Ring of Far Reach
+academy.farreach.text=The Ring of Far Reach, as the name implies, extends the reach of the wearer.
+
+academy.luminizer.title=Walking on Sunshine
+academy.luminizer.desc=Make a Luminizer
+academy.luminizer.text1=Luminizers can move players and mobs between each other by having them ride on trails of light.
+academy.luminizer.text2=Place two Luminizers within 20 blocks of each other. Sneak right click the Luminizers with a Wand of the Forest to make a one-way connection. Right click the first Luminizer to go to the other one, and if that one is connected to another you will be sent to that one as well.
+
+academy.conjuration.desc=Make a Conjuration Catalyst
+academy.conjuration.text1=The Conjuration Catalyst is placed under the Mana Pool to allow it to duplicate certain items using Mana.
+academy.conjuration.text2=Look at the Conjuration Catalyst's uses in JEI with the U button to see what can be duplicated.
+
+academy.elvenspreader.desc=Make an Elven Mana Spreader
+academy.elvenspreader.text=The Elven Mana Spreader can send much larger bursts of Mana, though it also fires less often.
+
+academy.globetrotter.desc=Make a Globetrotter's Sash
+academy.globetrotter.text=The Globetrotter's Sash is essentially a direct upgrade to the Soujourner's Sash. You can run faster, jump higher, and pronounce it easier!
+
+academy.gaiaspreader.desc=Make a Gaia Mana Spreader
+academy.gaiaspreader.text=the Gaia Mana Spreader is the final tier of Mana Spreader. It larger Mana bursts which travel farther.
+
+academy.gaia.title=Crank it Up!
+academy.gaia.desc=Fight the Guardian of Gaia
+academy.gaia.text=You have to construct a battle arena to summon the Guardian of Gaia (see the Lexica Botania for details). After defeating them, it will drop some Gaia Spirits and some other useful things.
+
+academy.gaia2.title=Loot Crate
+academy.gaia2.desc=Fight the stronger Guardian of Gaia
+academy.gaia2.text1=You can challenge the Guardian to a more difficult fight to get better rewards. Use a Gaia Spirit Ingot instead of Terrasteel Ingot to begin the battle.
+academy.gaia2.text2=The second fight will be much, much harder. Come prepared for a battle. It drops Loot Dice, which turn into 1 of 6 possible legendary Relics.
+
+#Twilight Forest
+academy.twilightportal.title=A World of Pure Imagination
+academy.twilightportal.desc=Enter the Twilight Forest
+academy.twilightportal.text1=The Twilight Forest is an entirely new dimension to explore.
+academy.twilightportal.text2=It has a strict progression system, so you have to defeat certain bosses before you can enter certain biomes.
+academy.twilightportal.text3=To make the portal, dig a 2x2 in Grass and fill it with Water. Make sure every Grass block has a plant on it like a flower, and then throw a Diamond in.
+academy.twilightportal.task=Enter the Twilight Forest
+
+academy.magicmap.title=I'm the Map!
+academy.magicmap.desc=Make a Magic Map
+academy.magicmap.text1=The Magic Map will greatly help in navigating through the Twilight Forest.
+academy.magicmap.text2=It is very zoomed out, each biome has a unique color, and landmarks have icons so you can find them easier.
+
+academy.questingram.title=Rainbow Ram
+academy.questingram.desc=Complete the Questing Ram's quest
+academy.questingram.text1=The Questing Ram is a passive boss that spawns in Enchanted Forests.
+academy.questingram.text2=Give it one of each color of Wool and it will give you a block of every vanilla metal and gem, as well as the Crumble Horn.
+
+academy.naga.title=Ophidiophobia
+academy.naga.desc=Exterminate the Naga
+academy.naga.text1=When you first begin, only the core biomes are unlocked.
+academy.naga.text2=You can explore all you like, but locked biomes will each have their own ways of stopping you.
+academy.naga.text3=To unlock the next biomes, find and defeat the Naga. You can find it in a Naga Courtyard in one of the forest biomes.
+academy.naga.task=Advancement: Time To Even The Scales
+
+academy.lich.title=Scholarly Adventures
+academy.lich.desc=Overthrow the Lich
+academy.lich.text1=The Lich Tower is unlocked once you've defeated the Naga. It spawns in forest biomes. Climb to the top to confront the Lich.
+academy.lich.text2=Once you've grabbed a Scepter, the Swamp, Dark Forest, and Snowy Forest biomes will become unlocked.
+academy.lich.task=Advancement: Bring Out Your Dead
+
+academy.minoshroom.title=Theseus
+academy.minoshroom.desc=Slay the Minoshroom
+academy.minoshroom.text1=In the Swamp you can find massive underground Labyrinths, full of monsters and treasure. At the very bottom you can find the Minoshroom.
+academy.minoshroom.text2=The Minoshroom doesn't need any special tactics to defeat; hit it until it dies. Eat the Meef Stroganoff to unlock the Fire Swamp.
+academy.minoshroom.task=Advancement: Mighty Stroganoff
+
+academy.hydra.title=Herculean Effort
+academy.hydra.desc=Behead the Hydra
+academy.hydra.text1=The Hydra can be found in the Fire Swamp. It is best fought at range, attacking a head when its mouth is open.
+academy.hydra.text2=When a head takes enough damage it will die and be replaced with two others. Do this enough times and the Hydra will be defeated.
+academy.hydra.text3=Fiery Blood, along with the drops from two other bosses, is required to unlock the Highlands.
+academy.hydra.task=Advancement: Hydra Slayer
+
+academy.knightphantom.title=Spooky Scary Skeletons
+academy.knightphantom.desc=Lay the Knight Phantoms to rest
+academy.knightphantom.text1=You can find Goblin Knight Strongholds in Dark Forests and are filled with monsters and treasure. One room has six Knight Phantoms to battle.
+academy.knightphantom.text2=Kill all the Knight Phantoms to be able to enter the Dark Tower.
+academy.knightphantom.task=Advancement: Carminite Acclimation
+
+academy.urghast.title=Crybaby
+academy.urghast.desc=Make the Ur-Ghast cry
+academy.urghast.text1=The Dark Tower can be found looming over Dark Forests. As you climb it, you have to overcome many puzzles and fight many monsters.
+academy.urghast.text2=Fiery Tears, along with the drops from two other bosses, are required to unlock the Highlands.
+academy.urghast.task=Advancement: Tears of Fire
+
+academy.yeti.title=Cool Guy
+academy.yeti.desc=Put the Alpha Yeti on ice
+academy.yeti.text1=The Alpha Yeti can be found in the Yeti Lair in the Snowy Forest biome.
+academy.yeti.text2=Grab some fur to unlock the Glacier.
+academy.yeti.task=Advancement: Alpha Fur
+
+academy.snowqueen.title=Regicide
+academy.snowqueen.desc=Dethrone the Snow Queen
+academy.snowqueen.text1=The Snow Queen can be found at the top of the Aurora Palace on top of Glaciers.
+academy.snowqueen.text2=Once you've defeated the Snow Queen and collected the drops from two other bosses, you can enter the Highlands.
+academy.snowqueen.task=Advancement: Clear Skies
+
+academy.cinders.title=Breaking and Entering
+academy.cinders.desc=Rob the Giants in their home
+academy.cinders.text1=Under the Highlands you can find the Troll Caves, which contain large and small Obsidian vaults as well as, obviously, Trolls.
+academy.cinders.text2=Find some Magic Beans and use them to reach the Cloud Cottage above. Kill a Giant Miner there and take their Giant Pickaxe, and return to the Troll Caves.
+academy.cinders.text3=Use the Giant Pickaxe to get the Lamp of Cinders in the Giant Obsidian vault.
+academy.cinders.task=Advancement: I Wish For More Burning
+
+academy.castle.title=Makes a Cool Base, Though
+academy.castle.desc=Explore the Final Castle
+academy.castle.text1=Use the Lamp of Cinders to bypass the Thornlands and reach the Final Plateau. In it, you can find the Final Castle.
+academy.castle.text2=The mod is not done, so the Final Castle is almost completely unfinished. There is no boss, and the puzzles don't work. This is the end of the progression for now, but it is still being worked on.
+
+
+# Astral Sorcery
+
+academy.astraltome.title=The More You Know
+academy.astraltome.desc=Make an Astral Tome
+academy.astraltome.text1=The Astral Tome is the best source of information on Astral Sorcery. It has multiple chapters that you have to zoom in to see with the scroll wheel.
+academy.astraltome.text2=At the beginning, the only chapter you can see is Discovery. The further you progress, the more chapters you will unlock.
+
+academy.constellationpaper.desc=Find a Constellation Paper
+academy.constellationpaper.text1=Constellations are one of the most important parts of the mod, and can be found in Shrines. There are five you can get right now.
+academy.constellationpaper.text2=Sneak right click the Astral Tome and insert Constellation Papers into its inventory. This will create a new page in the Astral Tome that has a list of constellations, though they will be missing any important information.
+
+academy.reswand.title=Magical Tuning Fork
+academy.reswand.desc=Make a Resonating Wand
+academy.reswand.text1=To begin Astral Sorcery, you must find an Ancient Shrine somewhere in the world. You can find them in mountainous areas; they are large marble structures with flowing water.
+academy.reswand.text2=Dig into the Ancient Shrine's basement to find a Floating Crystal. This is important later, but for now just place a Crafting Table anywhere nearby. This will allow you to craft items that require Starlight in that Crafting Table.
+academy.reswand.text3=While holding the Resonating Wand and walking around the world, floating white sparkles will mark certain areas as having Rock Crystal Ore deep underneath them.
+
+academy.luminouscraftingtable.title=Night Shift
+academy.luminouscraftingtable.desc=Make a Luminous Crafting Table
+academy.luminouscraftingtable.text1=The Luminous Crafting Table allows you to craft with Starlight without having to be near a Floating Crystal, though it does need to be able to see the night sky directly above it.
+academy.luminouscraftingtable.text2=The amount of Starlight it has access to depends on its altitude and location.
+academy.luminouscraftingtable.text3=To craft with the Luminous Crafting Table, make sure it has enough Starlight and then right click it with a Resonating Wand.
+academy.luminouscraftingtable.text4=Once you've crafted the Luminous Crafting Table, the Exploration chapter is unlocked in the Astral Tome.
+
+academy.sextant.title=Building Helper
+academy.sextant.desc=Make a Sextant
+academy.sextant.text1=Astral Sorcery has several multiblock structures which can be a big confusing to build. If you use a Sextant on the main part of a multiblock, it will show you where to place the blocks to complete it.
+academy.sextant.text2=Use the Sextant on air at night and look to the stars, and you might see a large coloured star. Hold sneak to unlock the mouse and hover over it, and it will change to one of the icons on the right. Drag that icon onto the star to mark it, and you will be able to see it in the night sky. Follow it to find that structure in the world.
+
+academy.lookingglass.title=Through the Looking Glass
+academy.lookingglass.desc=Make a Looking Glass
+academy.lookingglass.text1=By using the Looking Glass, you can search the night sky for any Constellations whose Papers you've found. Only one constellation is visible per night using the Looking Glass, so it may take multiple nights for the one you are searching for to appear.
+academy.lookingglass.text2=Stars that belong to constellations will be larger and fade in and out. If it is a constellation you've discovered already, hold sneak to unlock the mouse and trace lines between the stars in the pattern of the constellation.
+
+academy.lightwell.title=Moonlit Bath
+academy.lightwell.desc=Make a Lightwell
+academy.lightwell.text1=Lightwells are used to create Liquid Starlight, which is done by right clicking one with Aquamarine or a Rock Crystal while the Lightwell can see the night sky. More expensive ones will make more and will last longer.
+academy.lightwell.text2=You can throw a Rock Crystal into some Liquid Starlight and it will slowly increase its Size. Large Rock Crystals will increase the durability of tools made with them.
+
+academy.fosicresonator.title=Constructive Interference
+academy.fosicresonator.desc=Make a Fosic Resonator
+academy.fosicresonator.text1=Some areas are better than others for getting Starlight, and it can be hard to find a location that works well.
+academy.fosicresonator.text2=Explore the land at night while holding a Fosic Resonator in your hand, and you can find areas that glow blue. The more intense the glow, the more Starlight can be found there.
+
+academy.spectralrelay.title=Starlight Boost
+academy.spectralrelay.desc=Make a Spectral Relay
+academy.spectralrelay.text1=If you are unable to find the perfect spot, you can use Spectral Relays to give a boost to Starlight. Build the multiblock near the the structure you want to give Starlight to and it will boost it.
+academy.spectralrelay.text2=If Spectral Relays are within 16 blocks of each other, they will lose a lot of efficiency.
+
+academy.illuminationpowder.title=Night Light
+academy.illuminationpowder.desc=Make Illumination Powder
+academy.illuminationpowder.text1=Illumination Powder is a great source of light. It doesn't take up a block space, it can't be touched, and it doesn't need to be supported.
+academy.illuminationpowder.text2=The only way to destroy it is to place a block on it.
+
+academy.caveilluminator.desc=Make a Cave Illuminator
+academy.caveilluminator.text=The Cave Illuminator will slowly light up all dark areas beneath it in a large area.
+
+academy.nocturnalpowder.title=Black Light
+academy.nocturnalpowder.desc=Make Nocturnal Powder
+academy.nocturnalpowder.text=When Nocturnal Powder is thrown, it will create a dark cloud that spawns monsters.
+
+academy.grindstone.title=Quality over Quantity
+academy.grindstone.desc=Make a Grindstone
+academy.grindstone.text1=The Grindstone can be used to sharpen Swords, adding 10%% damage.
+academy.grindstone.text2=You can also use them to sharpen Rock Crystals, which will increase the damage/speed of tools crafted with them at the cost of lowering their size.
+
+academy.starlightcraftingaltar.desc=Make a Starlight Crafting Altar
+academy.starlightcraftingaltar.text1=The Starlight Crafting Altar is the second tier of crafting tables that use Starlight. When you craft it in the Luminous Crafting Table, instead of popping out it will just convert into the Starlight Crafting Altar.
+academy.starlightcraftingaltar.text2=In order for the Starlight Crafting Altar to work, you will have to build a structure around it. You can use the Sextant to see where to place the blocks.
+academy.starlightcraftingaltar.text3=Once you've crafted the Starlight Crafting Altar, the Attunement chapter is unlocked in the Astral Tome.
+
+academy.telescope.title=I Spy With My Little Eye
+academy.telescope.desc=Make a Telescope
+academy.telescope.text=The Telescope is essentially an upgraded Looking Glass. Place it down in the world and use it to see a section of the night sky. Other than that, it works exactly like the Looking Glass.
+
+academy.linkingtool.title=Hey, Listen!
+academy.linkingtool.desc=Make a Linking Tool
+academy.linkingtool.text1=The Linking Crystal allows you to create connections between Floating Crystals and other blocks. Simply sneak right click on the source of Starlight, then right click on everything you wish to connect it to.
+academy.linkingtool.text2=Some blocks are changed into other blocks when connected to Floating Crystals. To see the list, check JEI for the uses for the Lens.
+
+academy.starmetal.title=Rock Star
+academy.starmetal.desc=Make Starmetal
+academy.starmetal.text=If you link a Floating Crystal to Iron Ore, it gets turned into Starmetal Ore.
+
+academy.astralsorcerylens.title=Starlight Redirection Lens
+academy.astralsorcerylens.desc=Make a Lens
+academy.astralsorcerylens.text1=You can use a Lens to move Starlight from a source to a distant location. Simply link a source to the Lens, then link the Lens to the destination. You can have as many sources as you want, but you can only have one destination.
+academy.astralsorcerylens.text2=You can insert a Colored Lens into a Lens block to make the Starlight that passes through it perform a function. Each color has a different function, which is given in its tooltip.
+
+academy.celestialgateway.title=Intrastellar Travel
+academy.celestialgateway.desc=Make a Celestial Gateway
+academy.celestialgateway.text1=Celestial Gateways are a multiblock structure that allow you to teleport to other Celestial Gateways. While standing near the center of the platform, your surroundings will disappear and you will be able to see the location of other Celestial Gateways. Sneak while looking at your destination, and you will be sent to it.
+academy.celestialgateway.text2=You can name a Celestial Gateway in an Anvil to make it easier to tell it from others.
+
+academy.impulsionwand.title=Grappling Hook!
+academy.impulsionwand.desc=Make an Impulsion Wand
+academy.impulsionwand.text=Right click with the Impulsion Wand to send out a projectile. When it lands, it will rapidly pull you towards itself. You will not take fall damage.
+
+academy.attunementaltar.title=Arguably the Coolest Thing Ever
+academy.attunementaltar.desc=Make an Attunement Altar
+academy.attunementaltar.text1=The Attunement Altar gives you the ability to attune yourself or certain items to the constellations, granting awesome powers. Hold a Constellation Paper in your hand and place down Relays in the glowing areas. If that constellation is in the night sky, it will attune whatever is on top of the Altar to that constellation.
+academy.attunementaltar.text2=While you can attune items like Rock Crystals, the really interesting part is the ability to attune YOURSELF to a constellation. Attuning yourself to a constellation will unlock a massive perk tree, and you can gain experience by performing actions depending on the theme of the constellation.
+
+academy.shiftingstar.title=Respec
+academy.shiftingstar.desc=Make a Shifting Star
+academy.shiftingstar.text=If you are unhappy with the constellation you attuned with or the perks you've chosen, you can use a Shifting Star to completely reset your perk progress and attunement.
+
+academy.ritualpedestal.title=Area of Effect
+academy.ritualpedestal.desc=Make a Ritual Pedestal
+academy.ritualpedestal.text1=Ritual Pedestals act somewhat like a Beacon, except instead of giving a potion effect they perform some function, such as allowing flight or preventing monsters from spawning within their area (depending on the Size and Purity).
+academy.ritualpedestal.text2=The function they perform is dependent on the constellation that the Rock Crystal inside is attuned to. You can see what each constellation does in the Constellations page.
+academy.ritualpedestal.text3=You can boost the effectiveness of a ritual by providing it Starlight directly through Floating Crystals and Lenses. Doing so will also reflect some of it away, so you will have to place more Lenses to send the wasted Starlight back towards the Ritual Pedestal. This does have a greater risk of destroying the Attuned Crystal, however.
+
+academy.domicresonator.title=DOMA, DOMA DOMA DOMA!
+academy.domicresonator.desc=Make a Domic Resonator
+academy.domicresonator.text1=The Domic Resonator is an upgrade to the Fosic Resonator. You can swap between the modes by sneak right clicking it.
+academy.domicresonator.text2=The Domic Resonator will show you the range of rituals and similar things by right clicking on the main block (such as the Ritual Pedestal or Tree Beacon).
+
+academy.celestialaltar.desc=Make a Celestial Altar
+academy.celestialaltar.text1=The Celestial Altar is the third tier of crafting tables that use Starlight. When you craft it in the Starlight Crafting Altar, instead of popping out it will just convert into the Celestial Altar.
+academy.celestialaltar.text2=The Celestial Altar will not function without a new, larger multiblock structure surrounding it. You can use the Sextant to see where to place the blocks.
+academy.celestialaltar.text3=Once you've crafted the Celestial Altar, the Constellation chapter is unlocked in the Astral Tome.
+
+academy.starlightinfuser.title=Starlight, Star Bright
+academy.starlightinfuser.desc=Make a Starlight Infuser
+academy.starlightinfuser.text1=The Starlight Infuser is a multiblock that allows you to use Liquid Starlight to process certain blocks and items, upgrading them in some way.
+academy.starlightinfuser.text2=Using the Starlight Infuser has a chance of using up some of the Liquid Starlight, which will have to be replaced to continue.
+academy.starlightinfuser.text3=You can infuse Crystal tools to give them special abilities when you right click, such as the Infused Crystal Pickaxe showing nearby ores.
+
+academy.treebeacon.title=Treacon
+academy.treebeacon.desc=Make a Tree Beacon
+academy.treebeacon.text1=Saplings grown near a Tree Beacon will grow into special trees that can't be broken, but will passively drop their logs and saplings.
+academy.treebeacon.text2=The Tree Beacon only works with regular Saplings, not Dynamic Trees ones.
+
+academy.celestialcrystal.desc=Make a Celestial Crystal
+academy.celestialcrystal.text1=Celestial Crystals are stronger and bigger than Rock Crystals. In almost any situation where a recipe calls for a Crystal, a Celestial Crystal will do a better job.
+academy.celestialcrystal.text2=To grow Celestial Crystals, throw some Stardust and a Rock Crystal into some Liquid Starlight and wait. This will create a Celestial Crystal Cluster, which will take time to grow. When it starts to emit white particles, it can be harvested by mining it.
+
+academy.sextant2.desc=Make an Advanced Sextant
+academy.sextant2.text=The Advanced Sextant allows you to locate even more structures, such as Villages, Ocean Monuments, and Nether Fortresses.
+academy.sextant2.task=Advanced Sextant
+
+academy.ritualanchor.title=Remote Ritual
+academy.ritualanchor.desc=Make a pair of Ritual Anchors
+academy.ritualanchor.text1=Ritual Altars are large and bulky, so you may not want to have one in the middle of your base. Ritual Anchors allow you to have the affects of a ritual without having to have the whole multiblock in the way.
+academy.ritualanchor.text2=When you make a pair of Ritual Anchors, they will remain linked forever. Place one 5 blocks above a Ritual Pedestal and another at the location you wish to have the ritual's affect centered on.
+
+academy.stellarrefractiontable.desc=Make a Stellar Refraction Table
+academy.stellarrefractiontable.text1=The Stellar Refraction Table allows you to enchant items using constellations.
+academy.stellarrefractiontable.text2=Right click Infused Glass and Parchment into the Table and open its GUI. Drag up to three constellations onto the Parchment to engrave them onto the Infused Glass. This destroys the Parchment.
+academy.stellarrefractiontable.text3=Right click an enchantable item into the Table, and it will begin to add enchantments according to the infused constellations. These enchantments will be very powerful.
+
+academy.illuminationwand.title=Ghostly Light
+academy.illuminationwand.desc=Make an Illumination Wand
+academy.illuminationwand.text1=Right clicking with the Illumination Wand will place Illumination Powder, and you can left click with the Wand to remove them. You can craft the Wand with dye to change the color of the lights.
+academy.illuminationwand.text2=Sneak right clicking a block will make them transparent and glow, as well as making them resistant to all damage.
+
+academy.collectorcrystal.title=Power of the Ancients
+academy.collectorcrystal.desc=Make a Floating Crystal
+academy.collectorcrystal.text1=Using Floating Crystals from Shrines is all well and good, but it would be so convenient if you could make them yourself. If only that was possible...
+academy.collectorcrystal.text2=These Floating Crystals work exactly the same as regular ones, but you can put them anywhere you want!
+
+academy.celestialcollectorcrystal.desc=Make a Celestial Floating Crystal
+academy.celestialcollectorcrystal.text1=Like Celestial Crystals are essentially upgraded Rock Crystals, Celestial Floating Crystals are essentially upgraded Floating Crystals.
+academy.celestialcollectorcrystal.text2=You can build a structure to upgrade it, which will basically make it so you will never need to worry about Starlight again.
+
+academy.iridescentaltar.title=Absolute Radiance
+academy.iridescentaltar.desc=Make an Iridescent Altar
+academy.iridescentaltar.text1=The Iridescent Altar is the fourth and final tier of crafting tables that use Starlight. When you craft it in the Celestial Altar, instead of popping out it will just convert into the Iridescent Altar.
+academy.iridescentaltar.text2=The Iridescent Altar will not function without a new, larger multiblock structure surrounding it. You can use the Sextant to see where to place the blocks.
+academy.iridescentaltar.text3=Once you've crafted the Iridescent Altar, the Radiance chapter will unlock in the Astral Tome.
+academy.iridescentaltar.text4=What sets the Iridescent Altar apart from the others is that you must also place Spectral Relays on the surrounding Sooty Marble, which will request specific items during crafting recipes. The Iridescent Altar also must have an Attuned Crystal inside.
+
+academy.containmentchalice.title=Living Liquids
+academy.containmentchalice.desc=Make a Containment Chalice
+academy.containmentchalice.text1=The Containment Chalice will hold up to 24 buckets of a fluid. Any Starlight in nearby Lightwells will float out of the Lightwell into the Containment Chalice.
+academy.containmentchalice.text2=If you have multiple Containment Chalices that have text that have some kind of interaction (say, Water and Lava), small amounts of the fluid will float out and meet, creating the result of their combination (in this case, Stone, Cobblestone, or Obsidian). If there are multiple possible results, it will randomly select one.
+academy.containmentchalice.text3=A Starlight Infuser will attempt to use Starlight from a Chalice before using up the Starlight placed in the world.
+
+academy.observatory.title=Planetarium
+academy.observatory.desc=Make an Observatory
+academy.observatory.text1=The Observatory is placed on the world and then used like a Looking Glass.
+academy.observatory.text2=The Observatory is the only way to discover Faint Constellations. Faint constellations do nothing on their own, they change the behavior of already-attuned crystals.
+
+academy.mantleofthestars.title=Resplendent Garb
+academy.mantleofthestars.desc=Make a Mantle of the Stars
+academy.mantleofthestars.text1=The Mantle of the Stars can be attuned to constellations to gain special abilities.
+academy.mantleofthestars.text2=The Mantle is attuned in the Iridescent Altar, not the Attunement Altar.
+
+academy.attunedreswands.title=Holly and Phoenix Feather, Eleven Inches
+academy.attunedreswands.desc=Make an Attuned Resonating Wand
+academy.attunedreswands.text=You can attuned Resonating Wands to constellations to give them special powers, like the ability to walk on air, fling yourself, and deal extra damage the more you attack a mob.
+academy.attunedreswands.task=Any Attuned Resonating Wand
+
+academy.evershiftingfountain.desc=Make an Evershifting Fountain
+academy.evershiftingfountain.text1=The Evershifting Fountain is part of a multiblock structure. It doesn't do anything on its own though, it needs one of the Primes for it to have any function. Primes are placed on the bottom face of the Fountain.
+academy.evershiftingfountain.text2=Both Primes use Liquid Starlight for fuel. To power it, place a Containment Chalice on top of the Evershifting Fountain and fill it with Liquid Starlight.
+
+academy.neromantic.title=I ? Emperor Nero
+academy.neromantic.desc=Make a Neromantic Prime
+academy.neromantic.text1=The Neromantic Prime drills a hole about as wide as the Evershifting Fountain multiblock down all the way to Bedrock, and then begins to generate fluid. This fluid gets sent to any nearby Containment Chalices.
+academy.neromantic.text2=Different areas will have different fluids that will be generated.
+
+academy.ichosic.title=What does Ichosic Mean? Who Knows!
+academy.ichosic.desc=Make an Ichosic Resonator
+academy.ichosic.text1=The Ichosic Resonator is an upgrade to the Fosic Resonator. It can be crafted with just the Fosic Resonator or with a Domic Resonator. Sneak right click to swap between the modes.
+academy.ichosic.text2=The Ichosic Resonator will show the location of fluids that can be generated with the Neromantic Prime in the world. While in your hand at night, you will see small spurts of fluid pop up on the ground. This is where that fluid can be generated.
+
+academy.fysallidic.title=Weird Names Make it Easier to Look Up
+academy.fysallidic.desc=Make a Fysallidic Prime
+academy.fysallidic.text=The Fysallidic Prime will suck up all mobs beneath it in a wide horizontal radius, and then freeze them floating in the air slightly below itself. 
+
+#Miscellaneous
+
+academy.instrumentalmobs.title=Let's Make a Band
+academy.instrumentalmobs.desc=Get any instrument from Instrumental Mobs
+academy.instrumentalmobs.text=Instrumental Mobs adds versions of most vanilla monsters, but instead of killing you they play you music! Their instruments will push you back, but won't damage you. Killing them will have a small chance of dropping their instruments.
+academy.instrumentalmobs.task=Anything from Instrumental Mobs
+
+academy.elevator.title=Going Up
+academy.elevator.desc=Make an Elevator
+academy.elevator.text=If you jump on an Elevator you will teleport to the Elevator above it. Likewise, if you sneak on an Elevator you will teleport to the one below it. Color does not matter.
+academy.elevator.task=Any Elevator
+
+academy.exchanging.title=This to That
+academy.exchanging.desc=Make an Exchanging Gadget
+academy.exchanging.text=The Exchanging Gadget replaces blocks in patterns similar to the Building Gadget. Sneak right click on the block you want to replace to, set the mode and range, and then right click to replace.
+
+academy.destructiongadget.title=Before Creation Comes Destruction
+academy.destructiongadget.desc=Make a Destruction Gadget
+academy.destructiongadget.text=The Destruction Gadget allows you to destroy a massive amount of blocks at once. Blocks destroyed are not dropped, they are gone forever (though you can undo with U by default).
+
+academy.copypaste.title=Outsourcing
+academy.copypaste.desc=Make a Copy-Paste Gadget
+academy.copypaste.text=The Copy-Paste Gadget will allow you to copy an area and place it somewhere else, without destroying the original. You can also place structures other people have made online!
+
+academy.buildinggadget.title=9x9s Made Easy
+academy.buildinggadget.desc=Make a Building Gadget
+academy.buildinggadget.text=The Bulding Gadget allows you to quickly build simple structures like walls and stairs.
+
+academy.wateringcan.title=Not Watering Can't
+academy.wateringcan.desc=Make a Watering Can
+academy.wateringcan.text1=Watering Cans speed up plant growth in an area when used, which takes Water. You can fill the Watering Can up by sneak right clicking on a Water source block.
+academy.wateringcan.text2=Higher tier Watering Cans can store more water, have a higher maximum area, and have a higher chance of growing plants.
+
+academy.slimechannel.title=Gelatinous
+academy.slimechannel.desc=Make a Slime Channel
+academy.slimechannel.text1=Slime Channels will push all entities (items and mobs) in the direction they are facing, including up and along walls.
+academy.slimechannel.text2=They don't block mobs from spawning, so they work great in mob grinders.
+academy.slimechannel.task=Any Slime Channel
+
+academy.craftingtableonastick.title=Crafting Table + Stick = ?
+academy.craftingtableonastick.desc=Make a Crafting Table on a Stick
+academy.craftingtableonastick.text=The Crafting Table on a Stick is exactly what it sounds like. Right click it to open a 3x3 crafting menu.
+
+academy.tinytorch.title=Light of my Life
+academy.tinytorch.desc=Make a Tiny Torch
+academy.tinytorch.text=The Tiny Torch is a cheaper alternative to the regular Torch. However, it only has a light level of 12 compared to the Torch's 14.
+
+academy.foodxl.title=Variety is the Spice of Life
+academy.foodxl.desc=Get something from XL Food Mod
+academy.foodxl.text=XL Food Mod adds a huge variety of food items. Everything from Cheeseburgers to Spaghetti!
+academy.foodxl.task=Anything from XL Food Mod
+
+academy.mobgrindingutils.title=Mobs Made Easy
+academy.mobgrindingutils.desc=Make a Mob Masher and Fan
+academy.mobgrindingutils.text1=Mob Grinding Utils adds a lot of special utility blocks that allow you to easily farm mobs.
+academy.mobgrindingutils.text2=Fans will blow mobs in the direction they're facing when given a Redstone signal, and they can be given upgrades to increase their working area.
+academy.mobgrindingutils.text3=The Mob Masher will damage any mobs that touch it when given a Redstone signal. You can give it upgrades to make it deal more damage and give it Looting.
+academy.mobgrindingutils.reward1=Looting
+academy.mobgrindingutils.reward2=Sharpness
+
+academy.solidifiedxp.title=Exactly What it Says
+academy.solidifiedxp.desc=Get some Solidified Experience
+academy.solidifiedxp.text1=Solidified Experience has a chance of dropping when mobs are killed. They are essentially experience orbs in item form. Use them to gain experience.
+academy.solidifiedxp.text2=Use them while sneaking to use the whole stack at once.
+
+academy.xpsolidifier.title=Saving for Later
+academy.xpsolidifier.desc=Make an Experience Solidifier
+academy.xpsolidifier.text1=The Experience Solidifier allows you to turn your xp into Soldified Experience so you can store it as an item.
+academy.xpsolidifier.text2=It will also collect any experience orbs on the ground within 5 blocks of itself and convert those into Solidified Experience as well.
+
+academy.atmagnet.title=Animal Magnetism
+academy.atmagnet.desc=Make a Ring Of Magnetism
+academy.atmagnet.text1=While on, the Ring of Magnetism uses RF to collect items around you.
+academy.atmagnet.text2=You can toggle it on and off by sneak right clicking it.
+
+academy.atgrowth.title=Green Thumb
+academy.atgrowth.desc=Make a Ring Of Growth
+academy.atgrowth.text=While on, the Ring of Growth uses RF to make nearby crops grow faster.
+
+# Tutorials
+
+academy.tutorial.jei.title=Just Enough Items
+academy.tutorial.jei.1=Your Inventory
+academy.tutorial.jei.2=Mods add a lot of new blocks and items to the game, so remembering how to craft them all can be hard. That's where the mod "Just Enough Items" comes in.
+academy.tutorial.jei.3=JEI is the mod that adds the list of items on the right side of the inventory.
+academy.tutorial.jei.4=Item Searching
+academy.tutorial.jei.5=You can filter the item list by typing the name of the item into the search bar.
+academy.tutorial.jei.6=Tooltip information
+academy.tutorial.jei.7=Hovering over an item will show the item's name as well as what mod it's from.
+academy.tutorial.jei.8=Recipes
+academy.tutorial.jei.9=Click on an item (or hover over it and hit R) to see how to make it.
+academy.tutorial.jei.10=You can also right click the item (or hover over it and hit U) to see what recipes use that item.
+academy.tutorial.jei.28=You can change these keys in the Controls menu.
+academy.tutorial.jei.11=These are all the blocks and items that you can use to craft the item using these recipes.
+academy.tutorial.jei.29=Some items have information tabs where you can read how that item works.
+academy.tutorial.jei.12=The Ore Dictonary
+academy.tutorial.jei.13=Certain recipes can accept a type of item, rather than a single specific item. This is called the Ore Dictionary.
+academy.tutorial.jei.14=You can hover over an item in a recipe to see what type of item can be used instead of the specific one shown.
+academy.tutorial.jei.15=These are all the blocks and items that you can use to craft the item using these recipes.
+academy.tutorial.jei.16=Processing recipes
+academy.tutorial.jei.17=JEI is not limited to showing only crafting recipes, you can also see what you get from smelting, drops from animals, the location of ores, and much more!
+academy.tutorial.jei.18=These are all the different machines that can craft the item in any way.
+academy.tutorial.jei.19=Recipe filling
+academy.tutorial.jei.20=If you have all the items you need to craft an item, you can hit the + button to automatically move them to the proper slots in the crafting grid.
+academy.tutorial.jei.21=Recipe filling
+academy.tutorial.jei.22=If you are in a Crafting Table's GUI, it will also work with 3x3 crafting recipes.
+academy.tutorial.jei.23=Bookmarks
+academy.tutorial.jei.24=You can hover over an item and hit A to bookmark it, pinning it to the left of the inventory until you unpin it by hitting A on it again.
+academy.tutorial.jei.25=You can click the button at the bottom left to hide the bookmarks.
+academy.tutorial.jei.26=Inventory Searching
+academy.tutorial.jei.27=You can double click the search bar to highlight that item in your inventory.
+
+
+academy.tutorial.quests.title = Quêtes
+academy.tutorial.quests.1 = Ouvrir le menu de quête
+academy.tutorial.quests.2 = Ce pack de mods contient de nombreuses quêtes pour vous apprendre à jouer.
+academy.tutorial.quests.3 = Pour les ouvrir, cliquez sur le bouton en haut à gauche de l'inventaire ou utilisez le livre de quête.
+academy.tutorial.quests.4 = Objet du livre de quêtes
+academy.tutorial.quests.5 = Bouton de quête
+academy.tutorial.quests.6 = Le menu de quête
+academy.tutorial.quests.7 = La plupart des quêtes sont invisibles jusqu'à ce qu'elles soient déverrouillées.
+academy.tutorial.quests.8 = Faites un clic gauche sur une quête pour l'ouvrir.
+academy.tutorial.quests.9 = Informations sur la quête
+academy.tutorial.quests.10 = Vous pouvez survoler une quête pour voir son nom et une courte description de celle-ci.
+academy.tutorial.quests.11 = Texte de la quête
+academy.tutorial.quests.12 = Lorsque la quête est ouverte, vous pouvez lire le texte de la quête qui contient souvent davantage d'informations.
+academy.tutorial.quests.13 = Certaines quêtes peuvent également comporter un lien vers le Guide, qui explique comment les choses fonctionnent, en sus des objectifs pour terminer la quête.
+academy.tutorial.quests.14 = Tâches
+academy.tutorial.quests.15 = Vous devez terminer chaque tâche pour que la quête soit terminée.
+academy.tutorial.quests.16 = Survolez la tache pour voir ce que vous devez faire.
+academy.tutorial.quests.17 = Certaines quêtes peuvent vous récompenser une fois terminées. Vous pouvez récupérer les récompenses en cliquant dessus.
+academy.tutorial.quests.18 = Progression de la quête
+academy.tutorial.quests.19 = Quand une quête est terminée, la prochaine quête sera débloquée et une ligne les reliera.
+academy.tutorial.quests.20 = Chapitres
+academy.tutorial.quests.21 = Une fois que vous aurez terminé l'école, plusieurs autres chapitres seront déverrouillés.
+academy.tutorial.quests.22 = Vous pouvez les ouvrir en cliquant dessus depuis la liste des chapitres à gauche du menu de la quête.
+academy.tutorial.quests.23 = Sous-chapitres
+academy.tutorial.quests.24 = Certains chapitres peuvent avoir des sous-chapitres que vous pouvez ouvrir en survolant le chapitre principal, puis en cliquant sur le sous-chapitre dans la liste déroulante.
+academy.tutorial.quests.25 = Tous les chapitres n'ont pas de sous-chapitres.
+academy.tutorial.quests.26 = Quêtes épinglées
+academy.tutorial.quests.27 = Vous pouvez épingler des quêtes pour les garder sur le côté de l'écran lors de la lecture.
+academy.tutorial.quests.28 = Vous pouvez cliquer sur ce bouton pour épingler toutes les quêtes disponibles.
+academy.tutorial.quests.29 = Les quêtes épinglées s'afficheront sur le côté de l'écran, ainsi que leurs tâches et leur progression.
+
+academy.tutorial.school.title = Ecole
+academy.tutorial.school.1 = Réinitialisation de l'école
+academy.tutorial.school.2 = Si vous êtes bloqué, vous pouvez utiliser le bouton Réinitialiser l’école pour créer une nouvelle école et relancer les quêtes.
+academy.tutorial.school.3 = Sauter l’école
+academy.tutorial.school.4 = Si vous ne voulez pas suivre le tutoriel, vous pouvez cliquer sur le bouton Quitter l'école pour aller directement dans l'Overworld et commencer à jouer normalement.
+
+academy.tutorial.top.title = The One Probe
+academy.tutorial.top.1 = Blocs
+academy.tutorial.top.2 = Le mod "The One Probe" ajoute la boîte bleue en haut de l'écran.
+academy.tutorial.top.3 = Il montrera des détails sur le bloc que vous regardez, tel que son nom, son mod, et le type d’outil dont vous avez besoin pour le casser.
+academy.tutorial.top.4 = Affichage des inventaires
+academy.tutorial.top.5 = Vous pouvez vous accroupir pour voir des informations supplémentaires sur le bloc, telles que le contenu des inventaires.
+academy.tutorial.top.6 = Réservoirs
+academy.tutorial.top.7 = S'accroupir vous permettra également de voir la quantité de liquide dans un récipient, ainsi que la quantité maximale.
+academy.tutorial.top.8 = Générateurs
+academy.tutorial.top.9 = Les générateurs et les machines montreront la quantité de RF stockée à l'intérieur.
+academy.tutorial.top.10 = Machines
+academy.tutorial.top.11 = Certains blocs, comme les fours et certaines machines, vous montreront également leur progression dans leur tâche.
+
+academy.tutorial.journeymap.title = JourneyMap
+academy.tutorial.journeymap.1 = La mini-carte
+academy.tutorial.journeymap.2 = Le mod "JourneyMap" ajoute une mini-carte en haut à droite du menu.
+academy.tutorial.journeymap.3 = En dessous, vous pouvez voir vos coordonnées actuelles et le biome dans lequel vous vous trouvez.
+academy.tutorial.journeymap.4 = Points de passage
+academy.tutorial.journeymap.5 = Vous pouvez appuyer sur le bouton Créer un marqueur (B par défaut) pour ouvrir le menu Nouveau marqueur.
+academy.tutorial.journeymap.6 = Ici, vous pouvez choisir son nom, son emplacement (par défaut, votre position actuelle), sa couleur, ainsi que les dimensions dans lesquelles il apparaîtra.
+academy.tutorial.journeymap.7 = Comme la dimension Nether est une dimension Overworld divisée par 8, les points de cheminement qui se trouvent dans les deux s'ajusteront automatiquement. Cela signifie que vous pouvez placer un point de cheminement à un endroit et créer un portail à un autre endroit, et ils seront liés!
+academy.tutorial.journeymap.8 = Les points de route apparaîtront dans le monde sous forme de faisceaux. Si vous les regardez directement, vous pouvez voir leur nom et à quelle distance ils se trouvent.
+academy.tutorial.journeymap.9 = Si vous vous en approchez, ils disparaîtront.
+academy.tutorial.journeymap.10 = Carte plein écran
+academy.tutorial.journeymap.11 = Vous pouvez appuyer sur le bouton Carte en plein écran (J par défaut) pour ouvrir la carte en plein écran.
+academy.tutorial.journeymap.12 = Vous pouvez voir les zones explorées. Vous pouvez également voir tous les points de passage que vous avez placés, ainsi que tous les monstres et joueurs à proximité.
+academy.tutorial.journeymap.13 = Les boutons en haut vous permettent de modifier l’aspect de la carte et de faire basculer la visibilité de certains éléments.
+academy.tutorial.journeymap.14 = Avec les boutons en bas, vous pouvez voir le menu des points de passage, modifier les paramètres du mod et d’autres choses similaires.
+academy.tutorial.journeymap.15 = En mode solo, vous pouvez utiliser le bouton Carte automatique pour remplir la carte à des endroits où vous n’avez pas été auparavant. 
+academy.tutorial.journeymap.16 = Cartographie des grottes
+academy.tutorial.journeymap.17 = JourneyMap dresse également une carte des grottes que vous explorez.
+academy.tutorial.journeymap.18 = Chacun des 15 blocs verticaux a son propre calque pour le mappage. Vous pouvez vous déplacer entre eux avec le bouton Cave Layers en haut.
+academy.tutorial.journeymap.19 = Bouton Calque de couches
