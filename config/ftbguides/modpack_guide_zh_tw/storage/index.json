@@ -1,0 +1,27 @@
+[
+	{
+		"id": "storage_drawers",
+		"title": "儲物抽屜-Storage Drawers",
+		"icon": "item:storagedrawers:basicdrawers"
+	},
+	{
+		"id": "iron_chests",
+		"title": "鐵箱子-Iron Chests",
+		"icon": "item:ironchest:iron_chest"
+	},
+	{
+		"id": "refined_storage",
+		"title": "精緻儲存-Refined Storage",
+		"icon": "item:refinedstorage:grid"
+	},
+	{
+		"id": "other",
+		"title": "其他模組",
+		"icon": "item:simplybackpacks:commonbackpack"
+	},
+	{
+		"id": "fluid",
+		"title": "流體儲存",
+		"icon": "item:thermalexpansion:tank"
+	}
+]

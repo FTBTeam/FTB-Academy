@@ -1,0 +1,17 @@
+[
+	{
+		"id": "complex",
+		"title": "流體合成",
+		"icon": "item:thermalfoundation:material 1 167"
+	},
+	{
+		"id": "atomic_reconstructor",
+		"title": "原子再構機",
+		"icon": "item:actuallyadditions:block_atomic_reconstructor"
+	},
+	{
+		"id": "empowerer",
+		"title": "充能台",
+		"icon": "item:actuallyadditions:block_empowerer"
+	}
+]

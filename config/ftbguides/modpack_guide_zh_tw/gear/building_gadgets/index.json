@@ -1,0 +1,27 @@
+[
+	{
+		"id": "building",
+		"title": "建築小幫手",
+		"icon": "item:buildinggadgets:buildingtool"
+	},
+	{
+		"id": "exchanging",
+		"title": "更替小幫手",
+		"icon": "item:buildinggadgets:exchangertool"
+	},
+	{
+		"id": "copypaste",
+		"title": "複製-黏貼小幫手",
+		"icon": "item:buildinggadgets:copypastetool"
+	},
+	{
+		"id": "destruction",
+		"title": "破壞小幫手",
+		"icon": "item:buildinggadgets:destructiontool"
+	},
+	{
+		"id": "paste",
+		"title": "構建漿糊",
+		"icon": "item:buildinggadgets:constructionpastecontainer"
+	}
+]

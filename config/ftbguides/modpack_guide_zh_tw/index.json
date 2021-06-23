@@ -1,0 +1,42 @@
+[
+	{
+		"id": "quests",
+		"title": "任務",
+		"icon": "item:ftbquests:book"
+	},
+	{ 
+		"id": "the_world",
+		"title": "世界",
+		"icon": "item:minecraft:grass"
+	},
+	{
+		"id": "your_interface",
+		"title": "介面",
+		"icon": "item:minecraft:skull 1 3 {SkullOwner:\"Steve\"}"
+	},
+	{
+		"id": "gear",
+		"title": "裝備、武器和工具",
+		"icon": "item:minecraft:iron_pickaxe"
+	},
+	{
+		"id": "storage",
+		"title": "儲存",
+		"icon": "item:minecraft:chest"
+	},
+	{
+		"id": "technology",
+		"title": "科技",
+		"icon": "item:thermalexpansion:machine"
+	},
+	{
+		"id": "magic",
+		"title": "魔法",
+		"icon": "item:astralsorcery:itemshiftingstar 1 0 {astralsorcery: {starAttunement: \"astralsorcery.constellation.vicio\"}}"
+	},
+	{
+		"id": "misc",
+		"title": "其他資訊",
+		"icon": "item:minecraft:bookshelf"
+	}
+]

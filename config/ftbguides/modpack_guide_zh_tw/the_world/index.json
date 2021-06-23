@@ -1,0 +1,17 @@
+[
+	{
+		"id": "biomes",
+		"title": "生物群系",
+		"icon": "item:naturescompass:naturescompass"
+	},
+	{
+		"id": "structures",
+		"title": "建築",
+		"icon": "item:astralsorcery:blockmarble 1 2"
+	},
+	{
+		"id": "ores",
+		"title": "礦物",
+		"icon": "item:minecraft:iron_ore"
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"id": "glossary",
+		"title": "詞彙表",
+		"icon": "item:minecraft:book"
+	},	
+	{
+		"id": "graves",
+		"title": "墓碑",
+		"icon": "item:minecraft:skull"
+	},
+	{
+		"id": "commands",
+		"title": "指令",
+		"icon": "item:minecraft:command_block"
+	},
+	{
+		"id": "font",
+		"title": "文字字體",
+		"icon": "item:minecraft:sign"
+	}
+]

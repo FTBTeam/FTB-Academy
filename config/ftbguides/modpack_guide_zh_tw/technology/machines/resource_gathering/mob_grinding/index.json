@@ -1,0 +1,17 @@
+[
+	{
+		"id": "spawning",
+		"title": "生成怪物",
+		"icon": "item:minecraft:spawn_egg 1 0 {EntityTag:{id:\"minecraft:creeper\"}}"
+	},
+	{
+		"id": "killing",
+		"title": "擊殺怪物",
+		"icon": "item:mob_grinding_utils:saw"
+	},
+	{
+		"id": "other",
+		"title": "其他有用的方塊",
+		"icon": "item:mob_grinding_utils:ender_inhibitor_on"
+	}
+]

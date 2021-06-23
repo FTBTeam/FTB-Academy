@@ -1,0 +1,17 @@
+[
+	{
+		"id": "itemducts",
+		"title": "物品管道",
+		"icon": "item:thermaldynamics:duct_32"
+	},
+	{
+		"id": "aa",
+		"title": "物品雷射中繼器",
+		"icon": "item:actuallyadditions:block_laser_relay_item"
+	},
+	{
+		"id": "tesslocators",
+		"title": "物品超轉運體",
+		"icon": "item:tesslocator:basic_item_tesslocator"
+	}
+]

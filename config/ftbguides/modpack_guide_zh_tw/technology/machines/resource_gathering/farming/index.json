@@ -1,0 +1,17 @@
+[
+	{
+		"id": "actually_additions",
+		"title": "實用擴展",
+		"icon": "item:actuallyadditions:block_farmer"
+	},
+	{
+		"id": "industrial_foregoing",
+		"title": "工業先鋒",
+		"icon": "item:industrialforegoing:crop_sower"
+	},
+	{
+		"id": "thermal_expansion",
+		"title": "熱力膨脹",
+		"icon": "item:thermalexpansion:machine 1 4"
+	}
+]

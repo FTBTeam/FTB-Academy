@@ -1,0 +1,17 @@
+[
+	{
+		"id": "viaducts",
+		"title": "旅行管道",
+		"icon": "item:thermaldynamics:duct_64"
+	},
+	{
+		"id": "structuralducts",
+		"title": "結構管道",
+		"icon": "item:thermaldynamics:duct_48"
+	},
+	{
+		"id": "if_conveyors",
+		"title": "傳送帶",
+		"icon": "item:industrialforegoing:conveyor"
+	}
+]

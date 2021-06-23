@@ -1,0 +1,27 @@
+[
+	{
+		"id": "ores_fluids",
+		"title": "礦物和流體收集",
+		"icon": "item:minecraft:iron_ore"
+	},
+	{
+		"id": "farming",
+		"title": "種植作物",
+		"icon": "item:minecraft:wheat"
+	},
+	{
+		"id": "plastic",
+		"title": "塑料",
+		"icon": "item:industrialforegoing:plastic"
+	},
+	{
+		"id": "mob_grinding",
+		"title": "生物磨床",
+		"icon": "item:minecraft:skull"
+	},
+	{
+		"id": "other",
+		"title": "其他",
+		"icon": "item:minecraft:cobblestone"
+	}
+]

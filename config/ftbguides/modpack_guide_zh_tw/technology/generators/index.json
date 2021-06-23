@@ -1,0 +1,18 @@
+[
+	{
+		"id": "thermal_expansion",
+		"title": "熱力膨脹-Thermal Expansion",
+		"icon": "item:thermalexpansion:dynamo"
+	},
+	{
+		"id": "actually_additions",
+		"title": "實用擴展-Actually Additions",
+		"icon": "item:actuallyadditions:block_oil_generator"
+	},
+	{
+		"id": "industrial_foregoing",
+		"title": "工業先鋒-Industrial Foregoing",
+		"icon": "item:industrialforegoing:petrified_fuel_generator"
+	}
+
+]

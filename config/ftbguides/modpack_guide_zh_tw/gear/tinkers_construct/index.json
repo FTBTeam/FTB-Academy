@@ -1,0 +1,22 @@
+[
+	{
+		"id": "making_tools",
+		"title": "製作工具",
+		"icon": "item:tconstruct:tooltables"
+	},
+	{
+		"id": "tools",
+		"title": "工具種類",
+		"icon": "item:tconstruct:pickaxe 1 0 {TinkerData: {Materials: [\"wood\", \"iron\", \"cobalt\"]}}"
+	},
+	{
+		"id": "smeltery",
+		"title": "冶煉爐",
+		"icon": "item:tconstruct:smeltery_controller"
+	},
+	{
+		"id": "misc",
+		"title": "其他有趣的東西",
+		"icon": "item:tconstruct:slimesling"
+	}
+]
