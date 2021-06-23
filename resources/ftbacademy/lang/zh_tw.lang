@@ -13,14 +13,14 @@ academy.astralsorcery.title=星輝魔法-Astral Sorcery
 academy.mainstorage.title=儲存
 academy.storage1.title=基本儲存
 academy.transportation.title=傳輸
-academy.refinedstorage1.title=精致儲存：新手-Refined Storage:Beginner
-academy.refinedstorage2.title=精致儲存：進階-Refined Storage:dvanced
-academy.refinedstorage3.title=精致儲存：專家-Refined Storage:Expert
+academy.refinedstorage1.title=精致儲存 - 新手
+academy.refinedstorage2.title=精致儲存 - 進階
+academy.refinedstorage3.title=精致儲存 - 專家
 
 academy.maintechnology.title=科技
-academy.technology1.title=科技 -新手
-academy.technology2.title=科技 -進階
-academy.technology3.title=科技 -專家
+academy.technology1.title=科技 - 新手
+academy.technology2.title=科技 - 進階
+academy.technology3.title=科技 - 專家
 
 academy.misc.title=雜項
 
@@ -625,151 +625,151 @@ academy.disrep.text2=當像這樣使用傳送器時不會受到傷害。
 
 academy.disped.title=傳送器底座
 academy.disped.desc=製作傳送器底座
-academy.disped.text1=如果你右鍵點擊一個裝有 Dislocator 的 Dislocator 基座，你會被傳送到綁定的位置。
-academy.disped.text2=The Dislocator will not take damage when used like this.
-academy.disped.text3=If you have a pair of Bound Dislocators (Point to Point), using one will teleport you to the other. This is ideal for Dislocator Pedestals as they will act as a two-way teleporter.
+academy.disped.text1=如果你右鍵點擊一個裝有傳送器的傳送器底座，你會被傳送到綁定的位置。
+academy.disped.text2=像這樣使用傳送器時它將不會受到損壞。
+academy.disped.text3=如果你有一對綁定傳送器 (點對點)，使用一個會將你傳送到另一個。這是傳送器底座的理想選擇，因為它們將充當雙向傳送器。
 
 academy.advdislocator.title=Portation
-academy.advdislocator.desc=Make an Advanced Dislocator
-academy.advdislocator.text1=The Advanced Dislocator can have up to 100 bound location and uses Ender Pearls as fuel instead of taking durability damage.
-academy.advdislocator.text2=Sneak right click to open its GUI. Here you can add fuel and set and name locations.
-academy.advdislocator.text3=You can hold sneak and scroll while holding the Advanced Dislocator in your hand to change destinations, and then right click while not sneaking to teleport to it.
+academy.advdislocator.desc=製作進階傳送器
+academy.advdislocator.text1=進階傳送器最多可以有 100 個綁定位置，並且使用終界珍珠作為燃料而不是承受耐久度損壞。
+academy.advdislocator.text2=潛行右鍵單擊以打開其 GUI。您可以在此處添加燃料並設置和命名位置。
+academy.advdislocator.text3=您可以在手持進階傳送器的同時按住潛行和滾動滑鼠滾輪以更改目的地，然後在不潛行的情況下右鍵單擊以傳送到該位置。
 
 academy.phantomface.title=Warp Pipe
-academy.phantomface.desc=Make a Phantomface
-academy.phantomface.text1=Phantomfaces simulate the inventory it is linked to, so you can insert items in and out of the inventory through the Phantomface.
-academy.phantomface.text2=Place the Phantomface within 16 blocks of the inventory you wish to link to. Right click the block you wish to connect to with the Phantom Connector, then right click the Phantomface.
+academy.phantomface.desc=製作幻靈介面
+academy.phantomface.text1=幻靈介面模擬它所鏈接的庫存，因此您可以通過幻靈介面將物品輸入/輸出。
+academy.phantomface.text2=將幻靈介面放置在您想要鏈接庫存的 16 個方塊內。使用幻靈連接器右鍵單擊要連接的方塊，然後右鍵單擊幻靈介面。
 
 academy.phantombooster.title=BOOster
-academy.phantombooster.desc=Make Phantom Boosters
-academy.phantombooster.text=You can place up to 3 Phantom Boosters on top of Phantomfaces to increase their range.
+academy.phantombooster.desc=製作幻靈增幅器
+academy.phantombooster.text=您最多可以在幻靈介面頂部放置 3 個幻靈增幅器以增加其範圍。
 
 academy.phantomblocks.title=Ghostly Energy
-academy.phantomblocks.desc=Make an advanced Phantomface block
-academy.phantomblocks.text1=Phantom Energyfaces and Liquidfaces work exactly like regular Phantomfaces, but with energy and fluids instead.
-academy.phantomblocks.text2=Phantom Redstonefaces only work in one direction. That is, if the connected block has a Redstone signal, it will power the Phantom Redstoneface.
-academy.phantomblocks.task=Advanced Phantomface blocks
+academy.phantomblocks.desc=製作進階幻靈方塊
+academy.phantomblocks.text1=幻靈能量介面和流體介面的工作方式與普通幻靈介面完全相同，但使用的是能量和流體。
+academy.phantomblocks.text2=幻靈紅石介面只對一個方向起作用。也就是說，如果連接的方塊有紅石信號，它將為幻靈紅石介面供電。
+academy.phantomblocks.task=進階幻靈方塊
 
-academy.xpteleporter.desc=Make an XPTeleporter
-academy.xpteleporter.text1=Place down two XPTeleporters and link them with an XPT Link Card by right clicking it on both of them. Sneaking on one will teleport you to the other.
-academy.xpteleporter.text2=The further away the two XPTeleporters are, the more XP it costs.
-academy.xpteleporter.text3=Teleporters will display the coordinates of the linked teleporter above them. If you rename the XPTeleporter in an Anvil, it will display that instead.
+academy.xpteleporter.desc=製作XPTeleporter
+academy.xpteleporter.text1=放下兩個 XPTeleporter，並通過右鍵單擊它們與 XPT Link Card 將它們鏈接起來。在其中一個潛行會將你傳送到另一個。
+academy.xpteleporter.text2=兩個 XPTeleporter 距離越遠，花費的經驗值就越多。
+academy.xpteleporter.text3=傳送器將在其上方顯示鏈接傳送器的坐標。如果您在鐵砧中重命名 XPTeleporter，它將改為顯示該名稱。
 
 
-# Refined Storage - Beginner
+# 精緻儲存 - 新手
 
 academy.controller.title=Think Tank
-academy.controller.desc=Make a Controller
-academy.controller.text1=The Controller is the heart and brain of a Refined Storage system.
-academy.controller.text2=Every block in the system must be connected to the Controller in some way, either with Cables or just touching it directly.
-academy.controller.text3=The Refined Storage system is powered using RF by piping it into the Controller.
-academy.controller.text4=You can only have one Controller per system.
+academy.controller.desc=製作系統中樞
+academy.controller.text1=系統中樞是精緻儲存系統的心臟和大腦。
+academy.controller.text2=系統中的每個方塊都必須以某種方式連接到系統中樞，要麼使用纜線，要麼直接接觸它。
+academy.controller.text3=精緻儲存系統通過將 RF 輸送到系統中樞使用 RF 供電。
+academy.controller.text4=每個系統只能有一個系統中樞。
 
-academy.diskdrive.desc=Make a Disk Drive
-academy.diskdrive.text=Disk Drives store Storage Disks, which store items. You can have up to 10 Storage Disks in the Disk Drive.
+academy.diskdrive.desc=製作硬碟櫃
+academy.diskdrive.text=硬碟櫃存放儲硬碟，用於儲存物品。硬碟櫃中最多可以有 10 個儲存硬碟。
 
 academy.storagedisk.title=Don't Copy That Floppy
-academy.storagedisk.desc=Make a Storage Disk
-academy.storagedisk.text1=Storage Disks digitally store more items. Higher tiers store more items.
-academy.storagedisk.text2=The 1k Storage Disk can hold 1,000 items, the 4K Storage Disk can hold 4,000 items, and so on.
-academy.storagedisk.task=Any Storage Disk
+academy.storagedisk.desc=製作儲存硬碟
+academy.storagedisk.text1=儲存硬碟以數位方式儲存更多項目。更高層級可以儲存更多項目。
+academy.storagedisk.text2=1k 儲存硬碟可以容納 1,000 個項目，4K 儲存硬碟可以容納 4,000 個項目，依此類推。
+academy.storagedisk.task=任何儲存硬碟
 
-academy.fluiddisk.title=Waterproof
-academy.fluiddisk.desc=Make a Fluid Storage Disk
-academy.fluiddisk.text1=Fluid Storage Disks work like regular Storage Disks, but they store fluids instead of items.
-academy.fluiddisk.text2=A 64k Fluid Storage Disk can store 64,000mB of fluid, a 256k Fluid Storage Disk can store 256,000mB of fluid, and so on.
-academy.fluiddisk.task=Any Fluid Storage Disk
+academy.fluiddisk.title=防水
+academy.fluiddisk.desc=製作液體儲存硬碟
+academy.fluiddisk.text1=液體儲存硬碟的工作方式與一般儲存硬碟類似，但它們儲存流體而不是物品。
+academy.fluiddisk.text2=64k 液體儲存硬碟可儲存 64,000mB 流體，256k 液體儲存硬碟可儲存 256,000mB 流體，依此類推。
+academy.fluiddisk.task=任何液體儲存硬碟
 
 academy.grid.title=Enter the Grid
-academy.grid.desc=Make a Grid
-academy.grid.text=The Grid is where you can manually interact with your storage system. Connect it to the system and give it power, and you can use it like you would any other chest.
+academy.grid.desc=製作面板
+academy.grid.text=面板是您可以手動與儲存系統互動的地方。將它連接到系統並為其供電，您就可以像使用任何箱子一樣使用它。
 
-academy.craftinggrid.desc=Make a Crafting Grid
-academy.craftinggrid.text=The Crafting Grid is an upgraded version of the Grid. It works exactly the same, except it has a 3x3 crafting table built in to it.
+academy.craftinggrid.desc=製作合成面板
+academy.craftinggrid.text=合成面板是面板的升級版本。它的工作原理完全相同，只是它內置了一個 3x3 的合成台。
 
-academy.fluidgrid.desc=Make a Fluid Grid
-academy.fluidgrid.text1=The Fluid Grid works like a normal Grid, except it shows fluids instead of items.
-academy.fluidgrid.text2=Drag and drop a full fluid container (like a Bucket) into the menu to empty it into the system. You can also click it while holding sneak.
-academy.fluidgrid.text3=Click a fluid in the system while you have an empty Bucket in your inventory or the system to fill it with that fluid.
+academy.fluidgrid.desc=製作液體面板
+academy.fluidgrid.text1=液體面板的工作方式與普通面板類似，不同之處在於它顯示的是流體而不是物品。
+academy.fluidgrid.text2=將一個完整的流體容器（如水桶）拖放到 GUI 中以將其清空到系統中。您也可以在按住潛行的同時單擊它。
+academy.fluidgrid.text3=當您的物品欄或系統中有一個空桶時，單擊系統中的一種流體以填充該流體。
 
-academy.cable.desc=Make Cables
-academy.cable.text=Cables are used to connect devices to the Controller.
+academy.cable.desc=製作纜線
+academy.cable.text=纜線用於將設備連接到系統中樞。
 
 academy.io.title=I/O
-academy.io.desc=Make an Importer and an Exporter
-academy.io.text1=An Importer will pull items from the inventory it is placed on and insert them into the RS system.
-academy.io.text2=An Exporter will push specified items into the inventory it is placed on from the RS system.
+academy.io.desc=製作輸入纜線和一個輸出纜線
+academy.io.text1=輸入纜線將從其所在的庫存中提取物品並將其插入 RS 系統。
+academy.io.text2=輸出纜線將從 RS 系統指定項目推送到其放置的庫存中。
 
 academy.extstorage.title=Backwards Compatible
-academy.extstorage.desc=Make an External Storage
-academy.extstorage.text1=Place the External Storage on an inventory and its contents will appear in the system.
-academy.extstorage.text2=If the External Storage has a higher priority than other storage blocks, like the Disk Drive, items will try to go into that inventory first.
+academy.extstorage.desc=製作外部儲存纜線
+academy.extstorage.text1=將外部儲存纜線放在庫存上，其內容將出現在系統中。
+academy.extstorage.text2=如果外部儲存纜線比其他儲存方塊（如硬碟櫃）具有更高的優先級，則項目將先嘗試進入該外部儲存纜線庫存。
 
-# Refined Storage - Advanced
+# 精緻儲存 - 進階
 
-academy.patterngrid.desc=Make a Pattern Grid
-academy.patterngrid.text1=The first step to automatic crafting is the Pattern Grid.
-academy.patterngrid.text2=Place one down and give it a Pattern, and input the recipe you want to be able to autocraft.
-academy.patterngrid.text3=If it isn't a regular crafting recipe (that is, if it isn't done in a 3x3 crafting grid, like smelting), check the Processing box.
-academy.patterngrid.text4=If you want it to use the Ore Dictionary (like being able to use any Planks to make a Chest), check the OreDic box.
+academy.patterngrid.desc=製作模板面板
+academy.patterngrid.text1=自動製作的第一步是模板面板。
+academy.patterngrid.text2=放下並給它一個模板，然後輸入您希望能夠自動製作的配方。
+academy.patterngrid.text3=如果它不是一般的製作配方（也就是說，如果它不是在 3x3 製作網格中完成的，例如熔煉），請選處理中框。
+academy.patterngrid.text4=如果您希望它使用礦物詞典（例如能夠使用任何木板製作箱子），請選中使用礦物字典框。
 
-academy.crafter.desc=Make a Crafter
-academy.crafter.text1=Place Patterns into a Crafter and you will be able to craft those recipes from your Grid.
-academy.crafter.text2=You can point the Crafter at a machine (like a Furnace) and processing recipes will try to use the machine. For processing recipes, you likely will have to use an Importer to take the finished product out of the machine.
+academy.crafter.desc=製作合成器
+academy.crafter.text1=將模板放入合成器，您將能夠從您的面板中用這些配方製作。
+academy.crafter.text2=您可以將合成器指向一台機器（如熔爐），處理配方時將嘗試使用該機器。對於處理配方，您可能必須使用輸入纜線將成品從機器中取出。
 
-academy.craftmanager.desc=Make a Crafter Manager
-academy.craftmanager.text1=The Crafter Manager lists all Crafters in the system and what they're attached to, as well as showing the patterns inside them.
-academy.craftmanager.text2=You can rename Crafters to change what they show up as in the Crafter Manager.
+academy.craftmanager.desc=製作合成管理器
+academy.craftmanager.text1=合成管理器列出了系統中的所有合成器及其附屬的內容，並顯示了其中的模式。
+academy.craftmanager.text2=您可以重命名合成器以更改它們在合成管理器中的顯示。
 
-academy.craftmonitor.desc=Make a Crafting Monitor
-academy.craftmonitor.text=The Crafting Monitor will show a list of all crafting operations currently in progress in the system.
+academy.craftmonitor.desc=製作合成監控器
+academy.craftmonitor.text=合成監控器將顯示系統中當前正在進行的所有合成操作的列表。
 
-academy.portablegrid.desc=Make a Portable Grid
-academy.portablegrid.text1=The Portable Grid acts like its own tiny RS system.
-academy.portablegrid.text2=Open it up and place a Storage Disk (fluid or item) in the top right slot, and you can use it is a kind of digital backpack.
+academy.portablegrid.desc=製作攜帶式面板
+academy.portablegrid.text1=攜帶式面板就像一個微型 RS 系統。
+academy.portablegrid.text2=打開它，在右上角的插槽中放置一個儲存硬碟（流體或物品），您將可以使用它，它是一種數位背包。
 
-# Refined Storage - Expert
+# 精緻儲存 - 大師
 
-academy.network.title=Long Distance Relationship
-academy.network.desc=Make a Network Transmitter, Receiver, and Card
-academy.network.text1=You can use the Network Transmitter, Receiver, and Card to wirelessly connect to your RS system with blocks over long distances.
-academy.network.text2=Place the Wireless Transmitter at your main system, a Wireless Receiver at the location you want to access it, and then sneak click a Network Card on the Receiver to link it. Insert the linked Network Card into the Transmitter to connect them.
-academy.network.text3=All components must be chunk loaded to work.
+academy.network.title=遠距離戀愛
+academy.network.desc=製作網路傳輸器、接收器和網路卡
+academy.network.text1=您可以使用網路傳輸器、接收器和網路卡通過無線，遠距離連接到您的 RS 系統。
+academy.network.text2=將網路傳輸器放在您的主系統上，將網路接收器放在您要訪問它的位置，然後使用網卡潛行單擊接收器以鏈接它。將鏈接的網卡插入傳輸器以連接它們。
+academy.network.text3=所有組件都必須Chunkload才能工作。
 
-academy.wirelesstransmitter.desc=Make a Wireless Transmitter
-academy.wirelesstransmitter.text1=Place a Wireless Transmitter on a Cable, and you'll be able to access it from Wireless Grids within 16 blocks.
-academy.wirelesstransmitter.text2=If you want to wirelessly access the system from farther away, place more Wireless Transmitters where you want to access it from or use Range Upgrades.
+academy.wirelesstransmitter.desc=製作無線傳輸器
+academy.wirelesstransmitter.text1=將無線傳輸器放在纜線上，您將能夠從 16 個方塊內使用無線面板訪問它。
+academy.wirelesstransmitter.text2=如果您想從更遠的地方無線訪問系​​統，請在您想訪問它的地方放置更多無線傳輸器或使用範圍升級。
 
-academy.wirelesscraftinggrid.desc=Make a Wireless Crafting Grid
-academy.wirelesscraftinggrid.text1=The Wireless Crafting Grid works exactly like a Crafting Grid, except wireless.
-academy.wirelesscraftinggrid.text2=To bind it to the system, sneak right click it on the Controller.
+academy.wirelesscraftinggrid.desc=製作無線合成終端
+academy.wirelesscraftinggrid.text1=無線合成終端的工作原理與合成面板完全相同，但無線除外。
+academy.wirelesscraftinggrid.text2=要將其綁定到系統，請在系統中樞上潛行右鍵單擊它。
 
-academy.wirelessfluidgrid.desc=Make a Wireless Fluid Grid
-academy.wirelessfluidgrid.text1=The Wireless Crafting Grid works exactly like a Fluid Grid, except wireless.
-academy.wirelessfluidgrid.text2=To bind it to the system, sneak right click it on the Controller.
+academy.wirelessfluidgrid.desc=製作無線液體面板
+academy.wirelessfluidgrid.text1=無線液體面板的工作原理與液體面板完全相同，但無線除外。
+academy.wirelessfluidgrid.text2=要將其綁定到系統，請在系統中樞上潛行右鍵單擊它。
 
 
-# Technology - Beginner
+# 科技 - 新手
 
 academy.magmatic.title=The Core
-academy.magmatic.desc=Make a Magmatic Dynamo
-academy.magmatic.text1=The Magmatic Dynamo generates RF using hot fluids.
-academy.magmatic.text2=One bucket of Lava generates 120,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+academy.magmatic.desc=製作一個熱力能源爐
+academy.magmatic.text1=熱力能源爐使用熱流體產生RF。
+academy.magmatic.text2=一桶岩漿產生 120,000 RF。您可以通過使用 JEI 查看熱力能源爐的用途來查看其他燃料的功率輸出。
 
-academy.steam.title=Steam Powered
-academy.steam.desc=Make a Steam Dynamo
-academy.steam.text1=The Steam Dynamo generates RF using solid fuel and water.
-academy.steam.text2=One Coal generates 24,000 RF. You can see the power output of other fuels by using JEI to see the Dynamo's uses.
+academy.steam.title=蒸汽動力
+academy.steam.desc=製作蒸汽能源爐
+academy.steam.text1=蒸汽能源爐使用固體燃料和水產生RF。
+academy.steam.text2=一個煤炭產生 24,000 RF。您可以通過使用 JEI 查看蒸汽能源爐的用途來查看其他燃料的功率輸出。
 
 academy.coalgen.title=Old King Coal
-academy.coalgen.desc=Make a Coal Generator
-academy.coalgen.text1=The Coal Generator makes RF from Coal and other furnace fuel.
-academy.coalgen.text2=One Coal generates 48,000 RF.
+academy.coalgen.desc=製作煤炭發電機
+academy.coalgen.text1=煤炭發電機利用煤炭或其他熔爐燃料產生RF。
+academy.coalgen.text2=一個煤炭產生 48,000 RF。
 
-academy.pitifulgen.title=Just Sad
-academy.pitifulgen.desc=Make a Pitiful Fuel Generator
-academy.pitifulgen.text1=The Pitiful Fuel Generator generates RF by burning Wood.
-academy.pitifulgen.text2=It generates 11,250 RF per Wooden Plank or Log.
+academy.pitifulgen.title=就是可憐
+academy.pitifulgen.desc=製作木質燃料發電機
+academy.pitifulgen.text1=木質燃料發電機通過燃燒木材產生RF。
+academy.pitifulgen.text2=每塊木板或原木產生 11,250 RF。
 
 academy.petrifiedgen.title=Fossil Fuel
 academy.petrifiedgen.desc=Make a Petrified Fuel Generator
