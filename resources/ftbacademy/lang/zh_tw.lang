@@ -200,7 +200,7 @@ academy.introautomation.desc=學習自動化原理
 academy.introautomation.text1=單儲存物品和流體可不夠，你需要自動地移動他們以實現自動化。
 academy.introautomation.text2=管道是移動物品的最簡單方式。物品通過物品管道移動，流體則通過流體管道。
 academy.introautomation.text3=伺服器用來從方塊中“抽取”，被抽取的物品（流體）會自動進入最近的容器中。
-academy.introautomation.task=進入 自動化（automation） 房間
+academy.introautomation.task=進入 自動化（Automation） 房間
 
 academy.introfilters.title=過濾
 academy.introfilters.desc=設置過濾器
@@ -223,7 +223,7 @@ academy.introfluidtransfer.text3=打開伺服器，點擊右側紅石粉按鈕�
 academy.introtech.title=科技類模組簡介
 academy.introtech.desc=學習科技類模組
 academy.introtech.text1=在 FTB 眾多模組包中，科技類模組佔很大一部分。這些任務會教你基礎玩法。
-academy.introtech.task=進入 科技（technology） 房間
+academy.introtech.task=進入 科技（Technology） 房間
 
 academy.introgen.title=生產能量
 academy.introgen.desc=使用煤炭發電機
@@ -383,7 +383,7 @@ academy.chisel.desc=製作鑿子
 academy.chisel.text1=鑿子（Chisel）模組為方塊添加了成百上千的可用來作為裝飾的版本。
 academy.chisel.text2=製作一個鑿子，打開 GUI，放入一種方塊（如鵝卵石或泥土）就可以看到該方塊的所有不同材質的版本。
 academy.chisel.text3=有三種鑿子，鑿子和鑽石鑿子除了耐久度不同以外無太大區別；而 iChisel 則具有許多高級功能和特性。
-academy.chisel.text4=鑿子模組添加了大量可用於裝點你的基地的方塊。在 JEI 搜索框中鍵入“@chisel”即可看到所有方塊。
+academy.chisel.text4=鑿子模組添加了大量可用於裝點你的基地的方塊。在 JEI 搜索框中輸入 “@chisel” 即可看到所有方塊。
 academy.chisel.task=任意鑿子
 
 academy.builderswands.title=更方便的建造
@@ -410,14 +410,14 @@ academy.simplybackpacks.title=Packback
 academy.simplybackpacks.desc=製作一個普通背包
 academy.simplybackpacks.text1=背包在其物品欄儲存物品，升級意味著可以存更多物品。
 academy.simplybackpacks.text2=你可以設置一個可選的鍵位來讓你直接打開背包而不需要切換背包至快捷欄，甚至對飾品欄也可以（物品欄中人物的右上角的按鈕）。
-academy.simplybackpacks.text3=另一個可選的鍵位允許你切換物品自動拾取模式；激活時，物品被撿起時將直接進入背包。按住潛行鍵右擊設置黑（白）名單。
+academy.simplybackpacks.text3=另一個可選的鍵位允許你切換物品自動拾取模式；啟用時，物品被撿起時將直接進入背包。按住潛行鍵右擊設置黑（白）名單。
 academy.simplybackpacks.task=任意背包
 
 academy.claimchunk.title=This Land is My Land
 academy.claimchunk.desc=聲明一個區塊
 academy.claimchunk.text1=在物品欄的左上角，單擊地圖按鈕以查看周圍的區塊地圖。
 academy.claimchunk.text2=你可以左鍵單擊區塊來為你的團隊聲明，所以來自不同團隊的人都無法放置或打破方塊。右鍵單擊以取消聲明。
-academy.claimchunk.text3=你可以按住 shift 的同時單擊聲明的區塊來chunkload，即使您遠離或離線，它也能保持其中的所有內容運行。
+academy.claimchunk.text3=你可以按住 shift 的同時單擊聲明的區塊來 Chunkload ，即使您遠離或離線，它也能保持其中的所有內容運行。
 
 
 
@@ -441,7 +441,7 @@ academy.compactingdrawer.text2=最大存量由物品種類決定，故壓縮抽�
 
 academy.ironchests.title=Storage Solution
 academy.ironchests.desc=製作鐵箱子
-academy.ironchests.text=鐵箱子（Iron Chests）模組添加了一堆新型箱子，這些箱子有著更大容量， 級別升級，存量升級。
+academy.ironchests.text=鐵箱子（Iron Chests）模組添加了一堆新型箱子，這些箱子有著更大容量，級別升級，存量升級。
 
 academy.chestupgrade.title=更大的箱子
 academy.chestupgrade.desc=製作箱子升級：鐵>金
@@ -650,7 +650,7 @@ academy.phantomblocks.text1=幻靈能量介面和流體介面的工作方式與�
 academy.phantomblocks.text2=幻靈紅石介面只對一個方向起作用。也就是說，如果連接的方塊有紅石信號，它將為幻靈紅石介面供電。
 academy.phantomblocks.task=進階幻靈方塊
 
-academy.xpteleporter.desc=製作XPTeleporter
+academy.xpteleporter.desc=製作 XPTeleporter
 academy.xpteleporter.text1=放下兩個 XPTeleporter，並通過右鍵單擊它們與 XPT Link Card 將它們鏈接起來。在其中一個潛行會將你傳送到另一個。
 academy.xpteleporter.text2=兩個 XPTeleporter 距離越遠，花費的經驗值就越多。
 academy.xpteleporter.text3=傳送器將在其上方顯示鏈接傳送器的坐標。如果您在鐵砧中重命名 XPTeleporter，它將改為顯示該名稱。
@@ -671,7 +671,7 @@ academy.diskdrive.text=硬碟櫃存放儲硬碟，用於儲存物品。硬碟櫃
 academy.storagedisk.title=Don't Copy That Floppy
 academy.storagedisk.desc=製作儲存硬碟
 academy.storagedisk.text1=儲存硬碟以數位方式儲存更多項目。更高層級可以儲存更多項目。
-academy.storagedisk.text2=1k 儲存硬碟可以容納 1,000 個項目，4K 儲存硬碟可以容納 4,000 個項目，依此類推。
+academy.storagedisk.text2=1k 儲存硬碟可以容納 1,000 個項目，4k 儲存硬碟可以容納 4,000 個項目，依此類推。
 academy.storagedisk.task=任何儲存硬碟
 
 academy.fluiddisk.title=防水
@@ -734,7 +734,7 @@ academy.network.title=遠距離戀愛
 academy.network.desc=製作網路傳輸器、接收器和網路卡
 academy.network.text1=您可以使用網路傳輸器、接收器和網路卡通過無線，遠距離連接到您的 RS 系統。
 academy.network.text2=將網路傳輸器放在您的主系統上，將網路接收器放在您要訪問它的位置，然後使用網卡潛行單擊接收器以鏈接它。將鏈接的網卡插入傳輸器以連接它們。
-academy.network.text3=所有組件都必須Chunkload才能工作。
+academy.network.text3=所有組件都必須 Chunkload 才能工作。
 
 academy.wirelesstransmitter.desc=製作無線傳輸器
 academy.wirelesstransmitter.text1=將無線傳輸器放在纜線上，您將能夠從 16 個方塊內使用無線面板訪問它。
@@ -753,179 +753,179 @@ academy.wirelessfluidgrid.text2=要將其綁定到系統，請在系統中樞上
 
 academy.magmatic.title=The Core
 academy.magmatic.desc=製作一個熱力能源爐
-academy.magmatic.text1=熱力能源爐使用熱流體產生RF。
+academy.magmatic.text1=熱力能源爐使用熱流體產生 RF。
 academy.magmatic.text2=一桶岩漿產生 120,000 RF。您可以通過使用 JEI 查看熱力能源爐的用途來查看其他燃料的功率輸出。
 
 academy.steam.title=蒸汽動力
 academy.steam.desc=製作蒸汽能源爐
-academy.steam.text1=蒸汽能源爐使用固體燃料和水產生RF。
+academy.steam.text1=蒸汽能源爐使用固體燃料和水產生 RF。
 academy.steam.text2=一個煤炭產生 24,000 RF。您可以通過使用 JEI 查看蒸汽能源爐的用途來查看其他燃料的功率輸出。
 
 academy.coalgen.title=Old King Coal
 academy.coalgen.desc=製作煤炭發電機
-academy.coalgen.text1=煤炭發電機利用煤炭或其他熔爐燃料產生RF。
+academy.coalgen.text1=煤炭發電機利用煤炭或其他熔爐燃料產生 RF。
 academy.coalgen.text2=一個煤炭產生 48,000 RF。
 
 academy.pitifulgen.title=就是可憐
 academy.pitifulgen.desc=製作木質燃料發電機
-academy.pitifulgen.text1=木質燃料發電機通過燃燒木材產生RF。
+academy.pitifulgen.text1=木質燃料發電機通過燃燒木材產生 RF。
 academy.pitifulgen.text2=每塊木板或原木產生 11,250 RF。
 
-academy.petrifiedgen.title=Fossil Fuel
-academy.petrifiedgen.desc=Make a Petrified Fuel Generator
-academy.petrifiedgen.text1=The Petrified Fuel Generator generates RF by burning any furnace fuel.
-academy.petrifiedgen.text2=One Coal generates 60,000 RF.
+academy.petrifiedgen.title=化石燃料
+academy.petrifiedgen.desc=製作火力發電機
+academy.petrifiedgen.text1=火力發電機通過燃燒任何熔爐燃料來產生 RF。
+academy.petrifiedgen.text2=一個煤炭產生 60,000 RF。
 
-academy.pulverizer.title=Dust to Dust
-academy.pulverizer.desc=Make a Pulverizer
-academy.pulverizer.text1=The Pulverizer uses RF to crush items like Stone and Ores.
-academy.pulverizer.text2=Ores will be crushed into two dusts each, which each smelt into an ingot each. There is also a chance of getting a secondary output.
-academy.pulverizer.text3=The Pulverizer can be upgraded and augmented to work faster or change the way it functions.
+academy.pulverizer.title=塵歸塵
+academy.pulverizer.desc=做一個粉碎機
+academy.pulverizer.text1=粉碎機使用 RF 來粉碎石頭和礦石等物品。
+academy.pulverizer.text2=礦石會被粉碎成兩個粉末，每個粉末都會熔煉成一個錠。也有機會獲得副產物輸出。
+academy.pulverizer.text3=粉碎機可以升級和增強以更快地工作或改變其運作方式。
 
-academy.redstonefurnace.title=Microwave
-academy.redstonefurnace.desc=Make a Redstone Furnace
-academy.redstonefurnace.text1=The Redstone Furnace uses RF to smelt items.
-academy.redstonefurnace.text2=It really doesn't do much more than that, but upgrades and augments can make it a lot faster.
+academy.redstonefurnace.title=微波爐
+academy.redstonefurnace.desc=製作紅石爐
+academy.redstonefurnace.text1=紅石爐使用 RF 來熔煉物品。
+academy.redstonefurnace.text2=它實際上並沒有做更多的事情，但是升級和增強可以使它更快。
 
-academy.resourcefulfurnace.title=Experienced Cook
-academy.resourcefulfurnace.desc=Make a Resourceful Furnace
-academy.resourcefulfurnace.text1=The Resourceful Furnace uses RF to smelt items.
-academy.resourcefulfurnace.text2=It has 3 input slots, so you can smelt 3 stacks at once. It also generates a small amount of Essence when it's used, which can be turned into Experience.
+academy.resourcefulfurnace.title=經驗豐富的廚師
+academy.resourcefulfurnace.desc=製作高級熔爐
+academy.resourcefulfurnace.text1=高級熔爐使用 RF 來熔煉物品。
+academy.resourcefulfurnace.text2=它有 3 個輸入槽，因此您可以一次熔煉 3 組物品。使用時還會產生少量的精華液，可以轉化為經驗。
 
 academy.atomicreconstructor.title=Technological Transmutation
-academy.atomicreconstructor.desc=Make an Atomic Reconstructor
-academy.atomicreconstructor.text1=The Atomic Reconstructor is a machine that uses RF to convert items into other items. It will shoot a laser that converts items on the ground around where it hits.
-academy.atomicreconstructor.text2=By default it will shoot whenever it has the power to. You can right click it with a Redstone Torch to make it only trigger when given a Redstone Signal.
+academy.atomicreconstructor.desc=製作原子再構機
+academy.atomicreconstructor.text1=原子再構機是一種使用 RF 將物品轉換為其他物品的機器。它會發射雷射，在它擊中的地方轉換地面上的物品。
+academy.atomicreconstructor.text2=預設情況下，只要有能量，它就會發射。您可以使用紅石火把右鍵單擊它，使其僅在收到紅石信號時觸發。
 
 academy.crusher.title=The Crushinator
-academy.crusher.desc=Make a Crusher
-academy.crusher.text1=The Crusher uses RF to crush items.
-academy.crusher.text2=Ores will be crushed into two dusts each, which each smelt into an ingot each. There is also a chance of getting a secondary output, different from the Pulverizer's.
+academy.crusher.desc=製作磨粉機
+academy.crusher.text1=磨粉機使用 RF 來粉碎物品。
+academy.crusher.text2=礦石會被磨成兩個粉末，每個粉末都會熔煉成一個錠。也有機會獲得與粉碎機 (Thermal) 不同的副產物輸出。
 
 academy.doublecrusher.title=More of the Same
-academy.doublecrusher.desc=Make a Double Crusher
-academy.doublecrusher.text1=The Double Crusher works the same as the Crusher, but has 2 input slots.
-academy.doublecrusher.text2=You can set it so that items are split between them, effectively it work twice as fast.
+academy.doublecrusher.desc=製作兩倉磨粉機
+academy.doublecrusher.text1=兩倉磨粉機的工作原理與磨粉機相同，但有 2 個輸入槽。
+academy.doublecrusher.text2=您可以設置它，以便在 2 個輸入槽之間平分物品，有效地使其工作速度提高一倍。
 
 academy.poweredfurnace.title=Two for One Special
-academy.poweredfurnace.desc=Make a Powered Furnace
-academy.poweredfurnace.text1=The Powered Furnace uses RF to smelt items.
-academy.poweredfurnace.text2=It has 2 input slots, so you can smelt 2 stacks at once. You can also set it to split the input over both slots, making it effectively work twice as fast.
+academy.poweredfurnace.desc=製作兩倉熔爐
+academy.poweredfurnace.text1=兩倉熔爐使用 RF 來熔煉物品。
+academy.poweredfurnace.text2=它有 2 個輸入槽，因此您可以一次熔煉 2 組物品。您還可以設置為將其輸入平分到兩個槽上，有效地使其工作速度提高一倍。
 
-academy.fluxducts1.title=Plug it In!
-academy.fluxducts1.desc=Make Leadstone Fluxducts
-academy.fluxducts1.text1=Fluxducts are used to transfer RF. Higher tiers can transfer RF faster.
-academy.fluxducts1.text2=Leadstone Fluxducts can transfer 1,000 RF/t per connection.
+academy.fluxducts1.title=插上電源！
+academy.fluxducts1.desc=製作鉛石能量管道
+academy.fluxducts1.text1=能量管道用於傳輸 RF。更高層可以更快地傳輸 RF。
+academy.fluxducts1.text2=鉛石能量管道每個連接可以傳輸 1,000 RF/t。
 
-academy.fluxducts2.title=Better, Harder
-academy.fluxducts2.desc=Make Hardened Fluxducts
-academy.fluxducts2.text1=Hardened Fluxducts can transfer 4,000 RF/t per connection.
-academy.fluxducts2.text2=Fluxducts can connect to Fluxducts of other tiers.
+academy.fluxducts2.title=更好，更硬
+academy.fluxducts2.desc=製作硬化能量管道
+academy.fluxducts2.text1=硬化能量管道每個連接可傳輸 4,000 RF/t。
+academy.fluxducts2.text2=能量管道可以跨層級連接。
 
-academy.basicenergytess.title=Worse Than Pipes
-academy.basicenergytess.desc=Make Basic Energy Tesslocators
-academy.basicenergytess.text1=Basic Energy Tesslocators allow you to move RF over a distance of one block. Place Tesslocators in the same block space on all blocks where you want to move energy, and then right click to toggle between input and output.
-academy.basicenergytess.text2=Basic Energy Tesslocators can transfer 2048 RF/t, and can store up to 32,000 RF.
+academy.basicenergytess.title=比管道更糟糕
+academy.basicenergytess.desc=製作基礎能量超轉運體
+academy.basicenergytess.text1=基礎能量超轉運體允許您在一個方塊的距離內移動 RF。將超轉運體放置在所有要移動能量的方塊上的相同空間中，然後右鍵單擊以在輸入和輸出之間切換。
+academy.basicenergytess.text2=基礎能量超轉運體可傳輸 2048 RF/t，最多可存儲 32,000 RF。
 
-academy.advenergytess.title=Way Better Than Pipes
-academy.advenergytess.desc=Make Advanced Energy Tesslocators
-academy.advenergytess.text1=Advanced Energy Tesslocators work like Basic ones, except they don't need to be in the same block space. This allows you to transfer them wirelessly, over any distance and between dimensions.
-academy.advenergytess.text2=Advanced Tesslocators are set by holding a dye in each hand and then right clicking on the Tesslocator. To toggle between input and output mode, hold sneak and right click with an empty hand on the Tesslocator.
-academy.advenergytess.text3=Advanced Energy Tesslocators can store 40,000,000 RF, and can move the same amount per tick.
+academy.advenergytess.title=比管道更好
+academy.advenergytess.desc=製作進階能量超轉運體
+academy.advenergytess.text1=進階能量超轉運體的工作方式與基礎能量超轉運體相似，只是它們不需要位於同一方塊空間中。這使您可以在任何距離和跨維度之間無線傳輸它們。
+academy.advenergytess.text2=進階能量超轉運體是通過每隻手拿著染料然後右鍵單擊超轉運體來設置的。要在輸入和輸出模式之間切換，請在超轉運體上空手潛行並右鍵單擊。
+academy.advenergytess.text3=進階能量超轉運體可以存儲 40,000,000 RF，並且可以每次移動相同的量。
 
 academy.plasticmaking.title=Flubber
-academy.plasticmaking.desc=Make some Plastic
-academy.plasticmaking.text1=The Tree Fluid Extractor will generate Latex whenever there is a log block in front of it. It does not work with Dynamic Trees logs, so you will have to place regular logs instead. Logs will slowly be used up until they break, and will need to be replaced.
-academy.plasticmaking.text2=The Latex Processing Unit will convert 75mB of Latex and 1000mB of Water into 1 Tiny Dry Rubber. Crafting 9 together will create Dry Rubber, which can be smelted to make Plastic.
+academy.plasticmaking.desc=做一些塑料片
+academy.plasticmaking.text1=每當它前面有一個原木時，樹液提取器就會生成膠乳。它不適用於 Dynamic Trees 的木頭，因此您必須放置一般的原木。原木會慢慢用完，直到損壞，並且需要更換。
+academy.plasticmaking.text2=膠乳加工機將把 75mB 的膠乳和 1000mB 的水轉化為 1 個小塊乾橡膠。將 9 個一起合成將產生乾橡膠，可以將其熔煉成塑料片。
 
 academy.energycell.title=Saved for a Rainy Day
-academy.energycell.desc=Make an Energy Cell
-academy.energycell.text1=Energy Cells are used to store RF. Like all other Thermal Expansion machines, it comes in six tiers.
-academy.energycell.text2=The first tier can store 2,000,000 RF, and then the highest can store 50,000,000 RF.
+academy.energycell.desc=製作能量單元
+academy.energycell.text1=能量單元用於存儲 RF。與所有其他熱力膨脹機器一樣，它有六個層級。
+academy.energycell.text2=第一級可以存儲 2,000,000 RF，最高可以存儲 50,000,000 RF。
 
-academy.AAbook.title=Actually Information
-academy.AAbook.desc=Make the Actually Additions Manual
-academy.AAbook.text=The Actually Additions Manual has all the information on blocks and items added by the mod.
+academy.AAbook.title=實用地信息
+academy.AAbook.desc=製作實用擴展手冊
+academy.AAbook.text=實用擴展手冊包含有關模組添加的方塊和物品的所有信息。
 
-academy.IFbook.title=IF You Wish Upon a Star
-academy.IFbook.desc=Make Industrial Foregoing's Manual
-academy.IFbook.text=The Industrial Foregoing's Manual has all the information on blocks and items added by the mod.
+academy.IFbook.title=如果你向星星許願
+academy.IFbook.desc=製作工業先鋒手冊
+academy.IFbook.text=工業先鋒手冊包含有關模組添加的方塊和物品的所有信息。
 
-academy.DEinfotab.title=We Made a Guide for Their Guide
-academy.DEinfotab.desc=Make the Draconic Evolution Information Tablet
-academy.DEinfotab.text=The Draconic Evolution Information Tablet has all the information on blocks and items added by the mod.
+academy.DEinfotab.title=我們為他們的指南製作了指南
+academy.DEinfotab.desc=製作龍族進化資訊石板
+academy.DEinfotab.text=龍族進化資訊石板包含有關模組添加的方塊和物品的所有信息。
 
-academy.autobreaker.desc=Make an Auto-Breaker
-academy.autobreaker.text1=The Auto-Breaker automatically breaks the block it is facing, inserting the drops into its internal inventory.
-academy.autobreaker.text2=By default it works as often as it can. You can right click it with a Redstone Torch to set it to only work when given a Redstone pulse.
+academy.autobreaker.desc=製作方塊破壞器
+academy.autobreaker.text1=方塊破壞器會自動破壞它所面對的方塊，將掉落物插入其內部庫存中。
+academy.autobreaker.text2=預設情況下，它會盡可能頻繁地工作。您可以使用紅石火把右鍵單擊它，將其設置為僅在給定紅石信號時才起作用。
 
-academy.autoplacer.desc=Make an Auto-Placer
-academy.autoplacer.text1=The Auto-Placer automatically places blocks from its inventory in the direction it is facing.
-academy.autoplacer.text2=By default it works as often as it can. You can right click it with a Redstone Torch to set it to only work when given a Redstone pulse.
+academy.autoplacer.desc=製作方塊放置器
+academy.autoplacer.text1=方塊放置器會自動將其庫存中的方塊放置在它面對的方向。
+academy.autoplacer.text2=預設情況下，它會盡可能頻繁地工作。您可以使用紅石火把右鍵單擊它，將其設置為僅在給定紅石信號時才起作用。
 
-academy.aafarmer.title=Factory Farming
-academy.aafarmer.desc=Make a Farmer
-academy.aafarmer.text=The Farmer will till dirt in a 9x9 area in front of it and attempt to plant seeds of any type from the left slots in its inventory. It will also harvest fully grown crops from the area, replanting the seeds and putting the crops in the right slots.
+academy.aafarmer.title=工廠化種植
+academy.aafarmer.desc=製作農場
+academy.aafarmer.text=農場將在其前面的 9x9 區域耕種泥土，並嘗試從其庫存中的左側槽種植任何類型的種子。它還將從該地區收穫完全成熟的作物，重新種植種子並將作物放在庫存右側的槽。
 
 academy.rangedcollector.title=Pick-Me-Up
-academy.rangedcollector.desc=Make a Ranged Collector
-academy.rangedcollector.text1=The Ranged Collector will collect items dropped within 6 blocks of itself, according to its filter.
-academy.rangedcollector.text2=Open it up and set the filter in the 12 slots on the left. You can set if it is a whitelist or a blacklist, if it matches metadata and NBT, and all that other good stuff that filters usually have.
+academy.rangedcollector.desc=製作物品吸收器
+academy.rangedcollector.text1=物品吸收器會根據其過濾器收集掉落在自身 6 格內的物品。
+academy.rangedcollector.text2=打開它並在左側的 12 個槽中設置過濾器。您可以設置它是白名單或是黑名單，它是否與元數據和 NBT 匹配，以及過濾器通常具有的所有其他好東西。
 
 academy.aalens.title=Technomancic Refraction
-academy.aalens.desc=Make any Lens for the Atomic Reconstructor
-academy.aalens.text1=Lens can be placed on the Atomic reconstructor to change its function in some way, such as making the laser color blocks or kill mobs.
-academy.aalens.text2=See the Actually Additions Manual for more information.
-academy.aalens.task=Any Lens
+academy.aalens.desc=為原子再構機製作任何透鏡
+academy.aalens.text1=透鏡可以放在原子再構機上以某種方式改變其功能，例如製作雷射色塊或殺死生物。
+academy.aalens.text2=有關更多信息，請參閱實用擴展手冊。
+academy.aalens.task=任何透鏡
 
-academy.aaenergylaser1.desc=Make Basic Energy Laser Relays
-academy.aaenergylaser1.text1=Energy Laser Relays can wirelessly transfer up to 1,000 RF/t.
-academy.aaenergylaser1.text2=Place an Energy Laser Relay on the block you want to pull RF from and the block you want to push RF into, as well as anywhere along the way for you to connect them.
-academy.aaenergylaser1.text3=To connect Laser Relays, right click one with a Laser Wrench and then the other.
-academy.aaenergylaser1.text4=To toggle between input, output, and both ways, right click it with a Compass.
+academy.aaenergylaser1.desc=製作能量雷射中繼器
+academy.aaenergylaser1.text1=能量雷射中繼器可以無線傳輸高達 1,000 RF/t。
+academy.aaenergylaser1.text2=將能量雷射中繼器放置在您想要從中取出 RF 的方塊和您想要將 RF 輸入的方塊上，以及沿途的任何地方，以便您將它們連接起來。
+academy.aaenergylaser1.text3=要連接雷射中繼器，用中繼器扳手右擊一個，然後右擊另一個。
+academy.aaenergylaser1.text4=要在輸入、輸出和雙向之間切換，請使用指南針右鍵單擊它。
 
-academy.ifpump.title=Stone Ocean
-academy.ifpump.desc=Make a Fluid Pump
-academy.ifpump.text1=The Fluid Pump will check the fluid directly underneath it and then pump all of that fluid in the working area into its internal tank, where it can be piped out. Pumped fluids will be replaced with Cobblestone.
-academy.ifpump.text2=Like all Industrial Foregoing machines, its default range is 1 block. You will have to use Range Addons to increase the working area. Do this before providing it with power.
+academy.ifpump.title=石海
+academy.ifpump.desc=製作流體泵
+academy.ifpump.text1=流體泵將檢查直接位於其下方的流體，然後將工作區域中的所有流體泵入其內部儲罐，在那裡可以通過管道排出。泵送的液體將被鵝卵石代替。
+academy.ifpump.text2=就像所有的工業先鋒機器一樣，它的預設範圍是 1 個方塊。您將不得不使用範圍升級插件來增加工作區域。在為其提供電源之前執行此操作。
 
-academy.rangeaddon.title=Bigger, Better
-academy.rangeaddon.desc=Make a Range Addon
-academy.rangeaddon.text=By default, all Industrial Foregoings have a range of 1 block. Range Addons are used to increase this. A Range +2 Addon adds 2 to the range, so it would be 3x3.
-academy.rangeaddon.task=Any Range Addon
+academy.rangeaddon.title=更大，更好
+academy.rangeaddon.desc=製作範圍升級插件
+academy.rangeaddon.text=預設情況下，所有工業先鋒機器工作的範圍為 1 個方塊。範圍升級插件用於增加這一點。範圍升級插件+2 將範圍增加 2，因此它是 3x3。
+academy.rangeaddon.task=任何範圍升級插件
 
 academy.DEgrinder.title=Kill-Box
-academy.DEgrinder.desc=Make a Mob Grinder
-academy.DEgrinder.text=The Mob Grinder uses RF to instantly kill every non-player mob in a 7x7 area in front of it, including Withers. Items and experience will drop as normal, and will not be collected.
+academy.DEgrinder.desc=製作生物斬殺機
+academy.DEgrinder.text=生物斬殺機使用 RF 立即殺死它前面 7x7 區域內的所有非玩家生物，包括凋零怪。物品和經驗會正常掉落，不會被收集。
 
 academy.DEbasic.title=Basically
-academy.DEbasic.desc=Make Basic Energy Crystals
-academy.DEbasic.text1=Energy Crystals allow you to wirelessly transfer RF. To link Crystals, sneak right click one Crystal with the Crystal Binder, then right click on all other Crystals you want to connect it to.
-academy.DEbasic.text2=RF enters and exits a system through Energy I/O Crystals, but they can only connect to a couple other Crystals.
-academy.DEbasic.text3=Energy Relay Crystals are what should connect other Crystals, as they have the most connections.
-academy.DEbasic.text4=Wireless Energy Crystals can power machines without needing an I/O Crystal. Simply bind it to a Crystal that has RF, and then bind it to every machine you want to power.
-academy.DEbasic.task=Any Basic Energy Crystal
+academy.DEbasic.desc=製作基本能量水晶
+academy.DEbasic.text1=能量水晶許您無線傳輸 RF。要鏈接水晶，請使用能量裝置連接器潛行右鍵單擊一個水晶，然後右鍵單擊您想要連接的所有其他水晶。
+academy.DEbasic.text2=RF 通過能量收發水晶進入和退出系統，但它們只能連接到其他幾個水晶。
+academy.DEbasic.text3=能量中繼水晶應該連接其他水晶，因為它們有最多的連接量。
+academy.DEbasic.text4=無線能量收發水晶可以在不需要收發水晶的情況下為機器供電。只需將其綁定到具有 RF 的水晶，然後將其綁定到您想要供電的每台機器。
+academy.DEbasic.task=任何基本能量水晶
 
 academy.stabilizedspawner.title=Bent to Your Will
-academy.stabilizedspawner.desc=Stabilize a Monster Spawner
-academy.stabilizedspawner.text1=Right clicking a Core on a Monster Spawner will Stabilize it. There are 4 tiers, corresponding with the 4 Core tiers. Once you've stabilized a Spawner, it will turn into an item so you can place it somewhere else.
-academy.stabilizedspawner.text2=You can right click a Stabilized Spawner with a Mob Soul to make it spawn that mob. Mining the Stabilized Spawner will empty the Soul but not destroy the Spawner itself.
-academy.stabilizedspawner.text3=Each tier is better than the last, spawning more mobs at a time and doing it more often. Higher tiers also have less restrictions for how to spawn mobs. See the Draconic Evolution Information Tablet for more details.
-academy.stabilizedspawner.task=Any Stabilized Spawner
+academy.stabilizedspawner.desc=穩定一個生怪磚
+academy.stabilizedspawner.text1=使用核心右鍵單擊生怪磚上會使其穩定。有 4 個層級，對應於 4 個核心。一旦你穩定了一個生怪磚，它就會變成一個物品，這樣你就可以把它放在其他地方。
+academy.stabilizedspawner.text2=你可以使用生物靈魂右鍵點擊一個穩定的生怪磚，讓它生成那個生物。挖掘穩定的生怪磚會清空靈魂，但不會摧毀生怪磚本身。
+academy.stabilizedspawner.text3=每一層級都比上一個層級好，一次產生更多的怪物，並且產生的頻率更高。更高的層級對如何生成怪物的限制也更少。參見龍族進化資訊石板了解更多詳情。
+academy.stabilizedspawner.task=任何穩定的生怪磚
 
-academy.DEsouls.title=Soul Eater
-academy.DEsouls.desc=Collect a Soul
-academy.DEsouls.text1=Mob Souls have a chance of dropping when using a Draconic Evolution weapons and/or the Reaper enchantment. If you are using neither, Mob Souls will never drop.
-academy.DEsouls.text2=A Mob Soul's main use is to be inserted into Stabilized Spawners to set it to spawn that mob, however you can sneak right click them on the ground to spawn the mob (which will use up the Soul).
-academy.DEsouls.task=Any Soul
+academy.DEsouls.title=噬魂者
+academy.DEsouls.desc=收集靈魂
+academy.DEsouls.text1=使用龍族進化武器和/或奪魂術附魔時，生物靈魂將有機率掉落。如果你兩者都不使用，生物靈魂將永遠不會掉落。
+academy.DEsouls.text2=生物靈魂的主要用途是放入穩定的生怪磚以設置其生成該生物，但是您可以在地面上潛行右鍵單擊它們以生成生物（這將耗盡靈魂）。
+academy.DEsouls.task=任何生物靈魂
 
-academy.celestialmanipulator.title=Weather Report
-academy.celestialmanipulator.desc=Make a Celestial Manipulator
-academy.celestialmanipulator.text=The Celestial Manipulator uses RF to allow you to change the current time and weather.
+academy.celestialmanipulator.title=天氣預報
+academy.celestialmanipulator.desc=製作天象操縱器
+academy.celestialmanipulator.text=天象操縱器使用 RF 來讓您更改當前的時間和天氣。
 
 academy.disenchanter.title=elbaT tnemtnahcnE
-academy.disenchanter.desc=Make a Disenchanter
-academy.disenchanter.text=The Disenchanter allows you to move enchantments from tools to books.
+academy.disenchanter.desc=製作卸魔台
+academy.disenchanter.text=卸魔台允許您將附魔從工具移動到書籍上。
 
 # Technology - Intermediate
 
@@ -1387,7 +1387,7 @@ academy.minoshroom.task=成就：超強牛頭排
 academy.hydra.title=艱鉅的努力
 academy.hydra.desc=斬首九頭蛇
 academy.hydra.text1=九頭蛇可以在火焰沼澤中找到。最好在遠距離作戰，當它的嘴張開時攻擊頭部。
-academy.hydra.text2=當一個頭部受到足夠的傷害時，它會消亡並被另外兩個替換。這樣做足夠多的次數，Hydra 將被擊敗。
+academy.hydra.text2=當一個頭部受到足夠的傷害時，它會消亡並被另外兩個替換。這樣做足夠多的次數，九頭蛇將被擊敗。
 academy.hydra.text3=需要熾熱之血以及其他兩個 Boss 的掉落物才能解鎖高原。
 academy.hydra.task=成就：九頭蛇殺手
 
@@ -1729,7 +1729,7 @@ academy.atgrowth.text=While on, the Ring of Growth uses RF to make nearby crops 
 academy.tutorial.jei.title=Just Enough Items
 academy.tutorial.jei.1=你的物品欄
 academy.tutorial.jei.2=模組向遊戲添加了一堆新方塊和新物品，記住它們的合成表絕非易事。這就是 Just Enough Items 模組被加入模組包的原因。
-academy.tutorial.jei.3=JEI 模組在物品欄右側添加了物品列表。
+academy.tutorial.jei.3= JEI 模組在物品欄右側添加了物品列表。
 academy.tutorial.jei.4=搜索物品
 academy.tutorial.jei.5=通過在搜索框中輸入物品名稱，你可以過濾列表。
 academy.tutorial.jei.6=提示信息
@@ -1744,7 +1744,7 @@ academy.tutorial.jei.13=某些合成表不限於單種物品，而是接受同�
 academy.tutorial.jei.14=您可以將滑鼠懸停在合成表中的某個物品上，以查看可以使用哪種類的物品而不是顯示的特定項目。
 academy.tutorial.jei.15=這是你用這個合成製作這個物品可以使用的全部材料。
 academy.tutorial.jei.16=處理配方
-academy.tutorial.jei.17=JEI 不局限於顯示合成表，你也可以查看熔煉配方，生物掉落，礦石生成分佈等等！
+academy.tutorial.jei.17= JEI 不局限於顯示合成表，你也可以查看熔煉配方，生物掉落，礦石生成分佈等等！
 academy.tutorial.jei.18=這些是製作這個物品可用使用的不同方法和不同機器。
 academy.tutorial.jei.19=合成自動填充
 academy.tutorial.jei.20=如果你身上備齊了合成的所需物品，點擊合成表下的 “+” 按鈕自動填充物品至對應合成槽位。
