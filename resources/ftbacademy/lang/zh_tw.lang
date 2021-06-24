@@ -1428,7 +1428,7 @@ academy.castle.text1=使用煤渣燈繞過荊棘地並到達最終高原。在�
 academy.castle.text2=模組還沒有完成，所以終結城堡幾乎完全沒有完成。沒有老闆，謎題也不起作用。這是目前進展的結束，但仍在進行中。
 
 
-# 星輝魔法 - Astral Sorcerys
+# 星輝魔法 - Astral Sorcery
 
 academy.astraltome.title=你知道的越多...
 academy.astraltome.desc=製作星芒寶典
@@ -1642,87 +1642,87 @@ academy.fysallidic.text=費薩利德噴口會在寬闊的水平半徑範圍內�
 
 # 雜項
 
-academy.instrumentalmobs.title=Let's Make a Band
-academy.instrumentalmobs.desc=Get any instrument from Instrumental Mobs
-academy.instrumentalmobs.text=Instrumental Mobs adds versions of most vanilla monsters, but instead of killing you they play you music! Their instruments will push you back, but won't damage you. Killing them will have a small chance of dropping their instruments.
-academy.instrumentalmobs.task=Anything from Instrumental Mobs
+academy.instrumentalmobs.title=讓我們組成一個樂隊吧
+academy.instrumentalmobs.desc=從 Instrumental Mobs 獲取任何樂器
+academy.instrumentalmobs.text=Instrumental Mobs 模組添加了大多數原版怪物的版本，但它們不會殺死你，而是播放音樂！他們的樂器器會將你擊退，但不會傷害你。殺死他們將有很小的機率掉落他們的樂器。
+academy.instrumentalmobs.task=Instrumental Mobs 的任何樂器
 
 academy.claimexplosions.title=Fizz Goes the Dynamite
-academy.claimexplosions.desc=Get a Creeper to explode in your claimed chunks
-academy.claimexplosions.text1=While in claimed chunks, explosions from Creepers will be completely disabled. They can still deal damage to you, but they won't break any blocks.
-academy.claimexplosions.text2=This also prevents the Wither from damaging blocks with its explosions, but it does not stop it from breaking blocks around itself when taking damage.
+academy.claimexplosions.desc=讓苦力怕在你聲明的區塊中爆炸
+academy.claimexplosions.text1=在聲明的區塊中，苦力怕的爆炸將被完全禁用。他們仍然可以對你造成傷害，但他們不會破壞任何方塊。
+academy.claimexplosions.text2=這也可以防止凋靈用它的爆炸破壞方塊，但它不會阻止它在受到傷害時破壞自身周圍的方塊。
 
-academy.elevator.title=Going Up
-academy.elevator.desc=Make an Elevator
-academy.elevator.text=If you jump on an Elevator you will teleport to the Elevator above it. Likewise, if you sneak on an Elevator you will teleport to the one below it. Color does not matter.
-academy.elevator.task=Any Elevator
+academy.elevator.title=上樓
+academy.elevator.desc=製作電梯
+academy.elevator.text=如果你在電梯上跳躍，你會傳送到它上面的電梯。同樣，如果你在電梯上潛行，你會傳送到它下面的那一層。顏色無所謂。
+academy.elevator.task=任何電梯
 
-academy.exchanging.title=This to That
-academy.exchanging.desc=Make an Exchanging Gadget
-academy.exchanging.text=The Exchanging Gadget replaces blocks in patterns similar to the Building Gadget. Sneak right click on the block you want to replace to, set the mode and range, and then right click to replace.
+academy.exchanging.title=這裡對那裡
+academy.exchanging.desc=製作一個更替小幫手
+academy.exchanging.text=更替小幫手具以類似於建築小幫手的模式替換方塊。在要替換的方塊上潛行右擊，設置模式和範圍，然後右擊替換。
 
-academy.destructiongadget.title=Before Creation Comes Destruction
-academy.destructiongadget.desc=Make a Destruction Gadget
-academy.destructiongadget.text=The Destruction Gadget allows you to destroy a massive amount of blocks at once. Blocks destroyed are not dropped, they are gone forever (though you can undo with U by default).
+academy.destructiongadget.title=在創造之前要先毀滅
+academy.destructiongadget.desc=製作破壞小幫手
+academy.destructiongadget.text=破壞小幫手可以一次破壞大量方塊。破壞掉的方塊不會成為掉落物，它們將永遠消失（你預設可以按 U 取消操作）。
 
-academy.copypaste.title=Outsourcing
-academy.copypaste.desc=Make a Copy-Paste Gadget
-academy.copypaste.text=The Copy-Paste Gadget will allow you to copy an area and place it somewhere else, without destroying the original. You can also place structures other people have made online!
+academy.copypaste.title=外包建築
+academy.copypaste.desc=製作複製-粘貼小幫手
+academy.copypaste.text=製作複製-粘貼小幫手將允許您複製一個區域並將其放置在其他地方，而不會破壞原始區域。您還可以放置其他人在線上製作的結構！
 
 academy.buildinggadget.title=9x9s Made Easy
-academy.buildinggadget.desc=Make a Building Gadget
-academy.buildinggadget.text=The Bulding Gadget allows you to quickly build simple structures like walls and stairs.
+academy.buildinggadget.desc=製作建築小幫手
+academy.buildinggadget.text=建築小幫手可以快速建造簡單的結構，如牆、樓梯。
 
 academy.wateringcan.title=Not Watering Can't
-academy.wateringcan.desc=Make a Watering Can
-academy.wateringcan.text1=Watering Cans speed up plant growth in an area when used, which takes Water. You can fill the Watering Can up by sneak right clicking on a Water source block.
-academy.wateringcan.text2=Higher tier Watering Cans can store more water, have a higher maximum area, and have a higher chance of growing plants.
+academy.wateringcan.desc=製作澆水壺
+academy.wateringcan.text1=澆水壺在使用時會加速植物生長，這需要水。您可以通過潛行右鍵單擊水源補充澆水壺。
+academy.wateringcan.text2=更高等級的噴壺可以儲存更多的水，有更大的最大面積，並且有更高的機會成長植物。
 
-academy.slimechannel.title=Gelatinous
-academy.slimechannel.desc=Make a Slime Channel
-academy.slimechannel.text1=Slime Channels will push all entities (items and mobs) in the direction they are facing, including up and along walls.
-academy.slimechannel.text2=They don't block mobs from spawning, so they work great in mob grinders.
-academy.slimechannel.task=Any Slime Channel
+academy.slimechannel.title=凝膠狀
+academy.slimechannel.desc=製作史萊姆頻道
+academy.slimechannel.text1=史萊姆通道會將所有實體（物品和生物）推向它們所面對的方向，包括向上和沿著牆壁。
+academy.slimechannel.text2=它們不會阻止生物生成，因此它們在生物磨床中效果很好。
+academy.slimechannel.task=任何史萊姆頻道
 
-academy.craftingtableonastick.title=Crafting Table + Stick = ?
-academy.craftingtableonastick.desc=Make a Crafting Table on a Stick
-academy.craftingtableonastick.text=The Crafting Table on a Stick is exactly what it sounds like. Right click it to open a 3x3 crafting menu.
+academy.craftingtableonastick.title=合成台+木棒=？
+academy.craftingtableonastick.desc=製作手持合成台
+academy.craftingtableonastick.text=手持合成台正是它聽起來的樣子。右鍵單擊它以打開 3x3 製作。
 
-academy.tinytorch.title=Light of my Life
-academy.tinytorch.desc=Make a Tiny Torch
-academy.tinytorch.text=The Tiny Torch is a cheaper alternative to the regular Torch. However, it only has a light level of 12 compared to the Torch's 14.
+academy.tinytorch.title=生命之光
+academy.tinytorch.desc=製作微型火把
+academy.tinytorch.text=微型火把是一般火把的更便宜的替代品。但是，與火把的 14 相比，它的亮度僅為 12。
 
-academy.foodxl.title=Variety is the Spice of Life
-academy.foodxl.desc=Get something from XL Food Mod
-academy.foodxl.text=XL Food Mod adds a huge variety of food items. Everything from Cheeseburgers to Spaghetti!
-academy.foodxl.task=Anything from XL Food Mod
+academy.foodxl.title=變化是生活的調味料
+academy.foodxl.desc=從 XL Food（超多食物模組）模組獲得一些東西
+academy.foodxl.text=XL Food 添加了種類繁多的食品。從起司漢堡到義大利麵，應有盡有！
+academy.foodxl.task=來自 XL Food Mod 的任何東西
 
 academy.mobgrindingutils.title=Mobs Made Easy
-academy.mobgrindingutils.desc=Make a Mob Masher and Fan
-academy.mobgrindingutils.text1=Mob Grinding Utils adds a lot of special utility blocks that allow you to easily farm mobs.
-academy.mobgrindingutils.text2=Fans will blow mobs in the direction they're facing when given a Redstone signal, and they can be given upgrades to increase their working area.
-academy.mobgrindingutils.text3=The Mob Masher will damage any mobs that touch it when given a Redstone signal. You can give it upgrades to make it deal more damage and give it Looting.
-academy.mobgrindingutils.reward1=Looting
-academy.mobgrindingutils.reward2=Sharpness
+academy.mobgrindingutils.desc=製作怪物搗碎器和怪物風扇
+academy.mobgrindingutils.text1=Mob Grinding Utils（刷怪塔實用設備）添加了許多特殊的方塊，讓您可以輕鬆地刷怪。
+academy.mobgrindingutils.text2=當收到紅石信號時，怪物風扇會朝他們面對的方向吹生物，他們可以被升級以增加他們的工作區域。
+academy.mobgrindingutils.text3=當收到紅石信號時，怪物搗碎器會傷害任何接觸它的生物。您可以對其進行升級以使其造成更多傷害並給予它掠奪。
+academy.mobgrindingutils.reward1=掠奪
+academy.mobgrindingutils.reward2=鋒利
 
-academy.solidifiedxp.title=Exactly What it Says
-academy.solidifiedxp.desc=Get some Solidified Experience
-academy.solidifiedxp.text1=Solidified Experience has a chance of dropping when mobs are killed. They are essentially experience orbs in item form. Use them to gain experience.
-academy.solidifiedxp.text2=Use them while sneaking to use the whole stack at once.
+academy.solidifiedxp.title=名副其實
+academy.solidifiedxp.desc=獲得一些固態經驗
+academy.solidifiedxp.text1=當怪物被殺死時，會有機率掉落固態經驗。它們本質上是物品形式的經驗球。使用它們來獲得經驗。
+academy.solidifiedxp.text2=在潛行時使用它們以一次使用整組。
 
-academy.xpsolidifier.title=Saving for Later
-academy.xpsolidifier.desc=Make an Experience Solidifier
-academy.xpsolidifier.text1=The Experience Solidifier allows you to turn your xp into Soldified Experience so you can store it as an item.
-academy.xpsolidifier.text2=It will also collect any experience orbs on the ground within 5 blocks of itself and convert those into Solidified Experience as well.
+academy.xpsolidifier.title=存給之後使用
+academy.xpsolidifier.desc=製作經驗固化器
+academy.xpsolidifier.text1=經驗固化器讓你可以將經驗轉化為固態經驗，以物品形式儲存。
+academy.xpsolidifier.text2=它還會收集自身 5 格內地面上的任何經驗球，並將其轉化為固化經驗。
 
 academy.atmagnet.title=Animal Magnetism
-academy.atmagnet.desc=Make a Ring Of Magnetism
-academy.atmagnet.text1=While on, the Ring of Magnetism uses RF to collect items around you.
-academy.atmagnet.text2=You can toggle it on and off by sneak right clicking it.
+academy.atmagnet.desc=製作磁力戒指
+academy.atmagnet.text1=開啟時，磁力戒指使用 RF 收集您周圍的物品。
+academy.atmagnet.text2=您可以透過潛行右鍵單擊來打開和關閉它。
 
-academy.atgrowth.title=Green Thumb
-academy.atgrowth.desc=Make a Ring Of Growth
-academy.atgrowth.text=While on, the Ring of Growth uses RF to make nearby crops grow faster.
+academy.atgrowth.title=園藝高手
+academy.atgrowth.desc=製作生長戒指
+academy.atgrowth.text=開啟時，生長戒指使用 RF 使附近的作物生長得更快。
 
 # 教學
 
@@ -1877,4 +1877,4 @@ academy.overlay.botania.8.5=使用森林魔杖潛行右鍵單擊魔力池，將�
 academy.overlay.botania.9=通過在魔力池中丟入鐵錠來製作魔力鋼錠
 academy.overlay.botania.10=通過在精靈傳送門中丟入 2 個魔力鋼錠來製作源質鋼錠
 
-tile.manaFlame.name=魔力脈衝
+tile.manaFlame.name=魔力光線
