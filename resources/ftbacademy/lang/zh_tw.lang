@@ -1214,137 +1214,137 @@ academy.draconicreactor.desc=建立一個龍族反應爐
 academy.draconicreactor.text1=龍族反應爐是此模組包中最危險的方塊。這正是風險回報的定義。如果你運行得當，你可以獲得大量的 RF，但如果它爆炸，它會摧毀自身 200 格內的所有東西。
 academy.draconicreactor.text2=運行起來非常複雜。在這裡解釋肯定太複雜了，所以閱讀龍族進化資訊石板以查看更多信息。
 
-# Botania
-academy.lexica.title=Reading Rainbow
-academy.lexica.desc=Craft the Lexica Botania
-academy.lexica.text=The Lexica Botania is a really good guide for Botania. When you open it for the first time you have the option to go through a tutorial. We recommend going through that and using these quests to supplement it.
-academy.lexica.text2=When the Lexica Botania is in your hotbar, you can hold control while hovering over items from Botania in your inventory to see the page on that item.
+# 植物魔法 - Botania
+academy.lexica.title=閱讀彩虹
+academy.lexica.desc=製作植物魔法辭典
+academy.lexica.text=植物魔法辭典是一本非常好的植物魔法指南。當您第一次打開它時，您可以選擇瀏覽教程。我們建議透過這些任務​​並使用這些任務來補充它。
+academy.lexica.text2=當植物魔法辭典在您的快捷欄中時，您可以在將鼠標懸停在物品欄中來自植物魔法的物品上的同時按住 Control，以查看該物品的頁面。
 
 academy.apothecary.title=Bird Bath
-academy.apothecary.desc=Make a Petal Apothecary
-academy.apothecary.text1=The Petal Apothecary is used to make magical flowers. Fill it with water, throw in Mystical Petals as dictated by the recipe, then throw in seeds to complete it.
-academy.apothecary.text2=You can plant Mystical Petals in the ground and grow them with Bone Meal to make Tall Mystical Flowers that can be harvested with Shears. This lets you farm Mystical Petals.
+academy.apothecary.desc=製作花藥台
+academy.apothecary.text1=花藥台用於製作魔法花。將它裝滿水，按照配方的指示放入神秘花瓣，然後放入種子以完成它。
+academy.apothecary.text2=你可以在地上種植神秘花瓣，然後用骨粉種植它們以用剪刀收穫的高大神秘花。這讓您可以種植神秘花瓣。
 
-academy.pouch.desc=Make a Flower Pouch
-academy.pouch.text=The Flower Pouch will store up to a stack of each Mystical Flower. When one is picked up, it will automatically be stored in the Flower Pouch if there is room.
+academy.pouch.desc=製作采花袋
+academy.pouch.text=采花袋最多可存放一疊每朵神秘花。當拾取到一個花瓣，有空間的話會自動存放在采花袋裡。
 
-academy.forestwand.title=Nature Magic
-academy.forestwand.desc=Make a Wand of the Forest
-academy.forestwand.text=The Wand of the Forest is a bit of an all-in-one tool for Botania. It allows you to activate and manipulate certain blocks in the mod.
+academy.forestwand.title=自然魔法
+academy.forestwand.desc=製作森林法杖
+academy.forestwand.text=森林法杖有點像植物魔法的多合一工具。它允許您啟用和操作模組中的某些方塊。
 
 academy.daisy.title=Purification in Progress
-academy.daisy.desc=Make a Pure Daisy
-academy.daisy.text1=The Pure Daisy is a very important flower. It will convert Stone and Wood into Livingrock and Livingwood if they are within a 3x3 area surrounding it.
-academy.daisy.text2=Livingrock and Livingwood are used extremely often, so it would be a good idea to find a way to automate this.
+academy.daisy.desc=做一朵純白雛菊
+academy.daisy.text1=白雛菊是一朵非常重要的花。如果石頭或木頭在它周圍的 3x3 區域內，它會將石頭和木頭轉化為活石和活木。
+academy.daisy.text2=活石和活木使用的頻率非常高，因此最好找到一種方法來自動執行此操作。
 
-academy.mana.title=Mana Jacuzzi
-academy.mana.desc=Make a Mana Pool and Mana Spreader
-academy.mana.text1=The Mana Pool is used to store Mana created by flowers. You can bind other flowers to it so they can use the Mana it holds.
-academy.mana.text2=Place the Mana Spreader next to a source of Mana, like a Mana Pool, and point it at something else that can accept Mana using a Wand of the Forest. It will start to shoot Mana Bursts in that direction, emptying the Mana source.
-academy.mana.text3=You can also throw things into the Mana Pool to change them, either transmuting or charging them.
+academy.mana.title=魔法按摩浴缸
+academy.mana.desc=製作魔力池和魔力發射器
+academy.mana.text1=魔力池用於儲存由花朵產生的魔力。你可以將其他花綁定到上面，這樣它們就可以使用它持有的魔力。
+academy.mana.text2=將魔力發射器放在魔力來源旁邊，例如魔力池，然後使用森林法杖將其指向其他可以接受魔力的物體。它將開始朝那個方向發射魔力脈沖，清空魔力來源。
+academy.mana.text3=你也可以將東西丟進魔力池來改變它們，轉化或充能它們。
 
-academy.manaitems.title=Just Stick "Mana" in Front of It!
-academy.manaitems.desc=Make Manasteel, a Mana Pearl, and a Mana Diamond
-academy.manaitems.text=Manasteel, Mana Diamonds, and Mana Pearls are used in a lot of crafting recipes.
+academy.manaitems.title=只要在它前面貼上“魔力”！
+academy.manaitems.desc=製作魔力鋼、魔力珍珠和魔力鑽石
+academy.manaitems.text=魔力鋼、魔力珍珠和魔力鑽石用於許多合成配方。
 
-academy.manatablet.title=Mana Battery
-academy.manatablet.desc=Make a Mana Tablet
-academy.manatablet.text1=The Mana Tablet can be used to carry around Mana without a Mana Spreader, and also fuels any items in your inventory that need Mana.
-academy.manatablet.text2=To charge or discharge a Mana Tablet, throw it on a Mana Pool. Activate the Pool with a Wand of the Forest to switch between emptying and filling.
+academy.manatablet.title=魔力電池
+academy.manatablet.desc=製作魔力石板
+academy.manatablet.text1=魔力石板可用於在沒有魔力發射器的情況下攜帶魔力，並且還可以為您物品欄中需要魔力的任何物品提供能量。
+academy.manatablet.text2=要為魔力石板充電或放電，請將其扔到魔力池中。用森林法杖啟用魔力池，以在清空和填充之間切換。
 
-academy.halo.title=Manafactory Halo
-academy.halo.desc=Make a Manufacturing Halo
-academy.halo.text1=The Manufacturing Halo will automatically craft recipes that are set using items in your inventory.
-academy.halo.text2=Hold the Manufacturing Halo in your hand to see the interface appear. You can use the Crafting Table like you would normally, and you can click any of the other segments to set the Halo to automatically craft that recipe.
+academy.halo.title=製造工廠環
+academy.halo.desc=製造工廠環
+academy.halo.text1=工廠環將根據設定的配方使用您物品欄中的物品自動合成。
+academy.halo.text2=將“工廠環”拿在手上，即可看到介面出現。您可以像往常一樣使用合成台，您可以單擊任何其他部分來設置光環以自動製作該配方。
 
-academy.alchemcat.title=The Law of Equivalent Exchange
-academy.alchemcat.desc=Make an Alchemy Catalyst
-academy.alchemcat.text1=The Alchemy Catalyst is placed under a Mana Pool to change its functionality.
-academy.alchemcat.text2=It adds new recipes to the Mana Pool, so you can throw in an item to get a different item out. Hit U on the Alchemy Catalyst to see all of its recipes.
+academy.alchemcat.title=等價交換定律
+academy.alchemcat.desc=製作煉金催化器
+academy.alchemcat.text1=將煉金催化器放置在魔力池下方以改變其功能。
+academy.alchemcat.text2=它為魔力池添加了新的配方，因此您可以投入物品以取出不同的物品。在煉金催化器上按 U 查看它的所有配方。
 
-academy.endoflame.title=Smells like Burning
-academy.endoflame.desc=Make an Endoflame
-academy.endoflame.text1=The Endoflame will burn any furnace fuel dropped on the ground nearby and convert it into Mana and put it into a nearby Mana Spreader.
-academy.endoflame.text2=This is a very good early-game source of Mana that works better the more you have, and is very easily automatable.
+academy.endoflame.title=聞起來像燃燒了
+academy.endoflame.desc=製作火紅蓮
+academy.endoflame.text1=火紅蓮會燃燒掉在附近地面上的任何熔爐燃料，並將其轉化為魔力並將其放入附近的魔力發射器中。
+academy.endoflame.text2=這是一個非常好的早期魔力來源，你擁有的越多效果越好，並且很容易實現自動化。
 
 academy.runicaltar.title=从卂厶工匚 丂丫从乃口乚丂
-academy.runicaltar.desc=Make a Runic Altar
-academy.runicaltar.text1=The Runic Altar is used to create Runes, as the name implies. Throw the items on top of it according to the recipe and provide it with Mana from a Mana Spreader.
-academy.runicaltar.text2=Once it's full of Mana, throw a Livingrock on it and activate it with a Wand of the Forest to complete the craft.
+academy.runicaltar.desc=製作符文祭壇
+academy.runicaltar.text1=顧名思義，符文祭壇用於製作符文。根據配方將物品丟在它上面，並從魔力發射器中為其提供魔力。
+academy.runicaltar.text2=一旦它充滿魔力，將活石扔在它上面並用森林法杖啟動它以完成合成。
 
-academy.soujourner.title=Beauty Queen on Tour
-academy.soujourner.desc=Make a Soujourner's Sash
-academy.soujourner.text=The Soujourner's Sash, when worn in the Belt bauble slot and provided with Mana, will vastly increase the agility of the wearer.
+academy.soujourner.title=巡演中的選美皇后
+academy.soujourner.desc=製作旅居者腰帶
+academy.soujourner.text=當旅居者腰帶佩戴在腰帶飾品槽中並為它提供魔力時，將極大地提高佩戴者的敏捷性。
 
-academy.lens.title=Mana Glasses
-academy.lens.desc=Make a Mana Lens
-academy.lens.text=Mana Lenses are applied to Mana Spreaders to change how they work. They can do things like make Mana Bursts faster or hold more Mana, or make it so they explode when they hit a block.
+academy.lens.title=魔力眼鏡
+academy.lens.desc=製作魔力透鏡
+academy.lens.text=魔力透鏡應用於魔力發射器以改變它的工作方式。他們可以做一些事情，比如讓魔力脈沖更快或保持更多魔力，或者讓它在擊中方塊時爆炸。
 
 academy.botaniamagnet.title=Magnetic Personality
-academy.botaniamagnet.desc=Make a Ring of Magnetization
-academy.botaniamagnet.text=While worn in the Bauble slots, the Ring of Magnetization will draw dropped items towards the player.
+academy.botaniamagnet.desc=製作磁化戒指
+academy.botaniamagnet.text=佩戴在飾品欄時，磁化戒指會將掉落的物品拉向玩家。
 
-academy.botaniarods.title=Magic Wand
-academy.botaniarods.desc=Make any Rod
-academy.botaniarods.text=Rods allow you to use Mana from your inventory to perform certain actions, such as placing Cobblestone or Dirt, flying through the air, or smelt blocks.
+academy.botaniarods.title=魔法棒
+academy.botaniarods.desc=製作法杖
+academy.botaniarods.text=法杖允許您使用物品欄中的法力來執行某些操作，例如放置鵝卵石或泥土、在空中飛行或熔煉方塊。
 
 academy.terrasteel.title=Dancing Lights
-academy.terrasteel.desc=Make some Terrasteel
-academy.terrasteel.text1=The Terrestrial Agglomeration Plate is where you make Terrasteel.
-academy.terrasteel.text2=Throw a Manasteel Ingot, a Mana Diamond, and a Mana Pearl on the Plate and give it a couple metric butt-tons of Mana from a Mana Pool connected with Sparks.
-academy.terrasteel.text3=Some lights will dance around for a bit before converging on the items, turning them into a single Terrasteel Ingot.
+academy.terrasteel.desc=做一些泰拉鋼錠
+academy.terrasteel.text1=泰拉凝聚板是您製造泰拉鋼的地方。
+academy.terrasteel.text2=將一個魔力鋼錠、一個魔力鑽石和一個魔力珍珠丟到凝聚板上，然後從與火花相連的魔力池中給它幾公噸的魔力。
+academy.terrasteel.text3=一些光線會於聚在物品上之前舞動一下，將它們變成一個泰拉鋼錠。
 
 academy.elven.title=Link Start!
-academy.elven.desc=Make a portal to Alfheim
-academy.elven.text1=The portal to Alfheim is a multiblock that allows you to trade with elves (it's essentially another crafting mechanic). Throw an item into it and they'll throw the elven version back out.
-academy.elven.text2=The Lexica Botania has a building guide for the portal.
+academy.elven.desc=建立一個精靈傳送門
+academy.elven.text1=精靈傳送門是一個多方塊結構，可讓您與精靈進行交易（它本質上是另一種合成機制）。把一個物品丟進去，他們會把精靈版本丟回來。
+academy.elven.text2=植物魔法辭典有一個傳送門構建指南。
 
-academy.laputa.title=Castle in the Sky
-academy.laputa.desc=Make a max size Shard of Laputa
-academy.laputa.text1=The Shard of Laputa will take blocks on the ground and move them up in the air, giving you a really cool floating island!
-academy.laputa.text2=The higher tiers create bigger islands.
+academy.laputa.title=天空之城
+academy.laputa.desc=製作最大尺寸的拉普達碎片
+academy.laputa.text1=拉普達碎片會在地面上放置方塊並將它們移動到空中，為您提供一個非常酷的浮島！
+academy.laputa.text2=更高的層級會創建更大的島嶼。
 
 academy.flugel.title=It's Called an Umlaut
-academy.flugel.desc=Make a Flügal Tiara
-academy.flugel.text=The Flügel Tiara allows you to fly for a period of time. When you're wearing one, you can see the time remaining above your hunger bar.
-academy.flugel.text2=You can also sprint in the air to dart forward. This has a cooldown.
-academy.flugel.text3=There are several different kinds of Flügal Tiara that you can make that allow you to change the way it looks.
+academy.flugel.desc=製作天翼族之冠
+academy.flugel.text=天翼族之冠可讓您飛行一段時間。當您穿著時，您可以看到飢餓條上方的剩餘時間。
+academy.flugel.text2=您還可以在空中衝刺以向前衝刺。這有冷卻時間。
+academy.flugel.text3=您可以製作幾種不同類型的天翼族之冠，讓您改變它的外觀。
 
-academy.lexica2.title=It's Lucky They Understand English
-academy.lexica2.desc=Get the elven Lexica Botania
-academy.lexica2.text1=If you throw the Lexica Botania into the portal to Alfheim, they'll write down all their Elven knowledge for you to read.
-academy.lexica2.text2=Elven knowledge will be green.
+academy.lexica2.title=幸運的是他們懂英語
+academy.lexica2.desc=獲得有精靈知識的植物魔法辭典
+academy.lexica2.text1=如果您將植物魔法辭典丟進精靈傳送門，他們會寫下他們所有的精靈知識供您閱讀。
+academy.lexica2.text2=精靈知識將會是綠色的。
 
 academy.farreach.title=Top Shelf
-academy.farreach.desc=Make a Ring of Far Reach
-academy.farreach.text=The Ring of Far Reach, as the name implies, extends the reach of the wearer.
+academy.farreach.desc=製作觸物戒指
+academy.farreach.text=顧名思義，觸物戒指指環擴大了佩戴者的接觸範圍。
 
 academy.luminizer.title=Walking on Sunshine
-academy.luminizer.desc=Make a Luminizer
-academy.luminizer.text1=Luminizers can move players and mobs between each other by having them ride on trails of light.
-academy.luminizer.text2=Place two Luminizers within 20 blocks of each other. Sneak right click the Luminizers with a Wand of the Forest to make a one-way connection. Right click the first Luminizer to go to the other one, and if that one is connected to another you will be sent to that one as well.
+academy.luminizer.desc=製作微光
+academy.luminizer.text1=微光可以讓玩家和生物騎在光的軌跡上，從而在彼此之間移動。
+academy.luminizer.text2=在彼此相距 20 格的範圍內放置兩個微光。使用森林法杖潛行右鍵單擊微光以進行單向連接。右鍵單擊第一個微光以移動到另一個微光，如果該微光又連接到另一個微光，您也會被發送到該微光。
 
-academy.conjuration.desc=Make a Conjuration Catalyst
-academy.conjuration.text1=The Conjuration Catalyst is placed under the Mana Pool to allow it to duplicate certain items using Mana.
-academy.conjuration.text2=Look at the Conjuration Catalyst's uses in JEI with the U button to see what can be duplicated.
+academy.conjuration.desc=製作煉造催化器
+academy.conjuration.text1=將煉造催化器放置在魔力池下，以允許它使用魔力複製某些物品。
+academy.conjuration.text2=使用 U 按鈕查看煉造催化器在 JEI 中的用途，以查看可以復制的內容。
 
-academy.elvenspreader.desc=Make an Elven Mana Spreader
-academy.elvenspreader.text=The Elven Mana Spreader can send much larger bursts of Mana, though it also fires less often.
+academy.elvenspreader.desc=製作精靈魔力發射器
+academy.elvenspreader.text=精靈魔力發射器可以發射更大的魔力脈衝，但它的發射頻率也較低。
 
-academy.globetrotter.desc=Make a Globetrotter's Sash
-academy.globetrotter.text=The Globetrotter's Sash is essentially a direct upgrade to the Soujourner's Sash. You can run faster, jump higher, and pronounce it easier!
+academy.globetrotter.desc=製作環遊者腰帶
+academy.globetrotter.text=環遊者腰帶本質上是旅居者腰帶的直接升級。你可以跑得更快，跳得更高，發音更容易！
 
-academy.gaiaspreader.desc=Make a Gaia Mana Spreader
-academy.gaiaspreader.text=the Gaia Mana Spreader is the final tier of Mana Spreader. It larger Mana bursts which travel farther.
+academy.gaiaspreader.desc=製作蓋亞法力傳播器
+academy.gaiaspreader.text=蓋亞魔力發射器是魔力發射器的最後一層。它更大的魔力脈衝，傳播得更遠。
 
-academy.gaia.title=Crank it Up!
-academy.gaia.desc=Fight the Guardian of Gaia
-academy.gaia.text=You have to construct a battle arena to summon the Guardian of Gaia (see the Lexica Botania for details). After defeating them, it will drop some Gaia Spirits and some other useful things.
+academy.gaia.title=搖起來！
+academy.gaia.desc=與蓋亞守護者戰鬥
+academy.gaia.text=你必須建造一個戰場來召喚蓋亞守護者（詳見植物魔法辭典）。擊敗他們後，會掉落一些蓋亞之魂和一些其他有用的東西。
 
-academy.gaia2.title=Loot Crate
-academy.gaia2.desc=Fight the stronger Guardian of Gaia
-academy.gaia2.text1=You can challenge the Guardian to a more difficult fight to get better rewards. Use a Gaia Spirit Ingot instead of Terrasteel Ingot to begin the battle.
-academy.gaia2.text2=The second fight will be much, much harder. Come prepared for a battle. It drops Loot Dice, which turn into 1 of 6 possible legendary Relics.
+academy.gaia2.title=戰利品箱
+academy.gaia2.desc=與更強大的蓋亞守護者戰鬥
+academy.gaia2.text1=您可以挑戰守護者進行更艱難的戰鬥以獲得更好的獎勵。使用蓋亞魂錠代替泰拉鋼錠開始戰鬥。
+academy.gaia2.text2=第二場戰鬥將會更加艱難。快來準備戰鬥吧。它會掉落命運骰子，它會變成 6 種可能的傳奇遺物之一。
 
 #暮光森林
 academy.twilightportal.title=一個充滿想像力的世界
@@ -1442,7 +1442,7 @@ academy.constellationpaper.text2=潛行右鍵單擊星芒寶典並將星圖插�
 academy.reswand.title=Magical Tuning Fork
 academy.reswand.desc=製作共鳴星杖
 academy.reswand.text1=要開始星輝魔法, 你必須在世界的某個地方找到一座古代神殿。你可以在山區找到它們；它們是有噴泉大型大理石結構。
-academy.reswand.text2=挖掘古代神殿的地下室，找到一個浮動水晶。這在以後很重要，但現在只需在附近的任何地方放置一個工作台。這將允許您在該工作台中製作需要星能的物品。
+academy.reswand.text2=挖掘古代神殿的地下室，找到一個浮動水晶。這對以後很重要，但現在只需在附近的任何地方放置一個工作台。這將允許您在該工作台中製作需要星能的物品。
 academy.reswand.text3=拿著共鳴星杖在世界各地走動時，漂浮的白色閃光會標記某些區域下方有水晶石礦石。
 
 academy.luminouscraftingtable.title=Night Shift
