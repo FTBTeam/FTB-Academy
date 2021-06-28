@@ -1,0 +1,1880 @@
+# Chapters
+
+academy.gettingstarted.title=入門
+academy.building.title=建造
+
+academy.basics.title=基本
+
+academy.mainmagic.title=魔法
+academy.botania.title=植物魔法-Botania
+academy.twilightforest.title=暮光森林-Twilight Forest
+academy.astralsorcery.title=星輝魔法-Astral Sorcery
+
+academy.mainstorage.title=儲存
+academy.storage1.title=基本儲存
+academy.transportation.title=傳輸
+academy.refinedstorage1.title=精致儲存 - 新手
+academy.refinedstorage2.title=精致儲存 - 進階
+academy.refinedstorage3.title=精致儲存 - 專家
+
+academy.maintechnology.title=科技
+academy.technology1.title=科技 - 新手
+academy.technology2.title=科技 - 進階
+academy.technology3.title=科技 - 專家
+
+academy.misc.title=雜項
+
+academy.clickthis.task=點擊這裡
+
+
+#Reward Tables
+academy.ticonmodifiers.rewards=匠魂強化材料
+academy.ticonmodifiers.lapisreward=幸運強化材料
+academy.ticonmodifiers.redstonereward=急速強化材料
+
+academy.ores.rewards=礦石
+academy.mysticalpetals.rewards=神秘花瓣
+academy.mobmasher.rewards=怪物搗碎器升級
+academy.manamats.rewards=魔力材料
+academy.elfmats.rewards=精靈材料
+academy.ingots.rewards=錠
+academy.scepters.rewards=權杖
+academy.TFfirethings.rewards=一些與火有關的物品
+academy.fluiducts.rewards=流體管道
+academy.itemducts.rewards=物品管道
+academy.iflenses.rewards=鐳射聚焦透鏡
+academy.passivemobs.rewards=被動生物
+academy.impulseitemducts.rewards=動能物品管道
+academy.signalumitemducts.rewards=信素物品管道
+academy.signalumimpulse.rewards=推進信素物品管道
+academy.hardenedfluiducts.rewards=硬化流體管道
+academy.signalumfluiducts.rewards=信素流體管道
+academy.laminarfluiducts.rewards=極速層流流體管道
+academy.elevators.rewards=電梯
+academy.meats.rewards=肉
+academy.rangeaddons.rewards=範圍升級插件
+academy.drillaugments.rewards=鑽孔增強
+
+academy.swordenchants1.rewards=劍附魔 1
+academy.looting1.reward=搶奪 II
+academy.sharpness1.reward=鋒利 III
+academy.reaper1.reward=奪魂術 II
+
+academy.swordenchants2.rewards=劍附魔 2
+academy.looting2.reward=搶奪 IV
+academy.sharpness2.reward=鋒利 VI
+academy.reaper2.reward=奪魂術 V
+
+academy.bowenchants1.rewards=弓附魔 1
+academy.power1.reward=力量 III
+academy.punch1.reward=衝擊 I
+
+academy.bowenchants2.rewards=弓附魔 2
+academy.power2.reward=力量 VI
+academy.punch2.reward=衝擊 III
+
+academy.helmenchants.rewards=頭盔附魔
+academy.chestenchants.rewards=胸甲附魔
+academy.legenchants.rewards=護腿附魔
+academy.bootenchants.rewards=靴子附魔
+
+academy.depthstr1.reward=深海探索者 II
+academy.feathfall1.reward=掉落保護 IV
+academy.frostwalk1.reward=冰霜行者
+
+academy.aquaaffin1.reward=水下挖掘
+academy.resp1.reward=水下呼吸 II
+
+academy.prot1.reward=保護 II
+academy.fireprot1.reward=火焰保護 III
+academy.blastprot1.reward=爆炸保護 III
+academy.projprot1.reward=彈射物保護 III
+academy.thorns1.reward=荊棘 II
+
+academy.prot2.reward=保護 IV
+academy.fireprot2.reward=火焰保護 V
+academy.blastprot2.reward=爆炸保護 V
+academy.projprot2.reward=彈射物保護 V
+academy.thorns2.reward=荊棘 IV
+
+academy.depthstr2.reward=生海探索者 IV
+academy.frostwalk2.reward=冰霜行者 III
+
+academy.brightconstellations.rewards=亮星座星圖
+academy.discidia.reward=非攻座
+academy.armara.reward=遁甲座
+academy.vicio.reward=虛御座
+academy.aevitas.reward=生息座
+academy.evorsio.reward=解離座
+
+academy.dimconstellations.rewards=昏星座星圖
+academy.bootes.reward=牧夫座
+academy.fornax.reward=天爐座
+academy.horologium.reward=時鐘座
+academy.lucerna.reward=聖芒座
+academy.mineralis.reward=晶金座
+academy.octans.reward=南極座
+academy.pelotrio.reward=喚生座
+
+academy.faintconstellations.rewards=暗星座星圖
+academy.alcara.reward=振變座
+academy.gelu.reward=寒冰座
+academy.ulteria.reward=避役座
+academy.vorux.reward=貪狼座
+
+academy.coloredlenses.rewards=彩色透鏡
+academy.orangelens.reward=燃燒
+academy.yellowlens.reward=破壞
+academy.greenlens.reward=生長
+academy.redlens.reward=傷害
+academy.pinklens.reward=再生
+academy.bluelens.reward=抗拒
+academy.purplelens.reward=匯聚
+
+
+#Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
+
+#Basics
+
+academy.welcome.title=歡迎來到 FTB Academy!
+academy.welcome.desc=學習使用任務系統
+academy.welcome.text1=歡迎來到 FTB Academy!
+academy.welcome.text2=這個模組包致力於教新玩家如何玩模組化的 Minecraft。
+academy.welcome.text3=這些任務將指導您逐步完成最常見的模組。它與指南一起使用效果最佳，該指南將對模組的工作方式進行更深入的描述。
+academy.welcome.reward=閱讀學校教程
+
+academy.introJEI.title=搜索物品與合成表
+academy.introJEI.desc=學習使用 JEI
+academy.introJEI.text1=模組包有很多新的方塊和物品，所以很難記住所有的合成表。幸運的是，“Just Enough Items”模組將使這變得更容易！
+academy.introJEI.text2=物品欄右側是模組包中每個方塊和物品的列表。將滑鼠懸停在其一上並點擊 R 將顯示其配方，點擊 U 將顯示使用它的方式。
+academy.introJEI.text3=物品欄底部是一個搜索欄，您可以在其中輸入項目名稱以過濾物品列表。
+academy.introJEI.text4=您可以雙擊搜索欄在您的物品欄中搜索該項目。
+academy.introJEI.reward=閱讀 JEI 說明
+
+academy.introstorage.title=學習如何儲存
+academy.introstorage.desc=學習使用模組包中的儲存設備
+academy.introstorage.text=有很多模組可以讓您輕鬆儲存物品。
+academy.introstorage.task=進入儲存（Storage）房間。
+
+academy.introgenstorage.title=一般儲存
+academy.introgenstorage.desc=打開箱子和板條箱
+academy.introgenstorage.text1=鐵箱子和板條箱適合存放大量物品。它們就像普通箱子一樣工作，但存量更大。
+academy.introgenstorage.text2=它們都分成不同等級，當然，更高等級意味著更大存量。
+academy.introgenstorage.task1=打開鐵箱子
+academy.introgenstorage.task2=打開鑽石箱子
+academy.introgenstorage.task3=打開小型板條箱
+academy.introgenstorage.task4=打開大型板條箱
+
+academy.introupgradechest.title=箱子升級
+academy.introupgradechest.desc=將箱子升級為鐵箱子
+academy.introupgradechest.text=打開右邊的箱子，取出「箱子升級：木>鐵」。在箱子上右鍵單擊它以將其升級為鐵箱。
+
+academy.introbulkstorage.title=大量儲存
+academy.introbulkstorage.desc=觀察儲物抽屜（Storage Drawers）
+academy.introbulkstorage.text1=儲物抽屜在儲存大量單一物品時表現出眾。
+academy.introbulkstorage.text2=右擊抽屜存入手持物品，右擊並按住可存入物品欄中所有該物品。
+academy.introbulkstorage.text3=左擊抽屜拿出抽屜中一個物品，潛行狀態下左擊可取出一組該物品。
+academy.introbulkstorage.text4=將滑鼠懸停在上述任務上以查看它們需要什麼。
+academy.introbulkstorage.task1=從右邊的基本抽屜中取出一些鵝卵石
+academy.introbulkstorage.task2=從中間的基本抽屜中取出一些木頭
+academy.introbulkstorage.task3=將鐵錠放入右側的壓縮抽屜中，然後取出鐵磚
+
+academy.introdigitalstorage.title=數位儲存
+academy.introdigitalstorage.desc=觀察精緻儲存（Refined Storage） 
+academy.introdigitalstorage.text1=精緻儲存允許你儲存巨量的各類物品。
+academy.introdigitalstorage.text2=物品將被儲存在存放在硬碟櫃中的硬碟裡。你可以通過打開終端來訪問硬碟裡的物品。
+academy.introdigitalstorage.text3=不受物品欄有限的槽位限制，數位化儲存的物品只需考慮磁盤使用量的多少。
+academy.introdigitalstorage.text4=上一個任務給了你一個儲存硬碟。打開硬碟櫃，插入儲存硬碟，開啟合成終端，拿出裡面的水桶。
+academy.introdigitalstorage.task1=打開硬碟櫃
+academy.introdigitalstorage.task2=打開合成終端
+
+academy.introfluidstorage.title=流體儲存
+academy.introfluidstorage.desc=倒出水桶中的水
+academy.introfluidstorage.text1=既然有模组添加了物品儲存，那麼就有模組添加流體儲存。
+academy.introfluidstorage.text2=儲存流體的方塊名字中常含有“儲罐”一詞，所以你可以在 JEI 中通過搜索“儲罐”來找到所有的流體儲存方塊。
+academy.introfluidstorage.text3=便攜儲罐分為多個等級，更高等級也意味著更大流體存量。
+academy.introfluidstorage.text4=你可以右擊將流體從桶中倒出至儲罐，反之亦然。
+
+academy.introautomation.title=自動化簡介
+academy.introautomation.desc=學習自動化原理
+academy.introautomation.text1=單儲存物品和流體可不夠，你需要自動地移動他們以實現自動化。
+academy.introautomation.text2=管道是移動物品的最簡單方式。物品通過物品管道移動，流體則通過流體管道。
+academy.introautomation.text3=伺服器用來從方塊中“抽取”，被抽取的物品（流體）會自動進入最近的容器中。
+academy.introautomation.task=進入 自動化（Automation） 房間
+
+academy.introfilters.title=過濾
+academy.introfilters.desc=設置過濾器
+academy.introfilters.text1=過濾器用於指定能夠進入導管的物品。打開它便可設置白（黑）名單。
+academy.introfilters.text2=只有白名單上的物品能進入管道，而只有黑名單上的物品不能進入。
+academy.introfilters.text3=•設置右邊的過濾器為包含所有礦石的白名單。
+academy.introfilters.text4=•設置中間的過濾器為僅包含泥土的白名單。
+academy.introfilters.text5=•設置左邊的過濾器為包含泥土和所有礦石的黑名單。
+academy.introfilters.text6=打開拉桿，啟動伺服器，物品將從左邊的箱子中被抽出並依據過濾器的設置進入右邊的箱子中。
+academy.introfilters.task1=設置左側過濾器
+academy.introfilters.task2=設置中間過濾器
+academy.introfilters.task3=設置右側過濾器
+
+academy.introfluidtransfer.title=流體傳輸
+academy.introfluidtransfer.desc=移動水
+academy.introfluidtransfer.text1=正如物品管道移動物品，流體管道可以轉移流體。
+academy.introfluidtransfer.text2=便攜儲液罐可被設置為自動向下方方塊輸出。手持新月錘對上方便攜儲液罐右擊，將水移動到下方儲液罐。
+academy.introfluidtransfer.text3=打開伺服器，點擊右側紅石粉按鈕可以設置其紅石工作模式。在這裡將伺服器設為忽略紅石信號或低紅石信號（即無紅石信號）。
+
+academy.introtech.title=科技類模組簡介
+academy.introtech.desc=學習科技類模組
+academy.introtech.text1=在 FTB 眾多模組包中，科技類模組佔很大一部分。這些任務會教你基礎玩法。
+academy.introtech.task=進入 科技（Technology） 房間
+
+academy.introgen.title=生產能量
+academy.introgen.desc=使用煤炭發電機
+academy.introgen.text1=大部分科技類模組使用 RF 作為能量單位，而 RF 的本質就是電能。
+academy.introgen.text2=發電機用於生產 RF。煤炭發電機使用熔爐燃料，如：煤炭以生產 RF。
+academy.introgen.text3=把煤炭發電機放在鐵磚上，放入煤炭以發電。
+academy.introgen.task=把煤炭發電機放在鐵磚上。
+
+academy.intropowertransfer.title=轉移能量
+academy.intropowertransfer.desc=放置能量管道
+academy.intropowertransfer.text1=雖然你可以直接把發電機放在用電器旁了事，但這顯然不是最好方案。
+academy.intropowertransfer.text2=能量管道和其他電力線纜允許你遠距離連接發電機和用電器。
+academy.intropowertransfer.text3=在羊毛上放置能量管道。
+academy.intropowertransfer.task=在品紅色羊毛上放置能量管道
+
+academy.intromachines.title=消耗能量
+academy.intromachines.desc=使用紅石爐
+academy.intromachines.text1=有了發電機發電，你還需要用電器用電。許多擁有不同功能的機器消耗 RF。
+academy.intromachines.text2=例如，紅石爐消耗 RF 熔煉物品。它幾乎與普通熔爐發揮一樣的作用，只是它用電，而熔爐消耗燃料。
+academy.intromachines.text3=將紅石爐放在青金石磚上，熔煉一些鐵粉。
+academy.intromachines.task=將紅石爐放在青金石磚上。
+
+academy.introenergystorage.title=儲存能量
+academy.introenergystorage.desc=放下並配置能量單元
+academy.introenergystorage.text1=能量單元可儲存 RF。當被置於發電機與機器之間時，能量單元可充分發揮其能量緩存的作用。
+academy.introenergystorage.text2=手持新月錘潛行右擊中部能量管道可將其拆下，然後在該位置放置能量單元。
+academy.introenergystorage.text3=打開能量單元 GUI，點擊右側藍色齒輪圖標以配置能量單元。你可以在這裡選擇輸入輸出面。
+academy.introenergystorage.text4=每個面都可以在輸入（藍色）、輸出（紅色）、既不輸入也不輸出（黃色）狀態間切換，只需點擊每個面。按住潛行鍵並左擊正面可取消所有面的配置。設置這個為由發動機側輸入，紅石爐側輸出。
+academy.introenergystorage.task=將中部能量管道替換為能量單元並配置
+
+academy.introtechlast.title=用能量燒練
+academy.introtechlast.desc=冶煉一些鐵礦石
+academy.introtechlast.text=從礦石箱中取出一些鐵礦石，然後在紅石熔爐中熔煉它們。
+
+academy.introastralsorcery.title=星輝魔法簡介
+academy.introastralsorcery.desc=學習星輝魔法
+academy.introastralsorcery.text=星輝魔法作為一個魔法類模組，其力量來源是星能與星座。
+academy.introastralsorcery.task=進入星輝魔法（Astral Sorcery）區域
+
+academy.introstarlight.title=使用星能
+academy.introstarlight.desc=製作共鳴星杖
+academy.introstarlight.text1=除正確的物品外，此模組的大多數合成還需要星能。初識星輝魔法，利用星能的唯一途徑是將工作台置於浮動水晶附近。
+academy.introstarlight.text2=共鳴星杖用於啟用星輝魔法中的部分方塊。手持共鳴星杖，在主世界移動，你也可以看到水晶石在地底的生成位置（僅指示平面位置）。
+academy.introstarlight.text3=將工作台放在浮動水晶附近的羊毛上，在其中製作共鳴星杖。在 JEI 中搜索共鳴星杖可查看合成配方，在這個任務選單的任務目標處點擊共鳴星杖也可以查看配方。
+
+academy.introlct.title=收集星能
+academy.introlct.desc=製作星輝合成台
+academy.introlct.text1=星輝合成台可以在夜晚且上方不受遮擋時獲得星能，它也可以使用附近的浮動水晶來驅動。
+academy.introlct.text2=要在星輝合成台中製作物品，你需要像普通合成一樣擺放物品，並且根據不同合成讓其獲得特定強度的星能。
+academy.introlct.text3=如果在星輝合成台中正確擺放了物品，並且星輝合成台接收到了星能，使用共鳴星杖右擊來合成物品。
+
+academy.introilumpowder.title=用星光製作物品
+academy.introilumpowder.desc=製作輝光粉
+academy.introilumpowder.text1=輝光粉只是您可以用星輝合成台製作的眾多物品之一。你可以把它放在任何地方，它會作為一個光源，它不會佔用一個方塊空間。
+academy.introilumpowder.text2=將星輝合成台放在石英磚上並根據其製作配方製作輝光粉。
+academy.introilumpowder.text3=提醒一下，您必須使用共鳴星杖右鍵單擊星輝合成台才能使用它進行製作。
+
+academy.introbotania.title=植物魔法簡介
+academy.introbotania.desc=學習植物魔法
+academy.introbotania.text1=植物魔法是偽裝成魔法類模組的科技類模組。
+academy.introbotania.text2=此模組用花生產魔力、操控魔力並使用魔力來達成各種目的。
+academy.introbotania.task=進入植物魔法（Botania）區域
+
+academy.intromanagen.title=生產魔力
+academy.intromanagen.desc=製作火紅蓮
+academy.intromanagen.text1=該模組中的魔法花都是在花藥台中製作。在花藥台中裝一桶水，製作花瓣並根據火紅蓮合成表將花瓣扔進花藥台，最後扔出小麥種子完成合成。
+academy.intromanagen.text2=將物品扔進花藥台或右擊花藥台將手持的物品放入花藥台都是可行的。按住潛行鍵空手右擊拿回最後放入的物品。
+academy.intromanagen.text3=火紅蓮通過消耗扔在旁邊的可燃燒物品生產魔力。如果火紅蓮被置於魔力發射器旁，魔力會傳輸至魔力發射器。
+academy.intromanagen.text4=做出火紅蓮後，將其置於最亮的草方塊上。扔一些煤炭在附近，火紅蓮就會開始生產魔力。
+
+academy.intromanatransfer.title=轉移與儲存魔力
+academy.intromanatransfer.desc=將魔力儲存在魔力池
+academy.intromanatransfer.text1=魔力發射器用於傳輸魔力，魔力池用於儲存魔力。
+academy.intromanatransfer.text2=手持森林法杖潛行右擊魔力發射器，再在魔力池上重複該動作，可使魔力發射器與魔力池綁定並指向魔力池。
+academy.intromanatransfer.text3=魔力發射器內所有魔力都會被傳輸至魔力池內。
+academy.intromanatransfer.task=填充魔力池
+
+academy.intromanasteel.title=使用魔力製作物品
+academy.intromanasteel.desc=製作魔力鋼
+academy.intromanasteel.text1=通過將原材料扔入存有魔力的魔力池可製作某些物品。這個過程會消耗部分魔力。
+academy.intromanasteel.text2=將鐵錠扔入存有魔力的魔力池內，可將其轉化為魔力鋼錠。
+
+academy.introelementium.title=與精靈交易
+academy.introelementium.desc=獲得源質鋼
+academy.introelementium.text1=在遊戲進程稍後的部分，你將會製作一個連接亞爾夫海姆的傳送門。精靈交易原理上與使用魔力池製作物品相同。
+academy.introelementium.text2=你可以將特定物品扔入精靈傳送門，並得到相應的“報酬”。不構成精靈交易的物品將會被丟棄。
+
+academy.introfinish.title=畢業！
+academy.introfinish.desc=前往主世界
+academy.introfinish.text=你已經完成了所有指導內容，可以前往主世界開始真實的遊戲了！
+academy.introfinish.reward=傳送至主世界
+
+#Getting Started
+
+academy.overworld.title=遊戲開始！
+academy.overworld.desc=開始正式遊玩這個模組包
+academy.overworld.text=你已經從學校畢業，可以開始認真遊玩這個模組包了。
+academy.overworld.reward=閱讀旅行地圖（JourneyMap）說明
+
+academy.timber.title=Timberrrr!
+academy.timber.desc=獲得原木
+academy.timber.text1=砍樹。任何樹都行，這個任務接受 4 個任意原木。
+academy.timber.task=4x 任意原木
+
+academy.tinkering.title=Tinkering
+academy.tinkering.desc=製作任務要求的匠魂（Tinkers' Construct）方塊
+academy.tinkering.text=Tinkers' 的工具非常特別。它們不會在損壞時消失，而是保留在您的物品欄中，並且在修復之前無法使用。它們也有像附魔一樣工作的特性和自訂，但它們使用的是材料而不是經驗。您還可以在不製作新工具的情況下更換工具部件！
+academy.tinkering.text2=閱讀指南中 Tinkers' Construct 頁面的“製作工具”部分以獲取有關此模組的信息。您還可以閱讀“材料與你”一書。
+
+academy.smeltery.title=Hot Stuff
+academy.smeltery.desc=搭建冶煉爐
+academy.smeltery.text1=冶煉爐允許你熔化金屬來製作金屬質工具部件、金屬磚、金屬錠以及一些非金屬物品。
+academy.smeltery.text2=這些方塊可以搭建一個具有 9 格內部空間的冶煉爐。您必須同時在物品欄擁有所有 18 個焦黑石磚才能完成該任務。
+
+academy.pickaxe.title=Time to Mine
+academy.pickaxe.desc=製作一把 Tinkers' Construct 十字鎬
+academy.pickaxe.text1=匠魂模組提供的十字鎬其成長性非常適用於前期，在你挖掘的過程中，工具會獲得經驗，而經驗達到一定數量時會為工具添加強化。
+academy.pickaxe.text2=要製作匠魂十字鎬，請用任何材料製作鎬頭、手柄和綁定結（閱讀指南以了解如何操作），然後在工具組裝台中將它們組合起來。
+academy.pickaxe.text3=這個任務接受任意部件組合的匠魂鎬。
+academy.pickaxe.task=任意匠魂鎬
+
+academy.toolforge.title=Forging Onward
+academy.toolforge.desc=製作工具裝配台
+academy.toolforge.text1=工具裝配台可以製作匠魂的所有工具。
+academy.toolforge.text2=這個任務接受任意材料製成的工具鍛造台。
+academy.toolforge.task=任意工具裝配台
+
+academy.bonsai.title=Happy Little Trees
+academy.bonsai.desc=製作一個盆栽盆
+academy.bonsai.text1=只需保證盆栽盆裡有正確的土壤，裡面的樹苗就會自動長大。手持斧頭右擊可以收穫樹木產物。
+academy.bonsai.text2=你可以將盆栽盆進一步合成為漏斗盆栽盆，它會自動砍伐成熟的樹木並將掉落物放入其下方的容器中。
+
+academy.ores.title=Diggy Diggy Hole
+academy.ores.desc=挖礦
+academy.ores.text1=分別獲取原版與熱力基礎（Thermal Foundation）的 16 個礦石。
+academy.ores.text2=你可以在挖掘時按住連鎖挖礦鍵（默認為 1 左邊的 ` 鍵）來一次挖掘附近所有的同種方塊。這個動作與一個一個挖消耗相同工具耐久，且消耗大量飽食度。
+academy.ores.text3=這個任務會遍歷該任務接受的所有物品，要完成這個任務，你需要組合 16 個任意兩種礦石。點擊任務目標可以查看任務接受的物品。
+academy.ores.text4=當你獲得足夠多的礦物後，你就可以開始閱讀科技類模組說明，並著手完​​成任務了。
+academy.ores.vanillatask=16x 原版礦石
+academy.ores.thermaltask=16x 熱力基礎礦石
+
+academy.seedyplace.title=農業革命
+academy.seedyplace.desc=收穫作物
+academy.seedyplace.task=進度：開墾荒地
+academy.seedyplace.text1=一個基地最重要的部分之一就是食物來源。種植則是食物的最簡單來源。
+academy.seedyplace.text2=右擊完全成熟的作物可以直接收穫，並自動補種。
+
+academy.beesandbats.title=When a Mommy Mob and a Daddy Mob Love Each Other Very Much
+academy.beesandbats.desc=繁殖動物
+academy.beesandbats.task=進度：我從哪兒來？
+academy.beesandbats.text1=生物是食物的重要來源和一些資源的重要來源。
+academy.beesandbats.text2=有許多方法自動繁殖動物。如果飼料被丟在地上，動物會自動食用，故你只要一個投擲器就可以自動繁殖動物。
+academy.beesandbats.text3=你也可以製作自動餵食機器，這種機器可以使用其物品欄內飼料餵食一定範圍內生物。
+
+academy.chisel.title=Lookin' Good
+academy.chisel.desc=製作鑿子
+academy.chisel.text1=鑿子（Chisel）模組為方塊添加了成百上千的可用來作為裝飾的版本。
+academy.chisel.text2=製作一個鑿子，打開 GUI，放入一種方塊（如鵝卵石或泥土）就可以看到該方塊的所有不同材質的版本。
+academy.chisel.text3=有三種鑿子，鑿子和鑽石鑿子除了耐久度不同以外無太大區別；而 iChisel 則具有許多高級功能和特性。
+academy.chisel.text4=鑿子模組添加了大量可用於裝點你的基地的方塊。在 JEI 搜索框中輸入 “@chisel” 即可看到所有方塊。
+academy.chisel.task=任意鑿子
+
+academy.builderswands.title=更方便的建造
+academy.builderswands.desc=製作手杖
+academy.builderswands.text1=更好的建築法杖（Better Builer's Wands）模組的手杖允許你一次放置多個方塊。
+academy.builderswands.text2=手持手杖，指向一個方塊，右擊即可在一個由白色框線構成的連通區域放置你之前所指向的方塊。
+academy.builderswands.text3=不同級別的手杖一次可以放置不同數量的方塊。石質手杖和鐵質手杖只能在同一水平面內放置方塊，而鑽石及以上級別手杖還可在方塊的頂部或底部放置方塊。
+academy.builderswands.task=任意手杖
+
+academy.naturescompass.title=Location, Location, Location
+academy.naturescompass.desc=製作生物域指南針
+academy.naturescompass.text1=找到一個絕佳的定居點是建造一個基地的重要一環。生物域指南針會幫你找到你想居住的特定生物群系。
+academy.naturescompass.text2=右擊打開生物域指南針，從列表中可以找到並選中一個特定生物群系。你可以點擊搜索查詢最近的一個該生物群系，或點擊信息了解該生物群系。
+
+academy.slimesling.title=Like an Eagle Piloting a Blimp
+academy.slimesling.desc=製作史萊姆彈弓和史萊姆靴子
+academy.slimesling.text1=當你指向地面並按住右鍵為史萊姆彈弓蓄力時，鬆開滑鼠，史萊姆彈弓將會將你彈向反方向。
+academy.slimesling.text2=裝備史萊姆靴子時落地會彈跳並抵消摔落傷害。這一點讓它與史萊姆彈弓配合得很好。
+academy.slimesling.text3=按住潛行鍵會停止彈跳，但你會受到正常摔落傷害。
+academy.slimesling.task1=任意史萊姆彈弓
+academy.slimesling.task2=任意史萊姆靴子
+
+academy.simplybackpacks.title=Packback
+academy.simplybackpacks.desc=製作一個普通背包
+academy.simplybackpacks.text1=背包在其物品欄儲存物品，升級意味著可以存更多物品。
+academy.simplybackpacks.text2=你可以設置一個可選的鍵位來讓你直接打開背包而不需要切換背包至快捷欄，甚至對飾品欄也可以（物品欄中人物的右上角的按鈕）。
+academy.simplybackpacks.text3=另一個可選的鍵位允許你切換物品自動拾取模式；啟用時，物品被撿起時將直接進入背包。按住潛行鍵右擊設置黑（白）名單。
+academy.simplybackpacks.task=任意背包
+
+academy.claimchunk.title=This Land is My Land
+academy.claimchunk.desc=聲明一個區塊
+academy.claimchunk.text1=在物品欄的左上角，單擊地圖按鈕以查看周圍的區塊地圖。
+academy.claimchunk.text2=你可以左鍵單擊區塊來為你的團隊聲明，所以來自不同團隊的人都無法放置或打破方塊。右鍵單擊以取消聲明。
+academy.claimchunk.text3=你可以按住 shift 的同時單擊聲明的區塊來 Chunkload ，即使您遠離或離線，它也能保持其中的所有內容運行。
+
+
+
+# Basic Storage
+
+academy.storagedrawers.title=密集儲存
+academy.storagedrawers.desc=製作任意抽屜
+academy.storagedrawers.text1=基礎抽屜可以儲存 32 組單種物品。一個 1x2 抽屜可以儲存 16 組兩種物品，一個 2x2 抽屜可以儲存 8 組四種物品。你可以通過升級來讓它們存得更多。
+academy.storagedrawers.text2=閱讀儲物抽屜（Storage Drawer）的指導。
+academy.storagedrawers.task=任意抽屜
+
+academy.drawercontroller.title=遠程訪問
+academy.drawercontroller.desc=製作抽屜管理器
+academy.drawercontroller.text1=抽屜管理器允許你通過漏斗、管道或任意形式的自動化物品來訪問所有相連的抽屜。
+academy.drawercontroller.text2=相連的抽屜只要有一個抽屜與抽屜管理器相接，這些抽屜都能與抽屜管理器連接。
+
+academy.compactingdrawer.title=Nuggets and Ingots and Blocks, Oh My!
+academy.compactingdrawer.desc=製作壓縮抽屜
+academy.compactingdrawer.text1=壓縮抽屜將展示物品的磚、錠、粒形式。
+academy.compactingdrawer.text2=最大存量由物品種類決定，故壓縮抽屜適於儲存金屬和寶石。
+
+academy.ironchests.title=Storage Solution
+academy.ironchests.desc=製作鐵箱子
+academy.ironchests.text=鐵箱子（Iron Chests）模組添加了一堆新型箱子，這些箱子有著更大容量，級別升級，存量升級。
+
+academy.chestupgrade.title=更大的箱子
+academy.chestupgrade.desc=製作箱子升級：鐵>金
+academy.chestupgrade.text=箱子升級允許你在不破壞箱子的情況下升級箱子。只需手持升級對準對應級別的箱子右擊即可完成升級。
+
+academy.endertank.title=Water-Safe
+academy.endertank.desc=製作終界蓄水槽
+academy.endertank.text1=所有具有相同染色組合的終界蓄水槽共享內容物。用染料為頂部三個白塊染色。
+academy.endertank.text2=你也可以對閥門使用鑽石讓儲罐變為私人儲罐。只有同屬於一人的私人儲罐才會相互連接。
+academy.endertank.text3=空手右擊閥門切換是否向底部方塊自動輸出。
+academy.endertank.text4=很明顯，成對使用終界蓄水槽最好。
+
+academy.enderchest.title=Extradimensional
+academy.enderchest.desc=製作終界箱子
+academy.enderchest.text1=所有具有相同染色組合的終界箱子共享內容物。用染料為頂部三個白塊染色。
+academy.enderchest.text2=你也可以對鎖扣使用鑽石讓箱子變為私人箱子。只有同屬於一人的私人箱子才會相互連接。
+academy.enderchest.text3=很明顯，成對使用末影箱子最好。
+
+academy.enderpouch.title=Bag of Holding
+academy.enderpouch.desc=制作終界袋子
+academy.enderpouch.text1=終界袋子擁有對與其具有相同染色組合的終界箱子的訪問權。按住潛行鍵右擊終界袋子設置染色組合。
+academy.enderpouch.text2=你可以在基地放一個終界箱子，終界箱子自動輸出內容物至儲存系統，這樣一來，你在基地外也能向基地內的儲存系統存入東西。
+
+academy.blackholeunit.title=Supermassive Black Hole
+academy.blackholeunit.desc=製作黑洞儲存器
+academy.blackholeunit.text=黑洞儲存器可以儲存超過二十億個單種物品。
+
+academy.blackholtank.title=Black Hole Sun
+academy.blackholtank.desc=製作黑洞儲液罐
+academy.blackholtank.text=黑洞儲液罐可以儲存超過兩百萬桶單種流體。
+
+academy.blackholecontroller.title=Messier 87
+academy.blackholecontroller.desc=製作黑洞儲存控制器 v2.0
+academy.blackholecontroller.text1=黑洞儲存控制器 v2.0 可以連接 12 個黑洞儲存單元/儲罐，並且可以用漏斗或管道輸入輸出。
+academy.blackholecontroller.text2=與精緻儲存的外部儲存總線並用效果更好。
+
+academy.blackholelabel.title=黑洞抽屜
+academy.blackholelabel.desc=製作黑洞標籤
+academy.blackholelabel.text=您可以放置​​一個黑洞標籤，使其功能類似於儲物抽屜。
+
+academy.storagecrate1.title=""Small""
+academy.storagecrate1.desc=製作小型板條箱
+academy.storagecrate1.text1=小型板條箱有 117 個槽位。
+academy.storagecrate1.text2=如果板條箱裝有板條箱守護徽章，破壞板條箱時內容物不會掉出，而守護徽章則會損毀。
+
+academy.storagecrate2.title=Double Trouble
+academy.storagecrate2.desc=製作中型板條箱
+academy.storagecrate2.text1=中型板條箱有兩頁空間，每頁有 117 個槽位，共計 234 個槽位。
+academy.storagecrate2.text2=點擊 GUI 下的左右箭頭可翻頁。
+
+academy.storagecrate3.title=The Ultimate Clutter Storage
+academy.storagecrate3.desc=製作大型板條箱
+academy.storagecrate3.text=大型板條箱有三頁，每頁 117 槽位，共計 351 槽位。
+
+# Going to leave this here just in case we eventually re-add /dank/null/
+# academy.dank.title=/dank/null/
+# academy.dank.desc=Make a /dank/null/
+# academy.dank.text1=The /dank/null/ allows you to hold a large amount of items in a single slot. It will automatically place specific items you pick up into itself, and you can place blocks from it. If a slot is full, it will delete items that try to go into it.
+# academy.dank.text2=Sneak right click to open its GUI and insert items you want to store.
+# academy.dank.text3=While holding in your hand, sneak and scroll to change what item you want to place.
+# academy.dank.text4=Higher tier /dank/null/s have more slots and store more per slot.
+# academy.dank.task=Any /dank/null/
+
+academy.dracchest.title=Dragon Hoard
+academy.dracchest.desc=龍質箱
+academy.dracchest.text=龍質箱有 260 个槽位，5 個可升級的熔爐槽位，一個 3x3 合成網格，你還可以隨意更改指定槽位的輸入輸出面設定。
+
+# Transportation
+
+academy.hopper.title=簡潔，精緻，美麗
+academy.hopper.desc=製作漏斗
+academy.hopper.text1=啊！漏斗。它從上方漏出方塊，並輸入器指向的方塊的物品欄。這世上難道還有比漏斗更好的東西嗎？
+
+academy.basicitemtess.title=比漏斗更好！
+academy.basicitemtess.desc=製作基礎物品超轉運體
+academy.basicitemtess.text1=物品超轉運體讓你可以在一格內快速傳輸物品。把一對（或更多）物品超轉運體放在同一格內，分別貼在你想交互的兩個（或更多）容器上，打開 GUI 更改設置。
+academy.basicitemtess.text2=點擊中部按鈕可在輸入、輸出、輸入/輸出模式切換。左邊槽位可通過拖拽物品或過濾器設置輸入輸出過濾，右邊槽位放入螢石加速，放入鑽石增加一次的傳輸量。
+
+academy.basicfluidtess.title=液體漏斗
+academy.basicfluidtess.desc=製作基礎流體超轉運體
+academy.basicfluidtess.text1=流體超轉運體讓你可以在一格內快速傳輸流體。把一對（或更多）流體超轉運體放在同一格內，分別貼在你想交互的兩個（或更多）容器上，打開 GUI 更改設置。
+academy.basicfluidtess.text2=點擊中部按鈕可在輸入、輸出、輸入/輸出模式切換。左邊槽位可通過拖拽裝有流體的桶或過濾器設置輸入輸出過濾，右邊槽位放入螢石加速，放入鑽石增加一次的傳輸量。
+
+academy.itemducts.title=關於移動物品的最新研究成果
+academy.itemducts.desc=製作物品管道
+academy.itemducts.text1=物品管道沿其形成的通路移動物品，各個方向都行。物品以每秒一個方格的速度通過物品管道。
+academy.itemducts.text2=不透明物品管道作用相同，只是你看不到物品通過管道。這對減輕卡頓有幫助。
+academy.itemducts.task=物品管道
+
+academy.basicfluiducts.title=Aqueduct
+academy.basicfluiducts.desc=製作約束流體管道
+academy.basicfluiducts.text1=流體管道用於傳輸流體。約束流體管道只能傳輸非極端高溫或低溫的流體，如岩漿、極寒之凜冰。
+academy.basicfluiducts.text2=不透明流體管道作用相同，只是你看不到流體通過管道。這對減輕卡頓有幫助。
+academy.basicfluiducts.task=約束流體管道
+
+academy.hardenedfluiducts.title=Lavaduct
+academy.hardenedfluiducts.desc=製作硬化流體管道
+academy.hardenedfluiducts.text=硬化流體管道可以傳輸任意流體。
+academy.hardenedfluiducts.task=硬化流體管道
+
+academy.servo.title=Make it Work
+academy.servo.desc=製作伺服器
+academy.servo.text1=伺服器用於從容器中抽取物品或流體。把伺服器放在管道連接處，給予紅石信號（或將其設置為忽略紅石信號），它就會開始提取物品/流體。
+academy.servo.text2=伺服器只會在管線中存在容器時抽取物品，而對流體則不存在這種限制。
+academy.servo.text3=物品會進入其能進入的最近容器，流體則會均分至所有有效容器中。
+academy.servo.task=任意伺服器
+
+academy.signalumfluiduct.title=Electrolyte Rich
+academy.signalumfluiduct.desc=製作信素流體管道
+academy.signalumfluiduct.text=信素流體管道作用與硬化流體管道類似，只是它還可以同時以 4000 RF/t 的速率在連接處傳輸能量。
+academy.signalumfluiduct.task=信素流體管道
+
+academy.laminar.title=Under Pressure
+academy.laminar.desc=製作極速層流流體管道
+academy.laminar.text1=極速層流流體管道加壓完全時能以每秒上百桶的速率傳輸流體。
+academy.laminar.text2=管道需要幾秒鐘加壓，這個過程中流速會逐漸增加。
+academy.laminar.text3=當流體被壓入這類管道而不是由伺服器抽入管道時管道效率更高。
+academy.laminar.task=極速層流流體管道
+
+academy.signalumitemduct.title=物品能量並行
+academy.signalumitemduct.desc=製作信素物品管道
+academy.signalumitemduct.text=信素物品管道作用與普通物品管道類似，只是它還可以同時以 4000 RF/t 的速率在連接處傳輸能量。
+academy.signalumitemduct.task=信素物品管道
+
+academy.impulseitemduct.title=Impulsive
+academy.impulseitemduct.desc=製作動能物品管道
+academy.impulseitemduct.text=動能物品管道傳輸速度快得多——每秒兩格。
+academy.impulseitemduct.task=動能物品管道
+
+academy.signalumimpulseitemduct.title=這個物品有整個模組包中最長的物品名稱，所以這個任務的名稱是所有任務中最長的
+academy.signalumimpulseitemduct.desc=製作信素推進物品管道
+academy.signalumimpulseitemduct.text=信素推進物品管道作用與普通動能物品管道類似，只是它還可以同時以 4000 RF/t 的速率在連接處傳輸能量。
+academy.signalumimpulseitemduct.task=信素推進物品管道
+
+academy.fluidlaser.title=Fast Fluid Ferrying
+academy.fluidlaser.desc=製作流體雷射中繼器
+academy.fluidlaser.text1=流體雷射中繼器能夠以無窮大的速度無線傳輸流體。
+academy.fluidlaser.text2=將一個流體雷射中繼器放在你想要從中抽取流體的容器上，另一個放在你想要往其中加入流體的容器上，如果倆容器距離過遠，你需要在中間再放上中繼器以起到中繼效果。
+academy.fluidlaser.text3=要連接中繼器，手持中繼器扳手依次右擊兩個中繼器。
+academy.fluidlaser.text4=要切換輸入輸出，手持指南針右擊。
+
+academy.itemlaser.title=Matter to Energy to Matter
+academy.itemlaser.desc=製作物品雷射中繼器
+academy.itemlaser.text1=物品雷射中繼器可無線傳輸物品。
+academy.itemlaser.text2=在所有你想讓其連入網絡的容器上放置雷射中繼器。
+academy.itemlaser.text3=若要訪問中繼器儲存網絡，放置一個物品接口並在其上放置中繼器，再用中繼器扳手連接所有中繼器。
+academy.itemlaser.text4=向物品接口加入或從物品接口抽出的物品會移動至接受物品的中繼器所連接的容器中。中繼器優先級越高，其連接的容器越先參與物品輸入輸出，用指南針可以調節中繼器優先級。
+
+academy.advanceditemlaser.title=Sorting Lasers
+academy.advanceditemlaser.desc=製作高級物品雷射中繼器
+academy.advanceditemlaser.text1=高級物品雷射中繼器除了一些高級功能外與普通物品雷射中繼器效用類似。
+academy.advanceditemlaser.text2=你可以打開 GUI 對物品設置黑、白名單。按 S 按鈕，可將名單設置為中繼器所貼容器內的物品。
+
+academy.ifconveyorbelts.title=生產線
+academy.ifconveyorbelts.desc=製作傳送帶
+academy.ifconveyorbelts.text1=傳送帶可用於移動物品、實體和流體。
+academy.ifconveyorbelts.text2=默認情況下，傳送帶只能移動生物、玩家和掉落物等實體。你可以使用傳送帶提取升級和傳送帶輸入升級賦予其將物品輸入至容器或將物品從容器抽出的能力。
+academy.ifconveyorbelts.text3=還有幾種改變傳送帶功能的升級。手持塑料片對準傳送帶右擊，傳送帶上的物品將不會被玩家拾取；若手持螢石對準傳送帶右擊，物品將會移動得更快。
+academy.ifconveyorbelts.task2=傳送帶提取/輸入升級
+
+academy.viaducts.title=New New York
+academy.viaducts.desc=製作旅行管道
+academy.viaducts.text1=與其他管道一樣，您可以傳輸物品、能量和流體，旅行管道可以讓您傳輸自己！玩家以每秒 10 個方塊的速度穿過旅行管道。
+academy.viaducts.text2=沿著玩家將通過的路線放置旅行管道，然後使用新月錘右鍵單擊您想要成為目的地的旅行管道。單擊開口以更改其詳細信息，或選擇一個目的地以通過旅行管道前往。
+
+academy.longrange.title=Each and Every Highway
+academy.longrange.desc=製造遠程旅行管道
+academy.longrange.text1=遠程旅行管道的速度是普通旅行管道的兩倍，這使得它非常適合長距離移動。
+academy.longrange.text2=在兩個「遠程連接旅行管道」之間放置一條「遠程旅行管道」，然後將普通的旅行管道連接到「遠程連接旅行管道」。只有「遠程連接旅行管道」可以連接旅行管道。
+
+academy.dislocator.title=Transportalponder
+academy.dislocator.desc=製作一個傳送器
+academy.dislocator.text1=傳送器允許您從任何地方傳送到綁定位置。
+academy.dislocator.text2=潛行按下右鍵單擊將您當前的位置綁定到傳送器。右鍵單擊可從任何地方傳送到該位置。
+academy.dislocator.text3=傳送器只能使用 20 次，每次使用都會受到少量傷害。
+
+academy.disrep.title=更好的傳送門
+academy.disrep.desc=製作一個傳送器插槽
+academy.disrep.text1=你可以用注入龍質的黑曜石製作一個任何形狀和大小的框架（只要它是平的），然後在框架中放置一個傳送器插槽並插入一個綁定的傳送器，它將傳送至傳送器綁定的位置。
+academy.disrep.text2=當像這樣使用傳送器時不會受到傷害。
+
+academy.disped.title=傳送器底座
+academy.disped.desc=製作傳送器底座
+academy.disped.text1=如果你右鍵點擊一個裝有傳送器的傳送器底座，你會被傳送到綁定的位置。
+academy.disped.text2=像這樣使用傳送器時它將不會受到損壞。
+academy.disped.text3=如果你有一對綁定傳送器 (點對點)，使用一個會將你傳送到另一個。這是傳送器底座的理想選擇，因為它們將充當雙向傳送器。
+
+academy.advdislocator.title=Portation
+academy.advdislocator.desc=製作進階傳送器
+academy.advdislocator.text1=進階傳送器最多可以有 100 個綁定位置，並且使用終界珍珠作為燃料而不是承受耐久度損壞。
+academy.advdislocator.text2=潛行右鍵單擊以打開其 GUI。您可以在此處添加燃料並設置和命名位置。
+academy.advdislocator.text3=您可以在手持進階傳送器的同時按住潛行和滾動滑鼠滾輪以更改目的地，然後在不潛行的情況下右鍵單擊以傳送到該位置。
+
+academy.phantomface.title=Warp Pipe
+academy.phantomface.desc=製作幻靈介面
+academy.phantomface.text1=幻靈介面模擬它所鏈接的庫存，因此您可以通過幻靈介面將物品輸入/輸出。
+academy.phantomface.text2=將幻靈介面放置在您想要鏈接庫存的 16 個方塊內。使用幻靈連接器右鍵單擊要連接的方塊，然後右鍵單擊幻靈介面。
+
+academy.phantombooster.title=BOOster
+academy.phantombooster.desc=製作幻靈增幅器
+academy.phantombooster.text=您最多可以在幻靈介面頂部放置 3 個幻靈增幅器以增加其範圍。
+
+academy.phantomblocks.title=Ghostly Energy
+academy.phantomblocks.desc=製作進階幻靈方塊
+academy.phantomblocks.text1=幻靈能量介面和流體介面的工作方式與普通幻靈介面完全相同，但使用的是能量和流體。
+academy.phantomblocks.text2=幻靈紅石介面只對一個方向起作用。也就是說，如果連接的方塊有紅石信號，它將為幻靈紅石介面供電。
+academy.phantomblocks.task=進階幻靈方塊
+
+academy.xpteleporter.desc=製作 XPTeleporter
+academy.xpteleporter.text1=放下兩個 XPTeleporter，並通過右鍵單擊它們與 XPT Link Card 將它們鏈接起來。在其中一個潛行會將你傳送到另一個。
+academy.xpteleporter.text2=兩個 XPTeleporter 距離越遠，花費的經驗值就越多。
+academy.xpteleporter.text3=傳送器將在其上方顯示鏈接傳送器的坐標。如果您在鐵砧中重命名 XPTeleporter，它將改為顯示該名稱。
+
+
+# 精緻儲存 - 新手
+
+academy.controller.title=Think Tank
+academy.controller.desc=製作系統中樞
+academy.controller.text1=系統中樞是精緻儲存系統的心臟和大腦。
+academy.controller.text2=系統中的每個方塊都必須以某種方式連接到系統中樞，要麼使用纜線，要麼直接接觸它。
+academy.controller.text3=精緻儲存系統通過將 RF 輸送到系統中樞使用 RF 供電。
+academy.controller.text4=每個系統只能有一個系統中樞。
+
+academy.diskdrive.desc=製作硬碟櫃
+academy.diskdrive.text=硬碟櫃存放儲硬碟，用於儲存物品。硬碟櫃中最多可以有 10 個儲存硬碟。
+
+academy.storagedisk.title=Don't Copy That Floppy
+academy.storagedisk.desc=製作儲存硬碟
+academy.storagedisk.text1=儲存硬碟以數位方式儲存更多項目。更高層級可以儲存更多項目。
+academy.storagedisk.text2=1k 儲存硬碟可以容納 1,000 個項目，4k 儲存硬碟可以容納 4,000 個項目，依此類推。
+academy.storagedisk.task=任何儲存硬碟
+
+academy.fluiddisk.title=防水
+academy.fluiddisk.desc=製作液體儲存硬碟
+academy.fluiddisk.text1=液體儲存硬碟的工作方式與一般儲存硬碟類似，但它們儲存流體而不是物品。
+academy.fluiddisk.text2=64k 液體儲存硬碟可儲存 64,000mB 流體，256k 液體儲存硬碟可儲存 256,000mB 流體，依此類推。
+academy.fluiddisk.task=任何液體儲存硬碟
+
+academy.grid.title=Enter the Grid
+academy.grid.desc=製作面板
+academy.grid.text=面板是您可以手動與儲存系統互動的地方。將它連接到系統並為其供電，您就可以像使用任何箱子一樣使用它。
+
+academy.craftinggrid.desc=製作合成面板
+academy.craftinggrid.text=合成面板是面板的升級版本。它的工作原理完全相同，只是它內置了一個 3x3 的合成台。
+
+academy.fluidgrid.desc=製作液體面板
+academy.fluidgrid.text1=液體面板的工作方式與普通面板類似，不同之處在於它顯示的是流體而不是物品。
+academy.fluidgrid.text2=將一個完整的流體容器（如水桶）拖放到 GUI 中以將其清空到系統中。您也可以在按住潛行的同時單擊它。
+academy.fluidgrid.text3=當您的物品欄或系統中有一個空桶時，單擊系統中的一種流體以填充該流體。
+
+academy.cable.desc=製作纜線
+academy.cable.text=纜線用於將設備連接到系統中樞。
+
+academy.io.title=I/O
+academy.io.desc=製作輸入纜線和一個輸出纜線
+academy.io.text1=輸入纜線將從其所在的庫存中提取物品並將其插入 RS 系統。
+academy.io.text2=輸出纜線將從 RS 系統指定項目推送到其放置的庫存中。
+
+academy.extstorage.title=Backwards Compatible
+academy.extstorage.desc=製作外部儲存纜線
+academy.extstorage.text1=將外部儲存纜線放在庫存上，其內容將出現在系統中。
+academy.extstorage.text2=如果外部儲存纜線比其他儲存方塊（如硬碟櫃）具有更高的優先級，則項目將先嘗試進入該外部儲存纜線庫存。
+
+# 精緻儲存 - 進階
+
+academy.patterngrid.desc=製作模板面板
+academy.patterngrid.text1=自動製作的第一步是模板面板。
+academy.patterngrid.text2=放下並給它一個模板，然後輸入您希望能夠自動製作的配方。
+academy.patterngrid.text3=如果它不是一般的製作配方（也就是說，如果它不是在 3x3 製作網格中完成的，例如熔煉），請選處理中框。
+academy.patterngrid.text4=如果您希望它使用礦物詞典（例如能夠使用任何木板製作箱子），請選中使用礦物字典框。
+
+academy.crafter.desc=製作合成器
+academy.crafter.text1=將模板放入合成器，您將能夠從您的面板中用這些配方製作。
+academy.crafter.text2=您可以將合成器指向一台機器（如熔爐），處理配方時將嘗試使用該機器。對於處理配方，您可能必須使用輸入纜線將成品從機器中取出。
+
+academy.craftmanager.desc=製作合成管理器
+academy.craftmanager.text1=合成管理器列出了系統中的所有合成器及其附屬的內容，並顯示了其中的模式。
+academy.craftmanager.text2=您可以重命名合成器以更改它們在合成管理器中的顯示。
+
+academy.craftmonitor.desc=製作合成監控器
+academy.craftmonitor.text=合成監控器將顯示系統中當前正在進行的所有合成操作的列表。
+
+academy.portablegrid.desc=製作攜帶式面板
+academy.portablegrid.text1=攜帶式面板就像一個微型 RS 系統。
+academy.portablegrid.text2=打開它，在右上角的插槽中放置一個儲存硬碟（流體或物品），您將可以使用它，它是一種數位背包。
+
+# 精緻儲存 - 大師
+
+academy.network.title=遠距離戀愛
+academy.network.desc=製作網路傳輸器、接收器和網路卡
+academy.network.text1=您可以使用網路傳輸器、接收器和網路卡通過無線，遠距離連接到您的 RS 系統。
+academy.network.text2=將網路傳輸器放在您的主系統上，將網路接收器放在您要訪問它的位置，然後使用網卡潛行單擊接收器以鏈接它。將鏈接的網卡插入傳輸器以連接它們。
+academy.network.text3=所有組件都必須 Chunkload 才能工作。
+
+academy.wirelesstransmitter.desc=製作無線傳輸器
+academy.wirelesstransmitter.text1=將無線傳輸器放在纜線上，您將能夠從 16 個方塊內使用無線面板訪問它。
+academy.wirelesstransmitter.text2=如果您想從更遠的地方無線訪問系​​統，請在您想訪問它的地方放置更多無線傳輸器或使用範圍升級。
+
+academy.wirelesscraftinggrid.desc=製作無線合成終端
+academy.wirelesscraftinggrid.text1=無線合成終端的工作原理與合成面板完全相同，但無線除外。
+academy.wirelesscraftinggrid.text2=要將其綁定到系統，請在系統中樞上潛行右鍵單擊它。
+
+academy.wirelessfluidgrid.desc=製作無線液體面板
+academy.wirelessfluidgrid.text1=無線液體面板的工作原理與液體面板完全相同，但無線除外。
+academy.wirelessfluidgrid.text2=要將其綁定到系統，請在系統中樞上潛行右鍵單擊它。
+
+
+# 科技 - 新手
+
+academy.magmatic.title=The Core
+academy.magmatic.desc=製作一個熱力能源爐
+academy.magmatic.text1=熱力能源爐使用熱流體產生 RF。
+academy.magmatic.text2=一桶岩漿產生 120,000 RF。您可以通過使用 JEI 查看熱力能源爐的用途來查看其他燃料的功率輸出。
+
+academy.steam.title=蒸汽動力
+academy.steam.desc=製作蒸汽能源爐
+academy.steam.text1=蒸汽能源爐使用固體燃料和水產生 RF。
+academy.steam.text2=一個煤炭產生 24,000 RF。您可以通過使用 JEI 查看蒸汽能源爐的用途來查看其他燃料的功率輸出。
+
+academy.coalgen.title=Old King Coal
+academy.coalgen.desc=製作煤炭發電機
+academy.coalgen.text1=煤炭發電機利用煤炭或其他熔爐燃料產生 RF。
+academy.coalgen.text2=一個煤炭產生 48,000 RF。
+
+academy.pitifulgen.title=就是可憐
+academy.pitifulgen.desc=製作木質燃料發電機
+academy.pitifulgen.text1=木質燃料發電機通過燃燒木材產生 RF。
+academy.pitifulgen.text2=每塊木板或原木產生 11,250 RF。
+
+academy.petrifiedgen.title=化石燃料
+academy.petrifiedgen.desc=製作火力發電機
+academy.petrifiedgen.text1=火力發電機通過燃燒任何熔爐燃料來產生 RF。
+academy.petrifiedgen.text2=一個煤炭產生 60,000 RF。
+
+academy.pulverizer.title=塵歸塵
+academy.pulverizer.desc=做一個粉碎機
+academy.pulverizer.text1=粉碎機使用 RF 來粉碎石頭和礦石等物品。
+academy.pulverizer.text2=礦石會被粉碎成兩個粉末，每個粉末都會熔煉成一個錠。也有機會獲得副產物輸出。
+academy.pulverizer.text3=粉碎機可以升級和增強以更快地工作或改變其運作方式。
+
+academy.redstonefurnace.title=微波爐
+academy.redstonefurnace.desc=製作紅石爐
+academy.redstonefurnace.text1=紅石爐使用 RF 來熔煉物品。
+academy.redstonefurnace.text2=它實際上並沒有做更多的事情，但是升級和增強可以使它更快。
+
+academy.resourcefulfurnace.title=經驗豐富的廚師
+academy.resourcefulfurnace.desc=製作高級熔爐
+academy.resourcefulfurnace.text1=高級熔爐使用 RF 來熔煉物品。
+academy.resourcefulfurnace.text2=它有 3 個輸入槽，因此您可以一次熔煉 3 組物品。使用時還會產生少量的精華液，可以轉化為經驗。
+
+academy.atomicreconstructor.title=Technological Transmutation
+academy.atomicreconstructor.desc=製作原子再構機
+academy.atomicreconstructor.text1=原子再構機是一種使用 RF 將物品轉換為其他物品的機器。它會發射雷射，在它擊中的地方轉換地面上的物品。
+academy.atomicreconstructor.text2=預設情況下，只要有能量，它就會發射。您可以使用紅石火把右鍵單擊它，使其僅在收到紅石信號時觸發。
+
+academy.crusher.title=The Crushinator
+academy.crusher.desc=製作磨粉機
+academy.crusher.text1=磨粉機使用 RF 來粉碎物品。
+academy.crusher.text2=礦石會被磨成兩個粉末，每個粉末都會熔煉成一個錠。也有機會獲得與粉碎機 (Thermal) 不同的副產物輸出。
+
+academy.doublecrusher.title=More of the Same
+academy.doublecrusher.desc=製作兩倉磨粉機
+academy.doublecrusher.text1=兩倉磨粉機的工作原理與磨粉機相同，但有 2 個輸入槽。
+academy.doublecrusher.text2=您可以設置它，以便在 2 個輸入槽之間平分物品，有效地使其工作速度提高一倍。
+
+academy.poweredfurnace.title=Two for One Special
+academy.poweredfurnace.desc=製作兩倉熔爐
+academy.poweredfurnace.text1=兩倉熔爐使用 RF 來熔煉物品。
+academy.poweredfurnace.text2=它有 2 個輸入槽，因此您可以一次熔煉 2 組物品。您還可以設置為將其輸入平分到兩個槽上，有效地使其工作速度提高一倍。
+
+academy.fluxducts1.title=插上電源！
+academy.fluxducts1.desc=製作鉛石能量管道
+academy.fluxducts1.text1=能量管道用於傳輸 RF。更高層可以更快地傳輸 RF。
+academy.fluxducts1.text2=鉛石能量管道每個連接可以傳輸 1,000 RF/t。
+
+academy.fluxducts2.title=更好，更硬
+academy.fluxducts2.desc=製作硬化能量管道
+academy.fluxducts2.text1=硬化能量管道每個連接可傳輸 4,000 RF/t。
+academy.fluxducts2.text2=能量管道可以跨層級連接。
+
+academy.basicenergytess.title=比管道更糟糕
+academy.basicenergytess.desc=製作基礎能量超轉運體
+academy.basicenergytess.text1=基礎能量超轉運體允許您在一個方塊的距離內移動 RF。將超轉運體放置在所有要移動能量的方塊上的相同空間中，然後右鍵單擊以在輸入和輸出之間切換。
+academy.basicenergytess.text2=基礎能量超轉運體可傳輸 2048 RF/t，最多可儲存 32,000 RF。
+
+academy.advenergytess.title=比管道更好
+academy.advenergytess.desc=製作進階能量超轉運體
+academy.advenergytess.text1=進階能量超轉運體的工作方式與基礎能量超轉運體相似，只是它們不需要位於同一方塊空間中。這使您可以在任何距離和跨維度之間無線傳輸它們。
+academy.advenergytess.text2=進階能量超轉運體是通過每隻手拿著染料然後右鍵單擊超轉運體來設置的。要在輸入和輸出模式之間切換，請在超轉運體上空手潛行並右鍵單擊。
+academy.advenergytess.text3=進階能量超轉運體可以儲存 40,000,000 RF，並且可以每次移動相同的量。
+
+academy.plasticmaking.title=Flubber
+academy.plasticmaking.desc=做一些塑料片
+academy.plasticmaking.text1=每當它前面有一個原木時，樹液提取器就會生成膠乳。它不適用於 Dynamic Trees 的木頭，因此您必須放置一般的原木。原木會慢慢用完，直到損壞，並且需要更換。
+academy.plasticmaking.text2=膠乳加工機將把 75mB 的膠乳和 1000mB 的水轉化為 1 個小塊乾橡膠。將 9 個一起合成將產生乾橡膠，可以將其熔煉成塑料片。
+
+academy.energycell.title=Saved for a Rainy Day
+academy.energycell.desc=製作能量單元
+academy.energycell.text1=能量單元用於儲存 RF。與所有其他熱力膨脹機器一樣，它有六個層級。
+academy.energycell.text2=第一級可以儲存 2,000,000 RF，最高可以儲存 50,000,000 RF。
+
+academy.AAbook.title=實用地信息
+academy.AAbook.desc=製作實用擴展手冊
+academy.AAbook.text=實用擴展手冊包含有關模組添加的方塊和物品的所有信息。
+
+academy.IFbook.title=如果你向星星許願
+academy.IFbook.desc=製作工業先鋒手冊
+academy.IFbook.text=工業先鋒手冊包含有關模組添加的方塊和物品的所有信息。
+
+academy.DEinfotab.title=我們為他們的指南製作了指南
+academy.DEinfotab.desc=製作龍族進化資訊石板
+academy.DEinfotab.text=龍族進化資訊石板包含有關模組添加的方塊和物品的所有信息。
+
+academy.autobreaker.desc=製作方塊破壞器
+academy.autobreaker.text1=方塊破壞器會自動破壞它所面對的方塊，將掉落物插入其內部庫存中。
+academy.autobreaker.text2=預設情況下，它會盡可能頻繁地工作。您可以使用紅石火把右鍵單擊它，將其設置為僅在給定紅石信號時才起作用。
+
+academy.autoplacer.desc=製作方塊放置器
+academy.autoplacer.text1=方塊放置器會自動將其庫存中的方塊放置在它面對的方向。
+academy.autoplacer.text2=預設情況下，它會盡可能頻繁地工作。您可以使用紅石火把右鍵單擊它，將其設置為僅在給定紅石信號時才起作用。
+
+academy.aafarmer.title=工廠化種植
+academy.aafarmer.desc=製作農場
+academy.aafarmer.text=農場將在其前面的 9x9 區域耕種泥土，並嘗試從其庫存中的左側槽種植任何類型的種子。它還將從該地區收穫完全成熟的作物，重新種植種子並將作物放在庫存右側的槽。
+
+academy.rangedcollector.title=Pick-Me-Up
+academy.rangedcollector.desc=製作物品吸收器
+academy.rangedcollector.text1=物品吸收器會根據其過濾器收集掉落在自身 6 格內的物品。
+academy.rangedcollector.text2=打開它並在左側的 12 個槽中設置過濾器。您可以設置它是白名單或是黑名單，它是否與元數據和 NBT 匹配，以及過濾器通常具有的所有其他好東西。
+
+academy.aalens.title=Technomancic Refraction
+academy.aalens.desc=為原子再構機製作任何透鏡
+academy.aalens.text1=透鏡可以放在原子再構機上以某種方式改變其功能，例如製作雷射色塊或殺死生物。
+academy.aalens.text2=有關更多信息，請參閱實用擴展手冊。
+academy.aalens.task=任何透鏡
+
+academy.aaenergylaser1.desc=製作能量雷射中繼器
+academy.aaenergylaser1.text1=能量雷射中繼器可以無線傳輸高達 1,000 RF/t。
+academy.aaenergylaser1.text2=將能量雷射中繼器放置在您想要從中取出 RF 的方塊和您想要將 RF 輸入的方塊上，以及沿途的任何地方，以便您將它們連接起來。
+academy.aaenergylaser1.text3=要連接雷射中繼器，用中繼器扳手右擊一個，然後右擊另一個。
+academy.aaenergylaser1.text4=要在輸入、輸出和雙向之間切換，請使用指南針右鍵單擊它。
+
+academy.ifpump.title=石海
+academy.ifpump.desc=製作流體泵
+academy.ifpump.text1=流體泵將檢查直接位於其下方的流體，然後將工作區域中的所有流體泵入其內部儲罐，在那裡可以通過管道排出。泵送的液體將被鵝卵石代替。
+academy.ifpump.text2=就像所有的工業先鋒機器一樣，它的預設範圍是 1 個方塊。您將不得不使用範圍升級插件來增加工作區域。在為其提供電源之前執行此操作。
+
+academy.rangeaddon.title=更大，更好
+academy.rangeaddon.desc=製作範圍升級插件
+academy.rangeaddon.text=預設情況下，所有工業先鋒機器工作的範圍為 1 個方塊。範圍升級插件用於增加這一點。範圍升級插件+2 將範圍增加 2，因此它是 3x3。
+academy.rangeaddon.task=任何範圍升級插件
+
+academy.DEgrinder.title=Kill-Box
+academy.DEgrinder.desc=製作生物斬殺機
+academy.DEgrinder.text=生物斬殺機使用 RF 立即殺死它前面 7x7 區域內的所有非玩家生物，包括凋零怪。物品和經驗會正常掉落，不會被收集。
+
+academy.DEbasic.title=Basically
+academy.DEbasic.desc=製作基本能量水晶
+academy.DEbasic.text1=能量水晶許您無線傳輸 RF。要鏈接水晶，請使用能量裝置連接器潛行右鍵單擊一個水晶，然後右鍵單擊您想要連接的所有其他水晶。
+academy.DEbasic.text2=RF 通過能量收發水晶進入和退出系統，但它們只能連接到其他幾個水晶。
+academy.DEbasic.text3=能量中繼水晶應該連接其他水晶，因為它們有最多的連接量。
+academy.DEbasic.text4=無線能量收發水晶可以在不需要收發水晶的情況下為機器供電。只需將其綁定到具有 RF 的水晶，然後將其綁定到您想要供電的每台機器。
+academy.DEbasic.task=任何基本能量水晶
+
+academy.stabilizedspawner.title=Bent to Your Will
+academy.stabilizedspawner.desc=穩定一個生怪磚
+academy.stabilizedspawner.text1=使用核心右鍵單擊生怪磚上會使其穩定。有 4 個層級，對應於 4 個核心。一旦你穩定了一個生怪磚，它就會變成一個物品，這樣你就可以把它放在其他地方。
+academy.stabilizedspawner.text2=你可以使用生物靈魂右鍵點擊一個穩定的生怪磚，讓它生成那個生物。挖掘穩定的生怪磚會清空靈魂，但不會摧毀生怪磚本身。
+academy.stabilizedspawner.text3=每一層級都比上一個層級好，一次產生更多的怪物，並且產生的頻率更高。更高的層級對如何生成怪物的限制也更少。參見龍族進化資訊石板了解更多詳情。
+academy.stabilizedspawner.task=任何穩定的生怪磚
+
+academy.DEsouls.title=噬魂者
+academy.DEsouls.desc=收集靈魂
+academy.DEsouls.text1=使用龍族進化武器和/或奪魂術附魔時，生物靈魂將有機率掉落。如果你兩者都不使用，生物靈魂將永遠不會掉落。
+academy.DEsouls.text2=生物靈魂的主要用途是放入穩定的生怪磚以設置其生成該生物，但是您可以在地面上潛行右鍵單擊它們以生成生物（這將耗盡靈魂）。
+academy.DEsouls.task=任何生物靈魂
+
+academy.celestialmanipulator.title=天氣預報
+academy.celestialmanipulator.desc=製作天象操縱器
+academy.celestialmanipulator.text=天象操縱器使用 RF 來讓您更改當前的時間和天氣。
+
+academy.disenchanter.title=elbaT tnemtnahcnE
+academy.disenchanter.desc=製作卸魔台
+academy.disenchanter.text=卸魔台允許您將附魔從工具移動到書籍上。
+
+# 科技 - 中級
+
+academy.magmacrucible.title=熔毀
+academy.magmacrucible.desc=製作熔岩爐
+academy.magmacrucible.text=熔岩爐是一種將方塊和物品熔化成液體的機器。
+
+academy.fluidtransposer.title=Bucket Filler
+academy.fluidtransposer.desc=製作流體轉置機
+academy.fluidtransposer.text=流體轉置機用於結合流體和物品。
+
+academy.fluxducts3.desc=製作紅石能量管道
+academy.fluxducts3.text=紅石能量管道每個連接可以傳輸 9,000 RF/t。
+
+academy.fluxducts4.desc=製作信素能量管道
+academy.fluxducts4.text=信素能量管道每個連接可以傳輸 16,000 RF/t。
+
+academy.fluxducts5.desc=製作諧振能量管道
+academy.fluxducts5.text=諧振能量管道每個連接可以傳輸 25,000 RF/t。
+
+academy.fluxducts6.desc=製作凜冰固化能量管道
+academy.fluxducts6.text=凜冰固化能量管道每個連接可以傳輸 無限 RF/t。
+
+academy.empowerer.title=某科學輸液祭壇
+academy.empowerer.desc=做一個充能台
+academy.empowerer.text1=充能台用於升級水晶。
+academy.empowerer.text2=將充能台放置在中心，然後在所有 4 個方向各放置一個物品展示台，在它和充能台之間間隔 2 個方塊，然後為它們供電。
+
+academy.powerfiller.title=充滿力量
+academy.powerfiller.desc=製作一台可以用 RF 來充電的機器
+academy.powerfiller.text1=充能站只是使用它提供的 RF 為其內部的物品供電。
+academy.powerfiller.text2=能量灌注機做同樣的事情，但它可以升級和增強以每秒大約 1,000,000 RF 的速度充能物品。
+academy.powerfiller.text3=能量注入器要貴得多，但它可以以高達 1,000,000 RF/t（即每秒 20,000,000 RF）的速度充能物品。
+academy.powerfiller.task=製造任何這些機器
+
+academy.inventorybatteries.title=便攜式充電器
+academy.inventorybatteries.desc=製作一個可以儲存 RF 的物品
+academy.inventorybatteries.text1=實用擴展的電池是最便宜的。第一層可以儲存 200,000 RF，最後一層可以儲存 2,000,000 RF。
+academy.inventorybatteries.text2=熱力膨脹的通量電容稍微貴一點，但可以儲存更多。第一層可以儲存 1,000,000 RF，最後一層可以儲存 25,000,000 RF。您還可以使用保存對它們進行附魔，這將使它們的最大儲存量最多增加 3 倍。
+academy.inventorybatteries.text3=龍族進化的RF電容器是最昂貴的，並且可以容納最多。第一層可以儲存 64,000,000 RF，最後一層可以儲存 256,000,000 RF。您還可以升級最後一層以儲存 640,000,000 RF。
+academy.inventorybatteries.task=製作任何這些物品
+
+academy.teleportstaff.title=Vwoop
+academy.teleportstaff.desc=製作傳送權杖
+academy.teleportstaff.text=傳送權杖會在使用時將您傳送到您正在查看的方塊。
+
+academy.aadrill.desc=做一個鑽頭
+academy.aadrill.text1=鑽頭可以當作使用 RF 的鎬和鏟子。它可以染成任何顏色。
+academy.aadrill.text2=您可以潛行右鍵單擊鑽頭以插入最多 5 個鑽頭升級，例如速度或幸運。多層的升級需要有前一層才能發揮作用。
+academy.aadrill.task2=任何鑽頭升級
+
+academy.greenhouseglass.title=Garden of Glass
+academy.greenhouseglass.desc=製作溫室玻璃
+academy.greenhouseglass.text=當溫室玻璃放置在作物上方並且能夠看到白天的天空時，作物會生長得更快。
+
+academy.itemrepairer.title=電力修復
+academy.itemrepairer.desc=製作物品修理機
+academy.itemrepairer.text=物品修理機使用 RF 來緩慢地修理物品。
+
+academy.spawnerchanger.title=怪物盒
+academy.spawnerchanger.desc=製作刷怪籠控制工具
+academy.spawnerchanger.text1=使用刷怪籠控制工具右鍵單擊一個生物，將其設置為該生物，殺死它。然後使用刷怪籠控制工具在生怪磚右鍵單擊，它將更改為生成該生物。
+academy.spawnerchanger.text2=在將其變成龍族進化的穩定的生怪磚之前，您可以使用它來設置要生成的生物類型，這樣您就不必依賴生物靈魂。
+
+academy.playerinterface.desc=製作玩家界面
+academy.playerinterface.text1=玩家界面允許您像與任何其他方塊一樣與您的物品欄互動。你可以通過管道輸入和輸出物品，如果你給它 RF，它會從你的物品欄中收取物品。
+academy.playerinterface.text2=它有 32 個方塊的範圍，可以通過在它上面放置最多 3 個幻靈增幅器來增加範圍，將範圍增加到 256 個方塊。
+
+academy.aaenergylaser2.desc=製作進階能量雷射中繼器
+academy.aaenergylaser2.text1=進階能量雷射中繼器可以無線傳輸高達 10,000 RF/t。
+academy.aaenergylaser2.text2=如果您在兩個較高層級之間有一個較低層級的能量雷射中繼器，則將使用最低速度。
+
+academy.aaenergylaser3.desc=製作超級能量雷射中繼器
+academy.aaenergylaser3.text=超級能量雷射中繼器可以無線傳輸多達 100,000 RF/t。
+
+academy.mobslaughterfactory.title=速食
+academy.mobslaughterfactory.desc=製作屠宰場
+academy.mobslaughterfactory.text1=屠宰場會殺死其工作區域內的所有生物。它不會掉落物品和經驗，而是會在其內部雛罐中產生肉湯。它也有機會生產粉紅史萊姆。
+academy.mobslaughterfactory.text2=它的預設工作範圍是 1 個方塊。您將不得不使用範圍升級插件來增加工作區域。
+
+academy.meatfeeder.title=將漢堡直接注入您的靜脈
+academy.meatfeeder.desc=製作肉湯注射器
+academy.meatfeeder.text=當裝滿肉湯時，肉湯注射器會自動讓您從物品中的任何地方餵食。
+
+academy.meatores.title=這一定是有史以來最奇怪的礦石處理
+academy.meatores.desc=製作流體篩分機、發酵站和洗礦廠
+academy.meatores.text1=洗礦廠將肉湯與礦石結合起來，製造出生礦物肉湯。
+academy.meatores.text2=發酵站將生礦物肉湯發酵成發酵礦物肉湯。
+academy.meatores.text3=流體篩分機將結合發酵礦物肉湯和沙子為礦石粉。
+academy.meatores.text4=這個過程每個礦石會產生 3 個錠。
+
+academy.ifenergy1.desc=製作能量升級 I
+academy.ifenergy1.text=您可以將能量升級 I 插入大多數工業先鋒機器中，以降低它們使用的能源量。
+
+academy.ifenergy2.desc=製作能量升級 II
+academy.ifenergy2.text1=具有 能量升級 I 和 II 的工業先鋒機器將使用更少的能量。
+academy.ifenergy2.text2=您需要同時使用兩個層級才能運行。
+
+academy.ifspeed1.desc=製作速度升級 I
+academy.ifspeed1.text=您可以將 速度升級 I 插入大多數工業先鋒機器以減少它們所需的時間。
+
+academy.ifspeed2.desc=製作速度升級II
+academy.ifspeed2.text1=具有 速度升級 I 和 II 的工業先鋒機器將花費更少的時間。
+academy.ifspeed2.text2=您需要同時使用兩個層級才能運行。
+
+academy.mobcrusher.desc=製作屠宰機
+academy.mobcrusher.text1=屠宰機會殺死其工作區域內的所有生物。它們的掉落物將自動進入屠宰機的庫存，並且經驗將轉化為精華液。
+academy.mobcrusher.text2=它的預設工作範圍是 1 個方塊。您將不得不使用範圍升級插件來增加工作區域。
+
+academy.mobduplicator.desc=製作自動刷怪機
+academy.mobduplicator.text=自動刷怪機將使用精華液和填充的生物捕捉工具工具來生成該暴徒。
+
+academy.wyvernarmor.title=Penultimate Armor
+academy.wyvernarmor.desc=製作全套飛龍盔甲
+academy.wyvernarmor.text1=飛龍盔甲是大多數模組包中第二好的盔甲，僅次於其升級版本。
+academy.wyvernarmor.text2=穿著飛龍或神龍盔甲時，會出現一個新的 GUI 元素。頂部欄顯示護盾點數，即可以在不傷害玩家的情況下吸收的傷害量。當它受到傷害時它會下降，當它有能量時它會恢復。
+academy.wyvernarmor.text3=綠色的小條是熵表，它隨著你受到傷害而增加，隨著時間的推移而減少。在熵量高的情況下，護盾點恢復較慢。
+academy.wyvernarmor.text4=底部欄是儲存在裝甲中的 RF 量。
+
+academy.wyvernpickaxe.desc=製作飛龍鎬
+academy.wyvernpickaxe.text1=飛龍鎬具有可調節的挖掘速度、可升級的作用區域和垃圾過濾器。
+academy.wyvernpickaxe.text2=要配置龍族進化的工具，請點擊 C。
+
+academy.wyvernsword.desc=製作飛龍劍
+academy.wyvernsword.text1=飛龍劍具有可調節的攻擊半徑和可升級的攻擊傷害。
+academy.wyvernsword.text2=要配置龍族進化的工具，請點擊 C。
+
+academy.wyvernshovel.desc=製作飛龍鏟
+academy.wyvernshovel.text1=飛龍鏟具有可調節的挖掘速度、可升級的作用區域和垃圾過濾器。
+academy.wyvernshovel.text2=要配置龍族進化的工具，請點擊 C。
+
+academy.wyvernaxe.desc=製作飛龍斧
+academy.wyvernaxe.text1=飛龍鏟具有可調節的挖掘速度和可升級的作用區域。
+academy.wyvernaxe.text2=要配置龍族進化的工具，請點擊 C。
+
+academy.wyvernbow.desc=製作飛龍弓
+academy.wyvernbow.text1=飛龍弓具有可調節的放大倍數和箭矢傷害/速度，以及可切換的自動射擊和爆炸箭矢。
+academy.wyvernbow.text2=要配置龍族進化的工具，請點擊 C。
+
+academy.energycore.desc=製作能量核心
+academy.energycore.text1=能量核心可以儲存極其大量的 RF。查看龍族進化資訊石板以了解如何構建它。
+academy.energycore.text2=第一層級只需要這個任務所需的方塊，可以儲存 45,500,000 RF。
+academy.energycore.text3=相比之下，最後一層可以儲存 9,223,372,036,854,775,807 RF。
+
+academy.wyverncrystals.title=Wyvernly
+academy.wyverncrystals.desc=製作飛龍能量水晶
+academy.wyverncrystals.text1=飛龍能量水晶比起基本能量水晶可以容納 4 倍的 RF。
+academy.wyverncrystals.text2=所有層級的所有能量水晶都可以有效地傳輸無限 RF/t。
+academy.wyverncrystals.task=任何飛龍能量水晶
+
+academy.fusioncrafting.title=Another Certain Scientific Fusion Altar
+academy.fusioncrafting.desc=設置融合合成
+academy.fusioncrafting.text1=放置聚合裝置核心，然後將聚合裝置注入器面向核心放在它周圍。該設置由聚合裝置注入器提供動力。
+academy.fusioncrafting.text2=對於融合合成配方，中間的物品需要在聚合裝置核心中，兩側的物品需要在聚合裝置注入器中。
+academy.fusioncrafting.text3=某些配方需要某些層級的聚合裝置注入器才可以製作。如果它需要一個特定的層，它也適用於更高的層。
+academy.fusioncrafting.text4=要開始合成，請單擊聚合裝置核心中的“開始”。
+
+academy.wyverninjectors.desc=製作飛龍聚合裝置注入器
+academy.wyverninjectors.text1=飛龍聚合裝置注入器可讓您製作更多物品。
+academy.wyverninjectors.text2=對於需要特定層級的配方，每個使用到的聚合裝置注入器都必須是該層級或更高層級。
+
+academy.enderenergymanipulator.title=和平主義者
+academy.enderenergymanipulator.desc=製作終界能量操縱器
+academy.enderenergymanipulator.text=當終界龍活著時，終界基岩傳送門上使用終界能量操縱器右鍵單擊，它會開始盡可能殺死末影人。一旦達到一定數量，它就會停止並生成一個龍蛋。
+
+academy.awakeneddraconium.title=覺醒吧，我的主人
+academy.awakeneddraconium.desc=製作覺醒的龍質塊
+academy.awakeneddraconium.text=用覺醒的龍質製成的工具和盔甲是大多數模組包中最高等級。
+
+academy.upgradekeys.title=升級
+academy.upgradekeys.desc=製作升級卡
+academy.upgradekeys.text1=將升級卡與融合合成一起使用來升級工具和盔甲。點擊 U 以查看升級卡的使用方式，並將該配方與要在中心升級的工具一起使用。
+academy.upgradekeys.text2=升級卡有多個配方，因為它們有多個級別。自然地，您必須使用基本的配方升級，然後升級到飛龍、神龍和混沌。
+academy.upgradekeys.text3=升級卡在使用時不會被銷毀，因此您只需要製作一次。
+academy.upgradekeys.task=任何升級卡
+
+academy.hardenedupgrade.desc=製作硬化升級套件
+academy.hardenedupgrade.text1=升級套件用於增加熱力膨脹的機器或能源爐的等級。只要機器已經有上一層級的升級，只需用升級套件對機器右鍵單擊即可將其設置為該層。
+academy.hardenedupgrade.text2=層級順序為：
+academy.hardenedupgrade.text3=•基礎
+academy.hardenedupgrade.text4=•硬化
+academy.hardenedupgrade.text5=•強化
+academy.hardenedupgrade.text6=•信素
+academy.hardenedupgrade.text7=•諧振
+
+academy.reinforcedupgrade.desc=製作強化升級套件
+academy.reinforcedupgrade.text1=強化的機器是第二層級，並有 2 個擴充槽。
+academy.reinforcedupgrade.text2=您可以一起製作升級套件以製造一個轉換套件，它將一次應用所有升級。
+
+academy.regularaugments.desc=進行一般升級
+academy.regularaugments.text1=機器升級 可以安裝在機器和能源爐上，以某種方式升級它們。機器擁有的插槽數量取決於機器的層級。
+academy.regularaugments.text2=您可以使用多個增強來疊加其有效性。
+academy.regularaugments.task=一般升級
+
+academy.specializationaugments.desc=進行專業化升級。
+academy.specializationaugments.text1=專業化升級從根本上改變了機器或能源爐的功能。
+academy.specializationaugments.text2=每台機器只能有一個專業化升級。
+academy.specializationaugments.task=專業化升級
+
+
+# 科技 - 進階
+
+academy.iflaserdrill.title=刺破蒼穹
+academy.iflaserdrill.desc=設置鐳射鑽
+academy.iflaserdrill.text1=鐳射鑽可以讓您從根本上將 RF 轉化為礦石。
+academy.iflaserdrill.text2=在任何地方放置一個鐳射鑽基座，然後在它周圍放置 4 個鐳射鑽，以便連接它們。電源是通過鐳射鑽提供的。
+academy.iflaserdrill.text3=在鐳射鑽基座的 GUI 中，單擊右側的 -和 + 按鈕以更改 y 級別以從中獲取礦石。您可以查看 JEI 的礦石配方，以了解為它們設置的最佳水平。
+academy.iflaserdrill.text4=您可以將鐳射聚焦透鏡放置在左側的 6 個插槽中，以增加某些礦石生成的機會。同樣，您可以查看 JEI 以了解哪些鐳射對哪些礦石有幫助。
+
+academy.signalumupgrade.desc=製作信素升級套件
+academy.signalumupgrade.text=信素是機器和能源爐的第三層。
+
+academy.resonantupgrade.desc=製作諧振升級套件
+academy.resonantupgrade.text=諧振機器是生存模式中可用的最高等級。
+
+academy.alchemyimbuer.title=藥劑師
+academy.alchemyimbuer.desc=製作藥水釀造機
+academy.alchemyimbuer.text1=藥水釀造機與流體一起工作來製造藥水，這些藥水必須單獨裝瓶。
+academy.alchemyimbuer.text2=建議讓多個藥水釀造機協同工作，這樣您就不必重複地將流體藥水從同一台機器中排出然後再返回到同一台機器中。
+academy.alchemyimbuer.text3=第一個藥水釀造機製作粗製藥水，它會被送到另一個藥水釀造機來升級，依此類推。最後，您可能希望將流體移動到流體轉置機以填充玻璃瓶。或者，您可以將其通過管道連接到一個藥水霧化器，該霧化器會將藥水效果散佈到一個區域中。
+
+academy.alchemicalretort.title=我需要你最強的魔藥
+academy.alchemicalretort.desc=製作煉金術反應釜增強
+academy.alchemicalretort.text=您可以使用煉金術反應釜增強到流體精煉機以使其能夠處理藥水，將效果增加 1，但也會將數量減少四分之一。
+
+academy.draconicfluxcap.desc=製作神龍RF電容器
+academy.draconicfluxcap.text=迄今為止，神龍RF電容器可以容納任何物品中最多的 RF。還沒升級前，它可以容納 256,000,000 RF。在混沌級升級後的容量，可以儲存 768,000,000 RF。
+
+academy.draconicinjectors.desc=製作神龍聚合裝置注入器
+academy.draconicinjectors.text=神龍聚合裝置注入器可以製作更多物品。
+
+academy.draconiccrystals.title=Draconically
+academy.draconiccrystals.desc=製作神龍能量水晶
+academy.draconiccrystals.text=神龍能量水晶可以容納比飛龍能量水晶多 4 倍的 RF。
+academy.draconiccrystals.task=任何神龍能量水晶
+
+academy.draconichelm.title=The Coolest Clown Wig
+academy.draconichelm.desc=製作神龍頭盔
+academy.draconichelm.text=神龍頭盔具有夜視功能，可以治愈負面藥水效果，防止溺水，並允許您在水下快速挖掘。
+
+academy.draconicchestplate.title=龍之心
+academy.draconicchestplate.desc=製作神龍胸甲
+academy.draconicchestplate.text=神龍胸甲允許你飛行、在空中快速採礦和免疫火焰傷害。
+
+academy.draconicleggings.title=Scale Tights
+academy.draconicleggings.desc=製作神龍護腿
+academy.draconicleggings.text=神龍護腿提供可配置的速度提升。
+
+academy.draconicboots.title=為走而生
+academy.draconicboots.desc=製作神龍靴子
+academy.draconicboots.text=神龍靴子提供墜落保護、跳躍提升，並讓您無需跳躍即可走上一個方塊。
+
+academy.draconicpickaxe.desc=製作神龍鎬
+academy.draconicpickaxe.text=神龍鎬本質上是飛龍鎬的升級，但在各方面都更好。
+
+academy.draconicsword.desc=製作神龍劍
+academy.draconicsword.text=神龍劍本質上是飛龍劍的升級，但在各方面都更好。
+
+academy.draconicshovel.desc=製作神龍鏟
+academy.draconicshovel.text=神龍鏟本質上是飛龍鏟的升級，但在各方面都更好。
+
+academy.draconicaxe.desc=製作神龍斧
+academy.draconicaxe.text=神龍斧本質上是飛龍斧的升級，但在各方面都更好。
+
+academy.draconicbow.desc=製作神龍弓
+academy.draconicbow.text1=神龍弓本質上是飛龍弓的升級，但在各方面都更好。
+academy.draconicbow.text2=它還有一些額外的選項。龍吐之箭將允許它發射純粹的能量，增加 10% 的傷害。衝擊波功能會產生衝擊波，在不損壞方塊的情況下對區域內的生物造成傷害。
+
+academy.draconicstaff.desc=製作神龍權杖
+academy.draconicstaff.text=神龍權杖是此模組包中最強大的工具。它將神龍鎬、鏟和劍合而為一。
+
+
+# 科技 - 大師
+
+academy.chaosshard.desc=擊敗混沌守衛
+academy.chaosshard.text1=在終界，您可以在 X 和 Z 坐標可被 10,000 整除的任何位置找到此模組包中最難的 Boss。
+academy.chaosshard.text2=混沌守衛絕對需要你擁有最好的武器和盔甲。它可以瞬間撕裂你的護盾，所以你必須保持移動。
+academy.chaosshard.text3=除了難度之外，戰鬥與普通的終界龍大致相同；摧毀終界水晶，然後攻擊混沌守衛。
+academy.chaosshard.text4=擊敗混沌守衛後，在島嶼中心下方挖掘並收集混沌碎片。這會導致島嶼爆炸，所以你應該在這樣做之後趕快逃跑。
+
+academy.chaosinjectors.desc=製作混沌聚合裝置注入器
+academy.chaosinjectors.text=混沌聚合裝置注入器是最高等級的，可以製作任何融合合成配方。
+
+academy.draconicreactor.title=清理基地
+academy.draconicreactor.desc=建立一個龍族反應爐
+academy.draconicreactor.text1=龍族反應爐是此模組包中最危險的方塊。這正是風險回報的定義。如果你運行得當，你可以獲得大量的 RF，但如果它爆炸，它會摧毀自身 200 格內的所有東西。
+academy.draconicreactor.text2=運行起來非常複雜。在這裡解釋肯定太複雜了，所以閱讀龍族進化資訊石板以查看更多信息。
+
+# 植物魔法 - Botania
+academy.lexica.title=閱讀彩虹
+academy.lexica.desc=製作植物魔法辭典
+academy.lexica.text=植物魔法辭典是一本非常好的植物魔法指南。當您第一次打開它時，您可以選擇瀏覽教程。我們建議透過這些任務​​並使用這些任務來補充它。
+academy.lexica.text2=當植物魔法辭典在您的快捷欄中時，您可以在將鼠標懸停在物品欄中來自植物魔法的物品上的同時按住 Control，以查看該物品的頁面。
+
+academy.apothecary.title=Bird Bath
+academy.apothecary.desc=製作花藥台
+academy.apothecary.text1=花藥台用於製作魔法花。將它裝滿水，按照配方的指示放入神秘花瓣，然後放入種子以完成它。
+academy.apothecary.text2=你可以在地上種植神秘花瓣，然後用骨粉種植它們以用剪刀收穫的高大神秘花。這讓您可以種植神秘花瓣。
+
+academy.pouch.desc=製作采花袋
+academy.pouch.text=采花袋最多可存放一疊每朵神秘花。當拾取到一個花瓣，有空間的話會自動存放在采花袋裡。
+
+academy.forestwand.title=自然魔法
+academy.forestwand.desc=製作森林法杖
+academy.forestwand.text=森林法杖有點像植物魔法的多合一工具。它允許您啟用和操作模組中的某些方塊。
+
+academy.daisy.title=Purification in Progress
+academy.daisy.desc=做一朵純白雛菊
+academy.daisy.text1=白雛菊是一朵非常重要的花。如果石頭或木頭在它周圍的 3x3 區域內，它會將石頭和木頭轉化為活石和活木。
+academy.daisy.text2=活石和活木使用的頻率非常高，因此最好找到一種方法來自動執行此操作。
+
+academy.mana.title=魔法按摩浴缸
+academy.mana.desc=製作魔力池和魔力發射器
+academy.mana.text1=魔力池用於儲存由花朵產生的魔力。你可以將其他花綁定到上面，這樣它們就可以使用它持有的魔力。
+academy.mana.text2=將魔力發射器放在魔力來源旁邊，例如魔力池，然後使用森林法杖將其指向其他可以接受魔力的物體。它將開始朝那個方向發射魔力脈沖，清空魔力來源。
+academy.mana.text3=你也可以將東西丟進魔力池來改變它們，轉化或充能它們。
+
+academy.manaitems.title=只要在它前面貼上“魔力”！
+academy.manaitems.desc=製作魔力鋼、魔力珍珠和魔力鑽石
+academy.manaitems.text=魔力鋼、魔力珍珠和魔力鑽石用於許多合成配方。
+
+academy.manatablet.title=魔力電池
+academy.manatablet.desc=製作魔力石板
+academy.manatablet.text1=魔力石板可用於在沒有魔力發射器的情況下攜帶魔力，並且還可以為您物品欄中需要魔力的任何物品提供能量。
+academy.manatablet.text2=要為魔力石板充電或放電，請將其扔到魔力池中。用森林法杖啟用魔力池，以在清空和填充之間切換。
+
+academy.halo.title=製造工廠環
+academy.halo.desc=製造工廠環
+academy.halo.text1=工廠環將根據設定的配方使用您物品欄中的物品自動合成。
+academy.halo.text2=將“工廠環”拿在手上，即可看到介面出現。您可以像往常一樣使用合成台，您可以單擊任何其他部分來設置光環以自動製作該配方。
+
+academy.alchemcat.title=等價交換定律
+academy.alchemcat.desc=製作煉金催化器
+academy.alchemcat.text1=將煉金催化器放置在魔力池下方以改變其功能。
+academy.alchemcat.text2=它為魔力池添加了新的配方，因此您可以投入物品以取出不同的物品。在煉金催化器上按 U 查看它的所有配方。
+
+academy.endoflame.title=聞起來像燃燒了
+academy.endoflame.desc=製作火紅蓮
+academy.endoflame.text1=火紅蓮會燃燒掉在附近地面上的任何熔爐燃料，並將其轉化為魔力並將其放入附近的魔力發射器中。
+academy.endoflame.text2=這是一個非常好的早期魔力來源，你擁有的越多效果越好，並且很容易實現自動化。
+
+academy.runicaltar.title=从卂厶工匚 丂丫从乃口乚丂
+academy.runicaltar.desc=製作符文祭壇
+academy.runicaltar.text1=顧名思義，符文祭壇用於製作符文。根據配方將物品丟在它上面，並從魔力發射器中為其提供魔力。
+academy.runicaltar.text2=一旦它充滿魔力，將活石扔在它上面並用森林法杖啟動它以完成合成。
+
+academy.soujourner.title=巡演中的選美皇后
+academy.soujourner.desc=製作旅居者腰帶
+academy.soujourner.text=當旅居者腰帶佩戴在腰帶飾品槽中並為它提供魔力時，將極大地提高佩戴者的敏捷性。
+
+academy.lens.title=魔力眼鏡
+academy.lens.desc=製作魔力透鏡
+academy.lens.text=魔力透鏡應用於魔力發射器以改變它的工作方式。他們可以做一些事情，比如讓魔力脈沖更快或保持更多魔力，或者讓它在擊中方塊時爆炸。
+
+academy.botaniamagnet.title=Magnetic Personality
+academy.botaniamagnet.desc=製作磁化戒指
+academy.botaniamagnet.text=佩戴在飾品欄時，磁化戒指會將掉落的物品拉向玩家。
+
+academy.botaniarods.title=魔法棒
+academy.botaniarods.desc=製作法杖
+academy.botaniarods.text=法杖允許您使用物品欄中的法力來執行某些操作，例如放置鵝卵石或泥土、在空中飛行或熔煉方塊。
+
+academy.terrasteel.title=Dancing Lights
+academy.terrasteel.desc=做一些泰拉鋼錠
+academy.terrasteel.text1=泰拉凝聚板是您製造泰拉鋼的地方。
+academy.terrasteel.text2=將一個魔力鋼錠、一個魔力鑽石和一個魔力珍珠丟到凝聚板上，然後從與火花相連的魔力池中給它幾公噸的魔力。
+academy.terrasteel.text3=一些光線會於聚在物品上之前舞動一下，將它們變成一個泰拉鋼錠。
+
+academy.elven.title=Link Start!
+academy.elven.desc=建立一個精靈傳送門
+academy.elven.text1=精靈傳送門是一個多方塊結構，可讓您與精靈進行交易（它本質上是另一種合成機制）。把一個物品丟進去，他們會把精靈版本丟回來。
+academy.elven.text2=植物魔法辭典有一個傳送門構建指南。
+
+academy.laputa.title=天空之城
+academy.laputa.desc=製作最大尺寸的拉普達碎片
+academy.laputa.text1=拉普達碎片會在地面上放置方塊並將它們移動到空中，為您提供一個非常酷的浮島！
+academy.laputa.text2=更高的層級會創建更大的島嶼。
+
+academy.flugel.title=It's Called an Umlaut
+academy.flugel.desc=製作天翼族之冠
+academy.flugel.text=天翼族之冠可讓您飛行一段時間。當您穿著時，您可以看到飢餓條上方的剩餘時間。
+academy.flugel.text2=您還可以在空中衝刺以向前衝刺。這有冷卻時間。
+academy.flugel.text3=您可以製作幾種不同類型的天翼族之冠，讓您改變它的外觀。
+
+academy.lexica2.title=幸運的是他們懂英語
+academy.lexica2.desc=獲得有精靈知識的植物魔法辭典
+academy.lexica2.text1=如果您將植物魔法辭典丟進精靈傳送門，他們會寫下他們所有的精靈知識供您閱讀。
+academy.lexica2.text2=精靈知識將會是綠色的。
+
+academy.farreach.title=Top Shelf
+academy.farreach.desc=製作觸物戒指
+academy.farreach.text=顧名思義，觸物戒指指環擴大了佩戴者的接觸範圍。
+
+academy.luminizer.title=Walking on Sunshine
+academy.luminizer.desc=製作微光
+academy.luminizer.text1=微光可以讓玩家和生物騎在光的軌跡上，從而在彼此之間移動。
+academy.luminizer.text2=在彼此相距 20 格的範圍內放置兩個微光。使用森林法杖潛行右鍵單擊微光以進行單向連接。右鍵單擊第一個微光以移動到另一個微光，如果該微光又連接到另一個微光，您也會被發送到該微光。
+
+academy.conjuration.desc=製作煉造催化器
+academy.conjuration.text1=將煉造催化器放置在魔力池下，以允許它使用魔力複製某些物品。
+academy.conjuration.text2=使用 U 按鈕查看煉造催化器在 JEI 中的用途，以查看可以復制的內容。
+
+academy.elvenspreader.desc=製作精靈魔力發射器
+academy.elvenspreader.text=精靈魔力發射器可以發射更大的魔力脈衝，但它的發射頻率也較低。
+
+academy.globetrotter.desc=製作環遊者腰帶
+academy.globetrotter.text=環遊者腰帶本質上是旅居者腰帶的直接升級。你可以跑得更快，跳得更高，發音更容易！
+
+academy.gaiaspreader.desc=製作蓋亞法力傳播器
+academy.gaiaspreader.text=蓋亞魔力發射器是魔力發射器的最後一層。它更大的魔力脈衝，傳播得更遠。
+
+academy.gaia.title=搖起來！
+academy.gaia.desc=與蓋亞守護者戰鬥
+academy.gaia.text=你必須建造一個戰場來召喚蓋亞守護者（詳見植物魔法辭典）。擊敗他們後，會掉落一些蓋亞之魂和一些其他有用的東西。
+
+academy.gaia2.title=戰利品箱
+academy.gaia2.desc=與更強大的蓋亞守護者戰鬥
+academy.gaia2.text1=您可以挑戰守護者進行更艱難的戰鬥以獲得更好的獎勵。使用蓋亞魂錠代替泰拉鋼錠開始戰鬥。
+academy.gaia2.text2=第二場戰鬥將會更加艱難。快來準備戰鬥吧。它會掉落命運骰子，它會變成 6 種可能的傳奇遺物之一。
+
+#暮光森林
+academy.twilightportal.title=一個充滿想像力的世界
+academy.twilightportal.desc=進入暮光森林
+academy.twilightportal.text1=暮光森林是一個全新的可探索維度。
+academy.twilightportal.text2=它有一個嚴格的進度系統，所以你必須打敗某些Boss才能進入某些生物群落。
+academy.twilightportal.text3=要製作傳送門，請挖一個 2x2 的洞並用水填充它。確保每個草塊上都有植物像花一樣，然後把鑽石丟進去。
+academy.twilightportal.task=進入暮光森林
+
+academy.magicmap.title=我是地圖！
+academy.magicmap.desc=製作魔法地圖
+academy.magicmap.text1=魔法地圖將極大地幫助您探索暮光森林。
+academy.magicmap.text2=它是縮小顯示的，每個生物群落都有獨特的顏色，每個地標都有圖示，因此您可以更輕鬆地找到它們。
+
+academy.questingram.title=彩虹公羊
+academy.questingram.desc=完成謎題羊的任務
+academy.questingram.text1=謎題羊是一個在魔法森林中生成的被動 Boss。
+academy.questingram.text2=給它每種顏色的羊毛之，它會給你一塊所有原版金屬磚和寶石，以及瓦解號角。
+
+academy.naga.title=恐蛇症
+academy.naga.desc=消滅納迦
+academy.naga.text1=剛開始時，只有核心生物群系被解鎖。
+academy.naga.text2=您可以隨心所欲地探索，但被鎖定的生物群系各有各種阻止您的方式。
+academy.naga.text3=要解鎖下一個生物群系，請找到並擊敗納迦。您可以在其中一個森林生物群系的納迦庭院中找到它。
+academy.naga.task=成就：是時候擺平那鱗片了
+
+academy.lich.title=學術冒險
+academy.lich.desc=推翻巫妖王
+academy.lich.text1=一旦你擊敗了納迦，巫妖塔就會被解鎖。它生成在森林生物群系中。爬到頂部對抗巫妖王。
+academy.lich.text2=您可以通過單擊下面的鏈接閱讀指南頁面，其中包含擊敗模組中每個 Boss 的策略。
+academy.lich.text3=一旦你得到了一個權杖，沼澤、黑暗森林和雪地生物群系將被解鎖。
+academy.lich.task=成就：帶出你的死亡
+
+academy.minoshroom.title=忒修斯
+academy.minoshroom.desc=殺死米諾菇
+academy.minoshroom.text1=在沼澤中，您可以找到巨大的地下迷宮，裡面充滿了怪物和寶藏。在最底部，您可以找到米諾菇。
+academy.minoshroom.text2=米諾菇不需要任何特殊的戰術來擊敗;打到它死為止。吃掉牛頭人醬肉以解鎖火焰沼澤。
+academy.minoshroom.task=成就：超強牛頭排
+
+academy.hydra.title=艱鉅的努力
+academy.hydra.desc=斬首九頭蛇
+academy.hydra.text1=九頭蛇可以在火焰沼澤中找到。最好在遠距離作戰，當它的嘴張開時攻擊頭部。
+academy.hydra.text2=當一個頭部受到足夠的傷害時，它會消亡並被另外兩個替換。這樣做足夠多的次數，九頭蛇將被擊敗。
+academy.hydra.text3=需要熾熱之血以及其他兩個 Boss 的掉落物才能解鎖高原。
+academy.hydra.task=成就：九頭蛇殺手
+
+academy.knightphantom.title=陰森恐怖的骷髏
+academy.knightphantom.desc=讓幻影騎士安息
+academy.knightphantom.text1=你可以在黑暗森林中找到哥布林堡壘，那裡充滿了怪物和寶藏。有一個房間要對六個幻影騎士戰鬥。
+academy.knightphantom.text2=殺死所有的幻影騎士才能進入黑暗之塔。
+academy.knightphantom.task=成就：號令砷鉛鐵機關
+
+academy.urghast.title=哭泣的嬰兒
+academy.urghast.desc=讓暮光幽哭泣
+academy.urghast.text1=黑暗之塔可以在黑暗森林中隱約看到。當你攀登它時，你必須克服許多難題並與許多怪物戰鬥。
+academy.urghast.text2=需要熾熱之淚以及其他兩個 Boss 的掉落物才能解鎖高原。
+academy.urghast.task=成就：火之淚
+
+academy.yeti.title=很酷的傢伙
+academy.yeti.desc=把雪怪首領擊倒
+academy.yeti.text1=雪怪首領可以在雪地生物群系的雪怪洞窟中找到。
+academy.yeti.text2=拿到一些毛皮來解鎖冰川。
+academy.yeti.task=成就：雪怪的皮毛
+
+academy.snowqueen.title=弒君
+academy.snowqueen.desc=推翻冰雪女王
+academy.snowqueen.text1=冰雪女王位於冰川頂部的極光宮殿頂部。
+academy.snowqueen.text2=一旦你擊敗了冰雪女王並從其他兩個 Boss 那裡收集了掉落物，你就可以進入高原。
+academy.snowqueen.task=成就：晴朗的天空
+
+academy.cinders.title=破門而入
+academy.cinders.desc=從巨人的家中搶劫他們
+academy.cinders.text1=在高原下，您可以找到巨魔洞穴，其中包含大大小小的黑曜石房間，當然還有巨魔。
+academy.cinders.text2=找到一些魔豆並使用它們到達上面的雲上小屋。在那裡殺死一個礦工巨人並拿走他們的巨人之鎬，然後返回巨魔洞穴。
+academy.cinders.text3=使用巨人之鎬在巨型黑曜石房間中獲得灰燼神燈。
+academy.cinders.task=成就：燃燒吧 火鳥!
+
+academy.castle.title=做一個很酷的基地
+academy.castle.desc=探索終結城堡
+academy.castle.text1=使用煤渣燈繞過荊棘地並到達最終高原。在其中，您可以找到終結城堡。
+academy.castle.text2=模組還沒有完成，所以終結城堡幾乎完全沒有完成。沒有老闆，謎題也不起作用。這是目前進展的結束，但仍在進行中。
+
+
+# 星輝魔法 - Astral Sorcery
+
+academy.astraltome.title=你知道的越多...
+academy.astraltome.desc=製作星芒寶典
+academy.astraltome.text1=星芒寶典是有關星輝魔法的最佳信息來源。它有多個章節，您必須使用滑鼠滾輪來放大查看。
+academy.astraltome.text2=一開始，你唯一能看到的章節是發現。你越進步，解鎖的章節就越多。
+
+academy.constellationpaper.desc=找到一份星圖
+academy.constellationpaper.text1=星座是模組中最重要的部分之一，可以在神殿中找到。你現在可以得到五個。
+academy.constellationpaper.text2=潛行右鍵單擊星芒寶典並將星圖插入其中。這將在星芒寶典中創建一個包含星座列表的新頁面，儘管它們遺漏了任何重要信息。
+
+academy.reswand.title=Magical Tuning Fork
+academy.reswand.desc=製作共鳴星杖
+academy.reswand.text1=要開始星輝魔法, 你必須在世界的某個地方找到一座古代神殿。你可以在山區找到它們；它們是有噴泉大型大理石結構。
+academy.reswand.text2=挖掘古代神殿的地下室，找到一個浮動水晶。這對以後很重要，但現在只需在附近的任何地方放置一個工作台。這將允許您在該工作台中製作需要星能的物品。
+academy.reswand.text3=拿著共鳴星杖在世界各地走動時，漂浮的白色閃光會標記某些區域下方有水晶石礦石。
+
+academy.luminouscraftingtable.title=Night Shift
+academy.luminouscraftingtable.desc=製作星輝合成台
+academy.luminouscraftingtable.text1=星輝合成台允許您使用星能進行製作，而不必靠近浮動水晶，但它確實需要能夠直視其上方的夜空。
+academy.luminouscraftingtable.text2=它可以接收到的星能取決於它的高度和位置。
+academy.luminouscraftingtable.text3=要使用星輝合成台進行製作，請確保它有足夠的星能，然後用共鳴星杖右鍵單擊它。
+academy.luminouscraftingtable.text4=製作星輝合成台後，星芒寶典中的探索章節就會解鎖。
+
+academy.sextant.title=建築助手
+academy.sextant.desc=製作六分儀
+academy.sextant.text1=星輝魔法有幾種多方塊結構，建造起來很容易混淆。如果您在多方塊結構的主要部分使用六分儀，它會告訴您放置方塊的位置以完成它。
+academy.sextant.text2=在晚上使用六分儀並仰望星空，您可能會看到一顆大的彩色星星。按住潛行釋放滑鼠並懸停在其上，它將變為右側的圖標之一。將該圖標拖到星星上進行標記，您將能夠在夜空中看到它。跟著它來在世界上找到那個結構。
+
+academy.lookingglass.title=透過望遠鏡
+academy.lookingglass.desc=製作望遠鏡
+academy.lookingglass.text1=透過使用望遠鏡，您可以在夜空中搜索您在星圖中發現的任何星座。使用望遠鏡每晚只能看到一個星座，因此您要搜索的星座可能需要好幾個晚上才會出現。
+academy.lookingglass.text2=屬於某一星座的星星會更大，而且會閃爍著。如果它是您已經發現的星座，請按住潛行釋放滑鼠並在星座圖案中描繪星星之間的線條。
+
+academy.lightwell.title=月光浴
+academy.lightwell.desc=製作聚星缸
+academy.lightwell.text1=聚星缸用於製造星能液，在聚星缸受星光直射时，手持海藍寶石或水晶石右擊聚星缸放入。材料越昂貴，產出星能液越多，持續產出時間也越長。
+academy.lightwell.text2=你可以將水晶石投入一些星能液中，它會慢慢增加它的大小。更大的水晶石會增加用它們製成的工具的耐用性。
+
+academy.fosicresonator.title=建設性干擾
+academy.fosicresonator.desc=製作法斯刻共振器
+academy.fosicresonator.text1=有些地區比其他地區更適合獲得星能，而且很難找到一個合適的位置。
+academy.fosicresonator.text2=手持法斯刻共振器在夜間探索，您可以找到發出藍色光的區域。藍光越強烈，那裡的星能就越多。
+
+academy.spectralrelay.title=星能增強
+academy.spectralrelay.desc=製作光波增幅器
+academy.spectralrelay.text1=如果您無法找到完美的位置，您可以使用光波增幅器來增強星能。在你想要給星能的結構附近建造多方塊結構以增強星能。
+academy.spectralrelay.text2=如果光波增幅器之間的間隔在 16 格以內，它們會損失很多效果。
+
+academy.illuminationpowder.title=小夜燈
+academy.illuminationpowder.desc=製作輝光粉
+academy.illuminationpowder.text1=輝光粉是一種很好的光源。不佔方塊空間，不可觸碰，也不需要支撐。
+academy.illuminationpowder.text2=摧毀它的唯一方法是在它上面放置一個方塊。
+
+academy.caveilluminator.desc=製作洞穴照明器
+academy.caveilluminator.text=洞穴照明器將在大範圍內緩慢照亮其下方的所有黑暗區域。
+
+academy.nocturnalpowder.title=黑光
+academy.nocturnalpowder.desc=製作暗夜粉
+academy.nocturnalpowder.text=當投擲暗夜粉時，它會產生一個會產生怪物的黑雲。
+
+academy.grindstone.title=質重於量
+academy.grindstone.desc=製作砂輪
+academy.grindstone.text1=砂輪可用於打磨劍，為其增加 10% 的傷害。
+academy.grindstone.text2=您還可以使用它們來打磨水晶石，這將增加用它們製作的工具的傷害/速度，但代價是減少它們的尺寸。
+
+academy.starlightcraftingaltar.desc=製作星輝祭壇
+academy.starlightcraftingaltar.text1=星輝祭壇是使用星能的第二層級工作台。當您在星輝合成台中製作它時，它不會彈出，而是會轉化為星輝祭壇。
+academy.starlightcraftingaltar.text2=為了讓星輝祭壇工作，你必須在它周圍建造一個結構。您可以使用六分儀查看放置方塊的位置。
+academy.starlightcraftingaltar.text3=製作星輝祭壇之後，星芒寶典中的共振章節就會解鎖。
+
+academy.telescope.title=我用我的小眼睛監視
+academy.telescope.desc=製作天文望遠鏡
+academy.telescope.text=天文望遠鏡本質上是升級版的望遠鏡。把它放在世界上，用它來看看夜空的一部分。除此之外，它的工作原理與望遠鏡完全一樣。
+
+academy.linkingtool.title=嘿！聽著！
+academy.linkingtool.desc=製作連結器
+academy.linkingtool.text1=連結器允許您在浮動水晶和其他方方塊之間建立連接。只需潛行右鍵單擊星能的來源，然後右鍵單擊您希望將其連接到的所有內容。
+academy.linkingtool.text2=當連接到浮動水晶時，一些方塊會變成其他方塊。要查看列表，請檢查 JEI 以了解水晶透鏡的用途。
+
+academy.starmetal.title=搖滾巨星
+academy.starmetal.desc=製作星輝錠
+academy.starmetal.text=如果您將浮動水晶連接到鐵礦石，它會變成星輝礦石。
+
+academy.astralsorcerylens.title=星能重新定位
+academy.astralsorcerylens.desc=製作透鏡
+academy.astralsorcerylens.text1=您可以使用透鏡將星能從光源移動到遠處。只需將來源鏈接到透鏡，然後將透鏡鏈接到目標。您可以擁有任意數量的來源，但您只能擁有一個目的地。
+academy.astralsorcerylens.text2=您可以將彩色透鏡插入透鏡方塊中，使穿過它的星能發揮作用。每種顏色都有不同的功能，在其工具提示中查看。
+
+academy.celestialgateway.title=星際旅行
+academy.celestialgateway.desc=製作天體星門
+academy.celestialgateway.text1=天體星門是一個多方塊結構，允許你傳送到其他天體星門。站在平台中央附近時，您周圍的環境將消失，您將能夠看到其他天體星門的位置。潛行看著你的目的地，你會被送到那裡。
+academy.celestialgateway.text2=您可以在鐵砧中命名一個天體星門，以便更容易地將其與其他天體星門區分開來。
+
+academy.impulsionwand.title=Grappling Hook!
+academy.impulsionwand.desc=製作衝擊星杖
+academy.impulsionwand.text=使用衝擊星杖右鍵單擊以發射能量球。當它著陸時，它會迅速將您拉過去。你不會受到墜落傷害。
+
+academy.attunementaltar.title=可以說是有史以來最酷的事情
+academy.attunementaltar.desc=製作共鳴祭壇
+academy.attunementaltar.text1=共鳴祭壇使您能夠將自己或某些物品與星座進行共鳴，從而獲得令人敬畏的力量。手持星圖，將光波增幅器放在發光區域。如果那個星座在夜空中，它會將祭壇頂部的任何東西都與那個星座互相共鳴。
+academy.attunementaltar.text2=雖然您可以共鳴像水晶之類的物品，但真正有趣的部分是能夠將自己與星座共鳴。將自己共鳴到一個星座將解鎖一個巨大的星能力樹，您可以通過根據星座主題執行操作來獲得經驗值。
+
+academy.shiftingstar.title=重新規劃
+academy.shiftingstar.desc=製作一顆更替之星
+academy.shiftingstar.text=如果您對共鳴的星座或您選擇的星能力不滿意，您可以使用更替之星來完全重置您的星能力進度和共鳴。
+
+academy.ritualpedestal.title=影響整個範圍
+academy.ritualpedestal.desc=製作效應放大器
+academy.ritualpedestal.text1=效應放大器的作用有點像烽火台，除了它們不是提供藥水的效果，而是執行一些功能，例如允許飛行或阻止怪物在其區域內生成（取決於大小和純度）。
+academy.ritualpedestal.text2=它們執行的功能取決於內部的水晶石所共鳴的星座。您可以在星座頁面中查看每個星座的作用。
+academy.ritualpedestal.text3=您可以通過浮動水晶和透鏡直接為其提供星能來提高效應的有效性。這樣做也會將其中的一些反射出去，因此您必須放置更多的透鏡才能將浪費的星能送回效應放大器。然而，這確實有更大的破壞共鳴水晶石的風險。
+
+academy.domicresonator.title=DOMA, DOMA DOMA DOMA!
+academy.domicresonator.desc=製作多米刻共振器
+academy.domicresonator.text1=多米刻共振器是法斯刻共振器的升級版。您可以通過潛行右鍵單擊它在模式之間切換。
+academy.domicresonator.text2=多米刻共振器將通過右鍵單擊主塊（例如效應放大器或烽火樹）向您展示效應和類似事物的範圍。
+
+academy.celestialaltar.desc=製作天輝祭壇
+academy.celestialaltar.text1=天界祭壇是使用星能的第三層級合成台。當您在星輝祭壇中製作它時，它不會彈出，而是會轉化為天輝祭壇。
+academy.celestialaltar.text2=如果周圍沒有更新、更大的多方塊結構，天輝祭壇將無法運作。您可以使用六分儀查看放置方塊的位置。
+academy.celestialaltar.text3=一旦你製作了天輝祭壇，星芒寶典中的星宿章節就會解鎖。
+
+academy.starlightinfuser.title=星能，星光
+academy.starlightinfuser.desc=製作星能聚合器
+academy.starlightinfuser.text1=星能聚合器是一個多方塊結構，允許您使用星能液處理某些方塊和物品，並以某種方式升級它們。
+academy.starlightinfuser.text2=使用星能聚合器有可能用完一些星能液，必須更換才能繼續。
+academy.starlightinfuser.text3=您可以為水晶石工具充能使其在右鍵單擊時能使用特殊能力，例如充能水晶石鎬可以顯示附近的礦石。
+
+academy.treebeacon.title=Treacon
+academy.treebeacon.desc=製作烽火樹
+academy.treebeacon.text1=在烽火樹附近生長的樹苗會長成無法被破壞的特殊樹，但會被動掉落原木和樹苗。
+academy.treebeacon.text2=烽火樹僅適用於一般的樹苗，而不適用於 Dynamic Trees 樹苗。
+
+academy.celestialcrystal.desc=製作天體水晶石
+academy.celestialcrystal.text1=天體水晶石比水晶石更強更大。在幾乎所有配方需要水晶石的情況下，天體水晶石都會做得更好。
+academy.celestialcrystal.text2=要種植天體水晶石，請將一些星塵和水晶石放入一些星能液中，然後等待。這將創造一個天體水晶簇，它需要時間來成長。當它開始發出白色粒子時，可以通過開採來收穫它。
+
+academy.sextant2.desc=製作更先進的六分儀
+academy.sextant2.text=高級六分儀可讓您定位更多結構，例如村莊、海底神殿碑和地獄要塞。
+academy.sextant2.task=更先進的六分儀
+
+academy.ritualanchor.title=遠程效應
+academy.ritualanchor.desc=製作一對效應連結通道
+academy.ritualanchor.text1=效應放大器又大又笨重，所以你可能不想在你的基地中間放一個。效應連結通道可以讓你擁有效應的影響，而不必讓整效應放大器個擋在路上。
+academy.ritualanchor.text2=當您製作一對儀式錨時，它們將永遠保持聯繫。在效應放大器上方 5 格處放置一個，將另一個放置在您希望效應集中影響的位置。
+
+academy.stellarrefractiontable.desc=製作群星映射台
+academy.stellarrefractiontable.text1=群星映射台允許您使用星座為物品附魔。
+academy.stellarrefractiontable.text2=右鍵單擊聚能玻璃和羊皮紙到映射台中並打開其 GUI。將最多三個星座拖到羊皮紙上，將它們蝕刻到聚能玻璃上。這會破壞羊皮紙。
+academy.stellarrefractiontable.text3=右鍵點擊一個附魔物品進入表格，它會根據注入的星座開始添加附魔。這些附魔會非常強大。
+
+academy.illuminationwand.title=鬼火
+academy.illuminationwand.desc=製作照明星杖
+academy.illuminationwand.text1=使用照明星杖右鍵單擊將放置耀斑，您可以使用星杖左鍵單擊將其移除。你可以用染料製作星杖來改變燈光的顏色。
+academy.illuminationwand.text2=潛行右鍵單擊一個方塊將使它們透明並發光，並使它們能夠抵抗所有傷害。
+
+academy.collectorcrystal.title=遠古之力
+academy.collectorcrystal.desc=製作聚能水晶
+academy.collectorcrystal.text1=使用神殿的浮動水晶是很好的，但如果你能自己製作它們就太方便了。如果那可能的話……
+academy.collectorcrystal.text2=這些聚能水水晶的工作原理與普通浮動水晶完全相同，但您可以將它們放在任何您想要的地方！
+
+academy.celestialcollectorcrystal.desc=製作天體聚能水晶
+academy.celestialcollectorcrystal.text1=就像天體水晶本質上是升級的水晶石一樣，天體聚能水晶本質上是升級的聚能水晶。
+academy.celestialcollectorcrystal.text2=您可以建造一個結構來升級它，這基本上可以使您不再需要擔心星能。
+
+academy.iridescentaltar.title=絕對的光輝
+academy.iridescentaltar.desc=製作五彩祭壇
+academy.iridescentaltar.text1=五彩祭壇是第四層級也是最後一層級可使用星能的合成台。當您在天輝祭壇中製作它時，它不會彈出，而是會轉化為五彩祭壇。
+academy.iridescentaltar.text2=如果沒有更新、更大的多方塊結構圍繞它，五彩祭壇將無法運作。您可以使用六分儀查看放置方塊的位置。
+academy.iridescentaltar.text3=一旦你製作了五彩祭壇，光輝章節將在星芒寶典中解鎖。
+academy.iridescentaltar.text4=五彩祭壇與其他祭壇的不同之處在於，您還必須在周圍的熏黑大理石上放置光波增幅器，這將在製作配方期間請求特定物品。五彩祭壇內也必須有一個聚能水晶。
+
+academy.containmentchalice.title=活生生的液體
+academy.containmentchalice.desc=製作遏制聖杯
+academy.containmentchalice.text1=遏制聖杯最多可容納 24 桶液體。附近聚星缸的任何星能液都會從聚星缸中飄出，進入遏制聖杯。
+academy.containmentchalice.text2=如果您有多個具有某種相互作用的遏制聖杯（例如，水和熔岩），少量流體會浮出並相遇，形成它們組合的結果（在本例中為石頭、鵝卵石或黑曜石）。如果有多種可能的結果，它會隨機選擇一個。
+academy.containmentchalice.text3=星能聚合器將嘗試使用遏制聖杯中的星能液，然後再用完放置在世界上的星能液。
+
+academy.observatory.title=天文館
+academy.observatory.desc=製作瞭望台
+academy.observatory.text1=瞭望台被放置在世界上，然後像望遠鏡一樣使用。
+academy.observatory.text2=瞭望台是發現朦朧的星座唯一的途徑。朦朧的星座本身什麼都不做，它們會改變已共鳴水晶的行為。
+
+academy.mantleofthestars.title=華麗的服飾
+academy.mantleofthestars.desc=製作星斗披風
+academy.mantleofthestars.text1=星斗披風可以與星座相協調以獲得特殊能力。
+academy.mantleofthestars.text2=星斗披風是在五彩祭壇中共鳴，而不是在共鳴祭壇中。
+
+academy.attunedreswands.title=Holly and Phoenix Feather, Eleven Inches
+academy.attunedreswands.desc=製作跟星座共鳴的共鳴星杖
+academy.attunedreswands.text=你可以將共鳴星杖與星座互共鳴，賦予它們特殊的能力，比如在空中行走、彈飛自己以及在攻擊生物時造成額外傷害的能力。
+academy.attunedreswands.task=任何與星座共鳴的共鳴星杖
+
+academy.evershiftingfountain.desc=製作萬象泉
+academy.evershiftingfountain.text1=萬象泉是多方塊結構的一部分。萬象泉多方塊結構無法單獨工作，必須有噴口配合工作。在萬象泉底部放置噴口。
+academy.evershiftingfountain.text2=兩種噴口都使用星能液作為燃料。為了給它驅動，將一個遏制聖杯放在萬象泉的頂部，並用星能液填充它。
+
+academy.neromantic.title=我 ❤ 尼祿皇帝
+academy.neromantic.desc=製作納耳狂曼噴口
+academy.neromantic.text1=Neromantic Prime 鑽出一個與萬象泉多方塊結構一樣寬的洞直通基岩，然後開始產生流體。這種液體會被送到附近的任何遏制聖杯。
+academy.neromantic.text2=不同的區域會產生不同的流體。
+
+academy.ichosic.title=艾克斯是什麼意思？誰知道！
+academy.ichosic.desc=製作一個艾克斯共振器
+academy.ichosic.text1=艾克斯共振器是法斯刻共振器的升級版。它可以用法斯刻共振器或多米刻共振器製作。潛行右鍵單擊以在模式之間切換。
+academy.ichosic.text2=艾克斯共振器會在地面顯示可被納耳狂曼噴口吸取的流體的所在位置。晚上在您手中時，您會看到地面上突然冒出少量液體。這是可以吸取流體的地方。
+
+academy.fysallidic.title=更容易記住奇怪的名字
+academy.fysallidic.desc=製作費薩利德噴口
+academy.fysallidic.text=費薩利德噴口會在寬闊的水平半徑範圍內吸收其下方的所有生物，然後將它們凍結在略低於自身的空氣中。
+
+# 雜項
+
+academy.instrumentalmobs.title=讓我們組成一個樂隊吧
+academy.instrumentalmobs.desc=從 Instrumental Mobs 獲取任何樂器
+academy.instrumentalmobs.text=Instrumental Mobs 模組添加了大多數原版怪物的版本，但它們不會殺死你，而是播放音樂！他們的樂器器會將你擊退，但不會傷害你。殺死他們將有很小的機率掉落他們的樂器。
+academy.instrumentalmobs.task=Instrumental Mobs 的任何樂器
+
+academy.claimexplosions.title=Fizz Goes the Dynamite
+academy.claimexplosions.desc=讓苦力怕在你聲明的區塊中爆炸
+academy.claimexplosions.text1=在聲明的區塊中，苦力怕的爆炸將被完全禁用。他們仍然可以對你造成傷害，但他們不會破壞任何方塊。
+academy.claimexplosions.text2=這也可以防止凋靈用它的爆炸破壞方塊，但它不會阻止它在受到傷害時破壞自身周圍的方塊。
+
+academy.elevator.title=上樓
+academy.elevator.desc=製作電梯
+academy.elevator.text=如果你在電梯上跳躍，你會傳送到它上面的電梯。同樣，如果你在電梯上潛行，你會傳送到它下面的那一層。顏色無所謂。
+academy.elevator.task=任何電梯
+
+academy.exchanging.title=這裡對那裡
+academy.exchanging.desc=製作一個更替小幫手
+academy.exchanging.text=更替小幫手具以類似於建築小幫手的模式替換方塊。在要替換的方塊上潛行右擊，設置模式和範圍，然後右擊替換。
+
+academy.destructiongadget.title=在創造之前要先毀滅
+academy.destructiongadget.desc=製作破壞小幫手
+academy.destructiongadget.text=破壞小幫手可以一次破壞大量方塊。破壞掉的方塊不會成為掉落物，它們將永遠消失（你預設可以按 U 取消操作）。
+
+academy.copypaste.title=外包建築
+academy.copypaste.desc=製作複製-粘貼小幫手
+academy.copypaste.text=製作複製-粘貼小幫手將允許您複製一個區域並將其放置在其他地方，而不會破壞原始區域。您還可以放置其他人在線上製作的結構！
+
+academy.buildinggadget.title=9x9s Made Easy
+academy.buildinggadget.desc=製作建築小幫手
+academy.buildinggadget.text=建築小幫手可以快速建造簡單的結構，如牆、樓梯。
+
+academy.wateringcan.title=Not Watering Can't
+academy.wateringcan.desc=製作澆水壺
+academy.wateringcan.text1=澆水壺在使用時會加速植物生長，這需要水。您可以通過潛行右鍵單擊水源補充澆水壺。
+academy.wateringcan.text2=更高等級的噴壺可以儲存更多的水，有更大的最大面積，並且有更高的機會成長植物。
+
+academy.slimechannel.title=凝膠狀
+academy.slimechannel.desc=製作史萊姆頻道
+academy.slimechannel.text1=史萊姆通道會將所有實體（物品和生物）推向它們所面對的方向，包括向上和沿著牆壁。
+academy.slimechannel.text2=它們不會阻止生物生成，因此它們在生物磨床中效果很好。
+academy.slimechannel.task=任何史萊姆頻道
+
+academy.craftingtableonastick.title=合成台+木棒=？
+academy.craftingtableonastick.desc=製作手持合成台
+academy.craftingtableonastick.text=手持合成台正是它聽起來的樣子。右鍵單擊它以打開 3x3 製作。
+
+academy.tinytorch.title=生命之光
+academy.tinytorch.desc=製作微型火把
+academy.tinytorch.text=微型火把是一般火把的更便宜的替代品。但是，與火把的 14 相比，它的亮度僅為 12。
+
+academy.foodxl.title=變化是生活的調味料
+academy.foodxl.desc=從 XL Food（超多食物模組）模組獲得一些東西
+academy.foodxl.text=XL Food 添加了種類繁多的食品。從起司漢堡到義大利麵，應有盡有！
+academy.foodxl.task=來自 XL Food Mod 的任何東西
+
+academy.mobgrindingutils.title=Mobs Made Easy
+academy.mobgrindingutils.desc=製作怪物搗碎器和怪物風扇
+academy.mobgrindingutils.text1=Mob Grinding Utils（刷怪塔實用設備）添加了許多特殊的方塊，讓您可以輕鬆地刷怪。
+academy.mobgrindingutils.text2=當收到紅石信號時，怪物風扇會朝他們面對的方向吹生物，他們可以被升級以增加他們的工作區域。
+academy.mobgrindingutils.text3=當收到紅石信號時，怪物搗碎器會傷害任何接觸它的生物。您可以對其進行升級以使其造成更多傷害並給予它掠奪。
+academy.mobgrindingutils.reward1=掠奪
+academy.mobgrindingutils.reward2=鋒利
+
+academy.solidifiedxp.title=名副其實
+academy.solidifiedxp.desc=獲得一些固態經驗
+academy.solidifiedxp.text1=當怪物被殺死時，會有機率掉落固態經驗。它們本質上是物品形式的經驗球。使用它們來獲得經驗。
+academy.solidifiedxp.text2=在潛行時使用它們以一次使用整組。
+
+academy.xpsolidifier.title=存給之後使用
+academy.xpsolidifier.desc=製作經驗固化器
+academy.xpsolidifier.text1=經驗固化器讓你可以將經驗轉化為固態經驗，以物品形式儲存。
+academy.xpsolidifier.text2=它還會收集自身 5 格內地面上的任何經驗球，並將其轉化為固化經驗。
+
+academy.atmagnet.title=Animal Magnetism
+academy.atmagnet.desc=製作磁力戒指
+academy.atmagnet.text1=開啟時，磁力戒指使用 RF 收集您周圍的物品。
+academy.atmagnet.text2=您可以透過潛行右鍵單擊來打開和關閉它。
+
+academy.atgrowth.title=園藝高手
+academy.atgrowth.desc=製作生長戒指
+academy.atgrowth.text=開啟時，生長戒指使用 RF 使附近的作物生長得更快。
+
+# 教學
+
+academy.tutorial.jei.title=Just Enough Items
+academy.tutorial.jei.1=你的物品欄
+academy.tutorial.jei.2=模組向遊戲添加了一堆新方塊和新物品，記住它們的合成表絕非易事。這就是 Just Enough Items 模組被加入模組包的原因。
+academy.tutorial.jei.3= JEI 模組在物品欄右側添加了物品列表。
+academy.tutorial.jei.4=搜索物品
+academy.tutorial.jei.5=通過在搜索框中輸入物品名稱，你可以過濾列表。
+academy.tutorial.jei.6=提示信息
+academy.tutorial.jei.7=滑鼠懸浮在物品上可查看物品的名稱以及來源模組。
+academy.tutorial.jei.8=合成表
+academy.tutorial.jei.9=左鍵點擊一個物品（或將滑鼠懸浮於該物品上按 R）查看合成表。
+academy.tutorial.jei.10=右鍵點擊一個物品（或將滑鼠懸浮於該物品上按 U）查看什麼合成需要該物品。
+academy.tutorial.jei.11=這是你用這個合成製作這個物品可以使用的全部材料。
+academy.tutorial.jei.29=某些物品具有標籤，您可以在其中閱讀該物品的工作原理。
+academy.tutorial.jei.12=礦物詞典
+academy.tutorial.jei.13=某些合成表不限於單種物品，而是接受同一類型物品。這種做法的原理是礦物詞典。
+academy.tutorial.jei.14=您可以將滑鼠懸停在合成表中的某個物品上，以查看可以使用哪種類的物品而不是顯示的特定項目。
+academy.tutorial.jei.15=這是你用這個合成製作這個物品可以使用的全部材料。
+academy.tutorial.jei.16=處理配方
+academy.tutorial.jei.17= JEI 不局限於顯示合成表，你也可以查看熔煉配方，生物掉落，礦石生成分佈等等！
+academy.tutorial.jei.18=這些是製作這個物品可用使用的不同方法和不同機器。
+academy.tutorial.jei.19=合成自動填充
+academy.tutorial.jei.20=如果你身上備齊了合成的所需物品，點擊合成表下的 “+” 按鈕自動填充物品至對應合成槽位。
+academy.tutorial.jei.21=合成自動填充
+academy.tutorial.jei.22=合成自動填充對 3x3 配方也生效，只是你需要在合成台 GUI 中完成這一過程。
+academy.tutorial.jei.23=書籤
+academy.tutorial.jei.24=您可以將滑鼠懸停在一個物品上並點擊 A 將其添加到書籤，將其固定在物品欄的左側，直到您再次點擊 A 將其取消固定。
+academy.tutorial.jei.25=您可以單擊左下角的按鈕來隱藏書籤。
+
+
+academy.tutorial.quests.title=任務
+academy.tutorial.quests.1=打開任務選單
+academy.tutorial.quests.2=這個模組包有很多任務可以教你怎麼玩。
+academy.tutorial.quests.3=要打開任務選單，請單擊物品欄左上角的按鈕或使用任務書。
+academy.tutorial.quests.4=任務書
+academy.tutorial.quests.5=任務按鈕
+academy.tutorial.quests.6=任務選單
+academy.tutorial.quests.7=左鍵單擊任務以將其打開。
+academy.tutorial.quests.8=大多數任務在解鎖前都是隱藏的。深灰色任務即使可見也會被鎖定。
+academy.tutorial.quests.9=任務信息
+academy.tutorial.quests.14=任務目標
+academy.tutorial.quests.15=您必須完成所有任務目標才能完成任務。
+academy.tutorial.quests.16=將滑鼠懸停在任務目標上以查看您必須執行的操作。
+academy.tutorial.quests.17=部分任務完成後可能會有獎勵，點擊即可領取。
+academy.tutorial.quests.18=任務進度
+academy.tutorial.quests.19=當一個任務完成後，下一個任務將解鎖。
+academy.tutorial.quests.20=章節
+academy.tutorial.quests.21=當你從學校畢業後，將解鎖更多章節。
+academy.tutorial.quests.22=您可以通過從任務選單左側的章節列表來打開它們。
+academy.tutorial.quests.23=子章節
+academy.tutorial.quests.24=某些章節可能有子章節，您可以將滑鼠懸停在主章節上，然後從下拉列表中單擊子章節來打開。
+academy.tutorial.quests.25=並非所有章節都有子章節。
+
+academy.tutorial.school.title=學校
+academy.tutorial.school.1=重置学校
+academy.tutorial.school.2=萬一你被卡住了，你可以使用重置學校按鈕來創建一個新學校並重新開始任務。
+academy.tutorial.school.3=跳過學校
+academy.tutorial.school.4=如果您不想坐在教室中，您可以單擊“跳過學校”按鈕直接進入主世界並開始正常遊玩。
+
+academy.tutorial.top.title=一個探針（The One Probe）
+academy.tutorial.top.1=方塊
+academy.tutorial.top.2=一個探針模组在螢幕頂部添加了藍色方格。
+academy.tutorial.top.3=藍色方格中有你正指向的方塊的信息，如其名稱、其所屬模組以及破壞該方塊所需的工具。
+academy.tutorial.top.4=查看庫存裡的內容
+academy.tutorial.top.5=您可以通過潛行來查看有關該方塊的額外信息，例如庫存裡的內容。
+academy.tutorial.top.6=流體
+academy.tutorial.top.7=按住潛行鍵可查看流體容器內流體存量，以及容器最大容量。
+academy.tutorial.top.8=發電機
+academy.tutorial.top.9=發電機和機器將顯示當前其中的RF存量。
+academy.tutorial.top.10=工作進度
+academy.tutorial.top.11=對於某些方塊，如熔爐、一些機器，一個探針模組會在藍色方格顯示方塊當前工作進度。
+
+academy.tutorial.journeymap.title=旅行地圖 - JourneyMap
+academy.tutorial.journeymap.1=小地圖
+academy.tutorial.journeymap.2=旅行地圖模組在界面右上角添加了一個小地圖。
+academy.tutorial.journeymap.3=小地圖下方顯示了目前坐標與生物群系。
+academy.tutorial.journeymap.4=定位點
+academy.tutorial.journeymap.5=你可以按下“建立定位點”按鈕來打開新定位點選單（默認為 B 鍵）。
+academy.tutorial.journeymap.6=你可以設定名字，位置（預設當前坐標位置），顏色以及所在維度。
+academy.tutorial.journeymap.7=因地獄的坐標與主世界坐標比呈 1:8，兩邊的定位點坐標都會自動調整。也就是說如果你在某個位置上創建了定位點並在另一個維度的對應位置搭建傳送門，則定位點所在維度的傳送門會與定位點重合！
+academy.tutorial.journeymap.8=定位點會以信標光束的形式顯示。如果你用準星指向定位點，你將看到其名稱以及距離。
+academy.tutorial.journeymap.9=若走近定位點，定位點光束會消失。
+academy.tutorial.journeymap.10=全畫面地圖
+academy.tutorial.journeymap.11=您可以點擊全畫面地圖按鈕（預設為 J）打開全畫面地圖。
+academy.tutorial.journeymap.12=你可以在全畫面地圖中看到你去過的地方。你也可以看到你創建的所有定位點、附件的生物以及附近的玩家。
+academy.tutorial.journeymap.13=你可以改變地圖樣式——只需按下頂部的按鈕。此外，頂部的按鈕還具有改變某些物體的可見性的功能。
+academy.tutorial.journeymap.14=底部按鈕可以查看路徑點選單、改變模組設置以及其他類似的功能。
+academy.tutorial.journeymap.15=單人遊戲時，可按下自動繪製地圖按鈕來自動畫出你未探索的地區的地圖。 
+academy.tutorial.journeymap.16=洞穴地圖
+academy.tutorial.journeymap.17=旅行地圖模組會畫出你探索的洞穴的地圖。
+academy.tutorial.journeymap.18=地圖的每一層覆蓋垂直方向 15 個方塊。你可以通過頂部的洞穴圖層按鈕來切換顯示圖層。
+academy.tutorial.journeymap.19=洞穴圖層按鈕
+
+
+# Overlays
+
+academy.overlay.welcome.title=歡迎來到 FTB Academy!
+academy.overlay.welcome.1=右鍵單擊物品欄中的任務書以開始上學!
+
+academy.overlay.storage.title=儲存
+academy.overlay.storage.1=前往儲存專區
+academy.overlay.storage.2=打開不同的儲存方塊
+academy.overlay.storage.3=從箱子中取出 箱子升級：木>鐵
+academy.overlay.storage.4=透過使用箱子升級右鍵單擊來升級箱子
+academy.overlay.storage.5=敲擊鵝卵石儲物抽屜來取出一些
+academy.overlay.storage.6=敲擊木材儲物抽屜來取出一些
+academy.overlay.storage.7=使用鐵粒右擊壓縮抽屜的右下槽，然後敲擊頂部槽取出一個鐵磚
+academy.overlay.storage.8=打開硬碟櫃並插入儲存硬碟
+academy.overlay.storage.9=打開面板並取出鐵桶
+academy.overlay.storage.10=從面板中取出鐵桶
+academy.overlay.storage.11=用鐵桶右鍵單擊裝滿水的儲液罐以取出一些水
+academy.overlay.storage.12=用水桶單擊右鍵，將水移至儲液罐
+
+academy.overlay.tech.title=科技與自動化
+academy.overlay.tech.1=前往科技與自動化專區
+academy.overlay.tech.2=打開左側的箱子，取出每種礦石和泥土各一個
+academy.overlay.tech.3=點擊GUI左側的三角形按鈕將右側過濾器設置為白名單，然後將礦石放入頂部的槽中
+academy.overlay.tech.4=點擊GUI左側的三角形按鈕將中間過濾器設置為白名單，然後將泥土放入頂部的槽中
+academy.overlay.tech.5=點擊GUI左側的三角形按鈕將左側過濾器設置為黑名單，然後將礦石和泥土放入頂部的槽中
+academy.overlay.tech.6=拉起拉桿
+academy.overlay.tech.7=用新月錘右鍵單擊上面的儲罐
+academy.overlay.tech.8=右鍵點擊儲罐下方的伺服器，點擊右上角的紅石按鈕，將紅石控制改為忽略紅石信號
+academy.overlay.tech.9=將煤炭發電機放在鐵磚上
+academy.overlay.tech.10=將煤炭放入發電機
+academy.overlay.tech.11=將鉛石能量管道放在洋紅色羊毛上
+academy.overlay.tech.12=將紅石爐放在青金石磚上
+academy.overlay.tech.13=從礦石箱中取出 4 個鐵礦石並在紅石爐中燒煉它們
+
+academy.overlay.as.title=星輝魔法-Astral Sorcery
+academy.overlay.as.1=前往星輝魔法專區
+academy.overlay.as.2=從箱子取出物品
+academy.overlay.as.3=將工作台放在白羊毛上
+academy.overlay.as.4=製作共鳴星杖（請參閱 JEI 以獲取配方）
+academy.overlay.as.5=製作星輝合成台（請參閱 JEI 以獲取配方）
+academy.overlay.as.6=將星輝合成台放在浮雕石英磚上
+academy.overlay.as.7=製作一些輝光粉（請參閱 JEI 以獲取配方）
+academy.overlay.as.8=用共鳴星杖右鍵點擊星輝合成台開始製作
+
+academy.overlay.botania.title=植物魔法-Botania
+academy.overlay.botania.1=前往植物魔法專區
+academy.overlay.botania.2=從箱子取出物品
+academy.overlay.botania.3=將花朵製作成花瓣（請參閱 JEI 以獲取配方）
+academy.overlay.botania.4=用水桶裝滿花藥台
+academy.overlay.botania.5=在花藥台中丟入 1 個淺灰色、1 個紅色和 2 個棕色花瓣，然後丟入種子以開始製作火紅蓮
+academy.overlay.botania.5_5=如果你扔錯了花瓣，你可以在潛行時空手右擊取出它們
+academy.overlay.botania.6=將火紅蓮放在最亮的草地上
+academy.overlay.botania.7=在火紅蓮附近的地面上丟入煤炭
+academy.overlay.botania.8=使用森林法杖潛行右鍵單擊魔力發射器
+academy.overlay.botania.8.5=使用森林魔杖潛行右鍵單擊魔力池，將魔力發射器綁定到它
+academy.overlay.botania.9=通過在魔力池中丟入鐵錠來製作魔力鋼錠
+academy.overlay.botania.10=通過在精靈傳送門中丟入 2 個魔力鋼錠來製作源質鋼錠
+
+tile.manaFlame.name=魔力光線

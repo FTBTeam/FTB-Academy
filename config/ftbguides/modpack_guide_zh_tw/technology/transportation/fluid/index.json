@@ -1,0 +1,17 @@
+[
+	{
+		"id": "fluiducts",
+		"title": "流體管道",
+		"icon": "item:thermaldynamics:duct_16"
+	},
+	{
+		"id": "aa",
+		"title": "流體雷射中繼器",
+		"icon": "item:actuallyadditions:block_laser_relay_fluids"
+	},
+	{
+		"id": "tesslocators",
+		"title": "流體超轉運體",
+		"icon": "item:tesslocator:basic_fluid_tesslocator"
+	}
+]

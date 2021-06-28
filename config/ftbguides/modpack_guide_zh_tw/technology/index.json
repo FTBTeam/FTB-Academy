@@ -1,0 +1,17 @@
+[
+	{
+		"id": "transportation",
+		"title": "傳輸",
+		"icon": "item:thermaldynamics:duct_0"
+	},
+	{
+		"id": "generators",
+		"title": "發電機",
+		"icon": "item:thermalexpansion:dynamo"
+	},
+	{
+		"id": "machines",
+		"title": "機器",
+		"icon": "item:thermalexpansion:machine"
+	}
+]

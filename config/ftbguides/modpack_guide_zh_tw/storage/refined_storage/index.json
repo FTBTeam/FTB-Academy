@@ -1,0 +1,18 @@
+[
+	{
+		"id": "cables",
+		"title": "纜線和管理",
+		"icon": "item:refinedstorage:cable"
+	},
+	{
+		"id": "autocrafting",
+		"title": "自動合成",
+		"icon": "item:refinedstorage:crafter"
+	},
+	{
+		"id": "misc",
+		"title": "其他",
+		"icon": "item:refinedstorage:detector"
+	}
+
+]

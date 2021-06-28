@@ -1,0 +1,22 @@
+[
+	{
+		"id": "energy",
+		"title": "能量傳輸",
+		"icon": "item:thermaldynamics:duct_0 1 2"
+	},
+	{
+		"id": "item",
+		"title": "物品轉輸",
+		"icon": "item:thermaldynamics:duct_32"
+	},
+	{
+		"id": "fluid",
+		"title": "流體傳輸",
+		"icon": "item:thermaldynamics:duct_16 1 2"
+	},
+	{
+		"id": "other",
+		"title": "其他傳輸",
+		"icon": "item:thermaldynamics:duct_64"
+	}
+]

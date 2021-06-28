@@ -1,0 +1,27 @@
+[
+	{
+		"id": "fluxducts",
+		"title": "能量導管",
+		"icon": "item:thermaldynamics:duct_0 1 2"
+	},
+	{
+		"id": "aa_relays",
+		"title": "能量雷射中繼器",
+		"icon": "item:actuallyadditions:block_laser_relay"
+	},
+	{
+		"id": "de_crystals",
+		"title": "能量水晶",
+		"icon": "item:draconicevolution:energy_crystal 1 1"
+	},
+	{
+		"id": "tesslocators",
+		"title": "能量超轉運體",
+		"icon": "item:tesslocator:basic_energy_tesslocator"
+	},
+	{
+		"id": "storage",
+		"title": "能量儲存",
+		"icon": "item:thermalexpansion:cell"
+	}
+]
