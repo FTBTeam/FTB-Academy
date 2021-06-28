@@ -927,275 +927,275 @@ academy.disenchanter.title=elbaT tnemtnahcnE
 academy.disenchanter.desc=製作卸魔台
 academy.disenchanter.text=卸魔台允許您將附魔從工具移動到書籍上。
 
-# Technology - Intermediate
+# 科技 - 中級
 
-academy.magmacrucible.title=Meltdown
-academy.magmacrucible.desc=Make a Magma Crucible
-academy.magmacrucible.text=The Magma Crucible is a machine that melts blocks and items into fluids.
+academy.magmacrucible.title=熔毀
+academy.magmacrucible.desc=製作熔岩爐
+academy.magmacrucible.text=熔岩爐是一種將方塊和物品熔化成液體的機器。
 
 academy.fluidtransposer.title=Bucket Filler
-academy.fluidtransposer.desc=Make a Fluid Transposer
-academy.fluidtransposer.text=The Fluid Transposer combines fluids and items.
+academy.fluidtransposer.desc=製作流體轉置機
+academy.fluidtransposer.text=流體轉置機用於結合流體和物品。
 
-academy.fluxducts3.desc=Make Redstone Energy Fluxducts
-academy.fluxducts3.text=Redstone Energy Fluxducts can transfer 9,000 RF/t per connection.
+academy.fluxducts3.desc=製作紅石能量管道
+academy.fluxducts3.text=紅石能量管道每個連接可以傳輸 9,000 RF/t。
 
-academy.fluxducts4.desc=Make Signalum Fluxducts
-academy.fluxducts4.text=Signalum Fluxducts can transfer 16,000 RF/t per connection.
+academy.fluxducts4.desc=製作信素能量管道
+academy.fluxducts4.text=信素能量管道每個連接可以傳輸 16,000 RF/t。
 
-academy.fluxducts5.desc=Make Enderium Fluxducts
-academy.fluxducts5.text=Enderium Fluxducts can transfer 25,000 RF/t per connection.
+academy.fluxducts5.desc=製作諧振能量管道
+academy.fluxducts5.text=諧振能量管道每個連接可以傳輸 25,000 RF/t。
 
-academy.fluxducts6.desc=Make Cryo-Stabilized Fluxducts
-academy.fluxducts6.text=Cryo-Stabilized Fluxducts can transfer an infinite amount of RF/t per connection.
+academy.fluxducts6.desc=製作凜冰固化能量管道
+academy.fluxducts6.text=凜冰固化能量管道每個連接可以傳輸 無限 RF/t。
 
-academy.empowerer.title=A Certain Scientific Infusion Altar
-academy.empowerer.desc=Make an Empowerer
-academy.empowerer.text1=The Empowerer is used to upgrade crystals.
-academy.empowerer.text2=Place the Empowerer down and then place a Display Stand in all 4 directions with 2 blocks between it and the Empowerer, and then provide them power.
+academy.empowerer.title=某科學輸液祭壇
+academy.empowerer.desc=做一個充能台
+academy.empowerer.text1=充能台用於升級水晶。
+academy.empowerer.text2=將充能台放置在中心，然後在所有 4 個方向各放置一個物品展示台，在它和充能台之間間隔 2 個方塊，然後為它們供電。
 
-academy.powerfiller.title=Filled with Power
-academy.powerfiller.desc=Make a machine that can fill items with RF
-academy.powerfiller.text1=The Energizer simply uses the RF it is given to power the item inside it.
-academy.powerfiller.text2=The Energetic Infuser does the same, but it can be upgraded and augmented to fill items at roughly 1,000,000 RF per second.
-academy.powerfiller.text3=The Energy Infuser is much more expensive, but it can fill items at up to 1,000,000 RF/t (which is 20,000,000 RF per second).
-academy.powerfiller.task=Make any of these machines
+academy.powerfiller.title=充滿力量
+academy.powerfiller.desc=製作一台可以用 RF 來充電的機器
+academy.powerfiller.text1=充能站只是使用它提供的 RF 為其內部的物品供電。
+academy.powerfiller.text2=能量灌注機做同樣的事情，但它可以升級和增強以每秒大約 1,000,000 RF 的速度充能物品。
+academy.powerfiller.text3=能量注入器要貴得多，但它可以以高達 1,000,000 RF/t（即每秒 20,000,000 RF）的速度充能物品。
+academy.powerfiller.task=製造任何這些機器
 
-academy.inventorybatteries.title=Portable Charger
-academy.inventorybatteries.desc=Make an item that can store RF
-academy.inventorybatteries.text1=Actually Addition's Batteries are the cheapest to make. The first tier can store 200,000 RF, and the final tier can store 2,000,000 RF.
-academy.inventorybatteries.text2=Thermal Expansion's Flux Capacitors are a bit more expensive but can store more. The first tier can store 1,000,000 RF, and the final tier can store 25,000,000 RF. You can also enchant them with Holding, which will multiply their max storage by up to 3x.
-academy.inventorybatteries.text3=Draconic Evolution's Flux Capacitors are the most expensive and can hold the most. The first tier can store 64,000,000 RF, and the final tier can store 256,000,000 RF. You can upgrade the final tier to store 640,000,000 RF.
-academy.inventorybatteries.task=Make any of these items
+academy.inventorybatteries.title=便攜式充電器
+academy.inventorybatteries.desc=製作一個可以儲存 RF 的物品
+academy.inventorybatteries.text1=實用擴展的電池是最便宜的。第一層可以儲存 200,000 RF，最後一層可以儲存 2,000,000 RF。
+academy.inventorybatteries.text2=熱力膨脹的通量電容稍微貴一點，但可以儲存更多。第一層可以儲存 1,000,000 RF，最後一層可以儲存 25,000,000 RF。您還可以使用保存對它們進行附魔，這將使它們的最大儲存量最多增加 3 倍。
+academy.inventorybatteries.text3=龍族進化的RF電容器是最昂貴的，並且可以容納最多。第一層可以儲存 64,000,000 RF，最後一層可以儲存 256,000,000 RF。您還可以升級最後一層以儲存 640,000,000 RF。
+academy.inventorybatteries.task=製作任何這些物品
 
 academy.teleportstaff.title=Vwoop
-academy.teleportstaff.desc=Make a Teleport Staff
-academy.teleportstaff.text=The Teleprot Staff will teleport you to the block you are looking at when used.
+academy.teleportstaff.desc=製作傳送權杖
+academy.teleportstaff.text=傳送權杖會在使用時將您傳送到您正在查看的方塊。
 
-academy.aadrill.desc=Make a Drill
-academy.aadrill.text1=The Drill works as a pickaxe and shovel that uses RF. It can be dyed to any color.
-academy.aadrill.text2=You can sneak right click the Drill to insert up to 5 Drill Augments, such as Speed or Fortune. Augments that come in multiple tiers need the previous tier to be able to function.
-academy.aadrill.task2=Any Drill Augment
+academy.aadrill.desc=做一個鑽頭
+academy.aadrill.text1=鑽頭可以當作使用 RF 的鎬和鏟子。它可以染成任何顏色。
+academy.aadrill.text2=您可以潛行右鍵單擊鑽頭以插入最多 5 個鑽頭升級，例如速度或幸運。多層的升級需要有前一層才能發揮作用。
+academy.aadrill.task2=任何鑽頭升級
 
 academy.greenhouseglass.title=Garden of Glass
-academy.greenhouseglass.desc=Make Greenhouse Glass
-academy.greenhouseglass.text=When Greenhouse Glass is placed above a crop and is able to see the daytime sky, the crops will grow much faster.
+academy.greenhouseglass.desc=製作溫室玻璃
+academy.greenhouseglass.text=當溫室玻璃放置在作物上方並且能夠看到白天的天空時，作物會生長得更快。
 
-academy.itemrepairer.title=Virtute Reparavit
-academy.itemrepairer.desc=Make an Item Repairer
-academy.itemrepairer.text=The Item Repairer uses RF to slowly repair items.
+academy.itemrepairer.title=電力修復
+academy.itemrepairer.desc=製作物品修理機
+academy.itemrepairer.text=物品修理機使用 RF 來緩慢地修理物品。
 
-academy.spawnerchanger.title=Monster Box
-academy.spawnerchanger.desc=Make a Spawner Changer
-academy.spawnerchanger.text1=Right click a mob with the Spawner Changer to set it to that mob, killing it. Then right click the Spawner Changer on a Mob Spawner, and it will change to spawn that mob.
-academy.spawnerchanger.text2=You can use this to set the type of mob to spawn before turning it into a Draconc Evolution Stabilized Spawner so you don't have to rely on Mob Souls.
+academy.spawnerchanger.title=怪物盒
+academy.spawnerchanger.desc=製作刷怪籠控制工具
+academy.spawnerchanger.text1=使用刷怪籠控制工具右鍵單擊一個生物，將其設置為該生物，殺死它。然後使用刷怪籠控制工具在生怪磚右鍵單擊，它將更改為生成該生物。
+academy.spawnerchanger.text2=在將其變成龍族進化的穩定的生怪磚之前，您可以使用它來設置要生成的生物類型，這樣您就不必依賴生物靈魂。
 
-academy.playerinterface.desc=Make a Player Interface
-academy.playerinterface.text1=The Player Interface allows you to interact with your inventory as if it were any other block. You can pipe items in and out, and if you give it RF it will charge items in your inventory.
-academy.playerinterface.text2=It has a range of 32 blocks which can be increased by placing up to 3 Phantom Boosters on top of it, increasing the range to 256 blocks.
+academy.playerinterface.desc=製作玩家界面
+academy.playerinterface.text1=玩家界面允許您像與任何其他方塊一樣與您的物品欄互動。你可以通過管道輸入和輸出物品，如果你給它 RF，它會從你的物品欄中收取物品。
+academy.playerinterface.text2=它有 32 個方塊的範圍，可以通過在它上面放置最多 3 個幻靈增幅器來增加範圍，將範圍增加到 256 個方塊。
 
-academy.aaenergylaser2.desc=Make Advanced Energy Laser Relays
-academy.aaenergylaser2.text1=Advanced Energy Laser Relays can wirelessly transfer up to 10,000 RF/t.
-academy.aaenergylaser2.text2=If you have an Energy Laser Relay of a lower tier between two higher tiers, the lowest speed will be used.
+academy.aaenergylaser2.desc=製作進階能量雷射中繼器
+academy.aaenergylaser2.text1=進階能量雷射中繼器可以無線傳輸高達 10,000 RF/t。
+academy.aaenergylaser2.text2=如果您在兩個較高層級之間有一個較低層級的能量雷射中繼器，則將使用最低速度。
 
-academy.aaenergylaser3.desc=Make Extreme Energy Laser Relays
-academy.aaenergylaser3.text=Extreme Energy Laser Relays can wirelessly transfer up to 100,000
+academy.aaenergylaser3.desc=製作超級能量雷射中繼器
+academy.aaenergylaser3.text=超級能量雷射中繼器可以無線傳輸多達 100,000 RF/t。
 
-academy.mobslaughterfactory.title=Fast Food
-academy.mobslaughterfactory.desc=Make a Mob Slaughter Factory
-academy.mobslaughterfactory.text1=The Mob Slaughter Factory will kill any mobs in its working area. Instead of dropping items and experience, it will instead produce Liquid Meat in its internal tank. It also has a chance of producing Pink Slime.
-academy.mobslaughterfactory.text2=Its default range is 1 block. You will have to use Range Addons to increase the working area.
+academy.mobslaughterfactory.title=速食
+academy.mobslaughterfactory.desc=製作屠宰場
+academy.mobslaughterfactory.text1=屠宰場會殺死其工作區域內的所有生物。它不會掉落物品和經驗，而是會在其內部雛罐中產生肉湯。它也有機會生產粉紅史萊姆。
+academy.mobslaughterfactory.text2=它的預設工作範圍是 1 個方塊。您將不得不使用範圍升級插件來增加工作區域。
 
-academy.meatfeeder.title=Injecting Burger Directly Into Your Veins
-academy.meatfeeder.desc=Make a Meat Feeder
-academy.meatfeeder.text=When filled with Liquid Meat, the Meat Feeder will keep you fed from anywhere in your inventory automatically.
+academy.meatfeeder.title=將漢堡直接注入您的靜脈
+academy.meatfeeder.desc=製作肉湯注射器
+academy.meatfeeder.text=當裝滿肉湯時，肉湯注射器會自動讓您從物品中的任何地方餵食。
 
-academy.meatores.title=The Strangest Ore Processing Ever
-academy.meatores.desc=Make a Fluid Sieving Machine, Fermentation Station, and Washing Factory
-academy.meatores.text1=The Washing Factory combines Liquid Meat with Ores to create Raw Ore Meat.
-academy.meatores.text2=The Fermentation Station will ferment Raw Ore Meat into Fermented Raw Ore Meat.
-academy.meatores.text3=The Fluid Sieving Machine will combine Fermented Ore Meat and Sand to create dust for that ore.
-academy.meatores.text4=This process creates 3 ingots per ore.
+academy.meatores.title=這一定是有史以來最奇怪的礦石處理
+academy.meatores.desc=製作流體篩分機、發酵站和洗礦廠
+academy.meatores.text1=洗礦廠將肉湯與礦石結合起來，製造出生礦物肉湯。
+academy.meatores.text2=發酵站將生礦物肉湯發酵成發酵礦物肉湯。
+academy.meatores.text3=流體篩分機將結合發酵礦物肉湯和沙子為礦石粉。
+academy.meatores.text4=這個過程每個礦石會產生 3 個錠。
 
-academy.ifenergy1.desc=Make an Energy Upgrade I
-academy.ifenergy1.text=You can insert an Energy Upgrade I into most Industrial Foregoing machines to lower the amount of energy they use.
+academy.ifenergy1.desc=製作能量升級 I
+academy.ifenergy1.text=您可以將能量升級 I 插入大多數工業先鋒機器中，以降低它們使用的能源量。
 
-academy.ifenergy2.desc=Make an Energy Upgrade II
-academy.ifenergy2.text1=An Industrial Foregoing machine with Energy I and II will use even less energy.
-academy.ifenergy2.text2=You need to use both tiers for it to function.
+academy.ifenergy2.desc=製作能量升級 II
+academy.ifenergy2.text1=具有 能量升級 I 和 II 的工業先鋒機器將使用更少的能量。
+academy.ifenergy2.text2=您需要同時使用兩個層級才能運行。
 
-academy.ifspeed1.desc=Make a Speed Upgrade I
-academy.ifspeed1.text=You can insert a Speed Upgrade I into most Industrial Foregoing machines to lower the amount of time they need.
+academy.ifspeed1.desc=製作速度升級 I
+academy.ifspeed1.text=您可以將 速度升級 I 插入大多數工業先鋒機器以減少它們所需的時間。
 
-academy.ifspeed2.desc=Make a Speed Upgrade II
-academy.ifspeed2.text1=An Industrial Foregoing machine with Speed I and II will take even less time.
-academy.ifspeed2.text2=You need to use both tiers for it to function.
+academy.ifspeed2.desc=製作速度升級II
+academy.ifspeed2.text1=具有 速度升級 I 和 II 的工業先鋒機器將花費更少的時間。
+academy.ifspeed2.text2=您需要同時使用兩個層級才能運行。
 
-academy.mobcrusher.desc=Make a Mob Crusher
-academy.mobcrusher.text1=The Mob Crusher will kill any mobs in its working area. Their drops will automatically go into the Mob Crusher's inventory, and experience will be converted into Essence.
-academy.mobcrusher.text2=Its default range is 1 block. You will have to use Range Addons to increase the working area.
+academy.mobcrusher.desc=製作屠宰機
+academy.mobcrusher.text1=屠宰機會殺死其工作區域內的所有生物。它們的掉落物將自動進入屠宰機的庫存，並且經驗將轉化為精華液。
+academy.mobcrusher.text2=它的預設工作範圍是 1 個方塊。您將不得不使用範圍升級插件來增加工作區域。
 
-academy.mobduplicator.desc=Make a Mob Duplicator
-academy.mobduplicator.text=The Mob Duplicator will use Essence and a filled Mob Imprisonment Tool to spawn that mob.
+academy.mobduplicator.desc=製作自動刷怪機
+academy.mobduplicator.text=自動刷怪機將使用精華液和填充的生物捕捉工具工具來生成該暴徒。
 
 academy.wyvernarmor.title=Penultimate Armor
-academy.wyvernarmor.desc=Make a full set of Wyvern armor
-academy.wyvernarmor.text1=Wyvern armor is the second best armor in most modpacks, behind its upgraded version.
-academy.wyvernarmor.text2=When wearing Wyvern or Draconic armor, a new GUI element will appear. The top bar shows the Shield Points, the amount of damage that can be absorbed without hurting the player. It drops when it takes damage, and it goes back up when it has power.
-academy.wyvernarmor.text3=The small green bar is the Entropy meter, which increases as you take damage and decreases over time. At high entropy, the shield points regenerate slower.
-academy.wyvernarmor.text4=The bottom bar is the amount of RF that is stored in the armor.
+academy.wyvernarmor.desc=製作全套飛龍盔甲
+academy.wyvernarmor.text1=飛龍盔甲是大多數模組包中第二好的盔甲，僅次於其升級版本。
+academy.wyvernarmor.text2=穿著飛龍或神龍盔甲時，會出現一個新的 GUI 元素。頂部欄顯示護盾點數，即可以在不傷害玩家的情況下吸收的傷害量。當它受到傷害時它會下降，當它有能量時它會恢復。
+academy.wyvernarmor.text3=綠色的小條是熵表，它隨著你受到傷害而增加，隨著時間的推移而減少。在熵量高的情況下，護盾點恢復較慢。
+academy.wyvernarmor.text4=底部欄是儲存在裝甲中的 RF 量。
 
-academy.wyvernpickaxe.desc=Make a Pickaxe of the Wyvern
-academy.wyvernpickaxe.text1=The Pickaxe of the Wyvern has an adjustable mining speed, an upgradable area of effect, and a junk filter.
-academy.wyvernpickaxe.text2=To configure Draconic Evolution tools, hit C.
+academy.wyvernpickaxe.desc=製作飛龍鎬
+academy.wyvernpickaxe.text1=飛龍鎬具有可調節的挖掘速度、可升級的作用區域和垃圾過濾器。
+academy.wyvernpickaxe.text2=要配置龍族進化的工具，請點擊 C。
 
-academy.wyvernsword.desc=Make a Sword of the Wyvern
-academy.wyvernsword.text1=The Sword of the Wyvern has an adjustable attack radius and an upgradable attack damage.
-academy.wyvernsword.text2=To configure Draconic Evolution tools, hit C.
+academy.wyvernsword.desc=製作飛龍劍
+academy.wyvernsword.text1=飛龍劍具有可調節的攻擊半徑和可升級的攻擊傷害。
+academy.wyvernsword.text2=要配置龍族進化的工具，請點擊 C。
 
-academy.wyvernshovel.desc=Make a Shovel of the Wyvern
-academy.wyvernshovel.text1=The Shovel of the Wyvern has an adjustable mining speed, an upgradable area of effect, and a junk filter.
-academy.wyvernshovel.text2=To configure Draconic Evolution tools, hit C.
+academy.wyvernshovel.desc=製作飛龍鏟
+academy.wyvernshovel.text1=飛龍鏟具有可調節的挖掘速度、可升級的作用區域和垃圾過濾器。
+academy.wyvernshovel.text2=要配置龍族進化的工具，請點擊 C。
 
-academy.wyvernaxe.desc=Make an Axe of the Wyvern
-academy.wyvernaxe.text1=The Axe of the Wyvern has an adjustable mining speed and an upgradable area of effect.
-academy.wyvernaxe.text2=To configure Draconic Evolution tools, hit C.
+academy.wyvernaxe.desc=製作飛龍斧
+academy.wyvernaxe.text1=飛龍鏟具有可調節的挖掘速度和可升級的作用區域。
+academy.wyvernaxe.text2=要配置龍族進化的工具，請點擊 C。
 
-academy.wyvernbow.desc=Make a Bow of the Wyvern
-academy.wyvernbow.text1=The Bow of the Wyvern has an adjustable magnification and arrow damage/velocity, as well as togglable auto-fire and explosive arrows.
-academy.wyvernbow.text2=To configure Draconic Evolution tools, hit C.
+academy.wyvernbow.desc=製作飛龍弓
+academy.wyvernbow.text1=飛龍弓具有可調節的放大倍數和箭矢傷害/速度，以及可切換的自動射擊和爆炸箭矢。
+academy.wyvernbow.text2=要配置龍族進化的工具，請點擊 C。
 
-academy.energycore.desc=Make an Energy Storage Core
-academy.energycore.text1=The Energy Storage Core can store an extremely massive amount of RF. See the Draconic Evolution Information Tablet to see how to build it.
-academy.energycore.text2=The first tier requires only the blocks required for this quest, and can store 45,500,000 RF.
-academy.energycore.text3=To compare, the final tier can store 9,223,372,036,854,775,807 RF.
+academy.energycore.desc=製作能量核心
+academy.energycore.text1=能量核心可以儲存極其大量的 RF。查看龍族進化資訊石板以了解如何構建它。
+academy.energycore.text2=第一層級只需要這個任務所需的方塊，可以儲存 45,500,000 RF。
+academy.energycore.text3=相比之下，最後一層可以儲存 9,223,372,036,854,775,807 RF。
 
 academy.wyverncrystals.title=Wyvernly
-academy.wyverncrystals.desc=Make Wyvern Energy Crystals
-academy.wyverncrystals.text1=Wyvern Energy Crystals can hold 4 times more RF than Basic Energy Crystals.
-academy.wyverncrystals.text2=All Energy Crystals of all tiers transfer effectively infinite RF/t.
-academy.wyverncrystals.task=Any Wyvern Energy Crystals
+academy.wyverncrystals.desc=製作飛龍能量水晶
+academy.wyverncrystals.text1=飛龍能量水晶比起基本能量水晶可以容納 4 倍的 RF。
+academy.wyverncrystals.text2=所有層級的所有能量水晶都可以有效地傳輸無限 RF/t。
+academy.wyverncrystals.task=任何飛龍能量水晶
 
 academy.fusioncrafting.title=Another Certain Scientific Fusion Altar
-academy.fusioncrafting.desc=Set up Fusion Crafting
-academy.fusioncrafting.text1=Place the Fusion Crafting Core, and then place Fusion Crafting Injectors around it facing the Core. The setup is powered through the Fusion Crafting Injectors.
-academy.fusioncrafting.text2=For Fusion Crafting recipes, the item in the center needs to be in the Fusion Crafting Core, and the items on the sides need to be in Fusion Crafting Injectors.
-academy.fusioncrafting.text3=Recipes require certain tier Fusion Crafting Injectors. If it needs a specific tier, it also works with higher tiers.
-academy.fusioncrafting.text4=To begin the craft, click "Craft" in the Fusion Crafting Core.
+academy.fusioncrafting.desc=設置融合合成
+academy.fusioncrafting.text1=放置聚合裝置核心，然後將聚合裝置注入器面向核心放在它周圍。該設置由聚合裝置注入器提供動力。
+academy.fusioncrafting.text2=對於融合合成配方，中間的物品需要在聚合裝置核心中，兩側的物品需要在聚合裝置注入器中。
+academy.fusioncrafting.text3=某些配方需要某些層級的聚合裝置注入器才可以製作。如果它需要一個特定的層，它也適用於更高的層。
+academy.fusioncrafting.text4=要開始合成，請單擊聚合裝置核心中的“開始”。
 
-academy.wyverninjectors.desc=Make Wyvern Fusion Crafting Injectors
-academy.wyverninjectors.text1=Wyvern Fusion Crafting Injectors allow you to craft more items.
-academy.wyverninjectors.text2=For recipes that require a certain tier, every Fusion Crafting Injector must be that tier or higher.
+academy.wyverninjectors.desc=製作飛龍聚合裝置注入器
+academy.wyverninjectors.text1=飛龍聚合裝置注入器可讓您製作更多物品。
+academy.wyverninjectors.text2=對於需要特定層級的配方，每個使用到的聚合裝置注入器都必須是該層級或更高層級。
 
-academy.enderenergymanipulator.title=Pacifist
-academy.enderenergymanipulator.desc=Make an Ender Energy Manipulator
-academy.enderenergymanipulator.text=Right click the Ender Energy Manipulator on the Bedrock portal in the End while the Dragon is alive, and it will begin to kill as many Endermen as it can. Once it's reached a certain amount, it will stop and spawn a Dragon Egg.
+academy.enderenergymanipulator.title=和平主義者
+academy.enderenergymanipulator.desc=製作終界能量操縱器
+academy.enderenergymanipulator.text=當終界龍活著時，終界基岩傳送門上使用終界能量操縱器右鍵單擊，它會開始盡可能殺死末影人。一旦達到一定數量，它就會停止並生成一個龍蛋。
 
-academy.awakeneddraconium.title=Awaken, My Masters
-academy.awakeneddraconium.desc=Make Awakened Draconium
-academy.awakeneddraconium.text=Awakened Draconium tools and armor are the highest tier in most modpacks.
+academy.awakeneddraconium.title=覺醒吧，我的主人
+academy.awakeneddraconium.desc=製作覺醒的龍質塊
+academy.awakeneddraconium.text=用覺醒的龍質製成的工具和盔甲是大多數模組包中最高等級。
 
-academy.upgradekeys.title=Upgrading
-academy.upgradekeys.desc=Make an Upgrade Key
-academy.upgradekeys.text1=Upgrade Keys are used with Fusion Crafting to upgrade tools and armor. Hit U to see the key's uses, and use that recipe with the tool you want to upgrade in the center.
-academy.upgradekeys.text2=Upgrade Keys have multiple recipes as they have multiple levels. Naturally, you have to upgrade with the Basic recipe, and then Wyvern, Draconic, and Chaotic.
-academy.upgradekeys.text3=Upgrade Keys are not destroyed when used, so you will only ever need to make each once.
-academy.upgradekeys.task=Any Upgrade Key
+academy.upgradekeys.title=升級
+academy.upgradekeys.desc=製作升級卡
+academy.upgradekeys.text1=將升級卡與融合合成一起使用來升級工具和盔甲。點擊 U 以查看升級卡的使用方式，並將該配方與要在中心升級的工具一起使用。
+academy.upgradekeys.text2=升級卡有多個配方，因為它們有多個級別。自然地，您必須使用基本的配方升級，然後升級到飛龍、神龍和混沌。
+academy.upgradekeys.text3=升級卡在使用時不會被銷毀，因此您只需要製作一次。
+academy.upgradekeys.task=任何升級卡
 
-academy.hardenedupgrade.desc=Make a Hardened Upgrade Kit
-academy.hardenedupgrade.text1=Upgrade Kits are used to increase the tier of a Thermal Expansion machine or dynamo. Simply right click the block with the Upgrade Kit to set it to that tier, as long as the machine is already the previous tier.
-academy.hardenedupgrade.text2=The order of tiers is:
-academy.hardenedupgrade.text3=•Basic
-academy.hardenedupgrade.text4=•Hardened
-academy.hardenedupgrade.text5=•Reinforced
-academy.hardenedupgrade.text6=•Signalum
-academy.hardenedupgrade.text7=•Resonant
+academy.hardenedupgrade.desc=製作硬化升級套件
+academy.hardenedupgrade.text1=升級套件用於增加熱力膨脹的機器或能源爐的等級。只要機器已經有上一層級的升級，只需用升級套件對機器右鍵單擊即可將其設置為該層。
+academy.hardenedupgrade.text2=層級順序為：
+academy.hardenedupgrade.text3=•基礎
+academy.hardenedupgrade.text4=•硬化
+academy.hardenedupgrade.text5=•強化
+academy.hardenedupgrade.text6=•信素
+academy.hardenedupgrade.text7=•諧振
 
-academy.reinforcedupgrade.desc=Make a Reinforced Upgrade Kit
-academy.reinforcedupgrade.text1=Reinforced machines are the second tier, and have room for 2 Augments.
-academy.reinforcedupgrade.text2=You can craft Upgrade Kits together to create a Conversion Kit, which will apply all the upgrades at once.
+academy.reinforcedupgrade.desc=製作強化升級套件
+academy.reinforcedupgrade.text1=強化的機器是第二層級，並有 2 個擴充槽。
+academy.reinforcedupgrade.text2=您可以一起製作升級套件以製造一個轉換套件，它將一次應用所有升級。
 
-academy.regularaugments.desc=Make a regular Augment
-academy.regularaugments.text1=Augments can be installed on machines and dynamos to upgrade them in some way. The amount of slots they have depends on the tier of the machine.
-academy.regularaugments.text2=You can have multiple of an Augment to stack its effectiveness.
-academy.regularaugments.task=Regular Augments
+academy.regularaugments.desc=進行一般升級
+academy.regularaugments.text1=機器升級 可以安裝在機器和能源爐上，以某種方式升級它們。機器擁有的插槽數量取決於機器的層級。
+academy.regularaugments.text2=您可以使用多個增強來疊加其有效性。
+academy.regularaugments.task=一般升級
 
-academy.specializationaugments.desc=Make a Specialization Augment.
-academy.specializationaugments.text1=Specialization Augments fundamentally change the function of a machine or dynamo.
-academy.specializationaugments.text2=You can only have one Specialization Augment per machine.
-academy.specializationaugments.task=Specialization Augments
+academy.specializationaugments.desc=進行專業化升級。
+academy.specializationaugments.text1=專業化升級從根本上改變了機器或能源爐的功能。
+academy.specializationaugments.text2=每台機器只能有一個專業化升級。
+academy.specializationaugments.task=專業化升級
 
 
-# Technology - Advanced
+# 科技 - 進階
 
-academy.iflaserdrill.title=Pierce the Heavens
-academy.iflaserdrill.desc=Set up a Laser Drill
-academy.iflaserdrill.text1=The Laser Drill allows you to essentially turn RF into ores.
-academy.iflaserdrill.text2=Place down a Laser Base anywhere, and then place 4 Laser Drills around it so that the laser connects them. Power is provided through the Laser Drills.
-academy.iflaserdrill.text3=In the Laser Base's GUI, click the - and + buttons on the right to change the y level to get ores from. You can check JEI for the recipes of ores to see what the optimal levels to set for them.
-academy.iflaserdrill.text4=You can place Laser Lenses into the 6 slots on the left to increase the chances of certain ores generating. Again, you can check JEI to see what laser helps what ore.
+academy.iflaserdrill.title=刺破蒼穹
+academy.iflaserdrill.desc=設置鐳射鑽
+academy.iflaserdrill.text1=鐳射鑽可以讓您從根本上將 RF 轉化為礦石。
+academy.iflaserdrill.text2=在任何地方放置一個鐳射鑽基座，然後在它周圍放置 4 個鐳射鑽，以便連接它們。電源是通過鐳射鑽提供的。
+academy.iflaserdrill.text3=在鐳射鑽基座的 GUI 中，單擊右側的 -和 + 按鈕以更改 y 級別以從中獲取礦石。您可以查看 JEI 的礦石配方，以了解為它們設置的最佳水平。
+academy.iflaserdrill.text4=您可以將鐳射聚焦透鏡放置在左側的 6 個插槽中，以增加某些礦石生成的機會。同樣，您可以查看 JEI 以了解哪些鐳射對哪些礦石有幫助。
 
-academy.signalumupgrade.desc=Make a Signalum Upgrade Kit
-academy.signalumupgrade.text=Signalum is the third tier for machines and dynamos.
+academy.signalumupgrade.desc=製作信素升級套件
+academy.signalumupgrade.text=信素是機器和能源爐的第三層。
 
-academy.resonantupgrade.desc=Make a Resonant Upgrade Kit
-academy.resonantupgrade.text=Resonant machines are the highest tier available in survival mode.
+academy.resonantupgrade.desc=製作諧振升級套件
+academy.resonantupgrade.text=諧振機器是生存模式中可用的最高等級。
 
-academy.alchemyimbuer.title=Apothecary
-academy.alchemyimbuer.desc=Make an Alchemical Imbuer
-academy.alchemyimbuer.text1=The Alchemical Imbuer works with fluids to create potions, which have to be bottled separately.
-academy.alchemyimbuer.text2=It is recommended to have multiple Alchemical Imbuers working in concert so you don't have to repeatedly pipe the fluid potions out of then back into the same machine.
-academy.alchemyimbuer.text3=The first Alchemical Imbuer make Awkward Potions, which would be sent to another Imbuer to upgrade it, and so on. At the end you would want to move the fluid to a Fluid Transposer to fill Glass Bottles. Alternatively you could pipe it to a Decoctive Diffuser which will spread that potion effect over an area.
+academy.alchemyimbuer.title=藥劑師
+academy.alchemyimbuer.desc=製作藥水釀造機
+academy.alchemyimbuer.text1=藥水釀造機與流體一起工作來製造藥水，這些藥水必須單獨裝瓶。
+academy.alchemyimbuer.text2=建議讓多個藥水釀造機協同工作，這樣您就不必重複地將流體藥水從同一台機器中排出然後再返回到同一台機器中。
+academy.alchemyimbuer.text3=第一個藥水釀造機製作粗製藥水，它會被送到另一個藥水釀造機來升級，依此類推。最後，您可能希望將流體移動到流體轉置機以填充玻璃瓶。或者，您可以將其通過管道連接到一個藥水霧化器，該霧化器會將藥水效果散佈到一個區域中。
 
-academy.alchemicalretort.title=I Require Your Strongest Potions
-academy.alchemicalretort.desc=Make the Alchemical Retort Augment
-academy.alchemicalretort.text=You can upgrade a Fractionating Still with an Alchemical Retort to allow it to process potion fluids, increasing the effect by 1 but also decreasing the amount by a quarter.
+academy.alchemicalretort.title=我需要你最強的魔藥
+academy.alchemicalretort.desc=製作煉金術反應釜增強
+academy.alchemicalretort.text=您可以使用煉金術反應釜增強到流體精煉機以使其能夠處理藥水，將效果增加 1，但也會將數量減少四分之一。
 
-academy.draconicfluxcap.desc=Make a Draconic Flux Capacitor
-academy.draconicfluxcap.text=The Draconic Flux Capacitor can hold the most RF of any item by far. Unupgraded, it can hold 256,000,000 RF. At Chaotic level Flux Capacity, it can store 768,000,000 RF.
+academy.draconicfluxcap.desc=製作神龍RF電容器
+academy.draconicfluxcap.text=迄今為止，神龍RF電容器可以容納任何物品中最多的 RF。還沒升級前，它可以容納 256,000,000 RF。在混沌級升級後的容量，可以儲存 768,000,000 RF。
 
-academy.draconicinjectors.desc=Make Draconic Fusion Crafting Injectors
-academy.draconicinjectors.text=Draconic Fusion Crafting Injectors can craft even more items.
+academy.draconicinjectors.desc=製作神龍聚合裝置注入器
+academy.draconicinjectors.text=神龍聚合裝置注入器可以製作更多物品。
 
 academy.draconiccrystals.title=Draconically
-academy.draconiccrystals.desc=Make Draconic Energy Crystals
-academy.draconiccrystals.text=Draconic Energy Crystals can hold 4 times more RF than Wyvern Energy Crystals.
-academy.draconiccrystals.task=Any Draconic Energy Crystals
+academy.draconiccrystals.desc=製作神龍能量水晶
+academy.draconiccrystals.text=神龍能量水晶可以容納比飛龍能量水晶多 4 倍的 RF。
+academy.draconiccrystals.task=任何神龍能量水晶
 
 academy.draconichelm.title=The Coolest Clown Wig
-academy.draconichelm.desc=Make a Draconic Helm
-academy.draconichelm.text=The Draconic Helm has Night Vision, cures negative potion effects, prevents drowning, and allows you to mine quickly while underwater.
+academy.draconichelm.desc=製作神龍頭盔
+academy.draconichelm.text=神龍頭盔具有夜視功能，可以治愈負面藥水效果，防止溺水，並允許您在水下快速挖掘。
 
-academy.draconicchestplate.title=Heart of a Dragon
-academy.draconicchestplate.desc=Make a Draconic Chestplate
-academy.draconicchestplate.text=The Draconic Chestplate allows flight, quick mining in the air, and fire immunity.
+academy.draconicchestplate.title=龍之心
+academy.draconicchestplate.desc=製作神龍胸甲
+academy.draconicchestplate.text=神龍胸甲允許你飛行、在空中快速採礦和免疫火焰傷害。
 
 academy.draconicleggings.title=Scale Tights
-academy.draconicleggings.desc=Make Draconic Leggings
-academy.draconicleggings.text=Draconic Leggings give a configurable speed boost.
+academy.draconicleggings.desc=製作神龍護腿
+academy.draconicleggings.text=神龍護腿提供可配置的速度提升。
 
-academy.draconicboots.title=Made for Walking
-academy.draconicboots.desc=Make Draconic Boots
-academy.draconicboots.text=Draconic Boots provide fall protection, a jump boost, and allow you to walk up single blocks without jumping.
+academy.draconicboots.title=為走而生
+academy.draconicboots.desc=製作神龍靴子
+academy.draconicboots.text=神龍靴子提供墜落保護、跳躍提升，並讓您無需跳躍即可走上一個方塊。
 
-academy.draconicpickaxe.desc=Make a Draconic Pickaxe
-academy.draconicpickaxe.text=The Draconic Pickaxe is essentially the Pickaxe of the Wyvern, but better in every way.
+academy.draconicpickaxe.desc=製作神龍鎬
+academy.draconicpickaxe.text=神龍鎬本質上是飛龍鎬的升級，但在各方面都更好。
 
-academy.draconicsword.desc=Make a Draconic Sword
-academy.draconicsword.text=The Draconic Sword is essentially the Sword of the Wyvern, but better in every way.
+academy.draconicsword.desc=製作神龍劍
+academy.draconicsword.text=神龍劍本質上是飛龍劍的升級，但在各方面都更好。
 
-academy.draconicshovel.desc=Make a Draconic Shovel
-academy.draconicshovel.text=The Draconic Shovel is essentially the Shovel of the Wyvern, but better in every way.
+academy.draconicshovel.desc=製作神龍鏟
+academy.draconicshovel.text=神龍鏟本質上是飛龍鏟的升級，但在各方面都更好。
 
-academy.draconicaxe.desc=Make a Draconic Axe
-academy.draconicaxe.text=The Draconic Axe is essentially the Axe of the Wyvern, but better in every way.
+academy.draconicaxe.desc=製作神龍斧
+academy.draconicaxe.text=神龍斧本質上是飛龍斧的升級，但在各方面都更好。
 
-academy.draconicbow.desc=Make a Draconic Bow
-academy.draconicbow.text1=The Draconic Bow is essentially the Bow of the Wyvern, but better in every way.
-academy.draconicbow.text2=It also has a couple extra options. Arrows of Draconic Fire will allow it to shoot pure energy, increasing damage by 10%%. Shock Wave Power creates a shockwave that damages mobs in an area without damaging blocks.
+academy.draconicbow.desc=製作神龍弓
+academy.draconicbow.text1=神龍弓本質上是飛龍弓的升級，但在各方面都更好。
+academy.draconicbow.text2=它還有一些額外的選項。龍吐之箭將允許它發射純粹的能量，增加 10% 的傷害。衝擊波功能會產生衝擊波，在不損壞方塊的情況下對區域內的生物造成傷害。
 
-academy.draconicstaff.desc=Make a Draconic Staff of Power
-academy.draconicstaff.text=The Draconic Staff of Power is the most powerful tool in the modpack. It combines the Draconic Pickaxe, Shovel, and Sword in one.
+academy.draconicstaff.desc=製作神龍權杖
+academy.draconicstaff.text=神龍權杖是此模組包中最強大的工具。它將神龍鎬、鏟和劍合而為一。
 
 
 # 科技 - 大師
